@@ -1,4 +1,4 @@
-#!/usr/bin/bash -f
+#!/usr/bin/gawk -f
 
 BEGIN {
   FS = "\t"

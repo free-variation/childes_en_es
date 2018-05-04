@@ -1,4 +1,4 @@
-#!/opt/local/bin/gawk -f 
+#!/usr/bin/gawk -f 
 
 @include "scripts/util.awk"
 
