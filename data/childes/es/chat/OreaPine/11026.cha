@@ -1,0 +1,1054 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|1;10.26|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	01-JUL-2001
+@Location:	Madrid
+@Situation:	Por la tarde , en el jardín , FAT y Juan se bañan en una "piscina" pequeña de lona , MOT está dentro de casa y sólo habla un momento desde la ventana
+*CHI:	Juan .
+*FAT:	&=q dónde está Juan ?
+*CHI:	ahí .
+*FAT:	&=q dónde está ?
+*CHI:	ahí [x 2] .
+*FAT:	&=q qué vamos a hacer ahora ?
+*CHI:	a [*] bañar 0 [*] .
+%err:	a = 0 $SYN $ADD $INFA ; 0 = $MOR $LOS $SUFFIX
+*FAT:	&=q nos vamos a bañar ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q quién ?
+*FAT:	&=q quién se va a bañar ?
+*FAT:	Papá .
+*FAT:	&=q y quién más ?
+%act:	mueve una barca grande hinchable , de juguete , que hay sobre el agua de la piscinita
+*CHI:	Juan .
+*CHI:	(l)a barca .
+*FAT:	&=q la barca ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	0 [*] hunde la barca .
+%err:	0 = se $MOR $LOS $PREFIX
+*FAT:	&=q dónde va la barca ?
+*CHI:	ahí .
+*FAT:	&=q Juan también se baña entonces ?
+*CHI:	sí .
+*FAT:	uh@i .
+%par:	como si le diera impresión el agua
+%act:	se está metiendo en la piscinita
+*FAT:	oye .
+*FAT:	&=q y qué tienes en la mano ?
+*CHI:	toma .
+%act:	le da un juguete a FAT con forma de camión como los que transportan arena
+*FAT:	&=q qué es ?
+*CHI:	a [*] codé [: correr] .
+%err:	a = para $SYN $SUB $INFA
+*FAT:	&=q corre por aquí debajo ?
+%act:	lo coloca sobre el agua
+*CHI:	correr [*] .
+%err:	correr = corre $MOR $SUB $ROOT
+*FAT:	&=q qué es ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué es , Juan ?
+*CHI:	un camión .
+*FAT:	&=q un camión ?
+*CHI:	sí .
+*CHI:	un t(r)actor .
+*FAT:	&=q un tractor ?
+*CHI:	sís [*] .
+%err:	sís = sí $PHO $ADD
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	0 .
+%act:	coge la barca y se la coloca cerca
+*FAT:	(l)a barca .
+*FAT:	la barca .
+*FAT:	&=q de quién es la barca ?
+*CHI:	0 [*] Papá .
+%err:	0 = de $SYN $LOS
+*FAT:	es de Papá .
+*FAT:	mira .
+*FAT:	ya verás .
+%act:	coge a Juan en brazos para intentar sentarse sobre la barquita
+*FAT:	mira .
+*FAT:	a:quí .
+*CHI:	uy@i .
+%par:	asustado
+*FAT:	uy@i .
+%par:	riéndose
+*CHI:	ay@i .
+%par:	lloriquea
+*FAT:	ven [x 2] .
+*FAT:	aquí .
+*FAT:	ven .
+*FAT:	mira [x 3] .
+*CHI:	no .
+*FAT:	&=q no ?
+*FAT:	mira .
+*FAT:	cógete de aquí .
+*CHI:	&=e no !
+*FAT:	&=q no ?
+*FAT:	&=q se coge Papá ?
+*CHI:	no .
+*FAT:	&=q no ?
+%act:	aparta la barca
+*CHI:	no .
+*FAT:	&=q no [x 2] ?
+*FAT:	&=q qué es ?
+*CHI:	agua (l)a barca .
+*FAT:	una barca .
+*FAT:	sí .
+*FAT:	&=q y qué hace la barca ?
+*CHI:	pr:@o .
+*FAT:	mm@i .
+%par:	afirma
+*CHI:	pr:@o .
+*FAT:	&=q qué has hecho esta mañana ?
+*CHI:	un avión .
+*FAT:	&=q has hecho un avión esta mañana ?
+*CHI:	sí .
+*FAT:	ah@i .
+*FAT:	&=q qué hay ahí ?
+*CHI:	(mari)posa .
+*FAT:	una mariposa .
+*FAT:	&=q y qué hace la mariposa ?
+*CHI:	chi@o [x 3] .
+*FAT:	&=q cómo hace la mariposa ?
+*CHI:	chi@o [x 3] .
+*MOT:	hola , chicos .
+%act:	desde la casa
+*FAT:	hola .
+*MOT:	hola , Juan .
+*CHI:	hola .
+*FAT:	&=q qué haces ?
+*CHI:	0 [*] e(s)tá [*] bañando 0 [*] pi(s)cina . [+ CLIMB]
+%err:	0 = me $MOR $LOS $CLMB ; está = estoy $SYN $SUB $AUX ; 0 = en la $SYN $LOS
+*FAT:	&=q bañando en la piscina , cariño ?
+*CHI:	sí .
+*FAT:	le estoy preguntando que qué ha hecho .
+%add:	MOT
+*CHI:	sentar [*] .
+%err:	sentar = siento $MOR $SUB $ROOT
+*FAT:	siéntate .
+*FAT:	ven .
+*FAT:	siéntate aquí con Papá .
+*FAT:	a:sí .
+%act:	le coge en brazos y le siente sobre sus piernas
+*FAT:	&=q por dónde va el camión ?
+%act:	sumerge el camión
+*CHI:	ahí .
+*CHI:	&=e no !
+*FAT:	espera [x 3] .
+*FAT:	es+que si no .
+*FAT:	así [x 2] .
+*FAT:	oye .
+*FAT:	&=q y qué hicimos ayer ?
+*FAT:	&=q te acuerdas de lo que hicimos ayer ?
+*FAT:	&=q te acuerdas de lo que hicimos ayer ?
+*FAT:	estuvimos viendo a los pintores .
+*FAT:	&=q te acuerdas ?
+*CHI:	sí .
+*FAT:	&=q qué hacían los pintores ?
+*CHI:	chi@o [x 3] .
+*FAT:	0 .
+%par:	se ríen
+*FAT:	&=q te acuerdas de los cuadros que vimos ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	había cuadros grandes .
+*FAT:	cuadros pequeños .
+*FAT:	&=q te acuerdas ?
+*CHI:	sí .
+*FAT:	&=q sí te acuerdas ?
+*FAT:	&=q seguro ?
+*CHI:	sí .
+*CHI:	g(r)andes . [+ IMI]
+*FAT:	grandes , sí .
+*FAT:	&=q y qué hicimos anoche ?
+*FAT:	&=q te acuerdas de lo que hicimos anoche ?
+*FAT:	&=q no ?
+*CHI:	no chale [: sale] .
+%act:	está intentando sacar el agua que se ha metido dentro del camioncito
+*FAT:	&=q no sale ?
+*FAT:	&=q qué es lo que no sale ?
+*FAT:	&=q qué es lo que no sale , Juan ?
+*CHI:	no sale .
+*FAT:	&=q qué es lo que no sale ?
+*CHI:	no sale .
+*FAT:	&=q el qué ?
+*CHI:	abrir [*] .
+%err:	abrir = abre $MOR $SUB $ROOT
+*CHI:	abrir .
+*FAT:	&=q abrir ?
+*FAT:	a+ver .
+*FAT:	lo vamos a abrir .
+*FAT:	&=q qué quieres ?
+*FAT:	&=q abri@x [//] sacar esto ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	mira .
+*FAT:	&=q ves ?
+%act:	abre el camioncito
+*CHI:	uno [*] t(r)actor .
+%err:	uno = un $MOR $ADD $AGA
+*FAT:	&=q cómo has dicho ?
+*CHI:	sale [x 3] .
+*FAT:	así .
+%act:	coge agua y se la echa por la cabeza
+*CHI:	no .
+*FAT:	oye .
+*FAT:	&=q haces burbujas ?
+*CHI:	no .
+*FAT:	&=q no ?
+*FAT:	&=q no vas a hacer burbujas ?
+*FAT:	&=q eh@i ?
+*CHI:	Papá .
+*FAT:	&=q las hace Papá ?
+*CHI:	sí .
+*FAT:	0 .
+%act:	se agacha y hace sonar el agua con los labios
+*FAT:	&=q las hace Juan ahora ?
+*CHI:	no .
+*FAT:	&=q ah@i no ?
+*FAT:	&=q las hace Papá otra vez ?
+*CHI:	sí .
+*FAT:	&=q fuertes o flojitas ?
+*CHI:	mm@i .
+%par:	afirmando
+*FAT:	0 .
+%act:	coe aire con fuerza y hace sonar otra vez el agua con las labios
+*CHI:	no .
+*FAT:	&=q no ?
+*CHI:	sale .
+*FAT:	&=q no sale ?
+*CHI:	sí .
+*FAT:	sí .
+*CHI:	sale .
+*FAT:	te obsesionas con una cosa .
+*CHI:	sale .
+*CHI:	sale [x 2] .
+*FAT:	&=q qué pasa ?
+*FAT:	a+ver .
+*CHI:	sale .
+*FAT:	mira .
+*FAT:	om@i .
+%act:	echando agua con un juguete sobre otro
+*FAT:	mira el camión .
+*FAT:	pru@o .
+*FAT:	oye .
+*FAT:	&=q de qué color es el camión ?
+*CHI:	(r)osa .
+*FAT:	&=q rosa ?
+*FAT:	sí .
+*FAT:	&=q < cunatos ca@x > [//] cuántos tractores tienes , Juan ?
+*CHI:	uno t(r)es .
+*FAT:	tienes uno dos y +...
+*CHI:	++ t(r)es .
+*FAT:	tres: .
+*FAT:	tres tractores .
+*FAT:	&=q uno cómo es ?
+%act:	separa las palmas de las manos aproximadamente un metro
+*CHI:	azul .
+*FAT:	azul .
+*FAT:	es este .
+*FAT:	&=q verdad ?
+*FAT:	&=q y luego tienes otro tractor ?
+*FAT:	&=q cómo es ?
+*CHI:	azul .
+*FAT:	no .
+*FAT:	el otro es amarillo .
+*FAT:	mira .
+%par:	susurra
+*FAT:	vamos a poner aquí el camión .
+%act:	coloca el camión sobre la barca
+*FAT:	&=q y el otro es +..?
+*FAT:	mira .
+*FAT:	ahí .
+%act:	coloca otro camión sobre la barca
+*FAT:	fíjate qué bien .
+*CHI:	esto es mí [*] .
+%err:	mí = mío $MOR $LOS $AGA
+%par:	un poco enfadado
+*FAT:	adiós .
+*FAT:	camión .
+*FAT:	uh@o .
+%act:	empuja la barca
+*CHI:	esto es mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+*FAT:	sí .
+*FAT:	&=q es tuyo ?
+*CHI:	sí .
+*FAT:	cógelo .
+*FAT:	venga .
+*FAT:	ve a por él .
+*CHI:	toma .
+%act:	le da un camión y se pone de pie
+*FAT:	gracias .
+*FAT:	&=q me slo sdas para mí ?
+*CHI:	siéntate [*] .
+%err:	siéntate = me siento $MOR $SUB $NFL IMP/1s
+*CHI:	quita [*] .
+%err:	quita = quíta-me-lo $MOR $LOS SUFFIX
+%act:	se intenta quitar el bañador
+*FAT:	&=q te slo squieres quitar ?
+*FAT:	no .
+*FAT:	no te slo squites .
+*CHI:	sí .
+%act:	lloriquea
+*FAT:	< cuando acabemos de grabar > [/] cuando acabemos de grabar .
+*FAT:	oye .
+*FAT:	&=q y cómo hacen los señores cuando van por debajo del agua ?
+*FAT:	&=q qué hacen ?
+*CHI:	ss@o .
+*FAT:	&=q qué hacen ?
+*CHI:	nadar .
+%err:	$VALIDROOT
+*FAT:	&=q nadar ? [+ ADS]
+*FAT:	no .
+*FAT:	eso es cuando van por encima .
+*FAT:	cuando van por debajo qué hacen los señores .
+*FAT:	&=q eh@i ?
+*CHI:	o [: los] [*] peces .
+%err:	o = los $MOR $LOS $AGA
+*FAT:	como los peces .
+*FAT:	sí .
+*FAT:	&=q pero qué hacen los peces ?
+*CHI:	ah@o .
+%par:	mueve los labios
+*FAT:	0 .
+%par:	se ríen
+*MOT:	ahora te traigo un señor para que veas .
+*FAT:	0 .
+%act:	coge un tractor de juguete
+*CHI:	no .
+*CHI:	Papá .
+*CHI:	dámalo [: dámelo] [*] .
+%err:	$MOR $SUB $PHO $SUFFIX
+*FAT:	mira [x 2] .
+*FAT:	bo@o [x 6] .
+*FAT:	adiós .
+*CHI:	xxx .
+%act:	ha empujado la barquita
+*FAT:	adiós , barca .
+*FAT:	le decimos adiós .
+*FAT:	adiós .
+*FAT:	ay@i .
+*FAT:	que vuelve .
+*FAT:	dile adiós a la barca .
+*CHI:	a(d)ió(s) . [+ IMI]
+*FAT:	pero está aquí otra vez .
+*CHI:	a(d)io(s) , barca .
+*CHI:	ah:i .
+*CHI:	a(d)io(s) , barca: .
+*CHI:	a(d)io(s) , barca: .
+*FAT:	0 .
+%act:	le echa agua a Juan sobre el cuerpo con la mano
+*CHI:	no , Papá .
+*FAT:	&=q qué pasa ?
+%par:	se ríe
+%act:	sigue echándole agua
+*CHI:	no , Papá .
+*FAT:	&=q qué pasa ?
+*CHI:	0 .
+%par:	lloriquea
+*FAT:	&=q < qué quieres qué quieres > [/] qué quieres ?
+*FAT:	&=q < qué pasa > [/] qué pasa ?
+*CHI:	sale .
+*FAT:	0 .
+%par:	se ríe
+*FAT:	&=q voy a por los señores ?
+*CHI:	mm@i .
+%par:	afirma
+*FAT:	&=q sí ?
+*CHI:	yupuré@x [//] yupure [: y a por un] tractor .
+*FAT:	&=q y a por otro tractor voy ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	bueno .
+*FAT:	pues venga .
+*FAT:	déjame que voy a por él .
+*FAT:	déjame .
+*CHI:	0 .
+%act:	se levanta
+*FAT:	ahora vengo .
+%act:	ha salido de la piscinita
+*FAT:	&=q cuántos señores quieres ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q cuántos señores quieres ?
+*CHI:	(se)ñora .
+*FAT:	&=q quieres la señora ?
+*CHI:	sí .
+*FAT:	&=q quieres la barca ?
+*CHI:	no .
+*MOT:	&=q la barca no ?
+*CHI:	< (se)ñora sí > [/] (se)ñora sí .
+%act:	se queda de pie en la piscinita esperando a que llegue FAT
+*CHI:	toma [x 2] .
+%act:	le ofrece un camión de juguete a FAT , que está entrando en la piscinita
+*FAT:	mira .
+*FAT:	&=q qué hay aquí ?
+%act:	le da un tractor de juguete
+*CHI:	un t(r)actor .
+*FAT:	&=q cuántos tractores tienes ?
+*CHI:	toma .
+*FAT:	déjalos aquí .
+*FAT:	mira .
+*FAT:	ahí apoyados .
+%act:	va dejando los juguetes sobre la barca
+*FAT:	mira .
+*FAT:	ahí .
+*FAT:	déjalos ahí los tractores .
+*CHI:	&=e no !
+*FAT:	&=q por qué no ?
+*CHI:	toma .
+%act:	le da un tractor a FAT
+*CHI:	a codé [: correr] .
+*CHI:	&=e a codé [: correr] !
+*FAT:	&=q corre por aquí abajo ?
+*CHI:	sí .
+*CHI:	(se)ñores .
+*CHI:	toma .
+*CHI:	toma .
+%act:	juega con el barquito
+*FAT:	&=q qué quieres ?
+*CHI:	toma .
+*FAT:	&=q qué quieres ?
+%act:	le da el barquito a FAT
+*CHI:	xxx t(r)actor . [+ NON]
+*CHI:	xxx t(r)actor . [+ NON]
+*FAT:	&=q monta en un tractor ?
+*CHI:	sí .
+%act:	intenta meter un muñeco en el tractor
+*CHI:	(se)ñora .
+*FAT:	ahí no .
+*FAT:	&=q no ves que ahí no cabe ?
+*FAT:	sólo puede entrar aquí .
+*FAT:	por eso he sacado el otro tractor .
+*CHI:	toma .
+%act:	le da otro tractor a FAT
+*FAT:	mira .
+*FAT:	déjalo aquí , Juan .
+%act:	lo deja sobre la barca
+*FAT:	te slo sestoy diciendo .
+%act:	lo lanza sobre la barca
+*CHI:	&=e no !
+*FAT:	&=q por qué no ?
+*CHI:	0 .
+%act:	coge el otro tractor
+*FAT:	&=q ves ?
+*FAT:	ahí sí que puede entrar .
+*FAT:	&=q qué hace la señora ?
+*FAT:	mm@i .
+%par:	interroga
+*FAT:	&=q qué hace la señora ahí ?
+*CHI:	mira .
+*FAT:	&=q qué hace ?
+*CHI:	toma .
+*FAT:	&=q qué quieres ?
+*CHI:	xxx (se)ñora . [+ NON]
+*FAT:	&=q que la ponga ahí la señora ?
+*CHI:	sí .
+*CHI:	señora sí .
+*FAT:	mira .
+%act:	mete el muñeco el tractor
+*FAT:	ya está aquí la señora .
+*FAT:	Juan .
+*FAT:	no cabe sentada .
+*FAT:	tiene que estar de pie .
+*CHI:	de pie . [+ IMI]
+*CHI:	sentada . [+ IMI]
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	&=q ya están aquí los dos ?
+*CHI:	(l)os dos . [+ IMI]
+*FAT:	la señora y el señor .
+%act:	coloca el tractor con los muñecos sobre la barca
+*FAT:	míralos .
+*FAT:	&=q y en la barca ?
+%act:	se refiere al barquito pequeño
+*FAT:	&=q a quién pongo aquí ?
+*CHI:	xxx señor . [+ NON]
+*FAT:	&=q al señor ?
+*CHI:	sí .
+%par:	susurra
+*FAT:	&=q a qué señor ?
+*CHI:	aquí hay ot(r)o señor .
+*FAT:	&=q a este ?
+*CHI:	no .
+*CHI:	Papá camión .
+*CHI:	Papá camión .
+*CHI:	Papá .
+*CHI:	sentar [*] .
+%err:	sentar = siénta $MOR $SUB $ROOT
+*FAT:	yo estoy sentado ya .
+*FAT:	&=q te quieres sentar tú ?
+*CHI:	sí .
+*FAT:	pues venga .
+*FAT:	siéntate .
+*CHI:	0 .
+%act:	se sienta sobre las piernas de FAT
+*CHI:	(co)nejo .
+*FAT:	&=q qué dices ?
+*CHI:	(co)nejo .
+*FAT:	hay un conejo sí en el bañador .
+*CHI:	bañador . [+ IMI]
+*FAT:	en el bañador azul de Juan .
+*FAT:	mira .
+*CHI:	toma .
+%act:	tiene un tractor en cada mano
+*FAT:	&=q cuál me das a mí ?
+*FAT:	a ver .
+*FAT:	&=q cuál me das ?
+*CHI:	e(s)te .
+*FAT:	&=q cuál ?
+*CHI:	e(s)te .
+%act:	le da el rosa
+*FAT:	&=q el rosa ?
+*FAT:	&=q el camión rosa me das ?
+%act:	lo deja sobre la barca
+*CHI:	&=e no !
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	&=q por qué no ?
+*FAT:	a+ver .
+*FAT:	&=q por qué no lo puedo dejar ahí ?
+*CHI:	esto es mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+%act:	se agarra a la barca
+*FAT:	sí .
+*FAT:	pues cógela .
+*FAT:	si la tienes en la mano no puedes jugar , Juan .
+*CHI:	no sale .
+%act:	está intentando quitar una pieza de un tractor
+*CHI:	no sale .
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	ya ha salido .
+*CHI:	ah@i .
+%act:	haciendo fuerza
+*FAT:	&=q qué pasa ?
+*CHI:	ti@o [x 6] .
+%par:	canturrea
+*CHI:	no sale .
+*FAT:	&=q no sale ?
+*CHI:	no sale .
+*FAT:	sí .
+*FAT:	sí sale .
+*CHI:	ah@i .
+*CHI:	no sale .
+*FAT:	a+ver , Juan .
+*FAT:	deja de quejarte .
+*CHI:	no sale .
+*CHI:	no sale .
+*FAT:	mira .
+*FAT:	&=q sabes lo que te digo ?
+*CHI:	toma .
+*FAT:	&=q sabes lo que te digo ?
+*FAT:	que me voy a ir a jugar con las barcas .
+*CHI:	toma .
+*FAT:	porque tú me aburres .
+*CHI:	toma .
+*FAT:	todo el rato que si toma que si no sale que si sale .
+*CHI:	toma .
+*CHI:	Papá .
+*FAT:	&=q qué quieres ?
+*CHI:	toma , Papá .
+%act:	le da el tractor
+*CHI:	toma , Ma@x [//] Papá .
+*FAT:	&=q qué hago ?
+*FAT:	&=q lo arreglo ?
+*CHI:	sí .
+*FAT:	uh@o .
+*CHI:	yo e(s)te .
+*CHI:	(l)a ba(r)ca .
+*CHI:	(l)a ba(r)ca .
+*CHI:	(l)a ba(r)ca .
+%act:	se le da la vuelta
+*FAT:	&=q qué pasa con la barca ?
+*FAT:	ten cuidado que se hunde .
+*CHI:	toma .
+*CHI:	xxx (se)ñores . [+ NON]
+*FAT:	0 .
+%act:	coloca un muñeco sobre la barca grande
+*CHI:	no .
+*CHI:	a@x [/] ahí .
+*CHI:	(l)a ba(r)ca .
+%act:	señala al barca pequeña
+*FAT:	mira [x 3] .
+*FAT:	a+ver si sabes lo que hace el señor .
+*FAT:	mira .
+%act:	hace como si el muñeco se lanzara desde la barca y buceara por la piscinita
+*FAT:	&=q qué hace ?
+*CHI:	ot(r)o [/] ot(r)o señor .
+*FAT:	mira [x 2] lo que hace .
+*CHI:	(bu)cea .
+*FAT:	bucea .
+*FAT:	sí .
+*CHI:	ot(r)o señor .
+*CHI:	y ot(r)o [/] ot(r)o señor .
+*FAT:	&=q el otro señor ?
+*CHI:	sí .
+*FAT:	&=q le quieres tú ?
+*CHI:	sí .
+*CHI:	toma .
+*FAT:	&=q a ver cómo bucea la señora ?
+*CHI:	0 .
+%act:	mete el muñeco debajo del agua y lo mueve
+*FAT:	mira [x 3] .
+*FAT:	ya ha salido .
+%act:	ha hecho lo mismo con otro muñeco
+*FAT:	claro .
+*CHI:	toma .
+*CHI:	toma .
+%act:	le quiere dar un muñeco
+*FAT:	no .
+*FAT:	déjalo ahí .
+*FAT:	déjalo aquí .
+%act:	señala la barca grande
+*FAT:	aquí .
+*FAT:	claro .
+*FAT:	&=q y la vaca también bucea ?
+*FAT:	&=q sí ?
+*CHI:	no .
+*FAT:	&=q o hace otra cosa ?
+*FAT:	mira lo que hace la vaca .
+*FAT:	mira .
+%act:	mueve la vaca de juguete por la superficie de la piscinita
+*FAT:	&=q qué hace la vaca ?
+*CHI:	(bu)cea . [+ IMI]
+*FAT:	no .
+%act:	16:00
+*FAT:	mira .
+*FAT:	&=q qué hace la vaca ?
+*CHI:	bucea . [+ IMI]
+*FAT:	no .
+*FAT:	mira .
+*FAT:	así bucea .
+%act:	la hunde
+*FAT:	así va por debajo .
+*FAT:	&=q pero así ?
+*FAT:	así no va por debajo .
+*FAT:	así va por arriba .
+*FAT:	&=q qué hace por arriba ?
+*FAT:	na::da .
+*CHI:	nada . [+ IMI]
+*FAT:	mira .
+*FAT:	y va con la cabeza fuera .
+*FAT:	dice mu:@o .
+%act:	hace como si la vaca le mordiera en la tripa
+*CHI:	no , Papá .
+*FAT:	mu:@o .
+%act:	hace otra vez como si la vaca le mordiera en la tripa
+*CHI:	quita .
+*FAT:	&=q cómo que quita@q ?
+*CHI:	quita .
+*FAT:	&=q qué tienes aquí ?
+%act:	le señala el pecho
+*CHI:	tetas .
+*FAT:	&=q las tetas ?
+*FAT:	una aquí y otra aquí .
+*FAT:	&=q y esto qué es ?
+%act:	señala el ombligo de Juan
+*CHI:	opico [: ombligo] .
+*FAT:	ombligo , sí .
+*FAT:	&=q y el ombligo dónde está ?
+*FAT:	en la +...
+*CHI:	pa@o [x 5] .
+%par:	canturrea
+%act:	da saltitos y luego chapotea un poco
+*FAT:	oh@i .
+*CHI:	ih@i .
+%par:	se ríe
+*CHI:	moja [*] .
+%err:	moja = mojo $MOR $SUB $NFL 3s/1s
+*FAT:	&=q quién me moja ?
+*MOT:	&=q me llamas ?
+%add:	FAT
+*FAT:	no .
+%add:	MOT
+%act:	le echa agua a Juan por la cabeza y le coloca un muñeco en la coronilla
+*CHI:	&=e no !
+*CHI:	Papá .
+*FAT:	tumba@o .
+%act:	al caerse el muñeco
+*FAT:	&=q cuántas veces has dicho no ya hoy ?
+*CHI:	0 .
+%par:	se ríe
+*CHI:	Papa .
+*FAT:	&=q que hay aquí ?
+*FAT:	mira [x 7] .
+*FAT:	&=q qué hay aquí ?
+%act:	ha cogido un muñeco y lo oculta en el puño
+*FAT:	&=q qué hay ?
+*FAT:	mira [x 2] mi mano .
+*FAT:	&=q < qué es > [/] qué es ?
+*FAT:	mira [x 2] .
+*FAT:	&=q qué es ?
+*CHI:	xxx .
+%act:	se queda mirando hacia la cámara
+*FAT:	había una mosca .
+*FAT:	&=q dónde está la mosca ?
+*CHI:	toma .
+*FAT:	&=q dónde está la mosca ?
+%par:	susurra
+*CHI:	0 .
+%par:	se ríe
+*CHI:	&=e mira !
+*FAT:	&=q dónde está la mosca ?
+*CHI:	e(s)tá ahí .
+%act:	señala sobre la barca
+*FAT:	ya no está .
+*FAT:	estaba por aquí pero ya no está .
+*FAT:	mírala .
+*FAT:	mira [x 5] .
+%act:	le muestra a Juan la parte posterior de su hombro
+*FAT:	&=q qué hacemos con la mosca ?
+*FAT:	&=q qué hace la mosca ?
+*CHI:	pi@o .
+*CHI:	pi:@o .
+*FAT:	hace bs:@o .
+*CHI:	bs:@o .
+*FAT:	ah@i .
+*FAT:	se cae .
+%act:	se refiere a un muñeco que hay sobre la barca
+*FAT:	la vaca .
+*FAT:	coge la vaca .
+*CHI:	toma .
+%act:	le da dos muñecos
+*CHI:	toma .
+*FAT:	mira .
+*FAT:	mételos por ahí .
+*FAT:	por aquí .
+%act:	señala sobre la barca
+*FAT:	toma .
+*FAT:	la vaca también .
+*CHI:	no .
+*FAT:	&=q la vaca no ?
+*CHI:	s@x [/] sí .
+*FAT:	caben todos ahí .
+*CHI:	sí .
+*FAT:	toma .
+*CHI:	salir [*] .
+%err:	salir = fuera $MOR $SUB $ROOT
+*CHI:	salir .
+%act:	ha cogido los tractores grandes y está de pie mirando hacia el exterior de la piscinita
+*FAT:	&=q qué quieres ?
+*FAT:	&=q sacar los tractores ?
+*CHI:	sí .
+*FAT:	trae .
+*FAT:	déjalos aquí .
+%act:	coloca la mano sobre la barca grande
+*CHI:	no .
+*FAT:	sí .
+*FAT:	déjalos aquí .
+*FAT:	venga .
+*CHI:	no .
+*FAT:	&=q dónde vas ?
+*FAT:	&=q cuántos tractores tienes ahora en la mano ?
+*CHI:	uno y seis .
+*FAT:	a ver .
+*FAT:	&=q dónde está el verde ?
+*CHI:	atí [: aquí] .
+*FAT:	&=q dónde ?
+*FAT:	no lo veo .
+*CHI:	atí [: aquí] .
+*FAT:	no .
+*FAT:	&=q este de qué color es ?
+*CHI:	rosa .
+*FAT:	rosa .
+*FAT:	déjalo aquí en la lancha .
+*CHI:	no .
+*FAT:	déjalo aquí ahora .
+*CHI:	&=e no !
+*FAT:	vaya , hombre .
+*CHI:	a salir .
+*FAT:	&=q a salir a dónde ?
+*CHI:	a salir .
+*FAT:	&=q a dónde ?
+*CHI:	ahí .
+*FAT:	&=q ahí fuera ?
+*CHI:	sí .
+*FAT:	hace mucho calor , Juan .
+*FAT:	tiene que ser en la piscina .
+*FAT:	espérate un poquito y ahora salimos y merendamos .
+*FAT:	&=q vale ?
+*FAT:	&=q vale ?
+*CHI:	toma .
+*FAT:	trae .
+*FAT:	déjame el camión , anda .
+*FAT:	voy a jugar yo .
+*CHI:	xxx .
+*FAT:	&=q cuál me dejas ?
+*CHI:	e(s)te .
+%act:	tiene varios tractores y caminos en brazos
+*FAT:	déjamelo .
+*CHI:	no .
+*FAT:	&=q cuál me dejas ?
+*FAT:	&=q la barca para mí ?
+%act:	coge la barca pequeñita
+*CHI:	sí .
+*CHI:	toma .
+%act:	le ofrece un camión pequeñito de los que tiene cogidos en brazos
+*FAT:	es tuyo .
+%par:	levnata la palma de la mano y agacha la cabeza como si no lo aceptara
+*CHI:	sale .
+*FAT:	0 .
+%act:	silba y juega con las dos barcas
+*CHI:	(l)a barca .
+*FAT:	mira .
+%par:	riéndose
+*CHI:	quieto , t(r)actor .
+%act:	se le ha caído el tractor más grande de los brazos
+*CHI:	no puedo .
+%act:	se agacha intentando cogerlo , pero no ha soltado los otros tractores que tiene en las manos
+*FAT:	claro .
+*FAT:	es imposible que puedas con todo en la mano .
+*CHI:	toma .
+*CHI:	toma .
+%act:	le da el camión pequeño
+*FAT:	trae el camión , anda .
+*FAT:	melón .
+*FAT:	que eres un melón .
+*CHI:	e(s)to e(s) mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+*CHI:	e(s)to e(s) mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+%act:	tiene otra vez cogidos unos cuantos juguetes en brazos
+*FAT:	pero si no puedes (.) con todo .
+*FAT:	&=q dónde vas con todo ?
+*FAT:	déjalo aquí .
+*FAT:	juega con una cosa .
+*FAT:	qué botarate eres .
+*FAT:	&=q dónde vas con todo ?
+*FAT:	lo tienes en las manos y no puedes jugar .
+*CHI:	bañador .
+*FAT:	sí , bañador .
+*FAT:	&=q de qué color es ?
+*FAT:	mira a ver de qué color es el bañador .
+*FAT:	mira a ver .
+%act:	señala
+*FAT:	mira .
+*FAT:	&=q de qué color es el bañador ?
+*CHI:	amarillo .
+%par:	susurra
+*FAT:	cómo que amarillo .
+*FAT:	no es amarillo .
+*FAT:	&=q de qué color es ?
+*CHI:	azul .
+*FAT:	azul: .
+*FAT:	dónde irás .
+*FAT:	no puedes ni moverte .
+*CHI:	toma .
+%act:	está intentando andar , pero le resulta difícil por el peso de todos los tractores que tiene en brazos
+*FAT:	hombre , claro .
+*FAT:	y otro me debieras dar .
+*CHI:	toma .
+%act:	le da otro tractor
+*FAT:	claro .
+*CHI:	xxx .
+*FAT:	mira .
+*FAT:	&=q ves qué bien así ?
+*FAT:	claro .
+*FAT:	pero si no pasa nada .
+*FAT:	déjalos aquí .
+*FAT:	déjalos aquí .
+*CHI:	esto es xxx . [+ NON]
+*FAT:	sí , hijo , sí .
+*FAT:	con mi dinero lo he comprado yo esta mañana para ti .
+*FAT:	déjalos aquí , anda .
+*CHI:	esto es mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+%par:	lloriquea
+*FAT:	sí: .
+*CHI:	esto es mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+%par:	lloriquea
+*FAT:	sí .
+*CHI:	esto es mía [*] .
+%err:	mía = mío $MOR $SUB $AGA
+%par:	lloriquea
+*FAT:	&=q cuál de los dos es tuyo ?
+*FAT:	&=q cuál de los dos ?
+*CHI:	e(s)te .
+*FAT:	&=q ese es tuyo ?
+*CHI:	toma .
+*FAT:	&=q es tuyo o no es tuyo ?
+*FAT:	anda .
+*FAT:	se ha abierto .
+%act:	se refiere al volquete del camiónç
+*CHI:	apieto [: abierto] . [+ IMI]
+*FAT:	sí .
+*FAT:	anda .
+*FAT:	ciérralo .
+*FAT:	&=q lo cierras tú ?
+*CHI:	0 .
+%act:	lo cierra
+*FAT:	muy bien .
+*CHI:	ahora Papá .
+*FAT:	&=q ahora Papá ?
+*CHI:	sí .
+*FAT:	&=q lo cierro yo ?
+*FAT:	&=q o lo haces tú ?
+*CHI:	xxx .
+*FAT:	&=q lo abro yo ?
+*FAT:	mira .
+*FAT:	ya lo he abierto .
+*CHI:	mira .
+*FAT:	&=q qué ?
+*CHI:	mira .
+*FAT:	&=q qué hay ?
+*CHI:	abie(r)to . [+ IMI]
+*FAT:	mira el camión .
+*FAT:	se abre .
+*FAT:	ah@i .
+*FAT:	mira .
+*FAT:	hasta abajo .
+*FAT:	y se cierra .
+*FAT:	&=q ahora tú ?
+*CHI:	ahora el tractor .
+*FAT:	&=q ahora el tractor ?
+*CHI:	sí .
+*FAT:	&=q y qué hay que hacer con el tractor ?
+*CHI:	toma .
+*FAT:	&=q qué quieres que haga ?
+*CHI:	ebrir [: abrir] [*] .
+%err:	abrir = abre $MOR $SUB $ROOT
+*FAT:	&=q abrir ?
+*CHI:	sí .
+*FAT:	&=q quieres que lo abra ?
+*CHI:	sí .
+*FAT:	tienes que decir ábrelo@q .
+*FAT:	no me digas abrir .
+*FAT:	&=q quieres que abra el tractor ?
+*CHI:	sí .
+%par:	susurra
+*FAT:	mira .
+*FAT:	ah@i .
+*FAT:	hasta abajo .
+*FAT:	&=q lo cierro ?
+*CHI:	sí .
+*FAT:	&=q otra vez ?
+*CHI:	no .
+*FAT:	&=q ahora qué ?
+*CHI:	ahora Juan .
+*FAT:	&=q ahora lo hace Juan ?
+*CHI:	sí .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	que lo vea yo .
+*CHI:	no sale .
+*FAT:	sí [x 2] .
+*FAT:	venga .
+*FAT:	un poquito más .
+*FAT:	muy bien .
+*FAT:	&=q ves cómo sí ?
+*FAT:	muy bien .
+*FAT:	&=q quién lo ha hecho ?
+*CHI:	Juan .
+%act:	sumerge el camión
+*FAT:	&=q por debajo ?
+*CHI:	uh@o .
+*CHI:	&=q 0 [*] he abie(r)to ?
+%err:	0 = lo $MOR $LOS $PREFIX
+*FAT:	&=q lo has abierto ? [+ COR]
+*CHI:	sí .
+*CHI:	xxx Juan . [+ NON]
+*CHI:	ahora Juan .
+*FAT:	ven .
+*FAT:	siéntate , anda .
+%act:	coge a Juan y le sienta entre las piernas
+*CHI:	toma [x 3] .
+*CHI:	Papá .
+%act:	coge el tractor grande
+*FAT:	&=q qué quieres hacer ?
+*CHI:	correr [*] .
+%err:	correr = corre $MOR $SUB $ROOT
+%act:	con el tractor en la mano
+*FAT:	&=q qué quieres hacer ?
+*CHI:	correr [*] 0 [*] camión .
+%err:	correr = corre $MOR $SUB $ROOT ; 0 = el $SYN $LOS
+*FAT:	&=q el camión ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q qué quieres hacer con el camión ?
+*CHI:	correr [*] el t(r)acto(r) .
+%err:	correr = corre $MOR $SUB $ROOT
+*FAT:	correr el t(r)acto(r) .
+*CHI:	toma [x 3] .
+*CHI:	Papá .
+%act:	coge el tractor grande
+*FAT:	&=q qué quieres hacer ?
+*CHI:	correr [*] .
+%err:	correr = corre $MOR $SUB $ROOT
+*FAT:	&=q qué quieres hacer ?
+*CHI:	correr [*] el camión .
+%err:	correr = corre $MOR $SUB $ROOT
+*FAT:	&=q el camión ?
+*CHI:	sí .
+*FAT:	&=q qué quieres hacer con el camión ?
+*CHI:	el [*] correr [*] el t(r)acto(r) .
+%err:	el = 0 $SYN $ADD ; correr = corre $MOR $SUB $ROOT
+*CHI:	corre(r) el t(r)acto(r) .
+*CHI:	correr 0 [*] t(r)acto(r) .
+%err:	0 = el $SYN $LOS
+*FAT:	&=q correr el tractor ?
+*FAT:	&=q quieres que el tractor corra por debajo ? [+ COR]
+*FAT:	&=q sí ?
+*CHI:	yo e(s)te .
+*FAT:	tú ese .
+*CHI:	bu:@o .
+*FAT:	&=q y yo cuál ?
+*FAT:	&=q y yo cuál ?
+*CHI:	e(s)te .
+*FAT:	&=q ese yo ?
+*CHI:	sí .
+*CHI:	toma .
+*FAT:	gracias .
+*FAT:	&=q por debajo del agua ?
+*FAT:	&=q y qué hacen por debajo del agua ?
+*FAT:	&=q pitan también ?
+*CHI:	sí .
+%par:	susurra
+*FAT:	&=q sí ?
+*CHI:	0 [*] camión sí .
+%err:	0 = el $SYN $LOS
+*FAT:	&=q el camión sí ? [+ COR]
+*FAT:	&=q y cómo hace ?
+*CHI:	bu:@o .
+*CHI:	chaj@o .
+*FAT:	chaj@o .
+%par:	se ríe
+*FAT:	&=q por qué hace chaj@o ?
+*FAT:	&=q por qué hace eso ?
+*CHI:	xxx .
+*CHI:	xxx .
+*FAT:	&=q < se ha co@x > [//] se ha chocado ?
+*CHI:	sí .
+*FAT:	&=q o sube para arriba ?
+*FAT:	mira .
+%act:	recorre la pared de lona de la piscinita con el tractor grande
+*FAT:	halá@i .
+*FAT:	&=q otra vez ?
+*CHI:	pu@o [x 3] .
+*CHI:	pu@o [x 4] .
+*FAT:	0 .
+%act:	le echa agua por encima a Juan
+*CHI:	no .
+*FAT:	&=q qué pasó ?
+*CHI:	no .
+*FAT:	&=q qué pasó ?
+*CHI:	bu:@o .
+*FAT:	&=q qué hace el tractor ?
+*CHI:	mira .
+*FAT:	&=q < que hace el trac@x > [/] qué hace el tractor , Juan ?
+*CHI:	mira .
+%act:	está recorriendo la pared de la piscinita con el tractor
+*FAT:	&=q qué hace ?
+*CHI:	mira .
+*FAT:	&=q qué hace ahí ?
+*CHI:	mira .
+*FAT:	ya lo veo .
+*FAT:	&=q pero qué hace ?
+@End

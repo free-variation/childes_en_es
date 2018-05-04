@@ -1,0 +1,158 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , FAT Padre Father , MOT MAdre Mother
+@ID:	spa , eng|OreaPine|CHI|2;4.00|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	07-FEB-2001
+@Location:	Madrid
+@Situation:	1
+@Time Start:	21:00
+@Situation:	1 FAT y MOT cenan y Lucía les acompaña
+*FAT:	ay@i .
+*FAT:	&=q puedes encender esa Luz , Mother ?
+%add:	MOT
+*MOT:	sí .
+*FAT:	hola , Lu .
+*FAT:	siénta te bien .
+*MOT:	uy@i , Lucía .
+*MOT:	qué frío tengo otra vez , hija .
+*FAT:	hola , Lu .
+*FAT:	Lulú .
+*FAT:	&=q estás tomando pasas ?
+*CHI:	sí .
+*FAT:	&=q cuántas tienes hoy ?
+*CHI:	muchas .
+*FAT:	&=q muchas ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*FAT:	bueno .
+*FAT:	&=q hoy nos vas a cantar la del chino mandarín ?
+*CHI:	no .
+*FAT:	vaya .
+*MOT:	0 .
+%par:	se ríe
+*FAT:	es que no doy ni una .
+*FAT:	anda .
+*FAT:	hola , Lulú .
+*FAT:	&=q qué te han enseñado hoy en el colegio ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué has comido hoy en el colegio , Lucía ?
+*CHI:	0 .
+%act:	no contesta
+*FAT:	&=q qué has comido , Lu ?
+%par:	se ríe
+*FAT:	aquí no hay quien +...
+*CHI:	Alonso .
+*MOT:	&=q Alonso ?
+*CHI:	sí .
+*MOT:	&=q y quién más ?
+*CHI:	Juan .
+*MOT:	&=q Juan también ?
+*CHI:	y Dili .
+*MOT:	&=q y Dili ?
+*CHI:	no Lili .
+*MOT:	&=q Lili ?
+*CHI:	no .
+*CHI:	&=e que no !
+*FAT:	&=q quién es Lili ?
+*MOT:	no sé .
+%add:	FAT
+*FAT:	&=q es nuevo ?
+*MOT:	&=q Lili es pequeño o grande ?
+*CHI:	sí .
+%par:	susurra
+*MOT:	&=q eh@i ?
+*CHI:	tiene pipa .
+%act:	le da la pasa a MOT después de intentar quitarle la pipita
+*MOT:	&=q es pequeño o grande Lili ?
+*CHI:	Alonso .
+*MOT:	Alonso es pequeño &=q verdad ?
+*MOT:	mm@i .
+%par:	interroga
+*FAT:	&=q y montan en el triciclo ?
+*MOT:	&=q montas en triciclo ?
+*CHI:	sí .
+*FAT:	pero no dáis pedales &=q verdad ?
+*CHI:	no .
+%com:	hay un corte
+*MOT:	&=q con papel y pinturas ?
+*CHI:	y un sol .
+*MOT:	&=q y un sol ?
+*CHI:	sí .
+*CHI:	0 [*] ha hecho Rosío [: Rocío] .
+%err:	0 = lo $MOR $LOS $PREFIX
+*MOT:	&=q que ha hecho Rocío un sol ?
+*CHI:	sí .
+*FAT:	&=q y tú qué has hecho ?
+*MOT:	&=q colorear lo ?
+*CHI:	sí .
+*MOT:	&=q de qué color ?
+*CHI:	verde green@s .
+*FAT:	&=q un sol verde ?
+%par:	extrañado
+*CHI:	sí .
+*FAT:	me parece que no &=q eh@i ?
+*CHI:	sí .
+*FAT:	eso serán los árboles , Lucía .
+*CHI:	no .
+*CHI:	un sol .
+*FAT:	un sol es amarillo yellow@s .
+*CHI:	&=e que no !
+*FAT:	es un sol verde .
+*MOT:	no existe el sol verde .
+*CHI:	e(s)tos .
+*CHI:	este si es verdes [*] .
+%err:	verdes = verde $MOR $ADD $AGA
+*CHI:	sí .
+*CHI:	la a(l)fom(br)a .
+*FAT:	&=q como el gatito ?
+*CHI:	sí .
+*CHI:	uh@i .
+%act:	se el caen las pasas del cuenco
+*FAT:	se te han caído las pasas .
+*FAT:	&=q te ha ido a buscar Juana hoy ?
+*CHI:	no , Elsa .
+*FAT:	&=q y no estaba Juana ?
+*CHI:	no .
+*FAT:	sólo Elsa .
+*FAT:	&=q Elsa ha ido ?
+*CHI:	sí .
+*CHI:	&=q y Elsa ?
+*CHI:	&=q y Elsa ?
+*CHI:	no e(s)tá .
+*FAT:	&=q no está Elsa ?
+*CHI:	no .
+*CHI:	estaba durmiendo .
+*MOT:	&=q está durmiendo ?
+*CHI:	sí .
+@Situation:	1
+@Time Start:	21:00
+@Situation:	1 FAT y MOT cenan y Lucía les acompaña
+*FAT:	Lucía .
+*FAT:	&=q y has subido en el autobús ?
+*CHI:	sí .
+*FAT:	&=q y qué ?
+*CHI:	hay [*] 0 [*] señora .
+%err:	hay = había $MOR $SUB $NFL 3s/IPF3s ; 0 = una $SYN $LOS
+*FAT:	&=q hay una señora ? [+ ADS]
+*CHI:	sí .
+*FAT:	&=q cómo se llama ?
+*CHI:	0 [*] ca(r)amelos .
+%err:	0 = V $SYN $LOS
+*FAT:	&=q te da caramelos ?
+*FAT:	&=q eh@i , Lucía ?
+*CHI:	sí .
+*FAT:	&=q y tú qué le dices ?
+*CHI:	0 .
+%act:	señala un brik de tomate frito que hay sobre la mesa
+*FAT:	tomate .
+*FAT:	&=q tú qué le dices cuando te da caramelos , Lucía ?
+*CHI:	xxx de noche . [+ NON]
+*MOT:	&=q de noche ?
+*CHI:	no , de día .
+*MOT:	ah@i .
+*MOT:	te da caramelos de día .
+@End

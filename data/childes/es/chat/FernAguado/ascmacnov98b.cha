@@ -1,0 +1,571 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ASC AsierCia Target_Child , MAC MaialenCia Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|ASC|3;6.06||||Target_Child|||
+@ID:	spa|fernaguado|MAC|3;6.06||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	05-NOV-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ASC y MAC juegan con el barco pirata
+*ASC:	mira (.) éste está ahora en el barco .
+%mor:	co|mira=look pro:dem|éste=this_one v|esta-3S&PRES=be adv|ahora=now prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	coloca un muñeco en la barca
+*ASC:	mira la coloco xxx xxx (.) <y mira> [/] y mira éste .
+%mor:	co|mira=look det:art|el&FEM&SG=the v|coloca-1S&PRES=place coord|y=and 
+	co|mira=look pro:dem|éste=this_one . 
+*ASC:	éste es el capitán .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	. 
+*ASC:	oye (.) éste [/] éste como tenía esto [/] esto [//] esto es el capitán !
+%mor:	co|oye=listen pro:dem|éste=this_one adv|como=like v|tene-13S&PAS=have 
+	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	! 
+*INV:	muy bien (.) sí .
+%mor:	adv|muy=very adv|bien=well co|sí=yes . 
+*INV:	es el capitán .
+%mor:	v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*MAC:	el capitán .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*ASC:	el capitán (.) porque mira tiene una espada (.) ésta .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain conj|porque=because co|mira=look 
+	v|tene-3S&PRES=have det:art|un-FEM=one n|espada&fem=sword pro:dem|éste-FEM=this_one 
+	. 
+*ASC:	y éste .
+%mor:	coord|y=and pro:dem|éste=this_one . 
+%com:	coge otro muñeco
+*MAC:	y éste .
+%mor:	coord|y=and pro:dem|éste=this_one . 
+*ASC:	y busca una pelota porque se mete así y luego dispara .
+%mor:	coord|y=and v|busca-3S&PRES=search det:art|un-FEM=one n|pelota&fem=ball 
+	conj|porque=because pro:per|se=itself v|mete-3S&PRES=put adv|así=thus 
+	coord|y=and adv|luego=afterwards v|dispara-3S&PRES=shoot . 
+*ASC:	y entonces se atacan (.) entonces .
+%mor:	coord|y=and adv|entonces=then pro:per|se=itself v|ataca-3P&PRES=attack 
+	co|entonces . 
+%com:	mira a MAC que intenta colocar las velas y no puede entonces coge él otra y lo intenta
+*ASC:	éste .
+%mor:	pro:dem|éste=this_one . 
+*ASC:	es que yo (.) no puedo .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|yo=I adv|no=no v|pode-1S&PRES=can 
+	. 
+%com:	no puede colocar las velas
+*ASC:	una cosa aquí .
+%mor:	det:art|un-FEM=one n|cosa&fem=thing adv|aquí=here . 
+*ASC:	<y aquí> [/] y aquí que se hace ?
+%mor:	coord|y=and adv|aquí=here prep|que=than pro:per|se=itself v|hace-3S&PRES=do 
+	? 
+*MAC:	pues mira .
+%mor:	co|pues=well co|mira=look . 
+%com:	abre la bodega del barco
+*MAC:	mira Asier (.) mira .
+%mor:	co|mira=look n:prop|Asier co|mira=look . 
+*MAC:	aquí se mete la pelota (.) Asier .
+%mor:	adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put det:art|el&FEM&SG=the 
+	n|pelota&fem=ball n:prop|Asier . 
+*MAC:	aquí se mete (.) aquí [/] aquí .
+%mor:	adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put adv|aquí=here . 
+*ASC:	se mete .
+%mor:	pro:per|se=itself v|mete-3S&PRES=put . 
+*ASC:	ya se que se mete (.) Maialen .
+%mor:	adv|ya=already pro:per|se=itself prep|que=than pro:per|se=itself v|mete-3S&PRES=put 
+	n:prop|Maialen . 
+*ASC:	mi pelota ?
+%mor:	det:pos|mi=my n|pelota&fem=ball ? 
+*ASC:	mira aquí se mete la pelota .
+%mor:	co|mira=look adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*ASC:	y luego +...
+%mor:	coord|y=and adv|luego=afterwards +... 
+*MAC:	y luego es así .
+%mor:	coord|y=and adv|luego=afterwards v|se-3S&PRES=be adv|así=thus . 
+%com:	dispara el cañón
+*MAC:	que hay que meterla aquí .
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF~pro:clit|OBJ&FEM 
+	adv|aquí=here . 
+%com:	la pelota al cañón
+*ASC:	hay que meterla aquí para que salga y entonces sale [/] sale .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF~pro:clit|OBJ&FEM adv|aquí=here 
+	prep|para=for prep|que=than v|sali-13S&SUB&PRES=leave coord|y=and adv|entonces=then 
+	v|sali-3S&PRES=leave . 
+*ASC:	mira (.) <le sujeta> [/] le sujeta aquí para que salga (.) porque se hace así .
+%mor:	co|mira=look pro:per|le=him v|sujeta-3S&PRES=subject adv|aquí=here prep|para=for 
+	prep|que=than v|sali-13S&SUB&PRES=leave conj|porque=because pro:per|se=itself 
+	v|hace-3S&PRES=do adv|así=thus . 
+*MAC:	mira aquí .
+%mor:	co|mira=look adv|aquí=here . 
+*MAC:	ay (.) déjame .
+%mor:	co|ay=ay v|deja-2S&IMP~pro:clit|1S . 
+*ASC:	mira Maialen .
+%mor:	co|mira=look n:prop|Maialen . 
+*ASC:	mira cómo se hace .
+%mor:	co|mira=look pro:int|cómo=how pro:per|se=itself v|hace-2S&IMP=do . 
+*ASC:	Marta [/] Marta !
+%mor:	n:prop|Marta ! 
+*ASC:	Marta (.) a qué se cierra y luego se abre de aquí ?
+%mor:	n:prop|Marta prep|a=to pro:int|qué=what pro:per|se=itself v|cerra-3S&PRES=close 
+	coord|y=and adv|luego=afterwards pro:per|se=itself v|abri-3S&PRES=open 
+	prep|de=of adv|aquí=here ? 
+%com:	la bodega
+*ASC:	así ?
+%mor:	adv|así=thus ? 
+*INV:	muy bien (.) así sí .
+%mor:	adv|muy=very adv|bien=well adv|así=thus co|sí=yes . 
+*ASC:	se ha caído la pelota !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|el&FEM&SG=the 
+	n|pelota&fem=ball ! 
+*INV:	se sale (.) verdad ?
+%mor:	pro:per|se=itself v|sali-3S&PRES=leave co|verdad=right ? 
+*ASC:	se sale .
+%mor:	pro:per|se=itself v|sali-3S&PRES=leave . 
+*ASC:	y luego aquí .
+%mor:	coord|y=and adv|luego=afterwards adv|aquí=here . 
+*ASC:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*MAC:	xxx .
+*ASC:	éstos dos 0 [*] muy difíciles .
+%mor:	pro:dem|éste-MASC-PL=this_one det:num|dos=two adv|muy=very adj|difícil-PL=difficult 
+	. 
+%com:	las redes
+*ASC:	yo no se dónde se pone .
+%mor:	pro:per|yo=I adv|no=no pro:per|se=itself pro:int|dónde=where pro:per|se=itself 
+	v|pone-3S&PRES=put . 
+*ASC:	no se dónde se pone .
+%mor:	adv|no=no pro:per|se=itself pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	. 
+*ASC:	pero yo no puedo ponerlo .
+%mor:	conj|pero=but pro:per|yo=I adv|no=no v|pode-1S&PRES=can v|pone-INF~pro:clit|OBJ&MASC 
+	. 
+*ASC:	dónde ?
+%mor:	pro:int|dónde=where ? 
+%com:	mira el dibujo
+*MAC:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*ASC:	dónde se pone (.) Marta ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put n:prop|Marta 
+	? 
+*ASC:	pero Marta .
+%mor:	conj|pero=but n:prop|Marta . 
+*MAC:	las escaleras .
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase . 
+*ASC:	y ahora esto está atado .
+%mor:	coord|y=and adv|ahora=now det:dem|este-MASC=this v|esta-3S&PRES=be n|atado&masc=bundle 
+	. 
+%com:	engancha el arpón de la barca a las redes del barco
+*ASC:	<pa(ra) que (.) mira> [//] sabes pa(ra) que está atado esto ?
+%mor:	co|sabes=you_know prep|para=for prep|que=than v|esta-3S&PRES=be n|atado&masc=bundle 
+	det:dem|este-MASC=this ? 
+*ASC:	porque mira tengo que traerlo aquí .
+%mor:	conj|porque=because co|mira=look v|tene-1S&PRES=have prep|que=than v|trae-INF~pro:clit|OBJ&MASC 
+	adv|aquí=here . 
+*ASC:	y pa(ra) que no se caiga .
+%mor:	coord|y=and prep|para=for prep|que=than adv|no=no pro:per|se=itself v|cae-13S&SUB&PRES=fall 
+	. 
+*MAC:	y ahora esto .
+%mor:	coord|y=and adv|ahora=now det:dem|este-MASC=this . 
+%com:	las velas
+*ASC:	a_ver (.) tengo que mirar aquí .
+%mor:	co|a_ver=see v|tene-1S&PRES=have prep|que=than v|mira-INF=look adv|aquí=here 
+	. 
+%com:	el dibujo
+*MAC:	éste ?
+%mor:	pro:dem|éste=this_one ? 
+%com:	sigue colocando las redes
+*MAC:	éste aquí ?
+%mor:	pro:dem|éste=this_one adv|aquí=here ? 
+*MAC:	éste aquí ?
+%mor:	pro:dem|éste=this_one adv|aquí=here ? 
+*INV:	uhm .
+%mor:	co|uhm . 
+*ASC:	mira Maialen (.) éste estaba aquí .
+%mor:	co|mira=look n:prop|Maialen pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here 
+	. 
+*ASC:	éste estaba aquí .
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here . 
+*ASC:	a qué si Marta ?
+%mor:	prep|a=to pro:int|qué=what conj|si=if n:prop|Marta ? 
+*MAC:	sí (.) Asier .
+%mor:	co|sí=yes n:prop|Asier . 
+*MAC:	<estaba en> [//] ese estaba aquí .
+%mor:	det:dem|ese=that v|esta-13S&PAS=be adv|aquí=here . 
+%com:	mirando el dibujo
+*MAC:	estaba aquí .
+%mor:	v|esta-13S&PAS=be adv|aquí=here . 
+*MAC:	éste estaba aquí .
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here . 
+%com:	poniendo las velas en los mástiles
+*MAC:	así (.) éste aquí estaba (.) con esto .
+%mor:	adv|así=thus pro:dem|éste=this_one adv|aquí=here v|esta-13S&PAS=be 
+	prep|con=with det:dem|este-MASC=this . 
+*ASC:	mira (.) es difícil .
+%mor:	co|mira=look v|se-3S&PRES=be adj|difícil=difficult . 
+*ASC:	esta espada aquí estaba .
+%mor:	det:dem|este-FEM=this n|espada&fem=sword adv|aquí=here v|esta-13S&PAS=be 
+	. 
+*ASC:	entonces unos [//] éste [//] éstos quieren subir (.) mira .
+%mor:	adv|entonces=then pro:dem|éste-MASC-PL=this_one v|quere-3P&PRES=want 
+	v|subi-INF=go_up co|mira=look . 
+%com:	piratas
+*MAC:	éste era el capitán .
+%mor:	pro:dem|éste=this_one v|se-13S&PAS=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	. 
+*ASC:	el capitán (.) sube .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain v|subi-3S&PRES=go_up . 
+*MAC:	el canpintán [: capitán] [*] .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*ASC:	entonces nada hase [: hace] [*] porque mira esto +/.
+%mor:	adv|entonces=then pro:indef|nada=nothing v|hace-3S&PRES=do conj|porque=because 
+	co|mira=look det:dem|este-MASC=this +/. 
+*MAC:	esto dónde ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where ? 
+%com:	la bandera
+*INV:	más arriba .
+%mor:	adv|más=more adv|arriba=above . 
+*ASC:	esto (.) ponlo alto (.) el vaso .
+%mor:	det:dem|este-MASC=this v|pone-2S&IMP~pro:clit|OBJ&MASC adj|alto-MASC=tall 
+	det:art|el&MASC&SG=the n|vaso&masc=vase . 
+*MAC:	ahora yo el barco ese .
+%mor:	adv|ahora=now pro:per|yo=I det:art|el&MASC&SG=the n|barco-MASC=boat det:dem|ese=that 
+	. 
+%com:	el pequeño
+*ASC:	mira Maialen .
+%mor:	co|mira=look n:prop|Maialen . 
+*MAC:	y ahora <voy a mover> [<] .
+%mor:	coord|y=and adv|ahora=now v|i-1S&PRES=go prep|a=to v|move-INF=move . 
+*ASC:	<y luego esto xxx> [>] .
+%mor:	coord|y=and adv|luego=afterwards det:dem|este-MASC=this . 
+*MAC:	a esto lo voy a mover .
+%mor:	prep|a=to det:dem|este-MASC=this pro:per:1|lo&masc=him v|i-1S&PRES=go 
+	prep|a=to v|move-INF=move . 
+%com:	la barquita la cuelga del hilo
+*MAC:	a mi no me llega .
+%mor:	prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|llega-3S&PRES=arrive 
+	. 
+%com:	queda colgada y no toca el suelo
+*MAC:	mira (.) a mi no me cae !
+%mor:	co|mira=look prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|cae-3S&PRES=fall 
+	! 
+%com:	el muñeco que coloca en la barca
+*MAC:	y lo hacemos de caer .
+%mor:	coord|y=and pro:per:1|lo&masc=him v|hace-1P&PRES=do prep|de=of v|cae-INF=fall 
+	. 
+*MAC:	yo [//] a mi no me caía .
+%mor:	prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|cae-13S&PAS=fall . 
+*ASC:	no !
+%mor:	adv|no=no ! 
+*ASC:	a_ver si me sale a mi (.) eh Maialen ?
+%mor:	co|a_ver=see conj|si=if pro:per|me=me v|sali-3S&PRES=leave prep|a=to det:pos|mi=my 
+	co|eh n:prop|Maialen ? 
+*ASC:	a_ver si me sale bien a mi .
+%mor:	co|a_ver=see conj|si=if pro:per|me=me v|sali-3S&PRES=leave adv|bien=well 
+	prep|a=to det:pos|mi=my . 
+*MAC:	yo hacía así .
+%mor:	pro:per|yo=I v|hace-13S&PAS=do adv|así=thus . 
+*MAC:	a ti 0 [*] ha caído .
+%mor:	prep|a=to pro:per|ti=you co|ha part|cae-PPART&MASC=fall . 
+*ASC:	mira (.) Marta (.) mira !
+%mor:	co|mira=look n:prop|Marta co|mira=look ! 
+*ASC:	huy (.) que me caigo !
+%mor:	co|huy=oh prep|que=than pro:per|me=me v|cae-1S&PRES=fall ! 
+*MAC:	mira como lo hago yo .
+%mor:	co|mira=look adv|como=like pro:per:1|lo&masc=him v|hace-1S&PRES=do pro:per|yo=I 
+	. 
+*MAC:	no me cae .
+%mor:	adv|no=no pro:per|me=me v|cae-3S&PRES=fall . 
+*MAC:	<mira Asier> [/] mira Asier !
+%mor:	co|mira=look n:prop|Asier ! 
+*ASC:	a_ver cómo .
+%mor:	co|a_ver=see co|cómo . 
+*ASC:	mira yo (.) mira .
+%mor:	co|mira=look pro:per|yo=I co|mira=look . 
+*MAC:	ya vas a_ver .
+%mor:	adv|ya=already v|i-2S&PRES=go co|a_ver=see . 
+%com:	sigue colgando la barquita
+*ASC:	esto le xxx .
+%mor:	det:dem|este-MASC=this pro:per|le=him . 
+*ASC:	y entonces lo meten aquí .
+%mor:	coord|y=and adv|entonces=then pro:per:1|lo&masc=him v|mete-3P&PRES=put 
+	adv|aquí=here . 
+%com:	la bodega del barco
+*ASC:	las pelotas se meten .
+%mor:	det:art|el&FEM-PL=the n|pelota&fem-PL=ball pro:per|se=itself v|mete-3P&PRES=put 
+	. 
+*ASC:	y luego +/.
+%mor:	coord|y=and adv|luego=afterwards +/. 
+*MAC:	mira como no se me cae (.) Asier !
+%mor:	co|mira=look adv|como=like adv|no=no pro:per|se=itself pro:per|me=me v|cae-3S&PRES=fall 
+	n:prop|Asier ! 
+*ASC:	Marta (.) a Maialen no se le cae .
+%mor:	n:prop|Marta prep|a=to n:prop|Maialen adv|no=no pro:per|se=itself pro:per|le=him 
+	v|cae-3S&PRES=fall . 
+*ASC:	ahora a_ver si me sale a mi bien .
+%mor:	adv|ahora=now co|a_ver=see conj|si=if pro:per|me=me v|sali-3S&PRES=leave 
+	prep|a=to det:pos|mi=my adv|bien=well . 
+*MAC:	se cayó .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall . 
+*ASC:	ahora a_ver me sale a mi .
+%mor:	adv|ahora=now co|a_ver=see pro:per|me=me v|sali-3S&PRES=leave prep|a=to 
+	det:pos|mi=my . 
+*MAC:	se ha caído (.) eh !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall co|eh ! 
+*ASC:	me sale bien a mi (.) eh Maialen .
+%mor:	pro:per|me=me v|sali-3S&PRES=leave adv|bien=well prep|a=to det:pos|mi=my 
+	co|eh n:prop|Maialen . 
+*ASC:	me va a salir bien .
+%mor:	pro:per|me=me v|i-3S&PRES=go prep|a=to v|sali-INF=leave adv|bien=well 
+	. 
+*MAC:	ésta paleta quiere caerse .
+%mor:	pro:dem|éste-FEM=this_one n|paleta&fem=stick v|quere-3S&PRES=want v|cae-INF~pro:clit|3S&REFL 
+	. 
+*MAC:	se caerá .
+%mor:	pro:per|se=itself v|cae-3S&FUT=fall . 
+*ASC:	Marta (.) me va a salir bien a mi (.) eh (.) porque no tiene nada .
+%mor:	n:prop|Marta pro:per|me=me v|i-3S&PRES=go prep|a=to v|sali-INF=leave adv|bien=well 
+	prep|a=to det:pos|mi=my co|eh conj|porque=because adv|no=no v|tene-3S&PRES=have 
+	pro:indef|nada=nothing . 
+%com:	la barca no lleva muñeco que pueda caerse
+*ASC:	eh (.) mira [/] mira Marta ahora .
+%mor:	co|eh co|mira=look n:prop|Marta adv|ahora=now . 
+*MAC:	esto dónde ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where ? 
+%com:	el cofre
+*MAC:	esto es del capitán .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|de~det|el&MASC n|capitán&masc=captain 
+	. 
+*MAC:	esto dónde ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where ? 
+*ASC:	mira Marta .
+%mor:	co|mira=look n:prop|Marta . 
+*MAC:	esto dónde (.) Marta ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where n:prop|Marta ? 
+%com:	me lo enseña
+*INV:	dónde está en el dibujo ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the 
+	n|dibujo&masc=design ? 
+*INV:	no lo ves ?
+%mor:	adv|no=no pro:per:1|lo&masc=him co|ves=see ? 
+*INV:	a_ver .
+%mor:	co|a_ver=see . 
+*ASC:	quién va en el barco ?
+%mor:	pro:int|quién=who v|i-3S&PRES=go prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat 
+	? 
+%com:	grande
+*ASC:	éste .
+%mor:	pro:dem|éste=this_one . 
+%com:	coge un muñeco
+*MAC:	aquí va .
+%mor:	adv|aquí=here v|i-3S&PRES=go . 
+%com:	el pequeño
+*ASC:	esto es más urgente .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|más=more adj|urgente=urgent 
+	. 
+*MAC:	para qué (.) Asier ?
+%mor:	prep|para=for pro:int|qué=what n:prop|Asier ? 
+*ASC:	has visto qué susto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress pro:int|qué=what n|susto&masc=fright 
+	? 
+%com:	al tocar el cañón se dispara una pelota
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	qué ha salido ?
+%mor:	pro:int|qué=what co|ha part|sali-PPART&MASC=leave ? 
+*ASC:	una pelota .
+%mor:	det:art|un-FEM=one n|pelota&fem=ball . 
+*INV:	y te ha dado ?
+%mor:	coord|y=and pro:per|te=you co|ha part|da-PPART&MASC=give ? 
+*ASC:	a mi no .
+%mor:	prep|a=to det:pos|mi=my adv|no=no . 
+*INV:	qué se hunde el barco !
+%mor:	pro:int|qué=what pro:per|se=itself v|hundi-3S&PRES=sink det:art|el&MASC&SG=the 
+	n|barco-MASC=boat ! 
+%com:	ASC al intentar disparar el cañón casi tira el barco encima de sí
+*ASC:	que susto me ha da(d)o !
+%mor:	prep|que=than n|susto&masc=fright pro:per|me=me co|ha part|da-PPART&MASC=give 
+	! 
+*INV:	que susto te ha da(d)o ?
+%mor:	prep|que=than n|susto&masc=fright pro:per|te=you co|ha part|da-PPART&MASC=give 
+	? 
+*MAC:	esto lo meto por aquí .
+%mor:	det:dem|este-MASC=this pro:per:1|lo&masc=him v|mete-1S&PRES=put prep|por=for 
+	adv|aquí=here . 
+%com:	mete el cofre en la habitación del barco y la cierra
+*MAC:	aquí así .
+%mor:	adv|aquí=here adv|así=thus . 
+*ASC:	Marta .
+%mor:	n:prop|Marta . 
+*MAC:	y ahora me voy a pescar .
+%mor:	coord|y=and adv|ahora=now pro:per|me=me v|i-1S&PRES=go prep|a=to v|pesca-INF=fish 
+	. 
+%com:	con la barca pequeña
+*ASC:	éste (.) dónde se pone éste ?
+%mor:	pro:dem|éste=this_one pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	pro:dem|éste=this_one ? 
+%com:	un muñeco
+*ASC:	pero no qu(i)ere [*] .
+%mor:	conj|pero=but adv|no=no v|quere-3S&PRES=want . 
+%com:	dice que el muñeco no quiere ponerse encima de la bodega que guarda el cañón
+*ASC:	aquí no qu(i)ere [*] porque sale una bola .
+%mor:	adv|aquí=here adv|no=no v|quere-3S&PRES=want conj|porque=because v|sali-3S&PRES=leave 
+	det:art|un-FEM=one n|bola&fem=ball . 
+*ASC:	y entonces sale una bola .
+%mor:	coord|y=and adv|entonces=then v|sali-3S&PRES=leave det:art|un-FEM=one 
+	n|bola&fem=ball . 
+*MAC:	a_ver Asier (.) ponlo aquí .
+%mor:	co|a_ver=see n:prop|Asier v|pone-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here 
+	. 
+%com:	en la zona delantera que sobresale como un trampolín
+*ASC:	mira (.) esta bola le pincha .
+%mor:	co|mira=look det:dem|este-FEM=this n|bola&fem=ball pro:per|le=him v|pincha-3S&PRES=pinch 
+	. 
+*ASC:	le pincha y le echa .
+%mor:	pro:per|le=him v|pincha-3S&PRES=pinch coord|y=and pro:per|le=him v|echa-3S&PRES=throw 
+	. 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*ASC:	y ahora subo a Peter_Pan .
+%mor:	coord|y=and adv|ahora=now v|subi-1S&PRES=go_up prep|a=to n:prop|Peter_Pan 
+	. 
+*ASC:	pero por_qué no funciona para echarle la pelota ?
+%mor:	conj|pero=but pro:int|por_qué=why adv|no=no v|funciona-3S&PRES=function 
+	prep|para=for v|echa-INF~pro:clit|3S det:art|el&FEM&SG=the n|pelota&fem=ball 
+	? 
+*ASC:	por_qué no funciona para la pelota ?
+%mor:	pro:int|por_qué=why adv|no=no v|funciona-3S&PRES=function prep|para=for 
+	det:art|el&FEM&SG=the n|pelota&fem=ball ? 
+*MAC:	que me falta +/.
+%mor:	prep|que=than pro:per|me=me v|falta-3S&PRES=be_lacking +/. 
+%com:	busca algo
+*ASC:	lo voy a haser [: hacer] [*] por aquí !
+%mor:	pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|hace-INF=do prep|por=for 
+	adv|aquí=here ! 
+*ASC:	ya lo hago yo (.) vale (.) Maialen ?
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|hace-1S&PRES=do pro:per|yo=I co|vale=okay 
+	n:prop|Maialen ? 
+%com:	disparar el cañón
+*MAC:	mira lo voy a hacer otra vez .
+%mor:	co|mira=look pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|hace-INF=do 
+	det:indef|otro-FEM=other n|vez&fem=turn . 
+%com:	sigue colgando la barca del hilo
+*ASC:	lo voy a hacer para aquí (.) para el cielo (.) vale ?
+%mor:	pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|hace-INF=do prep|para=for 
+	adv|aquí=here prep|para=for det:art|el&MASC&SG=the n|cielo&masc=sky co|vale=okay 
+	? 
+*ASC:	allá arriba ha dado a Peter_Pan !
+%mor:	adv|allá=there adv|arriba=above co|ha part|da-PPART&MASC=give prep|a=to 
+	n:prop|Peter_Pan ! 
+*INV:	y esa barca qué hace (.) Maialen ?
+%mor:	coord|y=and det:dem|ese-FEM=that n|barco-FEM=boat pro:int|qué=what v|hace-3S&PRES=do 
+	n:prop|Maialen ? 
+*INV:	que está volando ?
+%mor:	prep|que=than v|esta-3S&PRES=be v|vola-PROG=fly ? 
+*ASC:	Maialen (.) mira !
+%mor:	n:prop|Maialen co|mira=look ! 
+*ASC:	mira (.) Maialen .
+%mor:	co|mira=look n:prop|Maialen . 
+*ASC:	Maialen si se aprieta así mira como sale al cielo .
+%mor:	n:prop|Maialen conj|si=if pro:per|se=itself v|apreta-3S&PRES=tighten adv|así=thus 
+	co|mira=look adv|como=like v|sali-3S&PRES=leave prep|a~det|el&MASC co:voc|cielo=angel 
+	. 
+*ASC:	mira (.) ya verás !
+%mor:	co|mira=look adv|ya=already v|ve-2S&FUT=see ! 
+*MAC:	casi .
+%mor:	adv|casi=almost . 
+*ASC:	has visto salir al cielo .
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress v|sali-INF=leave prep|a~det|el&MASC 
+	co:voc|cielo=angel . 
+*ASC:	ves ?
+%mor:	co|ves=see ? 
+*ASC:	has oído que ha salido al cielo ?
+%mor:	v|habe-2S&PRES=have n|oído&masc=hearing prep|que=than co|ha part|sali-PPART&MASC=leave 
+	prep|a~det|el&MASC co:voc|cielo=angel ? 
+*MAC:	sí .
+%mor:	co|sí=yes . 
+*MAC:	he oido y hasta allá .
+%mor:	co|he part|oí-PPART&MASC=hear coord|y=and prep|hasta=until adv|allá=there 
+	. 
+%com:	señala
+*ASC:	Marta (.) has oído que ha hecho ruido ?
+%mor:	n:prop|Marta v|habe-2S&PRES=have n|oído&masc=hearing prep|que=than co|ha 
+	n|hecho&masc=action n|ruido&masc=noise ? 
+*MAC:	mira (.) va a salir .
+%mor:	co|mira=look v|i-3S&PRES=go prep|a=to v|sali-INF=leave . 
+*INV:	va a salir la pelota ?
+%mor:	v|i-3S&PRES=go prep|a=to v|sali-INF=leave det:art|el&FEM&SG=the n|pelota&fem=ball 
+	? 
+*ASC:	sí (.) porque mira .
+%mor:	co|sí=yes conj|porque=because co|mira=look . 
+*ASC:	huy (.) me he hecho daño !
+%mor:	co|huy=oh pro:per|me=me co|he n|hecho&masc=action n|daño&masc=damage 
+	! 
+*INV:	te has hecho daño ?
+%mor:	pro:per|te=you v|habe-2S&PRES=have n|hecho&masc=action n|daño&masc=damage 
+	? 
+*ASC:	sí pero xxx .
+%mor:	co|sí=yes conj|pero=but . 
+*MAC:	está picando el pez .
+%mor:	v|esta-3S&PRES=be v|pica-PROG=prick det:art|el&MASC&SG=the n|pez&masc=fish 
+	. 
+*MAC:	está picando (.) mira .
+%mor:	v|esta-3S&PRES=be v|pica-PROG=prick co|mira=look . 
+*ASC:	Maialen quita (.) que ha salido la pelota !
+%mor:	n:prop|Maialen v|quita-3S&PRES=remove prep|que=than co|ha part|sali-PPART&MASC=leave 
+	det:art|el&FEM&SG=the n|pelota&fem=ball ! 
+*ASC:	que estaba cerca !
+%mor:	prep|que=than v|esta-13S&PAS=be adv|cerca=near ! 
+*MAC:	está picando .
+%mor:	v|esta-3S&PRES=be v|pica-PROG=prick . 
+*MAC:	el dibujo está hecho .
+%mor:	det:art|el&MASC&SG=the n|dibujo&masc=design v|esta-3S&PRES=be n|hecho&masc=action 
+	. 
+*ASC:	has oído (.) Marta ?
+%mor:	v|habe-2S&PRES=have n|oído&masc=hearing n:prop|Marta ? 
+*ASC:	y luego le coge .
+%mor:	coord|y=and adv|luego=afterwards pro:per|le=him v|coge-3S&PRES=take . 
+%com:	con los muñecos
+*ASC:	y luego aquí .
+%mor:	coord|y=and adv|luego=afterwards adv|aquí=here . 
+*MAC:	está picando el pez .
+%mor:	v|esta-3S&PRES=be v|pica-PROG=prick det:art|el&MASC&SG=the n|pez&masc=fish 
+	. 
+*ASC:	éste es el capitán .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	. 
+*MAC:	está lejos y entonces cae el pez .
+%mor:	v|esta-3S&PRES=be adv|lejos=far coord|y=and adv|entonces=then v|cae-3S&PRES=fall 
+	det:art|el&MASC&SG=the n|pez&masc=fish . 
+*ASC:	porque mira (.) éstos .
+%mor:	conj|porque=because co|mira=look pro:dem|éste-MASC-PL=this_one . 
+*ASC:	éstos mira .
+%mor:	pro:dem|éste-MASC-PL=this_one co|mira=look . 
+*MAC:	xxx .
+*ASC:	éste .
+%mor:	pro:dem|éste=this_one . 
+*ASC:	Marta (.) que voy a buscar la pelota .
+%mor:	n:prop|Marta prep|que=than v|i-1S&PRES=go prep|a=to v|busca-INF=search 
+	det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*MAC:	ahora yo !
+%mor:	adv|ahora=now pro:per|yo=I ! 
+*MAC:	no !
+%mor:	adv|no=no ! 
+*INV:	Asier que está aquí .
+%mor:	n:prop|Asier prep|que=than v|esta-3S&PRES=be adv|aquí=here . 
+%com:	la pelota
+*ASC:	mira Marta (.) eh !
+%mor:	co|mira=look n:prop|Marta co|eh ! 
+%com:	la pelota
+*ASC:	mira como sale (.) eh Marta !
+%mor:	co|mira=look adv|como=like v|sali-3S&PRES=leave co|eh n:prop|Marta ! 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*ASC:	espera Marta (.) que no .
+%mor:	v|espera-3S&PRES=wait n:prop|Marta prep|que=than adv|no=no . 
+*ASC:	es que no .
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no . 
+*MAC:	es que pones la mano así .
+%mor:	v|se-3S&PRES=be prep|que=than v|pone-2S&PRES=put det:art|el&FEM&SG=the 
+	n|mano&fem=hand adv|así=thus . 
+%com:	ASC pone la mano delante del cañón y frena la bala
+*MAC:	no .
+%mor:	adv|no=no . 
+@End

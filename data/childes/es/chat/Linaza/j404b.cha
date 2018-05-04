@@ -1,0 +1,372 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	JAI Jaime Brother , CHI Juan Target_Child , PAD Padre Father , MAD Madre Mother , ADU Adult
+@ID:	spa|linaza|CHI|4;4.24||||Target_Child|||
+@ID:	spa|linaza|JAI|2;2.04||||Brother|||
+@ID:	spa|linaza|PAD|||||Father|||
+@ID:	spa|linaza|MAD|||||Mother|||
+@ID:	spa|linaza|ADU|||||Adult|||
+@Tape Location:	tape 5
+@Comment:	J. Linaza , MJ. CACHO
+@Comment:	J Linaza and MJ Cacho are the investigators.
+@Situation:	JUAN Y JAIME SENTADOS EN EL SUELO CON LOS CACHORRITOS DE YUCA.
+*JAI:	papa papa .
+%mor:	n|papa&masc=pope n|papa&masc=pope . 
+%com:	Jaime se levanta y acha a andar .
+*PAD:	que .
+%mor:	prep|que=than . 
+*JAI:	papa ven .
+%mor:	n|papa&masc=pope co|ven=come . 
+*PAD:	donde .
+%mor:	pro:rel|donde=where . 
+*JAI:	ven .
+%mor:	co|ven=come . 
+*PAD:	donde quieres que vaya .
+%mor:	pro:rel|donde=where v|quere-2S&PRES=want prep|que=than co|vaya=come_on 
+	. 
+*JAI:	ven .
+%mor:	co|ven=come . 
+*PAD:	donde .
+%mor:	pro:rel|donde=where . 
+*JAI:	ven ven .
+%mor:	co|ven=come co|ven=come . 
+*CHI:	ya dejo de mamar .
+%mor:	adv|ya=already v|deja-1S&PRES=leave prep|de=of v|mama-INF=suck . 
+%com:	mirando a Yuca .
+*JAI:	ya ya .
+%mor:	adv|ya=already adv|ya=already . 
+*CHI:	ven .
+%mor:	co|ven=come . 
+*JAI:	eh .
+%mor:	co|eh . 
+*CHI:	ven sientate sientate .
+%mor:	co|ven=come v|senti-3S&IMP~pro:clit|2S v|senti-3S&IMP~pro:clit|2S . 
+%com:	Jaime se sienta de espaldas a la camara .
+*PAD:	a_ver .
+%mor:	co|a_ver=see . 
+*PAD:	ponte así para que se vea mejor así .
+%mor:	v|pone-2S&IMP~pro:clit|2S adv|así=thus prep|para=for prep|que=than pro:per|se=itself 
+	v|ve-13S&SUB&PRES=see adj|mejor=better adv|así=thus . 
+*PAD:	huy que bonito !
+%mor:	co|huy=oh prep|que=than adj|bonito-MASC=pretty ! 
+*PAD:	suave eh ?
+%mor:	adj|suave=smooth co|eh ? 
+*PAD:	muy suave .
+%mor:	adv|muy=very adj|suave=smooth . 
+*PAD:	muy suave .
+%mor:	adv|muy=very adj|suave=smooth . 
+*CHI:	mira mira el mío +...
+%mor:	co|mira=look co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine 
+	+... 
+*CHI:	acariciale .
+%mor:	v|acaricia-2S&IMP~pro:clit|3S . 
+*JAI:	ah ah .
+%mor:	co|ah co|ah . 
+%com:	acariciandole .
+*CHI:	a_ver el tuyo .
+%mor:	co|a_ver=see det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours . 
+%com:	cogiendo el cachorro de j .
+*JAI:	mira .
+%mor:	co|mira=look . 
+*JAI:	guau guau .
+%mor:	n|guau&masc=dog n|guau&masc=dog . 
+*CHI:	coge el otro ahora .
+%mor:	v|coge-3S&PRES=take det:art|el&MASC&SG=the pro:indef|otro=other adv|ahora=now 
+	. 
+*JAI:	eh .
+%mor:	co|eh . 
+%com:	volviendo la espalda a la camara .
+*CHI:	coge este Jaime .
+%mor:	v|coge-3S&PRES=take det:dem|este=this n:prop|Jaime . 
+*JAI:	ah este .
+%mor:	co|ah det:dem|este=this . 
+*PAD:	espera Jaime .
+%mor:	v|espera-3S&PRES=wait n:prop|Jaime . 
+*PAD:	pero sientate .
+%mor:	conj|pero=but v|senti-3S&IMP~pro:clit|2S . 
+*JAI:	eh .
+%mor:	co|eh . 
+*CHI:	ven aquí .
+%mor:	co|ven=come adv|aquí=here . 
+*PAD:	quietos Juan quietos .
+%mor:	adj|quieto-MASC-PL=still n:prop|Juan adj|quieto-MASC-PL=still . 
+%com:	volvien do a Jaime de cara ala camara .
+*PAD:	es que no lo dejas al pobre perro .
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no pro:per:1|lo&masc=him v|deja-2S&PRES=leave 
+	prep|a~det|el&MASC co:voc|pobre=poor_thing n|perro-MASC=dog . 
+*PAD:	tu sientate aquí así .
+%mor:	det:pos|tu=your v|senti-3S&IMP~pro:clit|2S adv|aquí=here adv|así=thus 
+	. 
+*PAD:	cual es el tuyo .
+%mor:	pro:rel|cual=which v|se-3S&PRES=be det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours 
+	. 
+*JAI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	cogiendo su cachorro .
+*PAD:	ese es el tuyo .
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours 
+	. 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	suave suave .
+%mor:	adj|suave=smooth adj|suave=smooth . 
+*PAD:	que le haces daño .
+%mor:	prep|que=than pro:per|le=him v|hace-2S&PRES=do n|daño&masc=damage . 
+*PAD:	suave .
+%mor:	adj|suave=smooth . 
+*CHI:	Jaime dejale idiota .
+%mor:	n:prop|Jaime v|deja-2S&IMP~pro:clit|3S n|idiota&fem=idiot . 
+%com:	levantandose va a quitarle el cachorro .
+*PAD:	no no dejale no .
+%mor:	adv|no=no adv|no=no v|deja-2S&IMP~pro:clit|3S co|no=no . 
+*PAD:	suave dejale suave .
+%mor:	adj|suave=smooth v|deja-2S&IMP~pro:clit|3S adj|suave=smooth . 
+*ADU:	dejale entre las piernas Jaime xxx .
+%mor:	v|deja-2S&IMP~pro:clit|3S prep|entre=between det:art|el&FEM-PL=the n|pierna&fem-PL=leg 
+	n:prop|Jaime . 
+*MAD:	<entre las piernas> [/] entre las piernas .
+%mor:	prep|entre=between det:art|el&FEM-PL=the n|pierna&fem-PL=leg . 
+*ADU:	suéltale suéltale .
+%mor:	v|solta-2S&IMP~pro:clit|3S v|solta-2S&IMP~pro:clit|3S . 
+*CHI:	así .
+%mor:	adv|así=thus . 
+*ADU:	sí .
+%mor:	co|sí=yes . 
+*MAD:	donde quiere ir ?
+%mor:	pro:rel|donde=where v|quere-3S&PRES=want v|i-INF=go ? 
+%com:	los ninos tienen entre las piernas un cachorro cada uno .
+*MAD:	quiere tocar tu pijama .
+%mor:	v|quere-3S&PRES=want v|toca-INF=touch det:pos|tu=your n|pijama&fem=pyjamas 
+	. 
+*MAD:	ven aquí .
+%mor:	co|ven=come adv|aquí=here . 
+*CHI:	mira el mío .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+*CHI:	mira el mío .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+*CHI:	ay !
+%mor:	co|ay=ay ! 
+*CHI:	el mío quiere salir .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine v|quere-3S&PRES=want v|sali-INF=leave 
+	. 
+*MAD:	bueno bueno .
+%mor:	co|bueno=good co|bueno=good . 
+*ADU:	dejale a_ver donde quiere .
+%mor:	v|deja-2S&IMP~pro:clit|3S co|a_ver=see pro:rel|donde=where v|quere-3S&PRES=want 
+	. 
+*JAI:	a nene .
+%mor:	prep|a=to co:voc|nene=baby . 
+*JAI:	cachorro .
+%mor:	n|cachorro&masc=puppy . 
+*CHI:	y a donde quiere .
+%mor:	coord|y=and prep|a=to pro:rel|donde=where v|quere-3S&PRES=want . 
+*JAI:	ah ah .
+%mor:	co|ah co|ah . 
+*CHI:	aunque quiera no puede salir .
+%mor:	conj|aunque=though v|quere-13S&SUB&PRES=want adv|no=no v|pode-3S&PRES=can 
+	v|sali-INF=leave . 
+*PAD:	que dice el tuyo Jaime .
+%mor:	prep|que=than v|deci-3S&PRES=say det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours 
+	n:prop|Jaime . 
+*JAI:	ay ay ay ay .
+%mor:	co|ay=ay co|ay=ay co|ay=ay co|ay=ay . 
+*PAD:	que dice .
+%mor:	prep|que=than v|deci-3S&PRES=say . 
+*JAI:	ay ay nau@b nau@b .
+%mor:	co|ay=ay co|ay=ay bab|nau bab|nau . 
+*CHI:	pero a este cachorrito .
+%mor:	conj|pero=but prep|a=to det:dem|este=this n|cachorro-DIM-MASC=puppy . 
+%com:	intenta quitar el cachorro a j .
+*JAI:	nau@b nau@b nau@b .
+%mor:	bab|nau bab|nau bab|nau . 
+*PAD:	no no se lo quites Juan .
+%mor:	adv|no=no adv|no=no pro:per|se=itself pro:per:1|lo&masc=him v|quita-2S&SUB&PRES=remove 
+	n:prop|Juan . 
+*MAD:	sabes lo que le gusta al perro ?
+%mor:	co|sabes=you_know pro:per:1|lo&masc=him prep|que=than pro:per|le=him v|gusta-3S&PRES=like 
+	prep|a~det|el&MASC n|perro-MASC=dog ? 
+*MAD:	tu pijama Jaime .
+%mor:	det:pos|tu=your n|pijama&fem=pyjamas n:prop|Jaime . 
+*CHI:	ji ji xxx .
+%mor:	co|ji=ha co|ji=ha . 
+%com:	examinando su cachorro .
+*CHI:	gamberro gamberro ay !
+%mor:	n|gamberro-MASC=prostitute n|gamberro-MASC=prostitute co|ay=ay ! 
+*CHI:	le están creciendo las tetas .
+%mor:	pro:per|le=him v|esta-3P&PRES=be v|crece-PROG=grow det:art|el&FEM-PL=the 
+	n|teta&fem-PL=teat . 
+*MAD:	seguro (.) quien se está tirando eso pedos ?
+%mor:	co|seguro=sure pro:rel|quien=who pro:per|se=itself v|esta-3S&PRES=be v|tira-PROG=throw 
+	pro:dem|eso=that_one n|pedo&masc-PL=fart ? 
+*MAD:	eh .
+%mor:	co|eh . 
+*JAI:	ji ji ji .
+%mor:	co|ji=ha co|ji=ha co|ji=ha . 
+*JAI:	mama ma mama .
+%mor:	n|mama&fem=mamma co|ma n|mama&fem=mamma . 
+*CHI:	ay .
+%mor:	co|ay=ay . 
+%com:	levantandose con el cachorrillo .
+*CHI:	si yo les .
+%mor:	conj|si=if pro:per|yo=I pro:per|le-PL=them . 
+%com:	el cachorro de Jaime se va y el lo sigue .
+*MAD:	no .
+%mor:	adv|no=no . 
+*MAD:	cuidado cuidado Jaime .
+%mor:	co|cuidado=careful co|cuidado=careful n:prop|Jaime . 
+*CHI:	Jaime !
+%mor:	n:prop|Jaime ! 
+*CHI:	dejale dejale .
+%mor:	v|deja-2S&IMP~pro:clit|3S v|deja-2S&IMP~pro:clit|3S . 
+*ADU:	dejalo Jaime a_ver .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC n:prop|Jaime co|a_ver=see . 
+*ADU:	que de un paseo .
+%mor:	prep|que=than prep|de=of det:art|un&masc=one n|paseo&masc=walk . 
+*ADU:	hombre !
+%mor:	co|hombre ! 
+*CHI:	yo le dejo que se de un +...
+%mor:	pro:per|yo=I pro:per|le=him v|deja-1S&PRES=leave prep|que=than pro:per|se=itself 
+	prep|de=of det:art|un&masc=one +... 
+%com:	Jaime se pone de pie .
+*CHI:	paseo el mío .
+%mor:	n|paseo&masc=walk det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+*ADU:	tened cuidado de no pisarles xxx .
+%mor:	v|tene-2P&IMP=have n|cuidado&masc=care prep|de=of adv|no=no v|pisa-INF~pro:clit|3P 
+	. 
+%com:	Yuca va donde los cachorros .
+*CHI:	ahora Yuca les coge .
+%mor:	adv|ahora=now n:prop|Yuca pro:per|le-PL=them v|coge-3S&PRES=take . 
+*MAD:	dejales Juan xxx .
+%mor:	v|deja-2S&IMP~pro:clit|3P n:prop|Juan . 
+*CHI:	mira .
+%mor:	co|mira=look . 
+*CHI:	yo les dejo aquí .
+%mor:	pro:per|yo=I pro:per|le-PL=them v|deja-1S&PRES=leave adv|aquí=here . 
+*MAD:	eres un exagera(d)o que por dios !
+%mor:	v|se-2S&PRES=be det:art|un&masc=one part|exagera-PPART&MASC=exagerate 
+	prep|que=than prep|por=for n|dios&masc=diety ! 
+*CHI:	me gustan (.) los perritos .
+%mor:	pro:per|me=me v|gusta-3P&PRES=like det:art|el&MASC-PL=the n|perro-DIM-MASC-PL=dog 
+	. 
+*MAD:	le está costando xxx .
+%mor:	pro:per|le=him v|esta-3S&PRES=be v|costa-PROG=cost . 
+*CHI:	los perritos eh .
+%mor:	det:art|el&MASC-PL=the n|perro-DIM-MASC-PL=dog co|eh . 
+*JAI:	eh .
+%mor:	co|eh . 
+*CHI:	Jaime sientate sientate .
+%mor:	n:prop|Jaime v|senti-3S&IMP~pro:clit|2S v|senti-3S&IMP~pro:clit|2S . 
+%com:	Jaime se sienta de nuevo .
+*JAI:	ay ay ay ay .
+%mor:	co|ay=ay co|ay=ay co|ay=ay co|ay=ay . 
+*CHI:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*JAI:	ay ay ay .
+%mor:	co|ay=ay co|ay=ay co|ay=ay . 
+%com:	J se sienta también con los dos perritos .
+*PAD:	ahora se ve mejor (.) qué_tal tu perrito Jaime .
+%mor:	adv|ahora=now pro:per|se=itself co|ve=see adj|mejor=better co|qué_tal=how_are_you 
+	det:pos|tu=your n|perro-DIM-MASC=dog n:prop|Jaime . 
+*CHI:	ven toma [/] toma ahí .
+%mor:	co|ven=come v|toma-3S&PRES=take adv|ahí=there . 
+*CHI:	este es el tuyo .
+%mor:	det:dem|este=this v|se-3S&PRES=be det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours 
+	. 
+*CHI:	este es el mío .
+%mor:	det:dem|este=this v|se-3S&PRES=be det:art|el&MASC&SG=the pro:pos|mío-MASC=mine 
+	. 
+*JAI:	no .
+%mor:	adv|no=no . 
+*JAI:	no eh may@c ay .
+%mor:	co|no=no co|eh chi|may co|ay=ay . 
+*CHI:	ven aquí ven aquí (.) ya anda ya anda ya son mayores ya anda .
+%mor:	co|ven=come adv|aquí=here co|ven=come adv|aquí=here adv|ya=already co|anda=come_on 
+	adv|ya=already co|anda=come_on adv|ya=already v|se-3P&PRES=be adj|mayor-PL=elder 
+	adv|ya=already co|anda=come_on . 
+*JAI:	eh .
+%mor:	co|eh . 
+*CHI:	dámelo déjalo .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC v|deja-2S&IMP~pro:clit|OBJ&MASC 
+	. 
+*CHI:	ven aquí ehyi [: allí] du [: tu] ven aquí ven aquí chiquitín .
+%mor:	co|ven=come adv|aquí=here adv|allí=there det:pos|tu=your co|ven=come 
+	adv|aquí=here co|ven=come adv|aquí=here n|chiquitín&masc=infant . 
+*PAD:	cada uno el suyo y tu el tuyo .
+%mor:	det:indef|cada=each det:art|un-MASC=one det:art|el&MASC&SG=the pro:pos|suyo-MASC=his 
+	coord|y=and det:pos|tu=your det:art|el&MASC&SG=the pro:pos|tuyo-MASC=yours 
+	. 
+*CHI:	ven mío .
+%mor:	co|ven=come pro:pos|mío-MASC=mine . 
+*JAI:	no no .
+%mor:	adv|no=no adv|no=no . 
+*PAD:	xxx sientate y abre bien las piernas .
+%mor:	v|senti-3S&IMP~pro:clit|2S coord|y=and v|abri-3S&PRES=open adv|bien=well 
+	det:art|el&FEM-PL=the n|pierna&fem-PL=leg . 
+*MAD:	abre bien las piernas Juan .
+%mor:	v|abri-3S&PRES=open adv|bien=well det:art|el&FEM-PL=the n|pierna&fem-PL=leg 
+	n:prop|Juan . 
+*PAD:	abre las piernas .
+%mor:	v|abri-3S&PRES=open det:art|el&FEM-PL=the n|pierna&fem-PL=leg . 
+*PAD:	abrelas así .
+%mor:	v|abri-2S&IMP~pro:clit|OBJ&FEM&PL adv|así=thus . 
+*PAD:	abrelas .
+%mor:	v|abri-2S&IMP~pro:clit|OBJ&FEM&PL . 
+*JAI:	mai@b mai@b mai@b .
+%mor:	bab|mai bab|mai bab|mai . 
+%com:	los ninos tienen los cachoros entre las piernas .
+*JAI:	ven ven .
+%mor:	co|ven=come co|ven=come . 
+*CHI:	Jaime abre las piernas así .
+%mor:	n:prop|Jaime v|abri-3S&PRES=open det:art|el&FEM-PL=the n|pierna&fem-PL=leg 
+	adv|así=thus . 
+*CHI:	ahora dejale .
+%mor:	adv|ahora=now v|deja-2S&IMP~pro:clit|3S . 
+*ADU:	pero Juan ocupate tu del tuyo .
+%mor:	conj|pero=but n:prop|Juan v|ocupa-2S&IMP~pro:clit|2S det:pos|tu=your prep|de~det|el&MASC 
+	pro:pos|tuyo-MASC=yours . 
+*PAD:	xxx del suyo tranquilas .
+%mor:	prep|de~det|el&MASC pro:pos|suyo-MASC=his adj|tranquilo-FEM-PL=calm . 
+*CHI:	mira el mío .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+*CHI:	abre la boca .
+%mor:	v|abri-3S&PRES=open det:art|el&FEM&SG=the n|boca&fem=mouth . 
+*CHI:	como a Yuca .
+%mor:	adv|como=like prep|a=to n:prop|Yuca . 
+*CHI:	a que sí .
+%mor:	prep|a=to prep|que=than co|sí=yes . 
+*MAD:	claro .
+%mor:	co|claro=obvious . 
+*CHI:	los dos iguales .
+%mor:	det:art|el&MASC-PL=the det:num|dos=two adj|igual-PL=equal . 
+*CHI:	este quiere ir a mamar (.) este se va con su hermanito .
+%mor:	det:dem|este=this v|quere-3S&PRES=want v|i-INF=go prep|a=to v|mama-INF=suck 
+	det:dem|este=this pro:per|se=itself v|i-3S&PRES=go prep|con=with det:pos|su&3S=his 
+	n|hermano-DIM-MASC=sibling . 
+*JAI:	va .
+%mor:	v|i-3S&PRES=go . 
+*CHI:	va .
+%mor:	v|i-3S&PRES=go . 
+%com:	poniendose de espaldas a la camara .
+*PAD:	es que te pones justo en medio .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|te=you v|pone-2S&PRES=put adv|justo=completely 
+	prep|en=in adj|medio-MASC=half . 
+%com:	poniendole en otro sitio . Jaime juega con el cachorro , le pone el dedo en la boca y lo quita rapidamente .
+*PAD:	hijo no se como lo .
+%mor:	co:voc|hijo=child adv|no=no pro:per|se=itself adv|como=like pro:per:1|lo&masc=him 
+	. 
+*PAD:	mira le gusta tu pijama .
+%mor:	co|mira=look pro:per|le=him v|gusta-3S&PRES=like det:pos|tu=your n|pijama&fem=pyjamas 
+	. 
+*JAI:	eh .
+%mor:	co|eh . 
+*PAD:	le gusta tu pijama .
+%mor:	pro:per|le=him v|gusta-3S&PRES=like det:pos|tu=your n|pijama&fem=pyjamas 
+	. 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	y tu dedo a_ver le gusta tu dedo yo creo .
+%mor:	coord|y=and det:pos|tu=your n|dedo&masc=finger co|a_ver=see pro:per|le=him 
+	v|gusta-3S&PRES=like det:pos|tu=your n|dedo&masc=finger pro:per|yo=I v|cree-1S&PRES=believe 
+	. 
+@End

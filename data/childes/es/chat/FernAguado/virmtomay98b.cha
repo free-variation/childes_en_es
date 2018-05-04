@@ -1,0 +1,534 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	VIR Virginia Target_Child , MTO Maite Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|VIR|3;5.12||||Target_Child|||
+@ID:	spa|fernaguado|MTO|3;5.11||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	01-JUN-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	VIR y MTO juegan con el barco
+*MTO:	y éste dónde va ?
+%mor:	coord|y=and pro:dem|éste=this_one pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+%com:	le pregunta a Virginia dónde colocar el puesto del vigía
+*MTO:	éste dónde va ?
+%mor:	pro:dem|éste=this_one pro:int|dónde=where v|i-3S&PRES=go ? 
+%com:	me pregunta a mi
+*MTO:	aquí ?
+%mor:	adv|aquí=here ? 
+*INV:	mira en el dibujo a_ver .
+%mor:	co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design co|a_ver=see 
+	. 
+*MTO:	no .
+%mor:	adv|no=no . 
+*VIR:	a_ver .
+%mor:	co|a_ver=see . 
+*MTO:	solito !
+%mor:	adj|solo-DIM-MASC=alone ! 
+*INV:	yo creo que +/.
+%mor:	pro:per|yo=I v|cree-1S&PRES=believe prep|que=than +/. 
+*VIR:	mira (.) <este señor> [//] este capitán está ahí .
+%mor:	co|mira=look det:dem|este=this n|capitán&masc=captain v|esta-3S&PRES=be 
+	adv|ahí=there . 
+*VIR:	pues eso .
+%mor:	co|pues=well pro:dem|eso=that_one . 
+*MTO:	va aquí ?
+%mor:	v|i-3S&PRES=go adv|aquí=here ? 
+%com:	señala la parte delantera del barco
+*VIR:	ahí no .
+%mor:	adv|ahí=there adv|no=no . 
+*VIR:	va +//.
+%mor:	v|i-3S&PRES=go +//. 
+*VIR:	sí .
+%mor:	co|sí=yes . 
+*VIR:	sí va ahí .
+%mor:	adv|sí=yes v|i-3S&PRES=go adv|ahí=there . 
+*MTO:	me parese [: parece] [*] que sí .
+%mor:	pro:per|me=me v|parece-3S&PRES=seem prep|que=than co|sí=yes . 
+*VIR:	ahora hay tres !
+%mor:	adv|ahora=now v|habe-3S&PRES&SPEC=have det:num|tres=three ! 
+%com:	tres redes
+*VIR:	y esto (.) aquí .
+%mor:	coord|y=and det:dem|este-MASC=this adv|aquí=here . 
+*MTO:	mira (.) como se monta !
+%mor:	co|mira=look adv|como=like pro:per|se=itself v|monta-3S&PRES=climb_on 
+	! 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*MTO:	y esto dónde va ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+%com:	coge unas de las velas del barco
+*INV:	a_ver (.) yo creo que +/.
+%mor:	co|a_ver=see pro:per|yo=I v|cree-1S&PRES=believe prep|que=than +/. 
+*VIR:	y esto dónde va ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+%com:	coge las otras velas y mira en el dibujo
+*INV:	va dónde los palos esos negros (.) los mástiles .
+%mor:	v|i-3S&PRES=go pro:int|dónde=where det:art|el&MASC-PL=the n|palo&masc-PL=stick 
+	det:dem|ese-MASC-PL=that adj|negro-MASC-PL=black det:art|el&MASC-PL=the 
+	n|mástil&masc-PL=mast . 
+*VIR:	mira un parche en el ojo !
+%mor:	co|mira=look det:art|un&masc=one n|parche&masc=plaster prep|en=in det:art|el&MASC&SG=the 
+	n|ojo&masc=eye ! 
+*INV:	van colgados como la bandera .
+%mor:	v|i-3P&PRES=go v|colga-2P&IMP~pro:clit|2P adv|como=like det:art|el&FEM&SG=the 
+	n|bandera&fem=banner . 
+*VIR:	cuál es la bandera ?
+%mor:	pro:int|cuál=which v|se-3S&PRES=be det:art|el&FEM&SG=the n|bandera&fem=banner 
+	? 
+*INV:	la que ha puesto Maite .
+%mor:	det:art|el&FEM&SG=the prep|que=than co|ha part|pone-PPART-MASC=put n:prop|Maite 
+	. 
+*MTO:	la +/.
+%mor:	det:art|el&FEM&SG=the +/. 
+*VIR:	ésta ?
+%mor:	pro:dem|éste-FEM=this_one ? 
+*INV:	esa .
+%mor:	det:dem|ese-FEM=that . 
+*VIR:	es igual que ésta .
+%mor:	v|se-3S&PRES=be co|igual=equal prep|que=than pro:dem|éste-FEM=this_one 
+	. 
+%com:	señala la bandera del dibujo
+*INV:	claro (.) es la misma .
+%mor:	co|claro=obvious v|se-3S&PRES=be det:art|el&FEM&SG=the adj|mismo-FEM=same 
+	. 
+*INV:	venga (.) a_ver como se pone .
+%mor:	co|venga=come_on co|a_ver=see adv|como=like pro:per|se=itself v|pone-3S&PRES=put 
+	. 
+*INV:	en el de atrás .
+%mor:	prep|en=in det:art|el&MASC&SG=the prep|de=of adv|atrás=back . 
+*MTO:	<en el de> [/] aquí .
+%mor:	adv|aquí=here . 
+%com:	le indica dónde ponerla a VIR que está intentando colocarla
+*INV:	ahí pero más arriba .
+%mor:	adv|ahí=there conj|pero=but adv|más=more adv|arriba=above . 
+*INV:	ahí [/] ahí .
+%mor:	adv|ahí=there . 
+*VIR:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	sí sabes (.) sí .
+%mor:	co|sí=yes co|sabes=you_know co|sí=yes . 
+*INV:	como Maite pero más arriba que ahí es muy gordo .
+%mor:	adv|como=like n:prop|Maite conj|pero=but adv|más=more adv|arriba=above 
+	prep|que=than adv|ahí=there v|se-3S&PRES=be adv|muy=very adj|gordo-MASC=fat 
+	. 
+*VIR:	así .
+%mor:	adv|así=thus . 
+*INV:	muy bien (.) está muy bien .
+%mor:	adv|muy=very adv|bien=well v|esta-3S&PRES=be adv|muy=very adv|bien=well 
+	. 
+*MTO:	falta esto y esto falta y falta esto también .
+%mor:	v|falta-3S&PRES=be_lacking det:dem|este-MASC=this coord|y=and det:dem|este-MASC=this 
+	v|falta-3S&PRES=be_lacking coord|y=and v|falta-3S&PRES=be_lacking det:dem|este-MASC=this 
+	adv|también=also . 
+%com:	la mesa el catalejo y el cofre
+*MTO:	y esto dónde va ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+*VIR:	ah (.) los capiteles@s:eus [*] !
+%mor:	co|ah det:art|el&MASC-PL=the L2|capiteles ! 
+*MTO:	ay (.) que hay que cerrar esto .
+%mor:	co|ay=ay prep|que=than v|habe-3S&PRES&SPEC=have prep|que=than v|cerra-INF=close 
+	det:dem|este-MASC=this . 
+%com:	la habitación del capitán
+*MTO:	ya está pero (.) así .
+%mor:	adv|ya=already v|esta-3S&PRES=be conj|pero=but adv|así=thus . 
+*MTO:	y éste dónde va +/?
+%mor:	coord|y=and pro:dem|éste=this_one pro:int|dónde=where v|i-3S&PRES=go 
+	+/? 
+*VIR:	mira !
+%mor:	co|mira=look ! 
+%com:	pone los piratas encima del barco
+*MTO:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	se acerca al dibujo para ver como están las cosas colocadas
+*VIR:	pues así [=! señalando] !
+%mor:	co|pues=well adv|así=thus ! 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*MTO:	y el ba(r)co [*] al agua .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|barco-MASC=boat prep|a~det|el&MASC 
+	n|agua&fem=water . 
+*VIR:	mira !
+%mor:	co|mira=look ! 
+*MTO:	y éste aquí .
+%mor:	coord|y=and pro:dem|éste=this_one adv|aquí=here . 
+%com:	pone el cofre en el barco
+*INV:	o en el barco pequeño .
+%mor:	coord|o=or prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat adj|pequeño-MASC=small 
+	. 
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	o ahí .
+%mor:	coord|o=or adv|ahí=there . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*MTO:	eso ahí .
+%mor:	pro:dem|eso=that_one adv|ahí=there . 
+*MTO:	pero aquí me ha ponido [*] mi mamá una tirita (.) eh ?
+%mor:	conj|pero=but adv|aquí=here pro:per|me=me co|ha part|pone-PPART&MASC=put 
+	det:pos|mi=my n|mamá&fem=mommy det:art|un-FEM=one n|tirita&fem=harness 
+	co|eh ? 
+*INV:	te has hecho pupa@f ?
+%mor:	pro:per|te=you v|habe-2S&PRES=have n|hecho&masc=action fam|pupa ? 
+*MTO:	0 [=! asintiendo] .
+*MTO:	entonces (.) no me duele (.) eh ?
+%mor:	adv|entonces=then adv|no=no pro:per|me=me v|dole-3S&PRES=hurt co|eh ? 
+*INV:	no ?
+%mor:	adv|no=no ? 
+*MTO:	0 [=! negando] .
+*INV:	menos mal .
+%mor:	adv|menos=less adv|mal=badly . 
+*MTO:	y esto en el agua (.) así .
+%mor:	coord|y=and det:dem|este-MASC=this prep|en=in det:art|el&MASC&SG=the n|agua&fem=water 
+	adv|así=thus . 
+%com:	el cofre
+*MTO:	<a ver> [/] a_ver lo que hay .
+%mor:	co|a_ver=see pro:per:1|lo&masc=him prep|que=than v|habe-3S&PRES&SPEC=have 
+	. 
+*MTO:	qué hay ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have ? 
+*INV:	no se puede abrir .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open . 
+*MTO:	pero mira +...
+%mor:	conj|pero=but co|mira=look +... 
+*INV:	y los piratas qué hacían ahora ?
+%mor:	coord|y=and det:art|el&MASC-PL=the n|pirata&masc-PL=pirate pro:int|qué=what 
+	v|hace-3P&PAS=do adv|ahora=now ? 
+*MTO:	y los piratas ?
+%mor:	coord|y=and det:art|el&MASC-PL=the n|pirata&masc-PL=pirate ? 
+*MTO:	alguno está aquí (.) eh ?
+%mor:	det:indef|algún-MASC=some v|esta-3S&PRES=be adv|aquí=here co|eh ? 
+*VIR:	sí .
+%mor:	co|sí=yes . 
+*VIR:	alguno (.) lo he metido yo .
+%mor:	det:indef|algún-MASC=some pro:per:1|lo&masc=him co|he adj|metido-MASC=lodged 
+	pro:per|yo=I . 
+*VIR:	sí .
+%mor:	co|sí=yes . 
+*VIR:	lo he metido .
+%mor:	pro:per:1|lo&masc=him co|he adj|metido-MASC=lodged . 
+%com:	saca el pirata de la habitación
+*MTO:	sí pero [/] pero aquí va(l)e [*] pero güego [: luego] [*] lo sacas afuera (.) eh ?
+%mor:	co|sí=yes conj|pero=but adv|aquí=here co|vale=okay conj|pero=but adv|luego=afterwards 
+	pro:per:1|lo&masc=him v|saca-2S&PRES=bring_out co|afuera co|eh ? 
+*MTO:	sabes (.) pero mira [/] mira (.) dónde está ?
+%mor:	co|sabes=you_know conj|pero=but co|mira=look pro:int|dónde=where v|esta-3S&PRES=be 
+	? 
+%com:	busca el pirata que estaba en la habitación y ha cogido antes VIR
+*MTO:	de [/] de aquí .
+%mor:	prep|de=of adv|aquí=here . 
+%com:	señala la habitación
+*VIR:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*MTO:	ya se ha pe(r)dido [*] (.) eh ?
+%mor:	adv|ya=already pro:per|se=itself co|ha part|perde-PPART&MASC=lose co|eh 
+	? 
+*INV:	cuál se ha perdido ?
+%mor:	pro:int|cuál=which pro:per|se=itself co|ha part|perde-PPART&MASC=lose 
+	? 
+*MTO:	de aquí .
+%mor:	prep|de=of adv|aquí=here . 
+%com:	señala la habitación
+*MTO:	que hay ?
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have ? 
+*INV:	lo tiene Virginia .
+%mor:	pro:per:1|lo&masc=him v|tene-3S&PRES=have n:prop|Virginia . 
+*MTO:	está aquí !
+%mor:	v|esta-3S&PRES=be adv|aquí=here ! 
+%com:	lo señala
+*INV:	ese cuál es (.) el capitán ?
+%mor:	det:dem|ese=that pro:int|cuál=which v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|capitán&masc=captain ? 
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	se ha roto una pata [*] !
+%mor:	pro:per|se=itself co|ha part|rompe-PPART-MASC=break det:art|un-FEM=one 
+	n|pata&fem=animal_foot ! 
+*INV:	<pata de palo> [/] es pata de palo .
+%mor:	v|se-3S&PRES=be n|pata&fem=animal_foot prep|de=of n|palo&masc=stick . 
+*MTO:	sí (.) pero se ha roto una pata [*] (.) de palo !
+%mor:	co|sí=yes conj|pero=but pro:per|se=itself co|ha part|rompe-PPART-MASC=break 
+	det:art|un-FEM=one n|pata&fem=animal_foot prep|de=of n|palo&masc=stick 
+	! 
+*VIR:	ésta bien porque no puede andar (.) mira .
+%mor:	pro:dem|éste-FEM=this_one adv|bien=well conj|porque=because adv|no=no 
+	v|pode-3S&PRES=can v|anda-INF=walk co|mira=look . 
+*MTO:	no puede andar (.) eh ?
+%mor:	adv|no=no v|pode-3S&PRES=can v|anda-INF=walk co|eh ? 
+%com:	habla dirigiéndose a mi
+*VIR:	lo dejamos aquí para que se cure .
+%mor:	pro:per:1|lo&masc=him v|deja-1P&PRES=leave adv|aquí=here prep|para=for 
+	prep|que=than pro:per|se=itself v|cura-13S&SUB&PRES=cure . 
+*MTO:	sí .
+%mor:	co|sí=yes . 
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	o mejor aquí .
+%mor:	coord|o=or adj|mejor=better adv|aquí=here . 
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	se pone de pie (.) así .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put prep|de=of n|pie&masc=foot adv|así=thus 
+	. 
+%com:	lo ve en el dibujo y señala
+*VIR:	porque este capitán está de pie .
+%mor:	conj|porque=because det:dem|este=this n|capitán&masc=captain v|esta-3S&PRES=be 
+	prep|de=of n|pie&masc=foot . 
+%com:	lo ve en el dibujo y señala
+*MTO:	mira (.) así [/] así [/] así [/] <así era> [/] así era .
+%mor:	co|mira=look adv|así=thus v|se-13S&PAS=be . 
+%com:	lo ve en el dibujo y señala
+*MTO:	éste <va (.) mira> [/] va (.) mira (.) aquí .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go co|mira=look adv|aquí=here . 
+%com:	le quita de las manos el muñeco a VIR y lo coloca en el barco
+*VIR:	aquí mejor (.) mira .
+%mor:	adv|aquí=here adj|mejor=better co|mira=look . 
+*MTO:	va aquí .
+%mor:	v|i-3S&PRES=go adv|aquí=here . 
+*VIR:	aquí mejor (.) venga .
+%mor:	adv|aquí=here adj|mejor=better co|venga=come_on . 
+%com:	se lo quita a MTOte y lo pone en la barquita
+*MTO:	y éste va (.) po(r)que [*] se sube aquí .
+%mor:	coord|y=and pro:dem|éste=this_one v|i-3S&PRES=go conj|porque=because 
+	pro:per|se=itself v|subi-3S&PRES=go_up adv|aquí=here . 
+%com:	coge otro muñeco
+*MTO:	éste va aquí (.) vale ?
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go adv|aquí=here co|vale=okay ? 
+%com:	lo pone en el barco
+*VIR:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+%com:	en la barquita
+*MTO:	jo (.) así no se puede ab(r)ir [*] (.) eh ?
+%mor:	co|jo=whoa adv|así=thus adv|no=no pro:per|se=itself v|pode-3S&PRES=can 
+	v|abri-INF=open co|eh ? 
+%com:	quita el cofre de encima de la bodega dónde se guarda el cañón
+*MTO:	pues mejor en otro la(d)o (.) a que sí (.) o aquí (.) ves ?
+%mor:	co|pues=well adj|mejor=better prep|en=in pro:indef|otro=other n|lado&masc=side 
+	prep|a=to prep|que=than adv|sí=yes coord|o=or adv|aquí=here co|ves=see 
+	? 
+*MTO:	<a ve(r) [*]> [/] a ve(r) [*] que le vea el dibujo .
+%mor:	prep|a=to v|ve-INF=see prep|que=than pro:per|le=him v|ve-13S&SUB&PRES=see 
+	det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*MTO:	es que no veo el dibujo de la mesa (.) eh ?
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no v|ve-1S&PRES=see det:art|el&MASC&SG=the 
+	n|dibujo&masc=design prep|de=of det:art|el&FEM&SG=the n|mesa&fem=table 
+	co|eh ? 
+*VIR:	ah (.) se han caído !
+%mor:	co|ah pro:per|se=itself v|habe-3P&PRES=have part|cae-PPART&MASC=fall ! 
+%com:	pasea la barca llena de piratas y vuelcan
+*VIR:	pium^pium@o .
+%mor:	on|piumpium . 
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	a éste no le dispares (.) eh ?
+%mor:	prep|a=to pro:dem|éste=this_one adv|no=no pro:per|le=him v|dispara-2S&SUB&PRES=shoot 
+	co|eh ? 
+*VIR:	a cuál ?
+%mor:	prep|a=to pro:int|cuál=which ? 
+*MTO:	mira (.) el ot(r)o [*] es el capitán Garfio y el [*] Peter_Pan está volando .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:indef|otro=other v|se-3S&PRES=be 
+	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio coord|y=and 
+	det:art|el&MASC&SG=the n:prop|Peter_Pan v|esta-3S&PRES=be v|vola-PROG=fly 
+	. 
+*VIR:	mira la pata rota !
+%mor:	co|mira=look det:art|el&FEM&SG=the n|pata&fem=animal_foot part|rompe-PPART-FEM=break 
+	! 
+*MTO:	la pata rota .
+%mor:	det:art|el&FEM&SG=the n|pata&fem=animal_foot part|rompe-PPART-FEM=break 
+	. 
+*MTO:	la pata [=! riendo] .
+%mor:	det:art|el&FEM&SG=the n|pata&fem=animal_foot . 
+*VIR:	quién se la ha roto ?
+%mor:	pro:int|quién=who pro:per|se=itself det:art|el&FEM&SG=the co|ha part|rompe-PPART-MASC=break 
+	? 
+*MTO:	tengo Piolines !
+%mor:	v|tene-1S&PRES=have n:prop|Piolines ! 
+%com:	sus calcetines tienen el dibujo de Piolín
+*INV:	qué bonitos .
+%mor:	pro:int|qué=what adj|bonito-MASC-PL=pretty . 
+*MTO:	éste dónde va ?
+%mor:	pro:dem|éste=this_one pro:int|dónde=where v|i-3S&PRES=go ? 
+%com:	un muñeco
+*MTO:	éste va aquí (.) que aquí está otro (.) eh ?
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go adv|aquí=here prep|que=than adv|aquí=here 
+	v|esta-3S&PRES=be pro:indef|otro=other co|eh ? 
+*VIR:	y voy a poner +...
+%mor:	coord|y=and v|i-1S&PRES=go prep|a=to v|pone-INF=put +... 
+%com:	intenta poner su muñeco al lado del de MTOte pero ésta no le deja
+*MTO:	qué aquí está otro .
+%mor:	pro:int|qué=what adv|aquí=here v|esta-3S&PRES=be pro:indef|otro=other 
+	. 
+*MTO:	mira [/] mira se sube aquí .
+%mor:	co|mira=look pro:per|se=itself v|subi-3S&PRES=go_up adv|aquí=here . 
+*INV:	y qué hace desde ahí arriba ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3S&PRES=do prep|desde=from adv|ahí=there 
+	adv|arriba=above ? 
+*MTO:	que me caigo !
+%mor:	prep|que=than pro:per|me=me v|cae-1S&PRES=fall ! 
+*MTO:	jo (.) se ha caído al agua (.) eh ?
+%mor:	co|jo=whoa pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC 
+	n|agua&fem=water co|eh ? 
+*MTO:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*VIR:	yo no me caigo .
+%mor:	pro:per|yo=I adv|no=no pro:per|me=me v|cae-1S&PRES=fall . 
+*MTO:	ahora se va por el agua hasta allí .
+%mor:	adv|ahora=now pro:per|se=itself v|i-3S&PRES=go prep|por=for det:art|el&MASC&SG=the 
+	n|agua&fem=water prep|hasta=until adv|allí=there . 
+*MTO:	se cae allí .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall adv|allí=there . 
+*MTO:	y ese es el suelo .
+%mor:	coord|y=and det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the n|suelo&masc=floor 
+	. 
+*MTO:	y alguno se cae aquí .
+%mor:	coord|y=and det:indef|algún-MASC=some pro:per|se=itself v|cae-3S&PRES=fall 
+	adv|aquí=here . 
+*MTO:	alguno se cae .
+%mor:	det:indef|algún-MASC=some pro:per|se=itself v|cae-3S&PRES=fall . 
+*VIR:	sí .
+%mor:	co|sí=yes . 
+*MTO:	y éste también se cae .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also pro:per|se=itself 
+	v|cae-3S&PRES=fall . 
+*VIR:	mira [/] mira [/] mira éste .
+%mor:	co|mira=look pro:dem|éste=this_one . 
+*MTO:	a_ver .
+%mor:	co|a_ver=see . 
+*VIR:	espera [/] espera (.) a_ver .
+%mor:	v|espera-3S&PRES=wait co|a_ver=see . 
+*VIR:	ay !
+%mor:	co|ay=ay ! 
+*MTO:	se ha caído al agua .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*VIR:	ahora éste .
+%mor:	adv|ahora=now pro:dem|éste=this_one . 
+*MTO:	otra vez (.) aquí (.) otra aquí .
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn adv|aquí=here det:indef|otro-FEM=other 
+	adv|aquí=here . 
+*VIR:	ya no hay más .
+%mor:	adv|ya=already adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more . 
+%com:	piratas que tirar por la borda
+*MTO:	no .
+%mor:	adv|no=no . 
+*MTO:	no hay más .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more . 
+*MTO:	alguno está en el barco .
+%mor:	det:indef|algún-MASC=some v|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*VIR:	oy (.) no se como se pone .
+%mor:	co|oy adv|no=no pro:per|se=itself adv|como=like pro:per|se=itself v|pone-3S&PRES=put 
+	. 
+%com:	intenta cargar el arpón
+*MTO:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	intenta cogerle la barca
+*VIR:	espera que yo se .
+%mor:	v|espera-3S&PRES=wait prep|que=than pro:per|yo=I pro:per|se=itself . 
+*MTO:	sí (.) pero es que yo +/.
+%mor:	co|sí=yes conj|pero=but v|se-3S&PRES=be prep|que=than pro:per|yo=I +/. 
+*VIR:	no .
+%mor:	adv|no=no . 
+*VIR:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+%com:	estira las manos con la barca hacia mí para que le cargue el arpón
+*MTO:	no [/] no .
+%mor:	adv|no=no . 
+*VIR:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+%com:	se cae una de las velas del barco
+*MTO:	mira .
+%mor:	co|mira=look . 
+*VIR:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*VIR:	se ha caído esto .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:dem|este-MASC=this 
+	. 
+*INV:	ponlo <más arriba> [/] más arriba dónde está más delgadito (.) más arriba (.) más .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&MASC adv|más=more adv|arriba=above pro:int|dónde=where 
+	v|esta-3S&PRES=be adv|más=more adj|delgado-DIM-MASC=slender adv|más=more 
+	adv|arriba=above adv|más=more . 
+*MTO:	yo no se .
+%mor:	pro:per|yo=I adv|no=no pro:per|se=itself . 
+*INV:	más arriba Virginia (.) eso es .
+%mor:	adv|más=more adv|arriba=above n:prop|Virginia pro:dem|eso=that_one v|se-3S&PRES=be 
+	. 
+*MTO:	ya lo he intenta(d)o !
+%mor:	adv|ya=already pro:per:1|lo&masc=him co|he part|intenta-PPART&MASC=attempt 
+	! 
+%com:	consigue cargar el arpón y me lo enseña
+*VIR:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*MTO:	mira !
+%mor:	co|mira=look ! 
+%com:	se lo enseña a Virginia que no le hace caso
+*INV:	ponlo en el mástil de atrás .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&MASC prep|en=in det:art|el&MASC&SG=the n|mástil&masc=mast 
+	prep|de=of adv|atrás=back . 
+*MTO:	mira .
+%mor:	co|mira=look . 
+*INV:	en el de atrás .
+%mor:	prep|en=in det:art|el&MASC&SG=the prep|de=of adv|atrás=back . 
+*MTO:	ya lo he intenta(d)o !
+%mor:	adv|ya=already pro:per:1|lo&masc=him co|he part|intenta-PPART&MASC=attempt 
+	! 
+*MTO:	era así .
+%mor:	v|se-13S&PAS=be adv|así=thus . 
+*MTO:	a que era así ?
+%mor:	prep|a=to prep|que=than v|se-13S&PAS=be adv|así=thus ? 
+%com:	se dirige a mi
+*VIR:	no se !
+%mor:	adv|no=no pro:per|se=itself ! 
+%com:	sigue intentando colocar la vela
+*INV:	que te ayude Maite .
+%mor:	prep|que=than pro:per|te=you v|ayuda-13S&SUB&PRES=help n:prop|Maite . 
+*MTO:	a_ver (.) pues más aquí .
+%mor:	co|a_ver=see co|pues=well adv|más=more adv|aquí=here . 
+*INV:	sí pero arriba .
+%mor:	co|sí=yes conj|pero=but adv|arriba=above . 
+*INV:	abajo no .
+%mor:	adv|abajo=below adv|no=no . 
+*INV:	más arriba que abajo es muy gordo .
+%mor:	adv|más=more adv|arriba=above prep|que=than adv|abajo=below v|se-3S&PRES=be 
+	adv|muy=very adj|gordo-MASC=fat . 
+*MTO:	sí (.) pero +...
+%mor:	co|sí=yes conj|pero=but +... 
+*INV:	como la bandera .
+%mor:	adv|como=like det:art|el&FEM&SG=the n|bandera&fem=banner . 
+*MTO:	como esto no pero como ésta sí .
+%mor:	adv|como=like det:dem|este-MASC=this co|no=no conj|pero=but adv|como=like 
+	pro:dem|éste-FEM=this_one co|sí=yes . 
+%com:	señala la otra bandera
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	eso sí (.) ahí [/] ahí .
+%mor:	pro:dem|eso=that_one co|sí=yes adv|ahí=there . 
+*MTO:	así es (.) lo ves ?
+%mor:	adv|así=thus v|se-3S&PRES=be pro:per:1|lo&masc=him co|ves=see ? 
+*VIR:	así sí .
+%mor:	adv|así=thus co|sí=yes . 
+*MTO:	era así .
+%mor:	v|se-13S&PAS=be adv|así=thus . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*MTO:	era así (.) a que sí ?
+%mor:	v|se-13S&PAS=be adv|así=thus prep|a=to prep|que=than co|sí=yes ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*MTO:	pero &ma [//] &ma [//] más aquí no (.) eh ?
+%mor:	conj|pero=but adv|más=more adv|aquí=here adv|no=no co|eh ? 
+*INV:	no (.) porque es muy gordo (.) eh ?
+%mor:	co|no=no conj|porque=because v|se-3S&PRES=be adv|muy=very adj|gordo-MASC=fat 
+	co|eh ? 
+*VIR:	mira !
+%mor:	co|mira=look ! 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*MTO:	alguno le ayuda a éste .
+%mor:	det:indef|algún-MASC=some pro:per|le=him n|ayuda&fem=help prep|a=to pro:dem|éste=this_one 
+	. 
+@End

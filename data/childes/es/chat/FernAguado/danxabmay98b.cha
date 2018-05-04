@@ -1,0 +1,125 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	DAN Daniel Target_Child , XAB Xabier Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|DAN|3;1.17||||Target_Child|||
+@ID:	spa|fernaguado|XAB|2;11.27||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	06-MAY-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	DAN y XAB juegan con el barco
+*DAN:	éste para mí .
+%mor:	pro:dem|éste=this_one prep|para=for pro:per|mí=me . 
+*DAN:	tiene espada .
+%mor:	v|tene-3S&PRES=have n|espada&fem=sword . 
+*XAB:	pero no podemos pone(r) [*] así .
+%mor:	conj|pero=but adv|no=no v|pode-1P&PRES=can v|pone-INF=put adv|así=thus 
+	. 
+*XAB:	ésto ?
+%mor:	pro:dem|éste-MASC=this_one ? 
+%com:	intenta poner la bandera
+*XAB:	nada (.) se cae .
+%mor:	pro:indef|nada=nothing pro:per|se=itself v|cae-3S&PRES=fall . 
+*XAB:	mira .
+%mor:	co|mira=look . 
+*DAN:	aquí .
+%mor:	adv|aquí=here . 
+*XAB:	xxx .
+*DAN:	que está de espaldas (.) eh (.) éste [/] éste [/] éste (.) huy !
+%mor:	prep|que=than v|esta-3S&PRES=be prep|de=of n|espalda&fem-PL=back co|eh 
+	pro:dem|éste=this_one co|huy=oh ! 
+*XAB:	y ahora dónde va ésto ?
+%mor:	coord|y=and adv|ahora=now pro:int|dónde=where v|i-3S&PRES=go pro:dem|éste-MASC=this_one 
+	? 
+%com:	preguntan por las redes pero cada uno mira el barco a su manera
+*XAB:	y ésto ?
+%mor:	coord|y=and pro:dem|éste-MASC=this_one ? 
+%com:	mira el dibujo
+*XAB:	mira (.) oye Daniel .
+%mor:	co|mira=look co|oye=listen n:prop|Daniel . 
+*XAB:	Daniel .
+%mor:	n:prop|Daniel . 
+*XAB:	Daniel .
+%mor:	n:prop|Daniel . 
+%com:	le toca el brazo
+*XAB:	Daniel .
+%mor:	n:prop|Daniel . 
+%com:	lo gira hacia el dibujo
+*XAB:	ves ésto ?
+%mor:	co|ves=see pro:dem|éste-MASC=this_one ? 
+%com:	señala
+*DAN:	0 [=! ignorando] .
+*XAB:	no se dónde .
+%mor:	adv|no=no pro:per|se=itself pro:int|dónde=where . 
+*XAB:	no se pa(ra) +...
+%mor:	adv|no=no pro:per|se=itself prep|para=for +... 
+*XAB:	oy (.) se cae .
+%mor:	co|oy pro:per|se=itself v|cae-3S&PRES=fall . 
+*XAB:	capitán [/] capitán [/] capitán [/] capitán .
+%mor:	n|capitán&masc=captain . 
+%com:	canta .
+*XAB:	van (.) al agua .
+%mor:	v|i-3P&PRES=go prep|a~det|el&MASC n|agua&fem=water . 
+*XAB:	huy (.) la parte es esto .
+%mor:	co|huy=oh det:art|el&FEM&SG=the n|parte&fem=part v|se-3S&PRES=be det:dem|este-MASC=this 
+	. 
+%com:	mira el dibujo
+*XAB:	la parte es esto .
+%mor:	det:art|el&FEM&SG=the n|parte&fem=part v|se-3S&PRES=be det:dem|este-MASC=this 
+	. 
+*XAB:	sácame .
+%mor:	v|saca-2S&IMP~pro:clit|1S . 
+*XAB:	oh qué xxx .
+%mor:	co|oh=oh pro:int|qué=what . 
+%com:	cada niño juega por su lado sin hablarse
+*XAB:	a_ver (.) oy !
+%mor:	co|a_ver=see co|oy ! 
+%com:	se le mueve el barco .
+*XAB:	preparados .
+%mor:	v|prepara-2P&IMP~pro:clit|2P . 
+*XAB:	meter .
+%mor:	v|mete-INF=put . 
+%com:	juega con el cañón
+*INV:	y qué es eso ?
+%mor:	coord|y=and pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*XAB:	un silla .
+%mor:	det:art|un&masc=one n|silla&fem=chair . 
+*INV:	una silla para +...
+%mor:	det:art|un-FEM=one n|silla&fem=chair prep|para=for +... 
+*INV:	para qué son las sillas ?
+%mor:	prep|para=for pro:int|qué=what v|se-3P&PRES=be det:art|el&FEM-PL=the 
+	n|silla&fem-PL=chair ? 
+*INV:	para (.) sentarse (.) no ?
+%mor:	v|pari-13S&SUB&PRES=give_birth v|senta-INF~pro:clit|3S&REFL co|no=no ? 
+*INV:	las sillas son para sentarse .
+%mor:	det:art|el&FEM-PL=the n|silla&fem-PL=chair v|se-3P&PRES=be prep|para=for 
+	v|senta-INF~pro:clit|3S&REFL . 
+*XAB:	para sentarse .
+%mor:	prep|para=for v|senta-INF~pro:clit|3S&REFL . 
+*XAB:	qué ?
+%mor:	pro:int|qué=what ? 
+%com:	habla para sí
+*XAB:	qué no no !
+%mor:	pro:int|qué=what adv|no=no adv|no=no ! 
+*XAB:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*XAB:	éste es +/.
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be +/. 
+*XAB:	huy casi se +...
+%mor:	co|huy=oh adv|casi=almost pro:per|se=itself +... 
+*XAB:	aquí hay uno .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-MASC=one . 
+*XAB:	<pero ésto> [//] pero ésto (.) mira [/] mira va a subir .
+%mor:	conj|pero=but pro:dem|éste-MASC=this_one co|mira=look v|i-3S&PRES=go 
+	prep|a=to v|subi-INF=go_up . 
+*XAB:	aquí está el capitán .
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	. 
+*DAN:	oy (.) que la mesa !
+%mor:	co|oy prep|que=than det:art|el&FEM&SG=the n|mesa&fem=table ! 
+*XAB:	aquí está !
+%mor:	adv|aquí=here v|esta-3S&PRES=be ! 
+%com:	tira las bolas mientras Daniel sigue tocando el barco
+*XAB:	la pelota .
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball . 
+@End

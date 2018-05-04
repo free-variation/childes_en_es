@@ -1,0 +1,577 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ERI Erik Target_Child , JUN Julen Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|ERI|3;1.08||||Target_Child|||
+@ID:	spa|fernaguado|JUN|3;1.||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	12-MAY-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ERI y JUN juegan con el barco pirata
+*JUN:	pirata .
+%mor:	n|pirata&masc=pirate . 
+*ERI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*JUN:	porque éste es <el barco del pirata> [/] el barco del pirata .
+%mor:	conj|porque=because pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|barco-MASC=boat prep|de~det|el&MASC n|pirata&masc=pirate . 
+*ERI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+%com:	coloca el puesto del vigía y le pone un muñeco
+*ERI:	aquí está la escalera .
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&FEM&SG=the n|escalera&fem=staircase 
+	. 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	mira .
+%mor:	co|mira=look . 
+*JUN:	mira .
+%mor:	co|mira=look . 
+*ERI:	una (esco)peta [*] !
+%mor:	det:art|un-FEM=one n|escopeta&fem=gun ! 
+*JUN:	tiene una éste también .
+%mor:	v|tene-3S&PRES=have det:art|un-FEM=one pro:dem|éste=this_one adv|también=also 
+	. 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*ERI:	eh ?
+%mor:	co|eh ? 
+%com:	le enseña la mesa
+*JUN:	qué [/] qué te pasa ?
+%mor:	pro:int|qué=what pro:per|te=you v|pasa-3S&PRES=pass ? 
+*ERI:	una mesa .
+%mor:	det:art|un-FEM=one n|mesa&fem=table . 
+*JUN:	mira [/] mira .
+%mor:	co|mira=look . 
+*INV:	sí para jugar .
+%mor:	adv|sí=yes prep|para=for v|juga-INF=play . 
+*JUN:	es de xxx .
+%mor:	v|se-3S&PRES=be prep|de=of . 
+*JUN:	éste que decía que xxx xxx .
+%mor:	pro:dem|éste=this_one prep|que=than v|deci-13S&PAS=say prep|que=than 
+	. 
+*ERI:	una pelota !
+%mor:	det:art|un-FEM=one n|pelota&fem=ball ! 
+*JUN:	una pelota ?
+%mor:	det:art|un-FEM=one n|pelota&fem=ball ? 
+*JUN:	dónde está la pelota que da ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|pelota&fem=ball 
+	prep|que=than v|da-3S&PRES=give ? 
+*ERI:	oye mira !
+%mor:	co|oye=listen co|mira=look ! 
+%com:	intenta poner una vela
+*ERI:	una bandera (.) mira .
+%mor:	det:art|un-FEM=one n|bandera&fem=banner co|mira=look . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	una bandera aquí .
+%mor:	det:art|un-FEM=one n|bandera&fem=banner adv|aquí=here . 
+*JUN:	la bandera .
+%mor:	det:art|el&FEM&SG=the n|bandera&fem=banner . 
+%com:	ERI la intenta poner
+*JUN:	ahora qué hacemos ?
+%mor:	adv|ahora=now pro:int|qué=what v|hace-1P&PRES=do ? 
+*JUN:	ahora ésta está rota .
+%mor:	adv|ahora=now pro:dem|éste-FEM=this_one v|esta-3S&PRES=be part|rompe-PPART-FEM=break 
+	. 
+*JUN:	ahora qué hacemos ?
+%mor:	adv|ahora=now pro:int|qué=what v|hace-1P&PRES=do ? 
+*ERI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*ERI:	poner .
+%mor:	v|pone-INF=put . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	poner esto +...
+%mor:	v|pone-INF=put det:dem|este-MASC=this +... 
+%com:	le da una vela
+*JUN:	no hay nadie .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have pro:per|nadie=nobody . 
+*ERI:	+, lo que tú ves (.) eh (.) y éste y éste .
+%mor:	pro:per:1|lo&masc=him prep|que=than pro:per|tú=you co|ves=see co|eh coord|y=and 
+	pro:dem|éste=this_one coord|y=and pro:dem|éste=this_one . 
+*JUN:	así tiene que estar ?
+%mor:	adv|así=thus v|tene-3S&PRES=have prep|que=than v|esta-INF=be ? 
+*ERI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*JUN:	viene en el barco ese (.) eh ?
+%mor:	v|veni-3S&PRES=come prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat 
+	det:dem|ese=that co|eh ? 
+*JUN:	quién [/] quién ?
+%mor:	pro:int|quién=who ? 
+*ERI:	ésta ?
+%mor:	pro:dem|éste-FEM=this_one ? 
+*JUN:	0 [*] pirata .
+%mor:	n|pirata&masc=pirate . 
+*ERI:	sube esto .
+%mor:	v|subi-3S&PRES=go_up det:dem|este-MASC=this . 
+%com:	las escaleras
+*JUN:	oh (.) lo has rompido [*] ?
+%mor:	co|oh=oh pro:per:1|lo&masc=him v|habe-2S&PRES=have part|rompe-PPART&MASC=break 
+	? 
+%com:	tocan la bodega
+*ERI:	y el humo .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|humo&masc=smoke . 
+*JUN:	y el humo .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|humo&masc=smoke . 
+*ERI:	mira [//] éste (.) mira .
+%mor:	pro:dem|éste=this_one co|mira=look . 
+%com:	miran la bodega
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	éste es un tío saliendo de aquí .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|un&masc=one n|tío-MASC=uncle 
+	v|sali-PROG=leave prep|de=of adv|aquí=here . 
+*JUN:	adiós .
+%mor:	co|adiós=goodbye . 
+%com:	cierra la bodega
+*ERI:	mira el capitán del barco (.) eh ?
+%mor:	co|mira=look det:art|el&MASC&SG=the n|capitán&masc=captain prep|de~det|el&MASC 
+	n|barco-MASC=boat co|eh ? 
+%com:	tiran el barco
+*ERI:	eh (.) mira !
+%mor:	co|eh co|mira=look ! 
+*JUN:	caramba !
+%mor:	co|caramba=gosh ! 
+*ERI:	caramba !
+%mor:	co|caramba=gosh ! 
+*ERI:	mira .
+%mor:	co|mira=look . 
+*JUN:	caramba !
+%mor:	co|caramba=gosh ! 
+*ERI:	eh (.) Julen !
+%mor:	co|eh n:prop|Julen ! 
+*JUN:	caramba [/] caramba !
+%mor:	co|caramba=gosh ! 
+*ERI:	Julen (.) mira .
+%mor:	n:prop|Julen co|mira=look . 
+*JUN:	caramba !
+%mor:	co|caramba=gosh ! 
+*ERI:	Julen mira .
+%mor:	n:prop|Julen co|mira=look . 
+*JUN:	qué [/] qué te pasa ?
+%mor:	pro:int|qué=what pro:per|te=you v|pasa-3S&PRES=pass ? 
+*ERI:	e(s)to [*] (.) e(s)to [*] se sierra [*] así y estaba .
+%mor:	det:dem|este-MASC=this det:dem|este-MASC=this pro:per|se=itself v|serra-3S&PRES=saw 
+	adv|así=thus coord|y=and v|esta-13S&PAS=be . 
+*ERI:	meto a éste .
+%mor:	v|mete-1S&PRES=put prep|a=to pro:dem|éste=this_one . 
+*ERI:	al pirata .
+%mor:	prep|a~det|el&MASC n|pirata&masc=pirate . 
+*JUN:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+*ERI:	allá .
+%mor:	adv|allá=there . 
+*JUN:	dónde está Marta ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be n:prop|Marta ? 
+*ERI:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*JUN:	<dónde está> [/] donde está ?
+%mor:	pro:rel|donde=where v|esta-3S&PRES=be ? 
+*ERI:	Marta no e(s)tá [*] .
+%mor:	n:prop|Marta adv|no=no v|esta-3S&PRES=be . 
+*JUN:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+*JUN:	<así hace> [/] así hace .
+%mor:	adv|así=thus v|hace-3S&PRES=do . 
+%com:	cierra la bodega
+*ERI:	é(s)te [*] pero pirata va y se va .
+%mor:	pro:dem|éste=this_one conj|pero=but n|pirata&masc=pirate v|i-3S&PRES=go 
+	coord|y=and pro:per|se=itself v|i-3S&PRES=go . 
+*ERI:	oh (.) ahora se va al río .
+%mor:	co|oh=oh adv|ahora=now pro:per|se=itself v|i-3S&PRES=go prep|a~det|el&MASC 
+	n|río&masc=river . 
+*ERI:	que fría 0 [*] el agua .
+%mor:	prep|que=than adj|frío-FEM=cold det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*ERI:	oye que é(s)te [*] se mete al río (.) eh ?
+%mor:	co|oye=listen prep|que=than pro:dem|éste=this_one pro:per|se=itself v|mete-3S&PRES=put 
+	prep|a~det|el&MASC n|río&masc=river co|eh ? 
+*ERI:	eh (.) no !
+%mor:	co|eh co|no=no ! 
+*JUN:	se echa al agua .
+%mor:	pro:per|se=itself v|echa-3S&PRES=throw prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*ERI:	al agua ?
+%mor:	prep|a~det|el&MASC n|agua&fem=water ? 
+*ERI:	dónde está el agua ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the n|agua&fem=water 
+	? 
+*JUN:	hay que nadar .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|nada-INF=swim . 
+*ERI:	y ahora ves <al niño> [//] al chico ?
+%mor:	coord|y=and adv|ahora=now co|ves=see prep|a~det|el&MASC n|chico-MASC=child 
+	? 
+*ERI:	fue a quitarlo .
+%mor:	v|i-3S&PRET=go prep|a=to v|quita-INF~pro:clit|OBJ&MASC . 
+*ERI:	fue a esquiar (.) mira .
+%mor:	v|i-3S&PRET=go prep|a=to v|esquia-INF=ski co|mira=look . 
+*ERI:	eh (.) una bandera Julen [/] Julen [/] Julen !
+%mor:	co|eh det:art|un-FEM=one n|bandera&fem=banner n:prop|Julen ! 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	Julen .
+%mor:	n:prop|Julen . 
+*JUN:	qué quieres ?
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ? 
+*ERI:	mira .
+%mor:	co|mira=look . 
+*JUN:	caramba .
+%mor:	co|caramba=gosh . 
+*ERI:	caramba tú .
+%mor:	co|caramba=gosh pro:per|tú=you . 
+*JUN:	vamos a poner .
+%mor:	co|vamos=go prep|a=to v|pone-INF=put . 
+*JUN:	a_ver dónde están ?
+%mor:	co|a_ver=see pro:int|dónde=where v|esta-3P&PRES=be ? 
+*ERI:	ahí arriba durmiendo .
+%mor:	adv|ahí=there adv|arriba=above v|dormi-PROG=sleep . 
+*JUN:	allá .
+%mor:	adv|allá=there . 
+*ERI:	que guay .
+%mor:	prep|que=than co|guay=cool . 
+*ERI:	eh (.) é(s)te [*] es [/-] va al río (.) eh [/] eh ?
+%mor:	co|eh pro:dem|éste=this_one v|i-3S&PRES=go prep|a~det|el&MASC n|río&masc=river 
+	co|eh ? 
+*JUN:	vale .
+%mor:	co|vale=okay . 
+*ERI:	mételo .
+%mor:	v|mete-2S&IMP~pro:clit|OBJ&MASC . 
+*ERI:	é(s)tos [*] ?
+%mor:	pro:dem|éste-MASC-PL=this_one ? 
+%com:	se ríen mientras lanzan a los piratas desde la plataforma al suelo
+*JUN:	vamos a hacer una cosa .
+%mor:	co|vamos=go prep|a=to v|hace-INF=do det:art|un-FEM=one n|cosa&fem=thing 
+	. 
+*ERI:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*ERI:	mira [/] mira e(s)to [*] .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+%com:	señala el puesto del vigía
+*ERI:	quitado .
+%mor:	part|quita-PPART&MASC=remove . 
+%com:	cierra la bodega
+*JUN:	caramba .
+%mor:	co|caramba=gosh . 
+*ERI:	caramba (.) toma !
+%mor:	co|caramba=gosh v|toma-3S&PRES=take ! 
+%com:	acerca un muñeco a la cara de JUN y hace como si le pegara
+*ERI:	oh (.) al río .
+%mor:	co|oh=oh prep|a~det|el&MASC n|río&masc=river . 
+*JUN:	me <estoy ahogando> [/] <estoy ahogando> [/] estoy ahogando .
+%mor:	pro:per|me=me v|esta-1S&PRES=be v|ahoga-PROG=drown . 
+%com:	juega con la compuerta de la bodega
+*ERI:	los dos al río .
+%mor:	det:art|el&MASC-PL=the det:num|dos=two prep|a~det|el&MASC n|río&masc=river 
+	. 
+*ERI:	ahora al río .
+%mor:	adv|ahora=now prep|a~det|el&MASC n|río&masc=river . 
+*JUN:	este cutillo [: cuchillo] [*] que partir ahora .
+%mor:	det:dem|este=this n|cuchillo&masc=knife prep|que=than v|parti-INF=divide 
+	adv|ahora=now . 
+*ERI:	quieres lo que tiene el xxx .
+%mor:	v|quere-2S&PRES=want pro:per:1|lo&masc=him prep|que=than v|tene-3S&PRES=have 
+	det:art|el&MASC&SG=the . 
+*JUN:	aquí se guarda si tiene .
+%mor:	adv|aquí=here pro:per|se=itself v|guarda-3S&PRES=guard conj|si=if v|tene-3S&PRES=have 
+	. 
+*ERI:	mira [/] mira [/] mira el muñeco (.) mira .
+%mor:	co|mira=look det:art|el&MASC&SG=the n|muñeco-MASC=doll co|mira=look . 
+*ERI:	<una hormiga> [/] una hormiga enorme .
+%mor:	det:art|un-FEM=one n|hormiga&fem=ant adj|enorme=huge . 
+*ERI:	Julen [/] Julen mira que hace éste arriba .
+%mor:	n:prop|Julen co|mira=look prep|que=than v|hace-3S&PRES=do pro:dem|éste=this_one 
+	adv|arriba=above . 
+%com:	señala el puesto del vigía y le da vueltas
+*JUN:	hace cosas .
+%mor:	v|hace-3S&PRES=do n|cosa&fem-PL=thing . 
+%com:	gritan los dos
+*ERI:	e(s)to [*] qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+%com:	coge una vela
+*ERI:	un tallo de muleta .
+%mor:	det:art|un&masc=one n|tallo&masc=stalk prep|de=of n|muleta&fem=crutch 
+	. 
+*JUN:	tú .
+%mor:	pro:per|tú=you . 
+*JUN:	vaca [/] vaca [/] vaca .
+%mor:	n|vaca&fem=cow . 
+%com:	le pega a ERI con la vela
+*ERI:	lo meto a é(s)te [*] aquí .
+%mor:	pro:per:1|lo&masc=him v|mete-1S&PRES=put prep|a=to pro:dem|éste=this_one 
+	adv|aquí=here . 
+%com:	pone un muñeco en el camarote
+*ERI:	no cabe .
+%mor:	adv|no=no v|cabe-3S&PRES=fit . 
+*ERI:	eh (.) que tiras a é(s)te [*] .
+%mor:	co|eh prep|que=than v|tira-2S&PRES=throw prep|a=to pro:dem|éste=this_one 
+	. 
+*ERI:	tiras a ese .
+%mor:	v|tira-2S&PRES=throw prep|a=to det:dem|ese=that . 
+*JUN:	humo .
+%mor:	n|humo&masc=smoke . 
+*ERI:	Julen [//] mira (.) Julen [/] Julen .
+%mor:	co|mira=look n:prop|Julen . 
+%com:	gira el timón mientras JUN golpea el barco con la vela
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	mira (.) Julen [/] Julen [/] Julen (.) mira .
+%mor:	co|mira=look n:prop|Julen co|mira=look . 
+*ERI:	y aquí se va .
+%mor:	coord|y=and adv|aquí=here pro:per|se=itself v|i-3S&PRES=go . 
+%com:	juega con un pirata
+*ERI:	el pirata va hacia arriba .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate v|i-3S&PRES=go prep|hacia=towards 
+	adv|arriba=above . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	y é(s)te [*] también .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also . 
+*ERI:	mira (.) é(s)te [*] arriba .
+%mor:	co|mira=look pro:dem|éste=this_one adv|arriba=above . 
+%com:	lo pone en el puesto del vigía
+*ERI:	arriba !
+%mor:	adv|arriba=above ! 
+*JUN:	y éste (.) se va a bañar .
+%mor:	coord|y=and pro:dem|éste=this_one pro:per|se=itself v|i-3S&PRES=go prep|a=to 
+	v|baña-INF=bathe . 
+*ERI:	eh (.) mira Julen (.) lo llevo aquí .
+%mor:	co|eh co|mira=look n:prop|Julen pro:per:1|lo&masc=him v|lleva-1S&PRES=carry 
+	adv|aquí=here . 
+*JUN:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*JUN:	qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*JUN:	una grúa .
+%mor:	det:art|un-FEM=one n|grúa&fem=derrick . 
+%com:	el ancla
+*JUN:	dámela .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+*ERI:	que no .
+%mor:	prep|que=than adv|no=no . 
+*JUN:	dámela .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+*ERI:	no puedo .
+%mor:	adv|no=no v|pode-1S&PRES=can . 
+*JUN:	dámela [/] dámela .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+*JUN:	me la has quitado .
+%mor:	pro:per|me=me det:art|el&FEM&SG=the v|habe-2S&PRES=have part|quita-PPART&MASC=remove 
+	. 
+*ERI:	pirata xxx (.) eh mira .
+%mor:	n|pirata&masc=pirate co|eh co|mira=look . 
+*JUN:	sacas de aquí .
+%mor:	v|saca-2S&PRES=bring_out prep|de=of adv|aquí=here . 
+%com:	está con la barca
+*ERI:	oye Julen .
+%mor:	co|oye=listen n:prop|Julen . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	Julen [/] Julen (.) voy a_ver .
+%mor:	n:prop|Julen v|i-1S&PRES=go co|a_ver=see . 
+%com:	mira el camarote
+*ERI:	a ab(r)ir [*] .
+%mor:	prep|a=to v|abri-INF=open . 
+*JUN:	qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*ERI:	a ab(r)ir [*] .
+%mor:	prep|a=to v|abri-INF=open . 
+*ERI:	qué hace e(s)te [*] pirata ?
+%mor:	pro:int|qué=what v|hace-3S&PRES=do det:dem|este=this n|pirata&masc=pirate 
+	? 
+*ERI:	e(s)te [*] pirata va a subir .
+%mor:	det:dem|este=this n|pirata&masc=pirate v|i-3S&PRES=go prep|a=to v|subi-INF=go_up 
+	. 
+*ERI:	aquí está .
+%mor:	adv|aquí=here v|esta-3S&PRES=be . 
+*ERI:	uno estaba y uno se move [*] .
+%mor:	det:art|un-MASC=one v|esta-13S&PAS=be coord|y=and det:art|un-MASC=one 
+	pro:per|se=itself v|move-2S&IMP=move . 
+*JUN:	se mueve ?
+%mor:	pro:per|se=itself v|move-3S&PRES=move ? 
+*ERI:	xxx .
+*ERI:	eh (.) que vas a ab(r)ir [*] .
+%mor:	co|eh prep|que=than v|i-2S&PRES=go prep|a=to v|abri-INF=open . 
+*ERI:	allí están xxx allí .
+%mor:	adv|allí=there v|esta-3P&PRES=be adv|allí=there . 
+*JUN:	y si quieres tú .
+%mor:	coord|y=and conj|si=if v|quere-2S&PRES=want pro:per|tú=you . 
+*ERI:	é(s)te [*] e(s)tá [*] aquí pegado .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be adv|aquí=here part|pega-PPART&MASC=hit_adhere 
+	. 
+*JUN:	Marta [/] Marta [/] Marta !
+%mor:	n:prop|Marta ! 
+*INV:	te gusta ?
+%mor:	pro:per|te=you v|gusta-3S&PRES=like ? 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*INV:	hombre que sí .
+%mor:	n|hombre&masc=man prep|que=than co|sí=yes . 
+*ERI:	y a mi e(s)te [*] barco pequeño .
+%mor:	coord|y=and prep|a=to det:pos|mi=my det:dem|este=this n|barco-MASC=boat 
+	adj|pequeño-MASC=small . 
+*INV:	claro .
+%mor:	co|claro=obvious . 
+*JUN:	y un pirata rojo !
+%mor:	coord|y=and det:art|un&masc=one n|pirata&masc=pirate adj|rojo-MASC=red 
+	! 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*JUN:	un pirata aquí y éste mira otro [/] otro [/] otro .
+%mor:	det:art|un&masc=one n|pirata&masc=pirate adv|aquí=here coord|y=and pro:dem|éste=this_one 
+	co|mira=look pro:indef|otro=other . 
+*INV:	oh (.) cuantos .
+%mor:	co|oh=oh det:indef|cuanto-MASC-PL=how_much . 
+*JUN:	otro .
+%mor:	pro:indef|otro=other . 
+*INV:	otro .
+%mor:	pro:indef|otro=other . 
+*JUN:	otro .
+%mor:	pro:indef|otro=other . 
+*INV:	otro .
+%mor:	pro:indef|otro=other . 
+*ERI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*ERI:	ahora se escapaban por aquí .
+%mor:	adv|ahora=now pro:per|se=itself v|escapa-3P&PAS=escape prep|por=for adv|aquí=here 
+	. 
+*JUN:	otro [/] otro .
+%mor:	pro:indef|otro=other . 
+*JUN:	que tengo muchos .
+%mor:	prep|que=than v|tene-1S&PRES=have det:indef|mucho-MASC-PL=many . 
+*ERI:	e(s)to [*] se cae Julen .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|cae-3S&PRES=fall n:prop|Julen 
+	. 
+%com:	la bandera
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ERI:	<Julen e(s)to [*] se cae> [/] <Julen e(s)to [*] se cae> [/] <Julen e(s)to [*] se cae> [/] <Julen e(s)to [*] se cae> [//] Julen mira e(s)to [*] se cae .
+%mor:	n:prop|Julen co|mira=look det:dem|este-MASC=this pro:per|se=itself v|cae-3S&PRES=fall 
+	. 
+*ERI:	é(s)te [*] va por aquí (.) mira .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go prep|por=for adv|aquí=here co|mira=look 
+	. 
+%com:	arrastra la barquita por el suelo
+*ERI:	oye (.) é(s)te [*] se mete a 0 [*] pi(sci)na [*] .
+%mor:	co|oye=listen pro:dem|éste=this_one pro:per|se=itself v|mete-3S&PRES=put 
+	prep|a=to n|piscina&fem=swiming_pool . 
+*ERI:	oye aquí se mete é(s)tos [*] .
+%mor:	co|oye=listen adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put pro:dem|éste-MASC-PL=this_one 
+	. 
+*ERI:	é(s)te [*] es aquí .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adv|aquí=here . 
+*ERI:	oye (.) cuántos había que meter ?
+%mor:	co|oye=listen pro:int|cuánto-PL=how_much v|habe-13S&PAS=have prep|que=than 
+	v|mete-INF=put ? 
+*ERI:	ah (.) que se va !
+%mor:	co|ah prep|que=than pro:per|se=itself v|i-3S&PRES=go ! 
+*ERI:	mira (.) hola !
+%mor:	co|mira=look co|hola=hi ! 
+%com:	abre la bodega
+*ERI:	abrid al lobo .
+%mor:	v|abri-2P&IMP=open prep|a~det|el&MASC n|lobo-MASC=wolf . 
+*ERI:	salimos !
+%mor:	v|sali-1P&PRES=leave ! 
+*ERI:	matado .
+%mor:	part|mata-PPART&MASC=kill . 
+*ERI:	cuándo se abre la puerta ?
+%mor:	pro:int|cuándo=when pro:per|se=itself v|abri-3S&PRES=open det:art|el&FEM&SG=the 
+	n|puerta&fem=door ? 
+*ERI:	mira .
+%mor:	co|mira=look . 
+*ERI:	pero tírate .
+%mor:	conj|pero=but v|tira-2S&IMP~pro:clit|2S . 
+*JUN:	cállate tonto .
+%mor:	v|calla-2S&IMP~pro:clit|2S n|tonto-MASC=dummy . 
+*ERI:	yo vivo abajo .
+%mor:	pro:per|yo=I adj|vivo-MASC=alive adv|abajo=below . 
+*ERI:	ves ?
+%mor:	co|ves=see ? 
+*ERI:	yo aquí .
+%mor:	pro:per|yo=I adv|aquí=here . 
+*JUN:	cállate .
+%mor:	v|calla-2S&IMP~pro:clit|2S . 
+*JUN:	yo aquí .
+%mor:	pro:per|yo=I adv|aquí=here . 
+*ERI:	ya .
+%mor:	adv|ya=already . 
+*ERI:	así se xxx ?
+%mor:	adv|así=thus pro:per|se=itself ? 
+*ERI:	eh ?
+%mor:	co|eh ? 
+%com:	JUN grita
+*ERI:	eh (.) se cae .
+%mor:	co|eh pro:per|se=itself v|cae-3S&PRES=fall . 
+%com:	no consigue poner la bala en el cañón
+*ERI:	que sí tienes que tirar así .
+%mor:	prep|que=than adv|sí=yes v|tene-2S&PRES=have prep|que=than v|tira-INF=throw 
+	adv|así=thus . 
+*ERI:	y é(s)te [*] .
+%mor:	coord|y=and pro:dem|éste=this_one . 
+*ERI:	tú .
+%mor:	pro:per|tú=you . 
+*ERI:	y é(s)te [*] se xxx xxx .
+%mor:	coord|y=and pro:dem|éste=this_one pro:per|se=itself . 
+*JUN:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*ERI:	<eh (.) mi pelota> [/] eh (.) mi pelota .
+%mor:	co|eh det:pos|mi=my n|pelota&fem=ball . 
+%com:	dispara y corre tras ella .
+*JUN:	cállate .
+%mor:	v|calla-2S&IMP~pro:clit|2S . 
+*ERI:	cállate .
+%mor:	v|calla-2S&IMP~pro:clit|2S . 
+*ERI:	le das ?
+%mor:	pro:per|le=him v|da-2S&PRES=give ? 
+*ERI:	dale ahora .
+%mor:	v|da-2S&IMP~pro:clit|3S adv|ahora=now . 
+%com:	disparan el cañón
+*ERI:	pon la coletita .
+%mor:	v|pone-2S&IMP=put det:art|el&FEM&SG=the n|cola-DIM-DIM-FEM=tail . 
+*ERI:	eh (.) mi balón !
+%mor:	co|eh det:pos|mi=my n|balón&masc=large_ball ! 
+*JUN:	casi cae en tus ojos .
+%mor:	adv|casi=almost v|cae-3S&PRES=fall prep|en=in det:pos|tu-PL=your n|ojo&masc-PL=eye 
+	. 
+*ERI:	eh (.) un poco .
+%mor:	co|eh det:art|un&masc=one adv|poco=few . 
+*JUN:	y yo .
+%mor:	coord|y=and pro:per|yo=I . 
+*ERI:	y yo antes .
+%mor:	coord|y=and pro:per|yo=I adv|antes=before . 
+*ERI:	un poco ?
+%mor:	det:art|un&masc=one adv|poco=few ? 
+*JUN:	una vez yo Erik .
+%mor:	det:art|un-FEM=one n|vez&fem=turn pro:per|yo=I n:prop|Erik . 
+*ERI:	eh (.) saca .
+%mor:	co|eh v|saca-3S&PRES=bring_out . 
+*ERI:	<ahora yo> [/] <ahora yo> [/] ahora yo !
+%mor:	adv|ahora=now pro:per|yo=I ! 
+*JUN:	no .
+%mor:	adv|no=no . 
+*JUN:	ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+*ERI:	y el capitán hacía toma .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|capitán&masc=captain v|hace-13S&PAS=do 
+	v|toma-3S&PRES=take . 
+*JUN:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*ERI:	ahora yo ?
+%mor:	adv|ahora=now pro:per|yo=I ? 
+*JUN:	no .
+%mor:	adv|no=no . 
+*JUN:	yo [//] ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+*ERI:	mira (.) quiere salir la bola .
+%mor:	co|mira=look v|quere-3S&PRES=want v|sali-INF=leave det:art|el&FEM&SG=the 
+	n|bola&fem=ball . 
+*JUN:	que fue(r)te [*] !
+%mor:	prep|que=than adj|fuerte=strong ! 
+*ERI:	la pelota ?
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball ? 
+*ERI:	no .
+%mor:	adv|no=no . 
+*JUN:	voy a mete(r) [*] e(s)te [*] balón aquí <y 0 [*] bola> [/] y 0 [*] bola .
+%mor:	v|i-1S&PRES=go prep|a=to v|mete-INF=put det:dem|este=this n|balón&masc=large_ball 
+	adv|aquí=here coord|y=and n|bola&fem=ball . 
+@End

@@ -1,0 +1,501 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	INA Iñaki Target_Child , NOE Noelia Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|INA|3;0.23||||Target_Child|||
+@ID:	spa|fernaguado|NOE|3;1.01||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	03-MAY-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	INA y NOE juegan con el barco pirata
+*NOE:	dámela .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+%com:	le pide a INA la pelota e INA se la da
+*NOE:	la pongo aquí .
+%mor:	det:art|el&FEM&SG=the v|pone-1S&PRES=put adv|aquí=here . 
+*INA:	<e(s)to [*]> [//] qué es e(s)to [*] ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*INV:	esas son las redes del barco (.) pero hay que ponerlas .
+%mor:	det:dem|ese-FEM-PL=that v|se-3P&PRES=be det:art|el&FEM-PL=the n|red&fem-PL=network 
+	prep|de~det|el&MASC n|barco-MASC=boat conj|pero=but v|habe-3S&PRES&SPEC=have 
+	prep|que=than v|pone-INF~pro:clit|OBJ&FEM&PL . 
+*INV:	mira en el dibujo y si no que te explique Noelia .
+%mor:	co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design coord|y=and 
+	conj|si=if adv|no=no prep|que=than pro:per|te=you v|explica-13S&SUB&PRES=explain 
+	n:prop|Noelia . 
+*INA:	<é(s)te [*]> [//] aquí (.) é(s)te [*] .
+%mor:	adv|aquí=here pro:dem|éste=this_one . 
+%com:	coloca un pirata en el barco
+*NOE:	oye .
+%mor:	co|oye=listen . 
+*INA:	oye (.) que se me escapa .
+%mor:	co|oye=listen prep|que=than pro:per|se=itself pro:per|me=me v|escapa-3S&PRES=escape 
+	. 
+%com:	la pelota
+*NOE:	qué has hecho ?
+%mor:	pro:int|qué=what v|habe-2S&PRES=have n|hecho&masc=action ? 
+*NOE:	que se me escapa la pelota .
+%mor:	prep|que=than pro:per|se=itself pro:per|me=me v|escapa-3S&PRES=escape 
+	det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*NOE:	a_ver qué hay ?
+%mor:	co|a_ver=see pro:int|qué=what v|habe-3S&PRES&SPEC=have ? 
+%com:	se acerca al barco
+*NOE:	tienes un barco ?
+%mor:	v|tene-2S&PRES=have det:art|un&masc=one n|barco-MASC=boat ? 
+*NOE:	esto es una puerta .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un-FEM=one n|puerta&fem=door 
+	. 
+*NOE:	así (.) la puerta .
+%mor:	adv|así=thus det:art|el&FEM&SG=the n|puerta&fem=door . 
+%com:	mira el camarote
+*NOE:	ahora tienen que conducir el barco .
+%mor:	adv|ahora=now v|tene-3P&PRES=have prep|que=than v|conduci-INF=drive det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+%com:	gira el timón
+*NOE:	así [/] así [/] así tienen que conducir .
+%mor:	adv|así=thus v|tene-3P&PRES=have prep|que=than v|conduci-INF=drive . 
+*NOE:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+%com:	coge una vela
+*INA:	e(s)to [*] ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	toca el mástil
+*NOE:	mira aquí .
+%mor:	co|mira=look adv|aquí=here . 
+*NOE:	también falta esto .
+%mor:	adv|también=also v|falta-3S&PRES=be_lacking det:dem|este-MASC=this . 
+%com:	la vela
+*NOE:	<yo lo coloco> [/] yo lo coloco y ésta .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him v|coloca-1S&PRES=place coord|y=and 
+	pro:dem|éste-FEM=this_one . 
+%com:	coge la vela
+*NOE:	a mi no me des la espalda Escar !
+%mor:	prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|da-2S&SUB&PRES=give 
+	det:art|el&FEM&SG=the n|espalda&fem=back n:prop|Escar ! 
+*INA:	a mi ?
+%mor:	prep|a=to det:pos|mi=my ? 
+*NOE:	a mi no me déis la espalda Escar !
+%mor:	prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|da-2P&SUB&PRES=give 
+	det:art|el&FEM&SG=the n|espalda&fem=back n:prop|Escar ! 
+*INA:	aquí t(i)enes [*] .
+%mor:	adv|aquí=here v|tene-2S&PRES=have . 
+*INA:	é(s)te [*] es para ti .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be prep|para=for pro:per|ti=you . 
+%com:	le da el cofre
+*NOE:	oh (.) Escar !
+%mor:	co|oh=oh n:prop|Escar ! 
+%com:	lo mete en el camarote
+*NOE:	<que se me va> [/] que se me va .
+%mor:	prep|que=than pro:per|se=itself pro:per|me=me v|i-3S&PRES=go . 
+%com:	se le escapa la pelota
+*INA:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+%com:	juega con los muñecos
+*NOE:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*INA:	a é(s)te [*] toma .
+%mor:	prep|a=to pro:dem|éste=this_one v|toma-3S&PRES=take . 
+*NOE:	yo no quiero disparar .
+%mor:	pro:per|yo=I adv|no=no v|quere-1S&PRES=want v|dispara-INF=shoot . 
+*NOE:	Marta me he da(d)o !
+%mor:	n:prop|Marta pro:per|me=me co|he part|da-PPART&MASC=give ! 
+%com:	se da un golpe en la cabeza con la mesa
+*NOE:	aquí [/] <aquí Iñaki> [/] aquí [//] Iñaki (.) aquí .
+%mor:	n:prop|Iñaki adv|aquí=here . 
+%com:	coloca las redes
+*NOE:	no .
+%mor:	adv|no=no . 
+*NOE:	cuidado Iñaki .
+%mor:	co|cuidado=careful n:prop|Iñaki . 
+*NOE:	no .
+%mor:	adv|no=no . 
+*NOE:	yo .
+%mor:	pro:per|yo=I . 
+*NOE:	ya lo he puesto todo .
+%mor:	adv|ya=already pro:per:1|lo&masc=him co|he part|pone-PPART-MASC=put det:indef|todo-MASC=all 
+	. 
+*NOE:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+%com:	coge de nuevo la pelota
+*INA:	dispara .
+%mor:	v|dispara-3S&PRES=shoot . 
+*INA:	disparando .
+%mor:	v|dispara-PROG=shoot . 
+*NOE:	ya la he cogido (.) Marta .
+%mor:	adv|ya=already det:art|el&FEM&SG=the co|he part|coge-PPART&MASC=take n:prop|Marta 
+	. 
+%com:	la pelota
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*NOE:	la he cogido .
+%mor:	det:art|el&FEM&SG=the co|he part|coge-PPART&MASC=take . 
+*NOE:	no se me va .
+%mor:	adv|no=no pro:per|se=itself pro:per|me=me v|i-3S&PRES=go . 
+*INV:	y esos piratas no van a comer ?
+%mor:	coord|y=and det:dem|ese-MASC-PL=that n|pirata&masc-PL=pirate co|no=no 
+	v|i-3P&PRES=go prep|a=to v|come-INF=eat ? 
+*INA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	y esos piratas no van a ponerse a comer ?
+%mor:	coord|y=and det:dem|ese-MASC-PL=that n|pirata&masc-PL=pirate co|no=no 
+	v|i-3P&PRES=go prep|a=to v|pone-INF~pro:clit|3S&REFL prep|a=to v|come-INF=eat 
+	? 
+*INA:	no .
+%mor:	adv|no=no . 
+*NOE:	sí .
+%mor:	co|sí=yes . 
+*INA:	no .
+%mor:	adv|no=no . 
+*NOE:	los piratas no comen .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate co|no=no v|come-3P&PRES=eat 
+	. 
+*INA:	un ratico .
+%mor:	det:art|un&masc=one n|rato-DIM-MASC=rat . 
+*INA:	disparo ?
+%mor:	n|disparo&masc=shot ? 
+*INA:	eh (.) Marta !
+%mor:	co|eh n:prop|Marta ! 
+*NOE:	xxx .
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*INA:	mi papá 0 [*] 0 [*] camión .
+%mor:	det:pos|mi=my n|papá&masc=papa n|camión&masc=truck . 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INA:	sí .
+%mor:	co|sí=yes . 
+*NOE:	cómo tiene <si no está de camión> [/] si no está de camión ?
+%mor:	co|cómo v|tene-3S&PRES=have conj|si=if adv|no=no v|esta-3S&PRES=be prep|de=of 
+	n|camión&masc=truck ? 
+*INA:	Marta .
+%mor:	n:prop|Marta . 
+*NOE:	<un cañón> [/] un cañón .
+%mor:	det:art|un&masc=one n|cañón&masc=cannon . 
+*INA:	Marta (.) e(s)to [*] 0 [*] 0 [*] pone ?
+%mor:	n:prop|Marta det:dem|este-MASC=this v|pone-3S&PRES=put ? 
+%com:	tiene una vela en la mano
+*NOE:	0 [*] esto qué hay que hacer ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|hace-INF=do ? 
+%com:	le coge la vela a INA
+*NOE:	dónde se pone esto ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	? 
+*NOE:	toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	le da un muñeco
+*NOE:	eh (.) no muevas eso !
+%mor:	co|eh co|no=no v|move-2S&SUB&PRES=move pro:dem|eso=that_one ! 
+*NOE:	ya has tira(d)o eso .
+%mor:	adv|ya=already v|habe-2S&PRES=have part|tira-PPART&MASC=throw pro:dem|eso=that_one 
+	. 
+*NOE:	ahora lo pongo otra vez para que no lo tiras [*] .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|pone-1S&PRES=put det:indef|otro-FEM=other 
+	n|vez&fem=turn prep|para=for prep|que=than adv|no=no pro:per:1|lo&masc=him 
+	v|tira-2S&PRES=throw . 
+*INV:	que te ayude Iñaki .
+%mor:	prep|que=than pro:per|te=you v|ayuda-13S&SUB&PRES=help n:prop|Iñaki . 
+*INV:	ayúdale .
+%mor:	v|ayuda-2S&IMP~pro:clit|3S . 
+*NOE:	no .
+%mor:	adv|no=no . 
+*NOE:	yo !
+%mor:	pro:per|yo=I ! 
+*INA:	aquí en el ba(r)co [*] .
+%mor:	adv|aquí=here prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	le señala el mástil dónde debe colocar la vela
+*NOE:	aquí ?
+%mor:	adv|aquí=here ? 
+*INA:	sí .
+%mor:	co|sí=yes . 
+*NOE:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NOE:	no .
+%mor:	adv|no=no . 
+*NOE:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*NOE:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NOE:	ahora la pelota .
+%mor:	adv|ahora=now det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*NOE:	un momento .
+%mor:	det:art|un&masc=one n|momento&masc=moment . 
+*INA:	<e(s)to [*] xxx> [/] e(s)to [*] xxx .
+%mor:	det:dem|este-MASC=this . 
+*INA:	e(s)to [*] no [/] no p(u)edo [*] .
+%mor:	det:dem|este-MASC=this adv|no=no v|pode-1S&PRES=can . 
+%com:	quiere quitar las velas y poner el arpón para disparar
+*NOE:	ah (.) ya está !
+%mor:	co|ah adv|ya=already v|esta-3S&PRES=be ! 
+%com:	dispara con el cañón del barco
+*NOE:	ya lo he hecho !
+%mor:	adv|ya=already pro:per:1|lo&masc=him co|he n|hecho&masc=action ! 
+*NOE:	ay (.) se me ha ido .
+%mor:	co|ay=ay pro:per|se=itself pro:per|me=me co|ha part|i-PPART-MASC=go . 
+%com:	la pelota
+*NOE:	lo vamos a hacer .
+%mor:	pro:per:1|lo&masc=him co|vamos=go prep|a=to v|hace-INF=do . 
+*INA:	también [/] también (.) mira .
+%mor:	adv|también=also co|mira=look . 
+%com:	engancha la barca del barco por medio de la cuerda del arpón
+*NOE:	Marta (.) mira también tiene esto .
+%mor:	n:prop|Marta co|mira=look adv|también=also v|tene-3S&PRES=have det:dem|este-MASC=this 
+	. 
+*NOE:	ya !
+%mor:	adv|ya=already ! 
+%com:	dispara
+*NOE:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*NOE:	cómo es esto de aquí ?
+%mor:	co|cómo v|se-3S&PRES=be det:dem|este-MASC=this prep|de=of adv|aquí=here 
+	? 
+*NOE:	a_ver Iñaki qué quieres ?
+%mor:	co|a_ver=see n:prop|Iñaki pro:int|qué=what v|quere-2S&PRES=want ? 
+%com:	INA intenta disparar el cañón y se pelean
+*INA:	Marta (.) no me deja .
+%mor:	n:prop|Marta adv|no=no pro:per|me=me v|deja-3S&PRES=leave . 
+*INA:	que es mía déjame !
+%mor:	prep|que=than v|se-3S&PRES=be pro:pos|mío-FEM=mine v|deja-2S&IMP~pro:clit|1S 
+	! 
+*INA:	es mía pa(ra) mí !
+%mor:	v|se-3S&PRES=be pro:pos|mío-FEM=mine prep|para=for pro:per|mí=me ! 
+*INV:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*NOE:	ven Marta .
+%mor:	co|ven=come n:prop|Marta . 
+*NOE:	<esto es el agua> [/] esto es el agua ?
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the n|agua&fem=water 
+	? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	eso es un cañón .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|un&masc=one n|cañón&masc=cannon 
+	. 
+*NOE:	un cañón .
+%mor:	det:art|un&masc=one n|cañón&masc=cannon . 
+*NOE:	que pasa que me daba susto .
+%mor:	prep|que=than v|pasa-3S&PRES=pass prep|que=than pro:per|me=me v|da-13S&PAS=give 
+	n|susto&masc=fright . 
+%com:	dispara el cañón
+*NOE:	oh (.) me ha da(d)o susto !
+%mor:	co|oh=oh pro:per|me=me co|ha part|da-PPART&MASC=give n|susto&masc=fright 
+	! 
+*NOE:	ahora lo hago otra vez para que me de susto !
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|hace-1S&PRES=do det:indef|otro-FEM=other 
+	n|vez&fem=turn prep|para=for prep|que=than pro:per|me=me prep|de=of n|susto&masc=fright 
+	! 
+*NOE:	oh (.) me ha dado un susto !
+%mor:	co|oh=oh pro:per|me=me co|ha part|da-PPART&MASC=give det:art|un&masc=one 
+	n|susto&masc=fright ! 
+%com:	mientras INA juega con la barquita
+*INA:	eh [/] eh ?
+%mor:	co|eh ? 
+*NOE:	aquí está el camión [*] ?
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&MASC&SG=the n|camión&masc=truck 
+	? 
+*NOE:	la abuela Marta ya me ha compra(d)o el Rey_león dos .
+%mor:	det:art|el&FEM&SG=the n|abuelo-FEM=grandparent n:prop|Marta adv|ya=already 
+	pro:per|me=me co|ha part|compra-PPART&MASC=buy det:art|el&MASC&SG=the n:prop|Rey_león 
+	det:num|dos=two . 
+*NOE:	mi abuela Marta [/-] espera que me asuste .
+%mor:	det:pos|mi=my n|abuelo-FEM=grandparent v|espera-3S&PRES=wait prep|que=than 
+	pro:per|me=me v|asusta-13S&SUB&PRES=frighten . 
+%com:	dispara
+*NOE:	ah (.) me ha dado un susto !
+%mor:	co|ah pro:per|me=me co|ha part|da-PPART&MASC=give det:art|un&masc=one 
+	n|susto&masc=fright ! 
+*NOE:	mira cómo lo puedo hacer Iñaki .
+%mor:	co|mira=look co|cómo pro:per:1|lo&masc=him v|pode-1S&PRES=can v|hace-INF=do 
+	n:prop|Iñaki . 
+*INA:	a ve(r) [*] .
+%mor:	prep|a=to v|ve-INF=see . 
+*NOE:	mira (.) la pelota se pone aquí <y se apr(i)eta [*]> [/] y se apr(i)eta [*] .
+%mor:	co|mira=look det:art|el&FEM&SG=the n|pelota&fem=ball pro:per|se=itself 
+	v|pone-3S&PRES=put adv|aquí=here coord|y=and pro:per|se=itself v|apreta-3S&PRES=tighten 
+	. 
+*NOE:	mira como yo lo hago .
+%mor:	co|mira=look adv|como=like pro:per|yo=I pro:per:1|lo&masc=him v|hace-1S&PRES=do 
+	. 
+*INA:	mira tú .
+%mor:	co|mira=look pro:per|tú=you . 
+*NOE:	<oh (.) que se me va> [//] Marta que se me va !
+%mor:	n:prop|Marta prep|que=than pro:per|se=itself pro:per|me=me v|i-3S&PRES=go 
+	! 
+*INV:	cógelo .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&MASC . 
+*INA:	mira .
+%mor:	co|mira=look . 
+%com:	le da la pelota
+*NOE:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*NOE:	gracias .
+%mor:	n|gracia&fem-PL=grace . 
+*INA:	mira .
+%mor:	co|mira=look . 
+%com:	le quiere enseñar como dispara él el arpón
+*NOE:	<espera que deje esto> [/] espera que deje esto dentro .
+%mor:	v|espera-3S&PRES=wait prep|que=than v|deja-13S&SUB&PRES=leave det:dem|este-MASC=this 
+	adv|dentro=inside . 
+*NOE:	oh (.) ya no ha salido .
+%mor:	co|oh=oh adv|ya=already adv|no=no co|ha part|sali-PPART&MASC=leave . 
+*NOE:	venga (.) ahora .
+%mor:	co|venga=come_on adv|ahora=now . 
+*NOE:	esto es la bola que se me va .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&FEM&SG=the n|bola&fem=ball 
+	prep|que=than pro:per|se=itself pro:per|me=me v|i-3S&PRES=go . 
+*NOE:	oh (.) se me ha ido .
+%mor:	co|oh=oh pro:per|se=itself pro:per|me=me co|ha part|i-PPART-MASC=go . 
+*NOE:	dame la pelota .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*NOE:	esto es una mesita para comer .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un-FEM=one n|mesa-DIM-FEM=table 
+	prep|para=for v|come-INF=eat . 
+*NOE:	mira también tiene una mesita (.) el barco .
+%mor:	co|mira=look adv|también=also v|tene-3S&PRES=have det:art|un-FEM=one 
+	n|mesa-DIM-FEM=table det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*NOE:	Marta [/] Marta [/] Marta !
+%mor:	n:prop|Marta ! 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*NOE:	también tiene esto una mesita .
+%mor:	adv|también=also v|tene-3S&PRES=have det:dem|este-MASC=this det:art|un-FEM=one 
+	n|mesa-DIM-FEM=table . 
+*INV:	claro .
+%mor:	co|claro=obvious . 
+*NOE:	claro (.) como la casita .
+%mor:	co|claro=obvious adv|como=like det:art|el&FEM&SG=the n|casa-DIM-FEM=house 
+	. 
+*NOE:	cuál es la casita .
+%mor:	pro:int|cuál=which v|se-3S&PRES=be det:art|el&FEM&SG=the n|casa-DIM-FEM=house 
+	. 
+*INV:	la casita del otro día (.) verdad ?
+%mor:	det:art|el&FEM&SG=the n|casa-DIM-FEM=house prep|de~det|el&MASC pro:indef|otro=other 
+	n|día&masc=day co|verdad=right ? 
+*NOE:	hoy está el barco ?
+%mor:	adv|hoy=today v|esta-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	? 
+*INV:	hoy el barco .
+%mor:	adv|hoy=today det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*NOE:	el barco ?
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat ? 
+*INA:	mi mamá a [*] 0 [*] ba(r)co [*] .
+%mor:	det:pos|mi=my n|mamá&fem=mommy prep|a=to n|barco-MASC=boat . 
+*INA:	sí .
+%mor:	co|sí=yes . 
+*NOE:	no tiene tu mamá el barco .
+%mor:	adv|no=no v|tene-3S&PRES=have det:pos|tu=your n|mamá&fem=mommy det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*NOE:	se me ha ido (.) Iñaki .
+%mor:	pro:per|se=itself pro:per|me=me co|ha part|i-PPART-MASC=go n:prop|Iñaki 
+	. 
+%com:	se le escapa la pelota .
+*INA:	yo .
+%mor:	pro:per|yo=I . 
+%com:	se levanta a cogérsela y se la da
+*NOE:	siéntate .
+%mor:	v|senta-2S&IMP~pro:clit|2S . 
+*NOE:	ahora (.) dame .
+%mor:	adv|ahora=now v|da-2S&IMP~pro:clit|1S . 
+%com:	INA dispara el arpón
+*INV:	oh (.) que bien dispara !
+%mor:	co|oh=oh prep|que=than adv|bien=well v|dispara-3S&PRES=shoot ! 
+*INA:	a ti .
+%mor:	prep|a=to pro:per|ti=you . 
+*INA:	sí .
+%mor:	co|sí=yes . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INA:	ahora a ti .
+%mor:	adv|ahora=now prep|a=to pro:per|ti=you . 
+*NOE:	tú la pelota .
+%mor:	pro:per|tú=you det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*INA:	bueno .
+%mor:	co|bueno=good . 
+*NOE:	y yo el xxx .
+%mor:	coord|y=and pro:per|yo=I det:art|el&MASC&SG=the . 
+%com:	le cambia el barco por la barca
+*INA:	no .
+%mor:	adv|no=no . 
+*NOE:	sí .
+%mor:	co|sí=yes . 
+*NOE:	yo esto .
+%mor:	pro:per|yo=I det:dem|este-MASC=this . 
+*NOE:	esto dónde se pone ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	? 
+*INA:	te enseño ?
+%mor:	pro:per|te=you v|enseña-1S&PRES=teach ? 
+*NOE:	no [/] no .
+%mor:	adv|no=no . 
+*NOE:	yo que ya se .
+%mor:	pro:per|yo=I prep|que=than adv|ya=already pro:per|se=itself . 
+*NOE:	así ?
+%mor:	adv|así=thus ? 
+*NOE:	cómo se hace ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do ? 
+*INA:	mira (.) así .
+%mor:	co|mira=look adv|así=thus . 
+%com:	le intenta enseñar a dispara el arpón
+*NOE:	no .
+%mor:	adv|no=no . 
+*NOE:	yo [/] yo .
+%mor:	pro:per|yo=I . 
+*INA:	dame [/] dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*NOE:	<no puedo> [//] Marta no puedo .
+%mor:	n:prop|Marta adv|no=no v|pode-1S&PRES=can . 
+*INV:	que te ayude Iñaki (.) que sí que sabe .
+%mor:	prep|que=than pro:per|te=you v|ayuda-13S&SUB&PRES=help n:prop|Iñaki prep|que=than 
+	adv|sí=yes prep|que=than v|sabe-3S&PRES=know . 
+*INV:	verdad que sabes Iñaki ?
+%mor:	co|verdad=right prep|que=than co|sabes=you_know n:prop|Iñaki ? 
+*INV:	mírale [/] mírale a Iñaki Noelia que te va enseñar él .
+%mor:	v|mira-2S&IMP~pro:clit|3S prep|a=to n:prop|Iñaki n:prop|Noelia prep|que=than 
+	pro:per|te=you v|i-3S&PRES=go v|enseña-INF=teach pro:per|él&masc=he . 
+*INA:	déjame .
+%mor:	v|deja-2S&IMP~pro:clit|1S . 
+*NOE:	esto .
+%mor:	det:dem|este-MASC=this . 
+*NOE:	Marta <ven a jugar> [/] ven a jugar conmigo [/] conmigo .
+%mor:	n:prop|Marta co|ven=come prep|a=to v|juga-INF=play pro:per|conmigo=with_me 
+	. 
+*NOE:	esto saco .
+%mor:	det:dem|este-MASC=this v|saca-1S&PRES=bring_out . 
+%com:	coge el puesto de vigía y hace que bebe
+*NOE:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+*NOE:	que me siente aquí .
+%mor:	prep|que=than pro:per|me=me v|senti-3S&PRES=feel adv|aquí=here . 
+*NOE:	éste se sienta aquí .
+%mor:	pro:dem|éste=this_one pro:per|se=itself n|sienta&fem=seat adv|aquí=here 
+	. 
+*INA:	sí ?
+%mor:	co|sí=yes ? 
+*NOE:	sí .
+%mor:	co|sí=yes . 
+*NOE:	a que sí (.) Marta .
+%mor:	prep|a=to prep|que=than adv|sí=yes n:prop|Marta . 
+*INV:	es muy pequeñito .
+%mor:	v|se-3S&PRES=be adv|muy=very adj|pequeño-DIM-MASC=small . 
+*NOE:	sí (.) pero los pequeñitos se pueden sentar aquí .
+%mor:	co|sí=yes conj|pero=but det:art|el&MASC-PL=the adj|pequeño-DIM-MASC-PL=small 
+	pro:per|se=itself v|pode-3P&PRES=can v|senta-INF=sit adv|aquí=here . 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	ahí los muñequitos .
+%mor:	adv|ahí=there det:art|el&MASC-PL=the n|muñeco-DIM-MASC-PL=doll . 
+*NOE:	no los mayores .
+%mor:	adv|no=no det:art|el&MASC-PL=the adj|mayor-PL=elder . 
+*NOE:	los mayores aquí .
+%mor:	det:art|el&MASC-PL=the adj|mayor-PL=elder adv|aquí=here . 
+*NOE:	los pintores pintan .
+%mor:	det:art|el&MASC-PL=the n|pintor&masc-PL=painter v|pinta-3P&PRES=paint 
+	. 
+*NOE:	a_ver (.) éste estaba aquí .
+%mor:	co|a_ver=see pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here . 
+*NOE:	éste no quiero .
+%mor:	pro:dem|éste=this_one adv|no=no v|quere-1S&PRES=want . 
+%com:	coge un pirata
+*NOE:	quiero éste .
+%mor:	v|quere-1S&PRES=want pro:dem|éste=this_one . 
+@End

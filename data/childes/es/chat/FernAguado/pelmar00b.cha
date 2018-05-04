@@ -1,0 +1,372 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	PEL Pello Target_Child , IRA Irati Sister , INV Marta Investigator
+@ID:	spa|fernaguado|PEL|3;11.||||Target_Child|||
+@ID:	spa|fernaguado|IRA|3;8.10||||Sister|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	15-MAR-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	PEL y AND juegan con el barco
+*IRA:	pero esto no se como es !
+%mor:	conj|pero=but det:dem|este-MASC=this adv|no=no pro:per|se=itself adv|como=like 
+	v|se-3S&PRES=be ! 
+%com:	la vela
+*IRA:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	mira el dibujo
+*IRA:	no .
+%mor:	adv|no=no . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*IRA:	mira como es .
+%mor:	co|mira=look adv|como=like v|se-3S&PRES=be . 
+*IRA:	es así pero no puedo dejar esto aquí arriba .
+%mor:	v|se-3S&PRES=be adv|así=thus conj|pero=but adv|no=no v|pode-1S&PRES=can 
+	v|deja-INF=leave det:dem|este-MASC=this adv|aquí=here adv|arriba=above 
+	. 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	esa así no es .
+%mor:	det:dem|ese-FEM=that adv|así=thus adv|no=no v|se-3S&PRES=be . 
+%com:	coloca piratas en el barco
+*PEL:	ésta es la bandera pirata .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|bandera&fem=banner 
+	n|pirata&masc=pirate . 
+*IRA:	<esto pa(ra) qué es> [/] esto pa(ra) qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*PEL:	éste es el tesoro .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	. 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*PEL:	eh (.) esto es el tesoro .
+%mor:	co|eh det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	. 
+*IRA:	esto dónde se puede poner ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pode-3S&PRES=can 
+	v|pone-INF=put ? 
+%com:	el puesto del vigía
+*IRA:	aquí estará .
+%mor:	adv|aquí=here v|esta-3S&FUT=be . 
+%com:	en cubierta
+*IRA:	pues así se pone .
+%mor:	co|pues=well adv|así=thus pro:per|se=itself v|pone-3S&PRES=put . 
+*PEL:	pues no .
+%mor:	co|pues=well adv|no=no . 
+*IRA:	ay (.) que esto va aquí (.) pero no puedo poner esto .
+%mor:	co|ay=ay prep|que=than det:dem|este-MASC=this v|i-3S&PRES=go adv|aquí=here 
+	conj|pero=but adv|no=no v|pode-1S&PRES=can v|pone-INF=put det:dem|este-MASC=this 
+	. 
+%com:	la bandera
+*IRA:	que va aquí (.) ahora sí .
+%mor:	prep|que=than v|i-3S&PRES=go adv|aquí=here adv|ahora=now co|sí=yes . 
+*IRA:	a_ver que no puedo !
+%mor:	co|a_ver=see prep|que=than adv|no=no v|pode-1S&PRES=can ! 
+*IRA:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	coge la barca
+*PEL:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	es la barca .
+%mor:	v|se-3S&PRES=be det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*PEL:	eso es la barca .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|barco-FEM=boat 
+	. 
+*PEL:	<no Irati> [//] <así no es> [//] Irati (.) así no es .
+%mor:	n:prop|Irati adv|así=thus adv|no=no v|se-3S&PRES=be . 
+*IRA:	pues aquí uno y aquí otro .
+%mor:	co|pues=well adv|aquí=here det:art|un-MASC=one coord|y=and adv|aquí=here 
+	pro:indef|otro=other . 
+%com:	intenta poner las redes
+*PEL:	así no es .
+%mor:	adv|así=thus adv|no=no v|se-3S&PRES=be . 
+*PEL:	mira [/] <mira ahí> [/] mira ahí .
+%mor:	co|mira=look adv|ahí=there . 
+%com:	en el dibujo
+*IRA:	ya .
+%mor:	adv|ya=already . 
+*PEL:	así no es .
+%mor:	adv|así=thus adv|no=no v|se-3S&PRES=be . 
+*IRA:	ya pero yo no puedo .
+%mor:	adv|ya=already conj|pero=but pro:per|yo=I adv|no=no v|pode-1S&PRES=can 
+	. 
+*PEL:	has visto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress ? 
+*PEL:	se cae .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall . 
+*PEL:	que se cae .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall . 
+%com:	le da un manotazo al barco sin querer
+*IRA:	ves ?
+%mor:	co|ves=see ? 
+*IRA:	has tira(d)o ?
+%mor:	v|habe-2S&PRES=have part|tira-PPART&MASC=throw ? 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	sólo los piratas .
+%mor:	adv|sólo=only det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*IRA:	dónde se pone esto ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	? 
+%com:	las redes
+*PEL:	pero mira [/] mira !
+%mor:	conj|pero=but co|mira=look ! 
+%com:	señala el dibujo
+*PEL:	has visto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress ? 
+*IRA:	cómo se coloca esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|coloca-3S&PRES=place det:dem|este-MASC=this 
+	? 
+*IRA:	y esta banqueta ?
+%mor:	coord|y=and det:dem|este-FEM=this n|banca-DIM-FEM=bench ? 
+*IRA:	pues se podrá sentar aquí alguien .
+%mor:	co|pues=well pro:per|se=itself v|pode-3S&FUT=can v|senta-INF=sit adv|aquí=here 
+	pro:indef|alguien=someone . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	aquí porque esto es la mesa .
+%mor:	adv|aquí=here conj|porque=because det:dem|este-MASC=this v|se-3S&PRES=be 
+	det:art|el&FEM&SG=the n|mesa&fem=table . 
+*PEL:	que no !
+%mor:	prep|que=than adv|no=no ! 
+*PEL:	que ésta es la mesa .
+%mor:	prep|que=than pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|mesa&fem=table . 
+*PEL:	ay que ésta <es la mesa> [/] es la mesa .
+%mor:	co|ay=ay prep|que=than pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|mesa&fem=table . 
+%com:	no le deja que la cambie de sitio
+*PEL:	es la mesa Irati .
+%mor:	v|se-3S&PRES=be det:art|el&FEM&SG=the n|mesa&fem=table n:prop|Irati . 
+%com:	se pelean por ella e Irati se aleja enfadada
+*IRA:	pues no juego .
+%mor:	co|pues=well adv|no=no n|juego&masc=game . 
+*PEL:	hay que jugar Irati !
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|juga-INF=play n:prop|Irati ! 
+*PEL:	vale .
+%mor:	co|vale=okay . 
+*INV:	os ayudo en una cosa ?
+%mor:	pro:per|os=you v|ayuda-1S&PRES=help prep|en=in det:art|un-FEM=one n|cosa&fem=thing 
+	? 
+*INV:	es que me parece que esto se pone al otro lado porque si no no se pueden enganchar las redes (.) vale ?
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|me=me v|parece-3S&PRES=seem prep|que=than 
+	det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put prep|a~det|el&MASC 
+	pro:indef|otro=other n|lado&masc=side conj|porque=because conj|si=if adv|no=no 
+	adv|no=no pro:per|se=itself v|pode-3P&PRES=can v|engancha-INF=hook det:art|el&FEM-PL=the 
+	n|red&fem-PL=network co|vale=okay ? 
+%com:	coloco bien los mástiless
+*INV:	las ponemos así y las redes van aquí .
+%mor:	det:art|el&FEM-PL=the v|pone-1P&PRES=put adv|así=thus coord|y=and det:art|el&FEM-PL=the 
+	n|red&fem-PL=network v|i-3P&PRES=go adv|aquí=here . 
+*IRA:	sí .
+%mor:	co|sí=yes . 
+*INV:	ya sabéis (.) no ?
+%mor:	adv|ya=already v|sabe-2P&PRES=know co|no=no ? 
+*INV:	vale ?
+%mor:	co|vale=okay ? 
+*INV:	o aquí (.) dónde queráis ponerlas .
+%mor:	coord|o=or adv|aquí=here pro:int|dónde=where v|quere-2P&SUB&PRES=want 
+	v|pone-INF~pro:clit|OBJ&FEM&PL . 
+*PEL:	a que se puede cambiar ?
+%mor:	prep|a=to prep|que=than pro:per|se=itself v|pode-3S&PRES=can v|cambia-INF=change 
+	? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	ponéis como queráis (.) vale ?
+%mor:	v|pone-2P&PRES=put adv|como=like v|quere-2P&SUB&PRES=want co|vale=okay 
+	? 
+*IRA:	pues esta así va .
+%mor:	co|pues=well det:dem|este-FEM=this adv|así=thus v|i-3S&PRES=go . 
+*PEL:	pues no !
+%mor:	co|pues=well adv|no=no ! 
+*PEL:	no .
+%mor:	adv|no=no . 
+*IRA:	por aquí .
+%mor:	prep|por=for adv|aquí=here . 
+*IRA:	es que esto [/] esto [/] esto .
+%mor:	v|se-3S&PRES=be prep|que=than det:dem|este-MASC=this . 
+%com:	el camarote
+*IRA:	ay (.) quieto !
+%mor:	co|ay=ay adj|quieto-MASC=still ! 
+%com:	se le mueve el barco
+*IRA:	hay que meter algo (.) no ?
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF=put pro:dem|algo=something 
+	adv|no=no ? 
+*PEL:	no .
+%mor:	adv|no=no . 
+*IRA:	aquí hay unas ventanas .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM-PL=one n|ventana&fem-PL=window 
+	. 
+*PEL:	hombre (.) porque <éste es el dormitorio> [/] eh (.) éste es el dormitorio .
+%mor:	co|hombre conj|porque=because co|eh pro:dem|éste=this_one v|se-3S&PRES=be 
+	det:art|el&MASC&SG=the n|dormitorio&masc=bedroom . 
+*IRA:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+%com:	una red
+*PEL:	pues aquí .
+%mor:	co|pues=well adv|aquí=here . 
+*PEL:	pues no .
+%mor:	co|pues=well adv|no=no . 
+*PEL:	mira (.) así .
+%mor:	co|mira=look adv|así=thus . 
+%com:	la coloca
+*PEL:	y la otra dónde [/] dónde ?
+%mor:	coord|y=and det:art|el&FEM&SG=the det:indef|otro-FEM=other pro:int|dónde=where 
+	? 
+*PEL:	aquí (.) eh ?
+%mor:	adv|aquí=here co|eh ? 
+*IRA:	así dos (.) estarán así ?
+%mor:	adv|así=thus det:num|dos=two v|esta-3P&FUT=be adv|así=thus ? 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	mira (.) así .
+%mor:	co|mira=look adv|así=thus . 
+*IRA:	y ésta ?
+%mor:	coord|y=and pro:dem|éste-FEM=this_one ? 
+*PEL:	pues ya te digo .
+%mor:	co|pues=well adv|ya=already pro:per|te=you v|deci-1S&PRES=say . 
+*IRA:	por aquí estará .
+%mor:	prep|por=for adv|aquí=here v|esta-3S&FUT=be . 
+*PEL:	pues sí .
+%mor:	co|pues=well co|sí=yes . 
+*PEL:	no [/] no Irati .
+%mor:	co|no=no n:prop|Irati . 
+*PEL:	no (.) <que no (.) eh> [/] que no .
+%mor:	adv|no=no prep|que=than adv|no=no . 
+*IRA:	dónde va esto ?
+%mor:	pro:int|dónde=where v|i-3S&PRES=go det:dem|este-MASC=this ? 
+%com:	las velas
+*IRA:	estará aquí .
+%mor:	v|esta-3S&FUT=be adv|aquí=here . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*IRA:	mira (.) ves ?
+%mor:	co|mira=look co|ves=see ? 
+*IRA:	es así .
+%mor:	v|se-3S&PRES=be adv|así=thus . 
+*PEL:	ya lo se pero ese está roto .
+%mor:	adv|ya=already pro:per:1|lo&masc=him pro:per|se=itself conj|pero=but det:dem|ese=that 
+	v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*IRA:	pues cojo estos piratas son míos .
+%mor:	co|pues=well adj|cojo-MASC=crippled det:dem|este-MASC-PL=this n|pirata&masc-PL=pirate 
+	v|se-3P&PRES=be pro:pos|mío-MASC-PL=mine . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	éstos son míos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be pro:pos|mío-MASC-PL=mine 
+	. 
+*IRA:	todos ?
+%mor:	det:indef|todo-MASC-PL=all ? 
+*PEL:	sí .
+%mor:	co|sí=yes . 
+*PEL:	son míos todos .
+%mor:	v|se-3P&PRES=be pro:pos|mío-MASC-PL=mine det:indef|todo-MASC-PL=all . 
+*PEL:	todos esos .
+%mor:	det:indef|todo-MASC-PL=all det:dem|ese-MASC-PL=that . 
+*IRA:	y la chica esa ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|chico-FEM=child det:dem|ese-FEM=that 
+	? 
+*IRA:	bueno y esto dónde va ?
+%mor:	co|bueno=good coord|y=and det:dem|este-MASC=this pro:int|dónde=where 
+	v|i-3S&PRES=go ? 
+%com:	la barca
+*IRA:	pues no se .
+%mor:	co|pues=well adv|no=no pro:per|se=itself . 
+*IRA:	alguien que se monte aquí .
+%mor:	pro:indef|alguien=someone prep|que=than pro:per|se=itself n|monte&masc=hill 
+	adv|aquí=here . 
+*IRA:	ahora se morieron [: murieron] [*] .
+%mor:	adv|ahora=now pro:per|se=itself v|mori-3P&PRET=die . 
+*PEL:	no porque los piratas no se mueren .
+%mor:	co|no=no conj|porque=because det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	adv|no=no pro:per|se=itself v|mori-3P&PRES=die . 
+*IRA:	no .
+%mor:	adv|no=no . 
+*IRA:	los piratas no pero alguien sí .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate co|no=no conj|pero=but 
+	pro:indef|alguien=someone co|sí=yes . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	se cayeron todos aquí .
+%mor:	pro:per|se=itself v|cae-3P&PRET=fall det:indef|todo-MASC-PL=all adv|aquí=here 
+	. 
+%com:	los mete en la bodega
+*PEL:	eh (.) pero no al agua .
+%mor:	co|eh conj|pero=but adv|no=no prep|a~det|el&MASC n|agua&fem=water . 
+*IRA:	no .
+%mor:	adv|no=no . 
+*PEL:	unos se subían .
+%mor:	det:art|un-MASC-PL=one pro:per|se=itself v|subi-3P&PAS=go_up . 
+*IRA:	se subían .
+%mor:	pro:per|se=itself v|subi-3P&PAS=go_up . 
+*PEL:	es el otro lado .
+%mor:	v|se-3S&PRES=be det:art|el&MASC&SG=the pro:indef|otro=other n|lado&masc=side 
+	. 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	yo .
+%mor:	pro:per|yo=I . 
+*PEL:	que no que yo .
+%mor:	prep|que=than adv|no=no prep|que=than pro:per|yo=I . 
+*IRA:	éste estaba aquí .
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here . 
+*PEL:	no .
+%mor:	adv|no=no . 
+*PEL:	ya te he dicho que no .
+%mor:	adv|ya=already pro:per|te=you co|he part|deci-PPART-MASC=say prep|que=than 
+	adv|no=no . 
+*IRA:	no .
+%mor:	adv|no=no . 
+*PEL:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*PEL:	esa no cabe .
+%mor:	det:dem|ese-FEM=that adv|no=no v|cabe-3S&PRES=fit . 
+%com:	meten todo en el camarote
+*PEL:	ahora se largaron .
+%mor:	adv|ahora=now pro:per|se=itself v|larga-3P&PRET=go_away . 
+*PEL:	dame uno .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|un-MASC=one . 
+%com:	un pirata
+*IRA:	y esto dónde va ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+%com:	el puesto del vigía
+*PEL:	pues arriba .
+%mor:	co|pues=well adv|arriba=above . 
+%com:	mirando el dibujo
+*IRA:	arriba (.) aquí .
+%mor:	adv|arriba=above adv|aquí=here . 
+*IRA:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*IRA:	estará [/] estará aquí .
+%mor:	v|esta-3S&FUT=be adv|aquí=here . 
+*IRA:	se pondrá aquí .
+%mor:	pro:per|se=itself v|pone-3S&FUT=put adv|aquí=here . 
+%com:	en cubierta
+*PEL:	éstos no son los míos .
+%mor:	pro:dem|éste-MASC-PL=this_one adv|no=no v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	pro:pos|mío-MASC-PL=mine . 
+*PEL:	aquéllos son los míos .
+%mor:	pro:dem|aquéllo-MASC-PL=that_one v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	pro:pos|mío-MASC-PL=mine . 
+*IRA:	no .
+%mor:	adv|no=no . 
+*IRA:	los míos .
+%mor:	det:art|el&MASC-PL=the pro:pos|mío-MASC-PL=mine . 
+*PEL:	éstos son los míos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	pro:pos|mío-MASC-PL=mine . 
+*IRA:	éstos son los míos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	pro:pos|mío-MASC-PL=mine . 
+*PEL:	ves ?
+%mor:	co|ves=see ? 
+*IRA:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+*PEL:	no son míos .
+%mor:	adv|no=no v|se-3P&PRES=be pro:pos|mío-MASC-PL=mine . 
+@End

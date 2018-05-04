@@ -1,0 +1,753 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	BEN Beñat Target_Child , NAR Naroa Sister , INV Marta Investigator
+@ID:	spa|fernaguado|BEN|3;7.||||Target_Child|||
+@ID:	spa|fernaguado|NAR|4;6.19||||Sister|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	18-OCT-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	BEN y NAR juegan con el barco pirata
+*BEN:	ahora (.) dónde son [*] esto ?
+%mor:	adv|ahora=now pro:int|dónde=where v|se-3P&PRES=be det:dem|este-MASC=this 
+	? 
+%com:	la barca
+*INV:	en el dibujo .
+%mor:	prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*INV:	enséñale tú Naroa .
+%mor:	v|enseña-2S&IMP~pro:clit|3S pro:per|tú=you n:prop|Naroa . 
+*BEN:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*BEN:	a_ver déjame .
+%mor:	co|a_ver=see v|deja-2S&IMP~pro:clit|1S . 
+%com:	mira el dibujo
+*NAR:	y este barco .
+%mor:	coord|y=and det:dem|este=this n|barco-MASC=boat . 
+*BEN:	y esto que se engancha .
+%mor:	coord|y=and det:dem|este-MASC=this prep|que=than pro:per|se=itself v|engancha-3S&PRES=hook 
+	. 
+%com:	la red
+*NAR:	esto .
+%mor:	det:dem|este-MASC=this . 
+*BEN:	a_ver el barco .
+%mor:	co|a_ver=see det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*BEN:	esto se ha roto un poco .
+%mor:	det:dem|este-MASC=this pro:per|se=itself co|ha part|rompe-PPART-MASC=break 
+	det:art|un&masc=one adv|poco=few . 
+%com:	señala el camarote
+*NAR:	es que yo no se .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|yo=I adv|no=no pro:per|se=itself 
+	. 
+*BEN:	sí sabes .
+%mor:	co|sí=yes co|sabes=you_know . 
+*BEN:	eres mayor .
+%mor:	v|se-2S&PRES=be adj|mayor=elder . 
+*NAR:	sí pero no se esto .
+%mor:	co|sí=yes conj|pero=but adv|no=no pro:per|se=itself det:dem|este-MASC=this 
+	. 
+*BEN:	este hombre ?
+%mor:	det:dem|este=this n|hombre&masc=man ? 
+*NAR:	este hombre (.) vamos a ponerlo aquí .
+%mor:	det:dem|este=this n|hombre&masc=man co|vamos=go prep|a=to v|pone-INF~pro:clit|OBJ&MASC 
+	adv|aquí=here . 
+*BEN:	éste es el malo .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the adj|malo-MASC=bad 
+	. 
+*INV:	vale .
+%mor:	co|vale=okay . 
+*BEN:	ahora le montamos porque éste le tiró .
+%mor:	adv|ahora=now pro:per|le=him v|monta-1P&PRES=climb_on conj|porque=because 
+	pro:dem|éste=this_one pro:per|le=him v|tira-3S&PRET=throw . 
+*BEN:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	una vela
+*NAR:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*BEN:	qué parece ?
+%mor:	pro:int|qué=what v|parece-3S&PRES=seem ? 
+*BEN:	así .
+%mor:	adv|así=thus . 
+%com:	le indica como ponerla
+*NAR:	esto dónde se pone ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	? 
+*BEN:	ésta es una red .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|un-FEM=one n|red&fem=network 
+	. 
+*INV:	Naroa esa no se puede poner porque está rota pero mira en el dibujo .
+%mor:	n:prop|Naroa det:dem|ese-FEM=that adv|no=no pro:per|se=itself v|pode-3S&PRES=can 
+	v|pone-INF=put conj|porque=because v|esta-3S&PRES=be part|rompe-PPART-FEM=break 
+	conj|pero=but co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design 
+	. 
+*INV:	verás dónde está puesta .
+%mor:	v|ve-2S&FUT=see pro:int|dónde=where v|esta-3S&PRES=be part|pone-PPART-FEM=put 
+	. 
+*BEN:	a_ver (.) ésta dónde es ?
+%mor:	co|a_ver=see pro:dem|éste-FEM=this_one pro:int|dónde=where v|se-3S&PRES=be 
+	? 
+*INV:	a_ver (.) mira en el dibujo Beñat .
+%mor:	co|a_ver=see co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design 
+	n:prop|Beñat . 
+*NAR:	ah (.) esto aquí .
+%mor:	co|ah det:dem|este-MASC=this adv|aquí=here . 
+%com:	pone una vela
+*BEN:	así pone .
+%mor:	adv|así=thus v|pone-3S&PRES=put . 
+*NAR:	no .
+%mor:	adv|no=no . 
+*NAR:	esto es así .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|así=thus . 
+*BEN:	esto está roto .
+%mor:	det:dem|este-MASC=this v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*INV:	eso no se puede poner .
+%mor:	pro:dem|eso=that_one adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put 
+	. 
+*INV:	hay que poner la otra .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF=put det:art|el&FEM&SG=the 
+	det:indef|otro-FEM=other . 
+*NAR:	esto dónde se puede poner ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pode-3S&PRES=can 
+	v|pone-INF=put ? 
+%com:	la bandera
+*NAR:	así .
+%mor:	adv|así=thus . 
+*NAR:	no .
+%mor:	adv|no=no . 
+*NAR:	<ésta no es> [/] ésta no es .
+%mor:	pro:dem|éste-FEM=this_one adv|no=no v|se-3S&PRES=be . 
+*NAR:	es ésta .
+%mor:	v|se-3S&PRES=be pro:dem|éste-FEM=this_one . 
+*NAR:	yo no se poner esto (.) eh ?
+%mor:	pro:per|yo=I adv|no=no pro:per|se=itself v|pone-INF=put det:dem|este-MASC=this 
+	co|eh ? 
+*BEN:	eso [//] esto [//] ésta tengo que ponerla aquí porque es la grande .
+%mor:	pro:dem|éste-FEM=this_one v|tene-1S&PRES=have prep|que=than v|pone-INF~pro:clit|OBJ&FEM 
+	adv|aquí=here conj|porque=because v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	adj|grande=big . 
+%com:	la red
+*NAR:	esto [/] <esto no es aquí> [/] esto no es aquí ?
+%mor:	det:dem|este-MASC=this adv|no=no v|se-3S&PRES=be adv|aquí=here ? 
+*BEN:	cierra la bandera !
+%mor:	v|cerra-3S&PRES=close det:art|el&FEM&SG=the n|bandera&fem=banner ! 
+*BEN:	se baja !
+%mor:	pro:per|se=itself adj|bajo-FEM=low ! 
+*BEN:	se xxx .
+%mor:	pro:per|se=itself . 
+*NAR:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*BEN:	esto sí que mata .
+%mor:	det:dem|este-MASC=this adv|sí=yes prep|que=than adj|mate-FEM=mate . 
+*NAR:	ay (.) esta pelota aquí .
+%mor:	co|ay=ay det:dem|este-FEM=this n|pelota&fem=ball adv|aquí=here . 
+%com:	sale rodando
+*NAR:	esto dónde se pone ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	? 
+*BEN:	aquí (.) la pelota se pone aquí .
+%mor:	adv|aquí=here det:art|el&FEM&SG=the n|pelota&fem=ball pro:per|se=itself 
+	v|pone-3S&PRES=put adv|aquí=here . 
+*BEN:	una barca !
+%mor:	det:art|un-FEM=one n|barco-FEM=boat ! 
+*NAR:	y otro .
+%mor:	coord|y=and pro:indef|otro=other . 
+*BEN:	mira (.) que se van a montar !
+%mor:	co|mira=look prep|que=than pro:per|se=itself v|i-3P&PRES=go prep|a=to 
+	v|monta-INF=climb_on ! 
+*NAR:	voy a hacer pis .
+%mor:	v|i-1S&PRES=go prep|a=to v|hace-INF=do n|pis&masc=piss . 
+%com:	sale de la habitación
+*BEN:	esta flecha ?
+%mor:	det:dem|este-FEM=this n|flecha&fem=arrow ? 
+*BEN:	esto qué será ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&FUT=be ? 
+*INV:	eso es un telescopio para ver a los piratas que vienen de otro barco (.) <a lo lejos> [/] a lo lejos .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|un&masc=one n|telescopio&masc=telescope 
+	prep|para=for v|ve-INF=see prep|a=to det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	prep|que=than v|veni-3P&PRES=come prep|de=of pro:indef|otro=other n|barco-MASC=boat 
+	prep|a=to pro:per:1|lo&masc=him adv|lejos=far . 
+*BEN:	<hay otro barco> [/] hay otro barco !
+%mor:	v|habe-3S&PRES&SPEC=have pro:indef|otro=other n|barco-MASC=boat ! 
+*BEN:	sí [/] sí .
+%mor:	co|sí=yes . 
+*BEN:	ya (.) que se va !
+%mor:	adv|ya=already prep|que=than pro:per|se=itself v|i-3S&PRES=go ! 
+%com:	mueve el barco
+*BEN:	ya se va .
+%mor:	adv|ya=already pro:per|se=itself v|i-3S&PRES=go . 
+*BEN:	que se va .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go . 
+*BEN:	se va .
+%mor:	pro:per|se=itself v|i-3S&PRES=go . 
+*BEN:	que se va .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go . 
+*BEN:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	la pelota
+*NAR:	dónde se pone ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put ? 
+*BEN:	aquí se pone .
+%mor:	adv|aquí=here pro:per|se=itself v|pone-3S&PRES=put . 
+*NAR:	no .
+%mor:	adv|no=no . 
+*NAR:	ahí no .
+%mor:	adv|ahí=there adv|no=no . 
+*BEN:	pues lo van a dejar ahí .
+%mor:	co|pues=well pro:per:1|lo&masc=him v|i-3P&PRES=go prep|a=to v|deja-INF=leave 
+	adv|ahí=there . 
+*NAR:	a_ver ?
+%mor:	co|a_ver=see ? 
+*BEN:	esto a sacar .
+%mor:	det:dem|este-MASC=this prep|a=to v|saca-INF=bring_out . 
+%com:	el trampolín
+*BEN:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*NAR:	esto dónde se pone ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	? 
+*BEN:	esto es una bandera .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un-FEM=one n|bandera&fem=banner 
+	. 
+*BEN:	la barca !
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat ! 
+*BEN:	la barca así .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat adv|así=thus . 
+*BEN:	aquí la barca .
+%mor:	adv|aquí=here det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*BEN:	hay que arriar la bandera .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|arria-INF=lower det:art|el&FEM&SG=the 
+	n|bandera&fem=banner . 
+*BEN:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*BEN:	vamos a poner la bandera .
+%mor:	co|vamos=go prep|a=to v|pone-INF=put det:art|el&FEM&SG=the n|bandera&fem=banner 
+	. 
+*BEN:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*BEN:	la bandera .
+%mor:	det:art|el&FEM&SG=the n|bandera&fem=banner . 
+*NAR:	no sabemos .
+%mor:	adv|no=no v|sabe-1P&PRES=know . 
+*INV:	el qué ?
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ? 
+*BEN:	no .
+%mor:	adv|no=no . 
+*BEN:	no queremos salir .
+%mor:	adv|no=no v|quere-1P&PRES=want v|sali-INF=leave . 
+*BEN:	a_ver (.) éste no es malo .
+%mor:	co|a_ver=see pro:dem|éste=this_one adv|no=no v|se-3S&PRES=be adj|malo-MASC=bad 
+	. 
+*BEN:	éstos <son malos> [/] son malos los dos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be n|malo&masc-PL=devil det:art|el&MASC-PL=the 
+	det:num|dos=two . 
+*NAR:	Beñat .
+%mor:	n:prop|Beñat . 
+*BEN:	son malos .
+%mor:	v|se-3P&PRES=be n|malo&masc-PL=devil . 
+*BEN:	qué ?
+%mor:	pro:int|qué=what ? 
+*NAR:	jugamos o qué ?
+%mor:	v|juga-1P&PRES=play coord|o=or pro:int|qué=what ? 
+*BEN:	sí !
+%mor:	co|sí=yes ! 
+*NAR:	pues venga ayúdame .
+%mor:	co|pues=well co|venga=come_on v|ayuda-2S&IMP~pro:clit|1S . 
+*NAR:	éste es malo .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adj|malo-MASC=bad . 
+*NAR:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+*BEN:	no que ese es malo .
+%mor:	adv|no=no prep|que=than det:dem|ese=that v|se-3S&PRES=be adj|malo-MASC=bad 
+	. 
+*BEN:	ese es malo .
+%mor:	det:dem|ese=that v|se-3S&PRES=be adj|malo-MASC=bad . 
+*NAR:	y éste .
+%mor:	coord|y=and pro:dem|éste=this_one . 
+*BEN:	a_ver (.) <no es malo> [//] ese <no es malo> [/] <no es malo> [/] <no es malo> [/] <no es malo> [/] <no es malo> [/] <no es malo> [/] <no es malo> [/] <no es malo> [/] no es malo .
+%mor:	co|a_ver=see det:dem|ese=that adv|no=no v|se-3S&PRES=be adj|malo-MASC=bad 
+	. 
+*BEN:	éste tampoco es malo .
+%mor:	pro:dem|éste=this_one adv|tampoco=neither v|se-3S&PRES=be adj|malo-MASC=bad 
+	. 
+*BEN:	ah (.) qué hay aquí ?
+%mor:	co|ah pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here ? 
+*BEN:	la pelota era !
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball v|se-13S&PAS=be ! 
+*BEN:	aquí es (.) a_ver (.) aquí .
+%mor:	adv|aquí=here v|se-3S&PRES=be co|a_ver=see adv|aquí=here . 
+*BEN:	ahí (.) ves ?
+%mor:	adv|ahí=there co|ves=see ? 
+*BEN:	yo 0 [*] la bandera .
+%mor:	pro:per|yo=I det:art|el&FEM&SG=the n|bandera&fem=banner . 
+*NAR:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+%com:	el cofre
+*BEN:	los piratas .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*NAR:	y esto Beñat ?
+%mor:	coord|y=and det:dem|este-MASC=this n:prop|Beñat ? 
+*BEN:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*NAR:	dónde será ?
+%mor:	pro:int|dónde=where v|se-3S&FUT=be ? 
+*BEN:	aquí .
+%mor:	adv|aquí=here . 
+*BEN:	<aquí no> [/] aquí no .
+%mor:	adv|aquí=here adv|no=no . 
+*BEN:	aquí [/] aquí si no .
+%mor:	adv|aquí=here conj|si=if adv|no=no . 
+*NAR:	ponlo aquí [/] aquí en el barco .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here prep|en=in det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*NAR:	aquí no se cae .
+%mor:	adv|aquí=here adv|no=no pro:per|se=itself v|cae-3S&PRES=fall . 
+*BEN:	no [/] no (.) eh ?
+%mor:	co|no=no co|eh ? 
+*BEN:	aquí .
+%mor:	adv|aquí=here . 
+*NAR:	aquí adentro .
+%mor:	adv|aquí=here adv|adentro=inside . 
+*BEN:	ahí adentro ?
+%mor:	adv|ahí=there adv|adentro=inside ? 
+*BEN:	bueno .
+%mor:	co|bueno=good . 
+*NAR:	que no .
+%mor:	prep|que=than adv|no=no . 
+*BEN:	ahí (.) a_ver .
+%mor:	adv|ahí=there co|a_ver=see . 
+*NAR:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ? 
+*BEN:	ahora estos hombres vienen aquí !
+%mor:	adv|ahora=now det:dem|este-MASC-PL=this n|hombre&masc-PL=man v|veni-3P&PRES=come 
+	adv|aquí=here ! 
+*NAR:	esto [//] Beñat esto qué ?
+%mor:	n:prop|Beñat det:dem|este-MASC=this pro:int|qué=what ? 
+%com:	el telescopio
+*NAR:	<pues esto es> [/-] esto es aquí !
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here ! 
+*NAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*BEN:	<dame la barca> [/] <dame la barca> [/] dame la barca .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*NAR:	<dámela ánda> [/] dámela ánda .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM v|anda-2S&IMP=walk . 
+%com:	enganchan los dos barcos
+*BEN:	aquí .
+%mor:	adv|aquí=here . 
+*NAR:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*BEN:	tengo que ir a un lado .
+%mor:	v|tene-1S&PRES=have prep|que=than v|i-INF=go prep|a=to det:art|un&masc=one 
+	n|lado&masc=side . 
+*BEN:	venga a subir a la barca !
+%mor:	co|venga=come_on prep|a=to v|subi-INF=go_up prep|a=to det:art|el&FEM&SG=the 
+	n|barco-FEM=boat ! 
+*BEN:	a subir .
+%mor:	prep|a=to v|subi-INF=go_up . 
+*NAR:	a subir a la barca .
+%mor:	prep|a=to v|subi-INF=go_up prep|a=to det:art|el&FEM&SG=the n|barco-FEM=boat 
+	. 
+*NAR:	qué ?
+%mor:	pro:int|qué=what ? 
+*NAR:	ya la barca ?
+%mor:	adv|ya=already det:art|el&FEM&SG=the n|barco-FEM=boat ? 
+*NAR:	y la barca está aquí .
+%mor:	coord|y=and det:art|el&FEM&SG=the n|barco-FEM=boat v|esta-3S&PRES=be adv|aquí=here 
+	. 
+*BEN:	no [/] no <que no se ahoga> [/] que no se ahoga la barca .
+%mor:	adv|no=no prep|que=than adv|no=no pro:per|se=itself v|ahoga-3S&PRES=drown 
+	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*NAR:	la vaca .
+%mor:	det:art|el&FEM&SG=the n|vaca&fem=cow . 
+*NAR:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*BEN:	no se ahoga .
+%mor:	adv|no=no pro:per|se=itself v|ahoga-3S&PRES=drown . 
+*NAR:	no se ahoga .
+%mor:	adv|no=no pro:per|se=itself v|ahoga-3S&PRES=drown . 
+*BEN:	<hay otro barco> [/] hay otro barco !
+%mor:	v|habe-3S&PRES&SPEC=have pro:indef|otro=other n|barco-MASC=boat ! 
+*NAR:	dame ese .
+%mor:	v|da-2S&IMP~pro:clit|1S det:dem|ese=that . 
+*NAR:	hay otro barco .
+%mor:	v|habe-3S&PRES&SPEC=have pro:indef|otro=other n|barco-MASC=boat . 
+*NAR:	por_favor no (.) que no se ahogue nadie .
+%mor:	co|por_favor=please adv|no=no prep|que=than adv|no=no pro:per|se=itself 
+	v|ahoga-13S&SUB&PRES=drown pro:per|nadie=nobody . 
+*BEN:	sí .
+%mor:	co|sí=yes . 
+*BEN:	se ahogan éstos (.) que son malos .
+%mor:	pro:per|se=itself v|ahoga-3P&PRES=drown pro:dem|éste-MASC-PL=this_one 
+	prep|que=than v|se-3P&PRES=be n|malo&masc-PL=devil . 
+*NAR:	pues déjalos aquí .
+%mor:	co|pues=well v|deja-2S&IMP~pro:clit|OBJ&MASC&PL adv|aquí=here . 
+*BEN:	no (.) que no se ahogan .
+%mor:	adv|no=no prep|que=than adv|no=no pro:per|se=itself v|ahoga-3P&PRES=drown 
+	. 
+*BEN:	que se ahogan .
+%mor:	prep|que=than pro:per|se=itself v|ahoga-3P&PRES=drown . 
+*BEN:	que van y hacen así y no se ahogan .
+%mor:	prep|que=than v|i-3P&PRES=go coord|y=and v|hace-3P&PRES=do adv|así=thus 
+	coord|y=and adv|no=no pro:per|se=itself v|ahoga-3P&PRES=drown . 
+*NAR:	ese es bueno !
+%mor:	det:dem|ese=that v|se-3S&PRES=be co|bueno=good ! 
+*NAR:	se puede ahogar .
+%mor:	pro:per|se=itself v|pode-3S&PRES=can v|ahoga-INF=drown . 
+*NAR:	le vamos a poner en la barca .
+%mor:	pro:per|le=him co|vamos=go prep|a=to v|pone-INF=put prep|en=in det:art|el&FEM&SG=the 
+	n|barco-FEM=boat . 
+*BEN:	sí .
+%mor:	co|sí=yes . 
+*BEN:	se puede ahogar .
+%mor:	pro:per|se=itself v|pode-3S&PRES=can v|ahoga-INF=drown . 
+*NAR:	sí .
+%mor:	co|sí=yes . 
+*BEN:	y éste también se puede ahogar .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also pro:per|se=itself 
+	v|pode-3S&PRES=can v|ahoga-INF=drown . 
+*NAR:	pues vale (.) pues déjale aquí .
+%mor:	co|pues=well co|vale=okay co|pues=well v|deja-2S&IMP~pro:clit|3S adv|aquí=here 
+	. 
+*BEN:	yo aquí .
+%mor:	pro:per|yo=I adv|aquí=here . 
+*BEN:	no (.) que ya se va menos éste .
+%mor:	adv|no=no prep|que=than adv|ya=already pro:per|se=itself v|i-3S&PRES=go 
+	adv|menos=less pro:dem|éste=this_one . 
+*NAR:	aquí se puede bajar y subir .
+%mor:	adv|aquí=here pro:per|se=itself v|pode-3S&PRES=can v|baja-INF=come_down 
+	coord|y=and v|subi-INF=go_up . 
+*BEN:	ya voy [/] voy a bajar .
+%mor:	adv|ya=already v|i-1S&PRES=go prep|a=to v|baja-INF=come_down . 
+*NAR:	vamos a bajarnos también .
+%mor:	co|vamos=go prep|a=to v|baja-INF~pro:clit|1P adv|también=also . 
+*BEN:	no [/] no (.) <que se ahoguen> [/] que se ahoguen .
+%mor:	adv|no=no prep|que=than pro:per|se=itself v|ahoga-3P&SUB&PRES=drown . 
+*BEN:	y después sale el barco pirata .
+%mor:	coord|y=and adv|después=after v|sali-3S&PRES=leave det:art|el&MASC&SG=the 
+	n|barco-MASC=boat n|pirata&masc=pirate . 
+*BEN:	quieres que +/.
+%mor:	v|quere-2S&PRES=want prep|que=than +/. 
+*NAR:	barco al ataque .
+%mor:	n|barco-MASC=boat prep|a~det|el&MASC v|ataca-13S&SUB&PRES=attack . 
+*NAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NAR:	ahora se murió .
+%mor:	adv|ahora=now pro:per|se=itself v|mori-3S&PRET=die . 
+*BEN:	quiénes son 0 [*] que mataban ?
+%mor:	pro:int|quién-PL=who v|se-3P&PRES=be prep|que=than v|mata-3P&PAS=kill 
+	? 
+*NAR:	aquí a encerrar !
+%mor:	adv|aquí=here prep|a=to v|encerra-INF=enclose ! 
+*NAR:	vamos [/] vamos a la cárcel .
+%mor:	co|vamos=go prep|a=to det:art|el&FEM&SG=the n|cárcel&fem=jail . 
+*BEN:	no [/] no (.) que no está castiga(d)o .
+%mor:	adv|no=no prep|que=than adv|no=no v|esta-3S&PRES=be part|castiga-PPART&MASC=punish 
+	. 
+*NAR:	y éstos dónde ?
+%mor:	coord|y=and pro:dem|éste-MASC-PL=this_one pro:int|dónde=where ? 
+*BEN:	éstos no se ahogan !
+%mor:	pro:dem|éste-MASC-PL=this_one adv|no=no pro:per|se=itself v|ahoga-3P&PRES=drown 
+	! 
+*BEN:	<no importa (.) eh> [/] <no importa> [//] no importa <porque qué es o qué> [/] porque qué es o qué ?
+%mor:	adv|no=no v|importa-3S&PRES=matter conj|porque=because pro:int|qué=what 
+	v|se-3S&PRES=be coord|o=or pro:int|qué=what ? 
+*BEN:	<qué es> [/] qué es ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*NAR:	vamos aquí .
+%mor:	co|vamos=go adv|aquí=here . 
+*BEN:	<éstos se ahogan> [/] éstos se ahogan .
+%mor:	pro:dem|éste-MASC-PL=this_one pro:per|se=itself v|ahoga-3P&PRES=drown 
+	. 
+*NAR:	eso .
+%mor:	pro:dem|eso=that_one . 
+*NAR:	vamos a escondernos .
+%mor:	co|vamos=go prep|a=to v|esconde-INF~pro:clit|1P . 
+*BEN:	éstos que se ahoguen .
+%mor:	pro:dem|éste-MASC-PL=this_one prep|que=than pro:per|se=itself v|ahoga-3P&SUB&PRES=drown 
+	. 
+*BEN:	les pisa el barco .
+%mor:	pro:per|le-PL=them v|pisa-3S&PRES=press det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*BEN:	quieres ?
+%mor:	v|quere-2S&PRES=want ? 
+*NAR:	y el barco ?
+%mor:	coord|y=and det:art|el&MASC&SG=the n|barco-MASC=boat ? 
+*BEN:	le pisa .
+%mor:	pro:per|le=him v|pisa-3S&PRES=press . 
+*NAR:	eso [/] eso [/] eso .
+%mor:	pro:dem|eso=that_one . 
+*BEN:	eso es .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be . 
+*NAR:	eso es .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be . 
+*NAR:	y la barca ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|barco-FEM=boat ? 
+*BEN:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*NAR:	esto aquí ?
+%mor:	det:dem|este-MASC=this adv|aquí=here ? 
+*BEN:	ahí .
+%mor:	adv|ahí=there . 
+*NAR:	y si se cae (.) aquí ?
+%mor:	coord|y=and conj|si=if pro:per|se=itself v|cae-3S&PRES=fall adv|aquí=here 
+	? 
+*BEN:	y ahora el barco .
+%mor:	coord|y=and adv|ahora=now det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*NAR:	<yo 0 [*] el barco> [/] yo 0 [*] el barco .
+%mor:	pro:per|yo=I det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*BEN:	no (.) que es éste .
+%mor:	adv|no=no prep|que=than v|se-3S&PRES=be pro:dem|éste=this_one . 
+*BEN:	coge en el otro la(d)o .
+%mor:	v|coge-3S&PRES=take prep|en=in det:art|el&MASC&SG=the pro:indef|otro=other 
+	n|lado&masc=side . 
+*BEN:	voy a pillar a los piratas .
+%mor:	v|i-1S&PRES=go prep|a=to v|pilla-INF=catch prep|a=to det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate . 
+*NAR:	ah (.) que se han caído !
+%mor:	co|ah prep|que=than pro:per|se=itself v|habe-3P&PRES=have part|cae-PPART&MASC=fall 
+	! 
+*NAR:	<tenemos que> [/-] espera son muy malos .
+%mor:	v|espera-3S&PRES=wait v|se-3P&PRES=be adv|muy=very n|malo&masc-PL=devil 
+	. 
+*NAR:	y falta esto .
+%mor:	coord|y=and v|falta-3S&PRES=be_lacking det:dem|este-MASC=this . 
+%com:	el cofre
+*BEN:	a_ver (.) <que va> [/] que va .
+%mor:	co|a_ver=see prep|que=than v|i-3S&PRES=go . 
+*NAR:	espera (.) hay un cofre .
+%mor:	v|espera-3S&PRES=wait v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|cofre&masc=coffer 
+	. 
+*BEN:	vas a hacer la foto o qué ?
+%mor:	v|i-2S&PRES=go prep|a=to v|hace-INF=do det:art|el&FEM&SG=the n|foto&masc=photo 
+	coord|o=or pro:int|qué=what ? 
+*INV:	sí (.) después .
+%mor:	co|sí=yes adv|después=after . 
+*BEN:	a_ver .
+%mor:	co|a_ver=see . 
+*BEN:	<lo he salva(d)o> [//] <le he salva(d)o> [/] le ha salvado éste .
+%mor:	pro:per|le=him co|ha part|salva-PPART&MASC=save pro:dem|éste=this_one 
+	. 
+*NAR:	ahora se murieron todos .
+%mor:	adv|ahora=now pro:per|se=itself v|mori-3P&PRET=die det:indef|todo-MASC-PL=all 
+	. 
+*NAR:	éste no se podía morir (.) vale ?
+%mor:	pro:dem|éste=this_one adv|no=no pro:per|se=itself v|pode-13S&PAS=can 
+	v|mori-INF=die co|vale=okay ? 
+*NAR:	éste decía no voy a poder morir .
+%mor:	pro:dem|éste=this_one v|deci-13S&PAS=say adv|no=no v|i-1S&PRES=go prep|a=to 
+	n|poder&masc=power v|mori-INF=die . 
+*NAR:	tengo un cuchillo .
+%mor:	v|tene-1S&PRES=have det:art|un&masc=one n|cuchillo&masc=knife . 
+*NAR:	vamos a atacar .
+%mor:	co|vamos=go prep|a=to v|ataca-INF=attack . 
+*BEN:	y deja la esto .
+%mor:	coord|y=and v|deja-3S&PRES=leave det:art|el&FEM&SG=the det:dem|este-MASC=this 
+	. 
+*NAR:	el muñeco ?
+%mor:	det:art|el&MASC&SG=the n|muñeco-MASC=doll ? 
+*BEN:	deja la esto .
+%mor:	v|deja-3S&PRES=leave det:art|el&FEM&SG=the det:dem|este-MASC=this . 
+*BEN:	los tres .
+%mor:	det:art|el&MASC-PL=the det:num|tres=three . 
+%com:	piratas
+*NAR:	los tres (.) ya son buenos .
+%mor:	det:art|el&MASC-PL=the det:num|tres=three adv|ya=already v|se-3P&PRES=be 
+	adj|buen-MASC-PL=good . 
+*BEN:	<hay otro> [/] hay otro [/] otro pirata (.) ese .
+%mor:	v|habe-3S&PRES&SPEC=have pro:indef|otro=other n|pirata&masc=pirate det:dem|ese=that 
+	. 
+*NAR:	vamos .
+%mor:	co|vamos=go . 
+*BEN:	vamos .
+%mor:	co|vamos=go . 
+*NAR:	el barco se va .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|i-3S&PRES=go 
+	. 
+*BEN:	esto es .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be . 
+%com:	coge todo lo del suelo y lo sube al barco
+*NAR:	eso [/] eso es .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be . 
+*BEN:	y ya va la barca .
+%mor:	coord|y=and adv|ya=already v|i-3S&PRES=go det:art|el&FEM&SG=the n|barco-FEM=boat 
+	. 
+*BEN:	nos vamos !
+%mor:	pro:per|nos=us co|vamos=go ! 
+*BEN:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*NAR:	éste se acaba de despertar aquí dentro aquí .
+%mor:	pro:dem|éste=this_one pro:per|se=itself v|acaba-3S&PRES=finish prep|de=of 
+	v|desperta-INF=wake_up adv|aquí=here adv|dentro=inside adv|aquí=here 
+	. 
+*BEN:	tenemos aquí .
+%mor:	v|tene-1P&PRES=have adv|aquí=here . 
+*NAR:	y tenemos que andar despacito .
+%mor:	coord|y=and v|tene-1P&PRES=have prep|que=than v|anda-INF=walk adv|despacio-DIM=slowly 
+	. 
+*BEN:	ahora despacito .
+%mor:	adv|ahora=now adv|despacio-DIM=slowly . 
+*BEN:	ya se ha para(d)o .
+%mor:	adv|ya=already pro:per|se=itself co|ha part|para-PPART&MASC=stop . 
+*BEN:	no .
+%mor:	adv|no=no . 
+*BEN:	<ahora a dormir> [/] ahora a dormir .
+%mor:	adv|ahora=now prep|a=to v|dormi-INF=sleep . 
+*NAR:	eso .
+%mor:	pro:dem|eso=that_one . 
+*BEN:	a_ver vamos a bajar .
+%mor:	co|a_ver=see co|vamos=go prep|a=to v|baja-INF=come_down . 
+*NAR:	<de las escaleras> [/] de las escaleras .
+%mor:	prep|de=of det:art|el&FEM-PL=the n|escalera&fem-PL=staircase . 
+*BEN:	<estaba para(d)o (.) el barco> [/] estaba para(d)o el barco .
+%mor:	v|esta-13S&PAS=be part|para-PPART&MASC=stop det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*NAR:	ah (.) vamos a dormir .
+%mor:	co|ah co|vamos=go prep|a=to v|dormi-INF=sleep . 
+*BEN:	<dormir (.) a ver> [//] <ahora a dormir> [/] <ahora a dormir> [/] <ahora a dormir> [//] ahora van a dormir .
+%mor:	adv|ahora=now v|i-3P&PRES=go prep|a=to v|dormi-INF=sleep . 
+*NAR:	a dormir .
+%mor:	prep|a=to v|dormi-INF=sleep . 
+*BEN:	a dormir .
+%mor:	prep|a=to v|dormi-INF=sleep . 
+*NAR:	esto es (.) aquí dormimos .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here v|dormi-1P&PRES=sleep 
+	. 
+*BEN:	a_ver (.) uno se pone aquí .
+%mor:	co|a_ver=see det:art|un-MASC=one pro:per|se=itself v|pone-3S&PRES=put 
+	adv|aquí=here . 
+%com:	en la bodega
+*BEN:	aquí si no .
+%mor:	adv|aquí=here conj|si=if adv|no=no . 
+*NAR:	sí pero cómo lo cogemos ?
+%mor:	co|sí=yes conj|pero=but co|cómo pro:per:1|lo&masc=him v|coge-1P&PRES=take 
+	? 
+*NAR:	sí y cómo lo cogemos ?
+%mor:	adv|sí=yes coord|y=and co|cómo pro:per:1|lo&masc=him v|coge-1P&PRES=take 
+	? 
+*BEN:	así .
+%mor:	adv|así=thus . 
+*BEN:	ahora al otro .
+%mor:	adv|ahora=now prep|a~det|el&MASC pro:indef|otro=other . 
+*BEN:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NAR:	vámonos .
+%mor:	v|i-1P&IMP=go . 
+*BEN:	que se van .
+%mor:	prep|que=than pro:per|se=itself v|i-3P&PRES=go . 
+*NAR:	vamos .
+%mor:	co|vamos=go . 
+*BEN:	lo voy a coger .
+%mor:	pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|coge-INF=take . 
+*NAR:	tenemos para el agua .
+%mor:	v|tene-1P&PRES=have prep|para=for det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*BEN:	ahora el barco !
+%mor:	adv|ahora=now det:art|el&MASC&SG=the n|barco-MASC=boat ! 
+*NAR:	tenemos para el agua .
+%mor:	v|tene-1P&PRES=have prep|para=for det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*BEN:	éste es el agua .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*BEN:	mucha .
+%mor:	det:indef|mucho-FEM=many . 
+*NAR:	vamos más lejos .
+%mor:	co|vamos=go adv|más=more adv|lejos=far . 
+*BEN:	<el agua> [/] el agua .
+%mor:	det:art|el&MASC&SG=the n|agua&fem=water . 
+*NAR:	eso y muy lejos .
+%mor:	pro:dem|eso=that_one coord|y=and adv|muy=very adv|lejos=far . 
+*BEN:	muy lejos .
+%mor:	adv|muy=very adv|lejos=far . 
+*NAR:	ahora aquí salía para sacar una cosa (.) esto [/] esto .
+%mor:	adv|ahora=now adv|aquí=here v|sali-13S&PAS=leave prep|para=for v|saca-INF=bring_out 
+	det:art|un-FEM=one n|cosa&fem=thing det:dem|este-MASC=this . 
+*NAR:	atiende .
+%mor:	v|atende-3S&PRES=tend . 
+*BEN:	eso no .
+%mor:	pro:dem|eso=that_one adv|no=no . 
+*NAR:	sí [/] sí porque si no así hacía .
+%mor:	co|sí=yes conj|porque=because conj|si=if adv|no=no adv|así=thus v|hace-13S&PAS=do 
+	. 
+*NAR:	así sí .
+%mor:	adv|así=thus co|sí=yes . 
+*BEN:	ahora que va a hacer una cosa esta barca !
+%mor:	adv|ahora=now prep|que=than v|i-3S&PRES=go prep|a=to v|hace-INF=do det:art|un-FEM=one 
+	n|cosa&fem=thing det:dem|este-FEM=this n|barco-FEM=boat ! 
+%com:	con el dibujo
+*NAR:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*NAR:	sí ?
+%mor:	co|sí=yes ? 
+*NAR:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*BEN:	para [/] para [/] <para dejar> [//] para la caja de juegos .
+%mor:	prep|para=for det:art|el&FEM&SG=the n|caja&fem=box prep|de=of n|juego&masc-PL=game 
+	. 
+*NAR:	sí .
+%mor:	co|sí=yes . 
+*BEN:	a_ver .
+%mor:	co|a_ver=see . 
+*NAR:	ahora se puso así .
+%mor:	adv|ahora=now pro:per|se=itself v|pone-3S&PRET=put adv|así=thus . 
+*NAR:	no [/] no .
+%mor:	adv|no=no . 
+*NAR:	no se puede poner .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put . 
+*NAR:	vamos .
+%mor:	co|vamos=go . 
+*BEN:	vamos .
+%mor:	co|vamos=go . 
+*BEN:	venga .
+%mor:	co|venga=come_on . 
+*NAR:	el barco está aquí .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat v|esta-3S&PRES=be adv|aquí=here 
+	. 
+*BEN:	hay una cosa aquí .
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|cosa&fem=thing adv|aquí=here 
+	. 
+%com:	aparta el micrófono
+*BEN:	que se cae el barco .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*NAR:	pues esto lo ponemos en otro sitio .
+%mor:	co|pues=well det:dem|este-MASC=this pro:per:1|lo&masc=him v|pone-1P&PRES=put 
+	prep|en=in pro:indef|otro=other n|sitio&masc=place . 
+%com:	quita las velas que las tenía encima de la cubierta del barco
+*NAR:	aquí mejor .
+%mor:	adv|aquí=here adj|mejor=better . 
+*BEN:	pues aquí se ponen .
+%mor:	co|pues=well adv|aquí=here pro:per|se=itself v|pone-3P&PRES=put . 
+*NAR:	aquí mejor .
+%mor:	adv|aquí=here adj|mejor=better . 
+*BEN:	<ahí mejor> [/] ahí mejor .
+%mor:	adv|ahí=there adj|mejor=better . 
+*BEN:	hay tiburones (.) eh ?
+%mor:	v|habe-3S&PRES&SPEC=have n|tiburón&masc-PL=shark co|eh ? 
+*NAR:	sí [/] sí pero no le daba miedo .
+%mor:	co|sí=yes conj|pero=but adv|no=no pro:per|le=him v|da-13S&PAS=give n|miedo&masc=fear 
+	. 
+*NAR:	a los buenos sí .
+%mor:	prep|a=to det:art|el&MASC-PL=the adj|buen-MASC-PL=good co|sí=yes . 
+*BEN:	pero así son pero a nosotros no nos comen .
+%mor:	conj|pero=but adv|así=thus v|se-3P&PRES=be conj|pero=but prep|a=to pro:per|nosotro-MASC-PL=we 
+	adv|no=no pro:per|nos=us v|come-3P&PRES=eat . 
+*NAR:	no .
+%mor:	adv|no=no . 
+*BEN:	pero a ellos sí .
+%mor:	conj|pero=but prep|a=to pro:per|ello-MASC-PL=he co|sí=yes . 
+*NAR:	sí .
+%mor:	co|sí=yes . 
+*NAR:	sí pero <a los buenos> [//] a los buenos les dan miedo .
+%mor:	co|sí=yes conj|pero=but prep|a=to det:art|el&MASC-PL=the adj|buen-MASC-PL=good 
+	pro:per|le-PL=them v|da-3P&PRES=give n|miedo&masc=fear . 
+*BEN:	sí .
+%mor:	co|sí=yes . 
+*NAR:	y los buenos se tienen que quedar ahí .
+%mor:	coord|y=and det:art|el&MASC-PL=the adj|buen-MASC-PL=good pro:per|se=itself 
+	v|tene-3P&PRES=have prep|que=than v|queda-INF=stay adv|ahí=there . 
+*BEN:	y 0 [*] los malos les da miedo .
+%mor:	coord|y=and det:art|el&MASC-PL=the n|malo&masc-PL=devil pro:per|le-PL=them 
+	v|da-3S&PRES=give n|miedo&masc=fear . 
+*NAR:	eso .
+%mor:	pro:dem|eso=that_one . 
+@End

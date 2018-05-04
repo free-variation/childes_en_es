@@ -1,0 +1,404 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Eneko Target_Child , FAT Fernando Father
+@ID:	spa|fernaguado|CHI|3;1.12||||Target_Child|||
+@ID:	spa|fernaguado|FAT|||||Father|||
+@Date:	17-MAR-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CHI narra cuentos a FAT
+*FAT:	éste quién es ?
+%mor:	pro:dem|éste=this_one pro:int|quién=who v|se-3S&PRES=be ? 
+*FAT:	qué le pasa a éste chico ?
+%mor:	pro:int|qué=what pro:per|le=him v|pasa-3S&PRES=pass prep|a=to pro:dem|éste=this_one 
+	n|chico-MASC=child ? 
+*CHI:	eh ?
+%mor:	co|eh ? 
+*FAT:	qué le ha pasado ?
+%mor:	pro:int|qué=what pro:per|le=him co|ha part|pasa-PPART&MASC=pass ? 
+*CHI:	a éste ?
+%mor:	prep|a=to pro:dem|éste=this_one ? 
+*FAT:	éste es éste (.) verdad ?
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be pro:dem|éste=this_one co|verdad=right 
+	? 
+*CHI:	0 [=! asintiendo] .
+*FAT:	fíjate va con el patín (.) verdad ?
+%mor:	v|fija-2S&IMP~pro:clit|2S v|i-3S&PRES=go prep|con=with det:art|el&MASC&SG=the 
+	n|patín&masc=skate co|verdad=right ? 
+*FAT:	se tira pero no se cae .
+%mor:	pro:per|se=itself v|tira-3S&PRES=throw conj|pero=but adv|no=no pro:per|se=itself 
+	v|cae-3S&PRES=fall . 
+*FAT:	se cae al fondo ?
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall prep|a~det|el&MASC n|fondo&masc=bottom 
+	? 
+*FAT:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*CHI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	señala
+*FAT:	como vas tú con el triciclo .
+%mor:	adv|como=like v|i-2S&PRES=go pro:per|tú=you prep|con=with det:art|el&MASC&SG=the 
+	n|triciclo&masc=tricycle . 
+*FAT:	corre mucho [/] mucho [/] mucho .
+%mor:	v|corre-3S&PRES=run adv|mucho=much . 
+*CHI:	mira .
+%mor:	co|mira=look . 
+%com:	señala el resto de los cuentos
+*CHI:	papá mira .
+%mor:	n|papá&masc=papa co|mira=look . 
+%com:	las fichas del colegio
+*FAT:	a qué están jugando ?
+%mor:	prep|a=to pro:int|qué=what v|esta-3P&PRES=be v|juga-PROG=play ? 
+*CHI:	eh ?
+%mor:	co|eh ? 
+*FAT:	a qué están jugando esos chicos ?
+%mor:	prep|a=to pro:int|qué=what v|esta-3P&PRES=be v|juga-PROG=play det:dem|ese-MASC-PL=that 
+	adj|chico-MASC-PL=small ? 
+*CHI:	juegan (.) al balón .
+%mor:	v|juga-3P&PRES=play prep|a~det|el&MASC n|balón&masc=large_ball . 
+*FAT:	al balón y éste ?
+%mor:	prep|a~det|el&MASC n|balón&masc=large_ball coord|y=and pro:dem|éste=this_one 
+	? 
+*CHI:	juega .
+%mor:	v|juga-3S&PRES=play . 
+*CHI:	éste ?
+%mor:	pro:dem|éste=this_one ? 
+*FAT:	quién es ese ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be det:dem|ese=that ? 
+*CHI:	el yayo@f .
+%mor:	det:art|el&MASC&SG=the fam|yayo . 
+*FAT:	el yayo@f es ese ?
+%mor:	det:art|el&MASC&SG=the fam|yayo v|se-3S&PRES=be det:dem|ese=that ? 
+*CHI:	sí y ésta ?
+%mor:	adv|sí=yes coord|y=and pro:dem|éste-FEM=this_one ? 
+*CHI:	la yaya@f y yo .
+%mor:	det:art|el&FEM&SG=the fam|yaya coord|y=and pro:per|yo=I . 
+*FAT:	y esa ?
+%mor:	coord|y=and det:dem|ese-FEM=that ? 
+*CHI:	yo .
+%mor:	pro:per|yo=I . 
+*FAT:	quién ?
+%mor:	pro:int|quién=who ? 
+*CHI:	yo .
+%mor:	pro:per|yo=I . 
+*FAT:	tú [//] quién eres tú éste o éste ?
+%mor:	pro:int|quién=who v|se-2S&PRES=be pro:per|tú=you pro:dem|éste=this_one 
+	coord|o=or pro:dem|éste=this_one ? 
+*CHI:	éste .
+%mor:	pro:dem|éste=this_one . 
+*FAT:	y qué está haciendo ese ?
+%mor:	coord|y=and pro:int|qué=what v|esta-3S&PRES=be v|hace-PROG=do det:dem|ese=that 
+	? 
+*FAT:	le ha dado una patada al balón ?
+%mor:	pro:per|le=him co|ha part|da-PPART&MASC=give det:art|un-FEM=one n|patada&fem=kick 
+	prep|a~det|el&MASC n|balón&masc=large_ball ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	ánda (.) mira .
+%mor:	v|anda-2S&IMP=walk co|mira=look . 
+*CHI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*FAT:	mira (.) aquí pone guardería .
+%mor:	co|mira=look adv|aquí=here v|pone-3S&PRES=put n|guardería&fem=nursery 
+	. 
+*FAT:	ves la guardería .
+%mor:	co|ves=see det:art|el&FEM&SG=the n|guardería&fem=nursery . 
+*FAT:	y ésta con estas trenzas quién es ?
+%mor:	coord|y=and pro:dem|éste-FEM=this_one prep|con=with det:dem|este-FEM-PL=this 
+	n|trenza&fem-PL=braid pro:int|quién=who v|se-3S&PRES=be ? 
+*CHI:	mira (.) ahí estoy yo .
+%mor:	co|mira=look adv|ahí=there v|esta-1S&PRES=be pro:per|yo=I . 
+*FAT:	ahí estás tú ?
+%mor:	adv|ahí=there v|esta-2S&PRES=be pro:per|tú=you ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	y a dónde vas ?
+%mor:	coord|y=and prep|a=to pro:int|dónde=where v|i-2S&PRES=go ? 
+*CHI:	a la guardería .
+%mor:	prep|a=to det:art|el&FEM&SG=the n|guardería&fem=nursery . 
+*FAT:	esta rubia quién es ?
+%mor:	det:dem|este-FEM=this adj|rubio-FEM=reddish pro:int|quién=who v|se-3S&PRES=be 
+	? 
+*FAT:	no sabes quién es ?
+%mor:	co|no=no co|sabes=you_know pro:int|quién=who v|se-3S&PRES=be ? 
+*FAT:	a_ver mira (.) parece que va a dar Josefa una galleta .
+%mor:	co|a_ver=see co|mira=look v|parece-3S&PRES=seem prep|que=than v|i-3S&PRES=go 
+	prep|a=to v|da-INF=give n:prop|Josefa det:art|un-FEM=one n|galleta&fem=biscuit 
+	. 
+*FAT:	están en fila todos .
+%mor:	v|esta-3P&PRES=be prep|en=in n|fila&fem=row det:indef|todo-MASC-PL=all 
+	. 
+*FAT:	así os ponéis cuando va a dar Josefa una galleta ?
+%mor:	adv|así=thus pro:per|os=you v|pone-2P&PRES=put conj|cuando=when v|i-3S&PRES=go 
+	prep|a=to v|da-INF=give n:prop|Josefa det:art|un-FEM=one n|galleta&fem=biscuit 
+	? 
+*FAT:	allí en la guardería (.) verdad ?
+%mor:	adv|allí=there prep|en=in det:art|el&FEM&SG=the n|guardería&fem=nursery 
+	co|verdad=right ? 
+*FAT:	mira (.) un cuento .
+%mor:	co|mira=look det:art|un&masc=one n|cuento&masc=story . 
+*FAT:	no te oigo nada chico .
+%mor:	adv|no=no pro:per|te=you v|oí-1S&PRES=hear pro:indef|nada=nothing adj|chico-MASC=small 
+	. 
+*FAT:	ánda y esta ventana ?
+%mor:	v|anda-2S&IMP=walk coord|y=and det:dem|este-FEM=this n|ventana&fem=window 
+	? 
+*CHI:	eh ?
+%mor:	co|eh ? 
+*FAT:	en esta ventana .
+%mor:	prep|en=in det:dem|este-FEM=this n|ventana&fem=window . 
+*CHI:	0 [*] pájaro .
+%mor:	n|pájaro&masc=bird . 
+*FAT:	buenos días .
+%mor:	adj|buen-MASC-PL=good n|día&masc-PL=day . 
+*FAT:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*FAT:	lo vemos este cuento .
+%mor:	pro:per:1|lo&masc=him v|ve-1P&PRES=see det:dem|este=this n|cuento&masc=story 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*FAT:	no ?
+%mor:	adv|no=no ? 
+*FAT:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*CHI:	ahí .
+%mor:	adv|ahí=there . 
+*CHI:	pintando una tarta .
+%mor:	v|pinta-PROG=paint det:art|un-FEM=one n|tarta&fem=tart . 
+*CHI:	mira !
+%mor:	co|mira=look ! 
+*FAT:	quién es esa ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be det:dem|ese-FEM=that ? 
+*CHI:	están ahí .
+%mor:	v|esta-3P&PRES=be adv|ahí=there . 
+*FAT:	quién [/] quién es ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be ? 
+*CHI:	éstos (.) mira !
+%mor:	pro:dem|éste-MASC-PL=this_one co|mira=look ! 
+*CHI:	la ama .
+%mor:	det:art|el&FEM&SG=the n|ama&fem=housekeeper . 
+*FAT:	este chiquitico quién es ?
+%mor:	det:dem|este=this n|chico-DIM-MASC=small pro:int|quién=who v|se-3S&PRES=be 
+	? 
+*CHI:	yo .
+%mor:	pro:per|yo=I . 
+*FAT:	tú eres ?
+%mor:	pro:per|tú=you v|se-2S&PRES=be ? 
+*FAT:	qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*CHI:	0 [*] vela .
+%mor:	n|vela&fem=candle . 
+*FAT:	qué ?
+%mor:	pro:int|qué=what ? 
+*CHI:	0 [*] vela .
+%mor:	n|vela&fem=candle . 
+*FAT:	vela ?
+%mor:	n|vela&fem=candle ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	me parece que está triste (.) no ?
+%mor:	pro:per|me=me v|parece-3S&PRES=seem prep|que=than v|esta-3S&PRES=be adj|triste=sad 
+	co|no=no ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	qué le ha pasado ?
+%mor:	pro:int|qué=what pro:per|le=him co|ha part|pasa-PPART&MASC=pass ? 
+*CHI:	se ha roto .
+%mor:	pro:per|se=itself co|ha part|rompe-PPART-MASC=break . 
+*CHI:	tarta .
+%mor:	n|tarta&fem=tart . 
+*FAT:	y qué es ?
+%mor:	coord|y=and pro:int|qué=what v|se-3S&PRES=be ? 
+*CHI:	le dan esto .
+%mor:	pro:per|le=him v|da-3P&PRES=give det:dem|este-MASC=this . 
+*FAT:	por_qué le dan tarta ?
+%mor:	pro:int|por_qué=why pro:per|le=him v|da-3P&PRES=give n|tarta&fem=tart 
+	? 
+*FAT:	cumple los años ?
+%mor:	v|cumpli-3S&PRES=accomplish det:art|el&MASC-PL=the n|año&masc-PL=year 
+	? 
+*FAT:	qué le estarán cantando ?
+%mor:	pro:int|qué=what pro:per|le=him v|esta-3P&FUT=be v|canta-PROG=sing ? 
+*FAT:	cómo es la canción ?
+%mor:	co|cómo v|se-3S&PRES=be det:art|el&FEM&SG=the n|canción&fem=song ? 
+*CHI:	ahora éste .
+%mor:	adv|ahora=now pro:dem|éste=this_one . 
+*FAT:	fiesta en la nieve .
+%mor:	n|fiesta&fem=festival prep|en=in det:art|el&FEM&SG=the n|nieve&fem=snow 
+	. 
+*FAT:	qué llevan estos chicos aquí ?
+%mor:	pro:int|qué=what v|lleva-3P&PRES=carry det:dem|este-MASC-PL=this adj|chico-MASC-PL=small 
+	adv|aquí=here ? 
+*FAT:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*CHI:	eh (.) bolas (.) mira !
+%mor:	co|eh n|bola&fem-PL=ball co|mira=look ! 
+*FAT:	<qué es esto> [/] qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*CHI:	niña .
+%mor:	co:voc|niña=child . 
+*FAT:	eh ?
+%mor:	co|eh ? 
+*CHI:	niña .
+%mor:	co:voc|niña=child . 
+*FAT:	niña ?
+%mor:	co:voc|niña=child ? 
+*CHI:	niña .
+%mor:	co:voc|niña=child . 
+*FAT:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ? 
+*CHI:	un tren .
+%mor:	det:art|un&masc=one n|tren&masc=train . 
+*FAT:	mira está todo blanco .
+%mor:	co|mira=look v|esta-3S&PRES=be det:indef|todo-MASC=all adj|blanco-MASC=white 
+	. 
+*CHI:	caballos (.) árboles !
+%mor:	n|caballo&masc-PL=horse n|árbol&masc-PL=tree ! 
+*FAT:	ya se ha acabado .
+%mor:	adv|ya=already pro:per|se=itself co|ha part|acaba-PPART&MASC=finish . 
+*FAT:	ya lo has leído .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|habe-2S&PRES=have part|lee-PPART&MASC=read 
+	. 
+*FAT:	vamos a_ver otra vez al chico del patín (.) a_ver que le pasa ?
+%mor:	co|vamos=go co|a_ver=see det:indef|otro-FEM=other n|vez&fem=turn prep|a~det|el&MASC 
+	n|chico-MASC=child prep|de~det|el&MASC n|patín&masc=skate co|a_ver=see 
+	prep|que=than pro:per|le=him v|pasa-3S&PRES=pass ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	a_ver (.) aquí qué lleva ?
+%mor:	co|a_ver=see adv|aquí=here pro:int|qué=what v|lleva-3S&PRES=carry ? 
+*FAT:	el patín (.) verdad ?
+%mor:	det:art|el&MASC&SG=the n|patín&masc=skate co|verdad=right ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	y éste el patín .
+%mor:	coord|y=and pro:dem|éste=this_one det:art|el&MASC&SG=the n|patín&masc=skate 
+	. 
+*FAT:	lleva el patín .
+%mor:	v|lleva-3S&PRES=carry det:art|el&MASC&SG=the n|patín&masc=skate . 
+*FAT:	y a dónde se ha caído ?
+%mor:	coord|y=and prep|a=to pro:int|dónde=where pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	? 
+*CHI:	al agua .
+%mor:	prep|a~det|el&MASC n|agua&fem=water . 
+*CHI:	mira (.) un bicho .
+%mor:	co|mira=look det:art|un&masc=one n|bicho-MASC=creature . 
+%com:	la rana
+*FAT:	eso qué es ?
+%mor:	pro:dem|eso=that_one pro:int|qué=what v|se-3S&PRES=be ? 
+*CHI:	bicho .
+%mor:	n|bicho-MASC=creature . 
+*FAT:	un bicho ?
+%mor:	det:art|un&masc=one n|bicho-MASC=creature ? 
+*CHI:	sí y éste .
+%mor:	adv|sí=yes coord|y=and pro:dem|éste=this_one . 
+*FAT:	dónde estaba el bicho ese ?
+%mor:	pro:int|dónde=where v|esta-13S&PAS=be det:art|el&MASC&SG=the n|bicho-MASC=creature 
+	det:dem|ese=that ? 
+*CHI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	señala
+*FAT:	ahí ?
+%mor:	adv|ahí=there ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	está muy triste (.) verdad ?
+%mor:	v|esta-3S&PRES=be adv|muy=very adj|triste=sad co|verdad=right ? 
+*FAT:	se ha caído al agua .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*FAT:	vas a guardar todo ?
+%mor:	v|i-2S&PRES=go prep|a=to v|guarda-INF=guard det:indef|todo-MASC=all ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+%com:	recoge las fichas
+*CHI:	ya !
+%mor:	adv|ya=already ! 
+*CHI:	no quiero más !
+%mor:	adv|no=no v|quere-1S&PRES=want adv|más=more ! 
+*CHI:	no !
+%mor:	adv|no=no ! 
+*CHI:	se ha acaba(d)o !
+%mor:	pro:per|se=itself co|ha part|acaba-PPART&MASC=finish ! 
+*CHI:	ah (.) y tarta !
+%mor:	co|ah coord|y=and n|tarta&fem=tart ! 
+%com:	en el cuento de Pepa y Misi
+*CHI:	y un cuchillo !
+%mor:	coord|y=and det:art|un&masc=one n|cuchillo&masc=knife ! 
+*FAT:	es un cuchillo ?
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|cuchillo&masc=knife ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	para qué quieren el cuchillo ?
+%mor:	prep|para=for pro:int|qué=what v|quere-3P&PRES=want det:art|el&MASC&SG=the 
+	n|cuchillo&masc=knife ? 
+*CHI:	para esto (.) ves ?
+%mor:	prep|para=for det:dem|este-MASC=this co|ves=see ? 
+%com:	señala
+*CHI:	esto 0 [*] bicho .
+%mor:	det:dem|este-MASC=this n|bicho-MASC=creature . 
+%com:	el gato
+*CHI:	silla .
+%mor:	n|silla&fem=chair . 
+*FAT:	eh ?
+%mor:	co|eh ? 
+*CHI:	silla .
+%mor:	n|silla&fem=chair . 
+%com:	el padre le coloca la silla para que llegue mejor a la mesa
+*CHI:	mira (.) es el mercadillo !
+%mor:	co|mira=look v|se-3S&PRES=be det:art|el&MASC&SG=the n|mercado-DIM-MASC=market 
+	! 
+*FAT:	qué está haciendo esa chica ?
+%mor:	pro:int|qué=what v|esta-3S&PRES=be v|hace-PROG=do det:dem|ese-FEM=that 
+	n|chico-FEM=child ? 
+*CHI:	está esto y está [*] yo .
+%mor:	v|esta-3S&PRES=be det:dem|este-MASC=this coord|y=and v|esta-3S&PRES=be 
+	pro:per|yo=I . 
+*FAT:	ah (.) tú ?
+%mor:	co|ah pro:per|tú=you ? 
+*CHI:	yo .
+%mor:	pro:per|yo=I . 
+*CHI:	está .
+%mor:	v|esta-3S&PRES=be . 
+*CHI:	niño .
+%mor:	co:voc|niño=child . 
+*FAT:	niño .
+%mor:	co:voc|niño=child . 
+*CHI:	bolas .
+%mor:	n|bola&fem-PL=ball . 
+*FAT:	bolas y esto ?
+%mor:	n|bola&fem-PL=ball coord|y=and det:dem|este-MASC=this ? 
+*CHI:	casa .
+%mor:	n|casa&fem=house . 
+*FAT:	una zanahoria le han puesto ahí .
+%mor:	det:art|un-FEM=one n|zanahoria&fem=onion pro:per|le=him v|habe-3P&PRES=have 
+	part|pone-PPART-MASC=put adv|ahí=there . 
+%com:	en la nariz
+*FAT:	te acuerdas cuando hicimos el muñeco nosotros ?
+%mor:	pro:per|te=you v|acorda-2S&PRES=remind conj|cuando=when v|hace-1P&PRET=do 
+	det:art|el&MASC&SG=the n|muñeco-MASC=doll pro:per|nosotro-MASC-PL=we ? 
+*CHI:	yo ?
+%mor:	pro:per|yo=I ? 
+*FAT:	sí .
+%mor:	co|sí=yes . 
+*CHI:	tú y yo ?
+%mor:	pro:per|tú=you coord|y=and pro:per|yo=I ? 
+%com:	señalando
+*FAT:	sí .
+%mor:	co|sí=yes . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*FAT:	qué le pusimos para la nariz ?
+%mor:	pro:int|qué=what pro:per|le=him v|pone-1P&PRET=put prep|para=for det:art|el&FEM&SG=the 
+	n|nariz&fem=nose ? 
+*FAT:	te acuerdas ?
+%mor:	pro:per|te=you v|acorda-2S&PRES=remind ? 
+*CHI:	mira tele(visión) .
+%mor:	co|mira=look n|televisión&fem=television . 
+*FAT:	seguro que es una tele(visión) ?
+%mor:	co|seguro=sure prep|que=than v|se-3S&PRES=be det:art|un-FEM=one n|televisión&fem=television 
+	? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+@End

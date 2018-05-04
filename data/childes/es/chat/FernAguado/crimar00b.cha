@@ -1,0 +1,717 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CRI Cristina Target_Child , NIC Nicolas Brother , INV Marta Investigator
+@ID:	spa|fernaguado|CRI|4;0.24||||Target_Child|||
+@ID:	spa|fernaguado|NIC|2;3.10||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	07-MAR-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CRI y NIC juegan con el barco pirata
+*CRI:	voy al barco .
+%mor:	v|i-1S&PRES=go prep|a~det|el&MASC n|barco-MASC=boat . 
+%com:	mueve un pirata
+*CRI:	ay (.) que lío aquí .
+%mor:	co|ay=ay prep|que=than n|lío&masc=mess adv|aquí=here . 
+%com:	la cuerda del arpón de la barca está enredada
+*CRI:	ay (.) que lío .
+%mor:	co|ay=ay prep|que=than n|lío&masc=mess . 
+*NIC:	hay que llevarlo .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|lleva-INF~pro:clit|OBJ&MASC . 
+%com:	el barco
+*NIC:	hay que poner éste .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF=put pro:dem|éste=this_one 
+	. 
+%com:	monta un pirata al barco
+*CRI:	ay (.) que lío que hay aquí .
+%mor:	co|ay=ay prep|que=than n|lío&masc=mess prep|que=than v|habe-3S&PRES&SPEC=have 
+	adv|aquí=here . 
+*NIC:	éste es el barco grande .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	adj|grande=big . 
+*NIC:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+%com:	una red que no sabe dónde poner
+*CRI:	no .
+%mor:	adv|no=no . 
+*CRI:	éste iba más allá .
+%mor:	pro:dem|éste=this_one v|i-13S&PAS=go adv|más=more adv|allá=there . 
+*CRI:	el barco !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat ! 
+*CRI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*NIC:	a_ver ?
+%mor:	co|a_ver=see ? 
+*CRI:	ah !
+%mor:	co|ah ! 
+*NIC:	ah !
+%mor:	co|ah ! 
+*CRI:	cómo se pondrá esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&FUT=put det:dem|este-MASC=this 
+	? 
+%com:	la bandera
+*NIC:	cómo se pondrá esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&FUT=put det:dem|este-MASC=this 
+	? 
+*INV:	así (.) muy bien .
+%mor:	adv|así=thus adv|muy=very adv|bien=well . 
+*CRI:	así ?
+%mor:	adv|así=thus ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CRI:	pero es que se me cae .
+%mor:	conj|pero=but v|se-3S&PRES=be prep|que=than pro:per|se=itself pro:per|me=me 
+	v|cae-3S&PRES=fall . 
+*INV:	aprieta un poquito más .
+%mor:	v|apreta-3S&PRES=tighten det:art|un&masc=one pro:indef|poquito=little 
+	adv|más=more . 
+*CRI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CRI:	un poco más y ya está .
+%mor:	det:art|un&masc=one adv|poco=few adv|más=more coord|y=and adv|ya=already 
+	v|esta-3S&PRES=be . 
+*CRI:	ya está el barco pero ahora falta esto .
+%mor:	adv|ya=already v|esta-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	conj|pero=but adv|ahora=now v|falta-3S&PRES=be_lacking det:dem|este-MASC=this 
+	. 
+*CRI:	que yo sabo [*] hacerlo .
+%mor:	prep|que=than pro:per|yo=I adj|sabio-MASC=wise v|hace-INF~pro:clit|OBJ&MASC 
+	. 
+%com:	las redes
+*CRI:	uno y dos .
+%mor:	det:art|un-MASC=one coord|y=and det:num|dos=two . 
+*NIC:	y dos !
+%mor:	coord|y=and det:num|dos=two ! 
+*NIC:	jo (.) se cae .
+%mor:	co|jo=whoa pro:per|se=itself v|cae-3S&PRES=fall . 
+*CRI:	éste sí .
+%mor:	pro:dem|éste=this_one co|sí=yes . 
+*CRI:	vamos a_ver éste .
+%mor:	co|vamos=go co|a_ver=see pro:dem|éste=this_one . 
+*CRI:	jo (.) se cae .
+%mor:	co|jo=whoa pro:per|se=itself v|cae-3S&PRES=fall . 
+*CRI:	esto se cae .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|cae-3S&PRES=fall . 
+*CRI:	<éste también se cae> [/] éste también se cae .
+%mor:	pro:dem|éste=this_one adv|también=also pro:per|se=itself v|cae-3S&PRES=fall 
+	. 
+*INV:	porque tienes que ponerlo antes que poner la bandera .
+%mor:	conj|porque=because v|tene-2S&PRES=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC 
+	adv|antes=before prep|que=than v|pone-INF=put det:art|el&FEM&SG=the n|bandera&fem=banner 
+	. 
+*NIC:	antes de poner ?
+%mor:	adv|antes=before prep|de=of v|pone-INF=put ? 
+%com:	toca el mástil
+*CRI:	cuál bandera ?
+%mor:	pro:int|cuál=which n|bandera&fem=banner ? 
+*INV:	tienes que quitar la bandera .
+%mor:	v|tene-2S&PRES=have prep|que=than v|quita-INF=remove det:art|el&FEM&SG=the 
+	n|bandera&fem=banner . 
+*INV:	cuál es la bandera ?
+%mor:	pro:int|cuál=which v|se-3S&PRES=be det:art|el&FEM&SG=the n|bandera&fem=banner 
+	? 
+*NIC:	ésta ?
+%mor:	pro:dem|éste-FEM=this_one ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	la que está puesta .
+%mor:	det:art|el&FEM&SG=the prep|que=than v|esta-3S&PRES=be part|pone-PPART-FEM=put 
+	. 
+*CRI:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+*INV:	esa .
+%mor:	det:dem|ese-FEM=that . 
+*CRI:	esto es un barco pero eso es un barco ?
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un&masc=one n|barco-MASC=boat 
+	conj|pero=but pro:dem|eso=that_one v|se-3S&PRES=be det:art|un&masc=one 
+	n|barco-MASC=boat ? 
+%com:	primero señala el grande y luego la pequeña
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CRI:	el barco pirata !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate ! 
+*NIC:	el barco pirata !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate ! 
+*NIC:	el pirata .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*NIC:	un vaso .
+%mor:	det:art|un&masc=one n|vaso&masc=vase . 
+%com:	el puesto del vigía
+*NIC:	ahora se hace así .
+%mor:	adv|ahora=now pro:per|se=itself v|hace-3S&PRES=do adv|así=thus . 
+%com:	hace como si bebe
+*NIC:	está aquí el pirata .
+%mor:	v|esta-3S&PRES=be adv|aquí=here det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	. 
+*CRI:	éste también está roto .
+%mor:	pro:dem|éste=this_one adv|también=also v|esta-3S&PRES=be part|rompe-PPART-MASC=break 
+	. 
+%com:	una red
+*CRI:	éste .
+%mor:	pro:dem|éste=this_one . 
+*NIC:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NIC:	y está !
+%mor:	coord|y=and v|esta-3S&PRES=be ! 
+*CRI:	ahora esto .
+%mor:	adv|ahora=now det:dem|este-MASC=this . 
+*CRI:	pero esta bandera en dónde ?
+%mor:	conj|pero=but det:dem|este-FEM=this n|bandera&fem=banner prep|en=in pro:int|dónde=where 
+	? 
+*CRI:	habrá que ponerlo [*] abajo la bandera .
+%mor:	v|habe-3S&FUT=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC adv|abajo=below 
+	det:art|el&FEM&SG=the n|bandera&fem=banner . 
+*CRI:	abajo hay que ponerlo [*] .
+%mor:	adv|abajo=below v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC 
+	. 
+*CRI:	au (.) espera .
+%mor:	co|au=ow v|espera-3S&PRES=wait . 
+*CRI:	ya .
+%mor:	adv|ya=already . 
+*NIC:	sí .
+%mor:	co|sí=yes . 
+*NIC:	y esto qué ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|qué=what ? 
+%com:	coge un pirata
+*CRI:	a_ver si lo puedo poner aquí .
+%mor:	co|a_ver=see conj|si=if pro:per:1|lo&masc=him v|pode-1S&PRES=can v|pone-INF=put 
+	adv|aquí=here . 
+%com:	las redes
+*CRI:	esto ahora (.) ya .
+%mor:	det:dem|este-MASC=this adv|ahora=now adv|ya=already . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	ya .
+%mor:	adv|ya=already . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	hay que poner esto ahí arriba .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF=put det:dem|este-MASC=this 
+	adv|ahí=there adv|arriba=above . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	luego esto .
+%mor:	adv|luego=afterwards det:dem|este-MASC=this . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	esto es el tesoro ?
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	? 
+*NIC:	ese es el tesoro ?
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	? 
+*CRI:	se abre ?
+%mor:	pro:per|se=itself v|abri-3S&PRES=open ? 
+*NIC:	se abre ?
+%mor:	pro:per|se=itself v|abri-3S&PRES=open ? 
+*CRI:	esto se cierra (.) mira .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|cerra-3S&PRES=close co|mira=look 
+	. 
+%com:	el camarote del pirata
+*CRI:	mira (.) una mesa que llevó un señor que era éste .
+%mor:	co|mira=look det:art|un-FEM=one n|mesa&fem=table prep|que=than v|lleva-3S&PRET=carry 
+	det:art|un&masc=one n|señor&masc=sir prep|que=than v|se-13S&PAS=be pro:dem|éste=this_one 
+	. 
+*NIC:	un pirata !
+%mor:	det:art|un&masc=one n|pirata&masc=pirate ! 
+*CRI:	el señor malo (.) capitán .
+%mor:	det:art|el&MASC&SG=the n|señor&masc=sir n|malo&masc=devil n|capitán&masc=captain 
+	. 
+*NIC:	capitán Dartañán .
+%mor:	n|capitán&masc=captain n:prop|Dartañán . 
+*NIC:	soy el capitán Dartañán .
+%mor:	v|se-1S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Dartañán 
+	. 
+*CRI:	éste no .
+%mor:	pro:dem|éste=this_one adv|no=no . 
+*NIC:	oye quita .
+%mor:	co|oye=listen v|quita-3S&PRES=remove . 
+*NIC:	le quitas esto ?
+%mor:	pro:per|le=him v|quita-2S&PRES=remove det:dem|este-MASC=this ? 
+%com:	quiere quitarle al pirata lo que lleva en la mano
+*INV:	no se quita .
+%mor:	adv|no=no pro:per|se=itself v|quita-3S&PRES=remove . 
+*NIC:	y esa mano ?
+%mor:	coord|y=and det:dem|ese-FEM=that n|mano&fem=hand ? 
+*NIC:	la pistola .
+%mor:	det:art|el&FEM&SG=the n|pistola&fem=pistol . 
+*NIC:	ésta es la pistola .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|pistola&fem=pistol 
+	. 
+*CRI:	aquí está el tesoro de los piratas .
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&MASC&SG=the n|tesoro&masc=treasure 
+	prep|de=of det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*CRI:	aquí la mesa (.) mira .
+%mor:	adv|aquí=here det:art|el&FEM&SG=the n|mesa&fem=table co|mira=look . 
+*NIC:	y el capitán también .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|capitán&masc=captain adv|también=also 
+	. 
+*CRI:	voy a por el tesoro .
+%mor:	v|i-1S&PRES=go prep|a=to prep|por=for det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	. 
+*CRI:	cómo se abre esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|abri-3S&PRES=open det:dem|este-MASC=this 
+	? 
+%com:	la bodega
+*NIC:	no se abre !
+%mor:	adv|no=no pro:per|se=itself v|abri-3S&PRES=open ! 
+*NIC:	cómo se abre ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|abri-3S&PRES=open ? 
+*NIC:	así [/] así ?
+%mor:	adv|así=thus ? 
+*CRI:	no se puede .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can . 
+*CRI:	se cierra .
+%mor:	pro:per|se=itself v|cerra-3S&PRES=close . 
+*CRI:	dónde está la bola (.) Nicolás ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|bola&fem=ball 
+	n:prop|Nicolás ? 
+*NIC:	la bola ?
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball ? 
+*CRI:	allá (.) dámela .
+%mor:	adv|allá=there v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+*NIC:	ésta es la bola .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|bola&fem=ball 
+	. 
+*CRI:	dame la bola corriendo !
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|bola&fem=ball v|corre-PROG=run 
+	! 
+*CRI:	gracias .
+%mor:	n|gracia&fem-PL=grace . 
+*NIC:	así lleva el capitán .
+%mor:	adv|así=thus v|lleva-3S&PRES=carry det:art|el&MASC&SG=the n|capitán&masc=captain 
+	. 
+%com:	lleva la barca
+*NIC:	éste dónde va ?
+%mor:	pro:dem|éste=this_one pro:int|dónde=where v|i-3S&PRES=go ? 
+*CRI:	hay que pegarle pegamento .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pega-INF~pro:clit|3S n|pegamento&masc=gum 
+	. 
+*CRI:	cómo se hará esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&FUT=do det:dem|este-MASC=this 
+	? 
+%com:	el cañón
+*CRI:	no cierra .
+%mor:	adv|no=no v|cerra-3S&PRES=close . 
+*CRI:	soy el capitán .
+%mor:	v|se-1S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*NIC:	el pirata !
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate ! 
+*CRI:	<a que éste se le> [/] a que éste sí mueve la mano ?
+%mor:	prep|a=to prep|que=than pro:dem|éste=this_one co|sí=yes v|move-3S&PRES=move 
+	det:art|el&FEM&SG=the n|mano&fem=hand ? 
+*CRI:	éste se pone aquí .
+%mor:	pro:dem|éste=this_one pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here 
+	. 
+*CRI:	la mano espada (.) la mueve .
+%mor:	det:art|el&FEM&SG=the n|mano&fem=hand n|espada&fem=sword det:art|el&FEM&SG=the 
+	v|move-3S&PRES=move . 
+*CRI:	el tesoro de los piratas (.) se pone así y el pirata .
+%mor:	det:art|el&MASC&SG=the n|tesoro&masc=treasure prep|de=of det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate pro:per|se=itself v|pone-3S&PRES=put adv|así=thus 
+	coord|y=and det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*CRI:	todos al barco .
+%mor:	det:indef|todo-MASC-PL=all prep|a~det|el&MASC n|barco-MASC=boat . 
+*CRI:	vienen tiburones .
+%mor:	v|veni-3P&PRES=come n|tiburón&masc-PL=shark . 
+*NIC:	vale (.) ya me monto .
+%mor:	co|vale=okay adv|ya=already pro:per|me=me v|monta-1S&PRES=climb_on . 
+*CRI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*CRI:	a cazar con los +...
+%mor:	prep|a=to v|caza-INF=hunt prep|con=with det:art|el&MASC-PL=the +... 
+*CRI:	ah (.) que daño .
+%mor:	co|ah prep|que=than n|daño&masc=damage . 
+%com:	pone la bandera
+*CRI:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NIC:	le ha dado fuerte (.) mira .
+%mor:	pro:per|le=him co|ha part|da-PPART&MASC=give adj|fuerte=strong co|mira=look 
+	. 
+*CRI:	ya está !
+%mor:	adv|ya=already v|esta-3S&PRES=be ! 
+*CRI:	mira (.) ahora se pone así .
+%mor:	co|mira=look adv|ahora=now pro:per|se=itself v|pone-3S&PRES=put adv|así=thus 
+	. 
+*CRI:	que se ha caído de cabeza el pirata Javier .
+%mor:	prep|que=than pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|de=of 
+	n|cabeza&fem=head det:art|el&MASC&SG=the n|pirata&masc=pirate n:prop|Javier 
+	. 
+*CRI:	que hay tiburones !
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have n|tiburón&masc-PL=shark ! 
+*NIC:	hay tiburones !
+%mor:	v|habe-3S&PRES&SPEC=have n|tiburón&masc-PL=shark ! 
+*NIC:	escóndete .
+%mor:	v|esconde-2S&IMP~pro:clit|2S . 
+*CRI:	no .
+%mor:	adv|no=no . 
+*CRI:	dame éste .
+%mor:	v|da-2S&IMP~pro:clit|1S pro:dem|éste=this_one . 
+*NIC:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+*CRI:	tenían que ir <al barco> [/] al barco pirata .
+%mor:	v|tene-3P&PAS=have prep|que=than v|i-INF=go prep|a~det|el&MASC n|barco-MASC=boat 
+	n|pirata&masc=pirate . 
+*NIC:	al barco pirata !
+%mor:	prep|a~det|el&MASC n|barco-MASC=boat n|pirata&masc=pirate ! 
+*NIC:	tienen que matar .
+%mor:	v|tene-3P&PRES=have prep|que=than v|mata-INF=kill . 
+*NIC:	y éste pum@o !
+%mor:	coord|y=and pro:dem|éste=this_one on|pum ! 
+*CRI:	a_ver (.) y éste que dice ?
+%mor:	co|a_ver=see coord|y=and pro:dem|éste=this_one prep|que=than v|deci-3S&PRES=say 
+	? 
+*NIC:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*CRI:	lo pongo aquí .
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put adv|aquí=here . 
+*CRI:	todos al mar que vienen tiburones .
+%mor:	det:indef|todo-MASC-PL=all prep|a~det|el&MASC n|mar&fem=sea prep|que=than 
+	v|veni-3P&PRES=come n|tiburón&masc-PL=shark . 
+*NIC:	yo también me llevo espada .
+%mor:	pro:per|yo=I adv|también=also pro:per|me=me v|lleva-1S&PRES=carry n|espada&fem=sword 
+	. 
+*CRI:	éste tiene espada .
+%mor:	pro:dem|éste=this_one v|tene-3S&PRES=have n|espada&fem=sword . 
+*CRI:	los ves ?
+%mor:	det:art|el&MASC-PL=the co|ves=see ? 
+%com:	a los tiburones
+*NIC:	éste .
+%mor:	pro:dem|éste=this_one . 
+*NIC:	dónde está la espada ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|espada&fem=sword 
+	? 
+*CRI:	las espadas están ahí muertas de sueño .
+%mor:	det:art|el&FEM-PL=the n|espada&fem-PL=sword v|esta-3P&PRES=be adv|ahí=there 
+	part|mori-PPART-FEM-PL=die prep|de=of n|sueño&masc=dream . 
+*NIC:	corre a la barca .
+%mor:	v|corre-3S&PRES=run prep|a=to det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*NIC:	a correr .
+%mor:	prep|a=to v|corre-INF=run . 
+*NIC:	hay uno aquí .
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un-MASC=one adv|aquí=here . 
+*CRI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*NIC:	hay uno aquí .
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un-MASC=one adv|aquí=here . 
+%com:	le da una vela
+*CRI:	esto está roto (.) mira .
+%mor:	det:dem|este-MASC=this v|esta-3S&PRES=be part|rompe-PPART-MASC=break co|mira=look 
+	. 
+*CRI:	esto no lo pongo .
+%mor:	det:dem|este-MASC=this adv|no=no pro:per:1|lo&masc=him v|pone-1S&PRES=put 
+	. 
+*CRI:	lo podías poner .
+%mor:	pro:per:1|lo&masc=him v|pode-2S&PAS=can v|pone-INF=put . 
+*NIC:	éste está roto .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*CRI:	éste está roto .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CRI:	sí (.) porque no tiene ninguna .
+%mor:	co|sí=yes conj|porque=because adv|no=no v|tene-3S&PRES=have det:indef|ningún-FEM=none 
+	. 
+*CRI:	y ese no está roto .
+%mor:	coord|y=and det:dem|ese=that adv|no=no v|esta-3S&PRES=be part|rompe-PPART-MASC=break 
+	. 
+*NIC:	y ese no .
+%mor:	coord|y=and det:dem|ese=that co|no=no . 
+*NIC:	ese no está .
+%mor:	det:dem|ese=that adv|no=no v|esta-3S&PRES=be . 
+*CRI:	da igual .
+%mor:	v|da-3S&PRES=give co|igual=equal . 
+*CRI:	lo ponemos y ya está .
+%mor:	pro:per:1|lo&masc=him v|pone-1P&PRES=put coord|y=and adv|ya=already v|esta-3S&PRES=be 
+	. 
+*NIC:	dame el barquito .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&MASC&SG=the n|barco-DIM-MASC=boat . 
+*CRI:	cuando ellos van allá a buscarles a los +//.
+%mor:	conj|cuando=when pro:per|ello-MASC-PL=he v|i-3P&PRES=go adv|allá=there 
+	prep|a=to v|busca-INF~pro:clit|3P prep|a=to det:art|el&MASC-PL=the +//. 
+*CRI:	quién es éste ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be pro:dem|éste=this_one ? 
+*CRI:	van a éste barco .
+%mor:	v|i-3P&PRES=go prep|a=to pro:dem|éste=this_one n|barco-MASC=boat . 
+*CRI:	es para ellos también cuando buscan a unos piratas y tienen que ir así .
+%mor:	v|se-3S&PRES=be prep|para=for pro:per|ello-MASC-PL=he adv|también=also 
+	conj|cuando=when v|busca-3P&PRES=search prep|a=to det:art|un-MASC-PL=one 
+	n|pirata&masc-PL=pirate coord|y=and v|tene-3P&PRES=have prep|que=than v|i-INF=go 
+	adv|así=thus . 
+*CRI:	tienen que llevarlos así (.) mira .
+%mor:	v|tene-3P&PRES=have prep|que=than v|lleva-INF~pro:clit|OBJ&MASC&PL adv|así=thus 
+	co|mira=look . 
+*CRI:	como no puede ser nadie .
+%mor:	adv|como=like adv|no=no v|pode-3S&PRES=can n|ser&masc=being pro:per|nadie=nobody 
+	. 
+*NIC:	ese es el pirata .
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	. 
+*CRI:	yo me voy abajo (.) vale .
+%mor:	pro:per|yo=I pro:per|me=me v|i-1S&PRES=go adv|abajo=below co|vale=okay 
+	. 
+*CRI:	me voy abajo .
+%mor:	pro:per|me=me v|i-1S&PRES=go adv|abajo=below . 
+*CRI:	te van a comer los tiburones porque tengo tu barco .
+%mor:	pro:per|te=you v|i-3P&PRES=go prep|a=to v|come-INF=eat det:art|el&MASC-PL=the 
+	n|tiburón&masc-PL=shark conj|porque=because v|tene-1S&PRES=have det:pos|tu=your 
+	n|barco-MASC=boat . 
+*CRI:	mira cuál hay .
+%mor:	co|mira=look pro:int|cuál=which v|habe-3S&PRES&SPEC=have . 
+*CRI:	verás como sí .
+%mor:	v|ve-2S&FUT=see adv|como=like co|sí=yes . 
+*CRI:	si queréis bajar conmigo .
+%mor:	conj|si=if v|quere-2P&PRES=want v|baja-INF=come_down pro:per|conmigo=with_me 
+	. 
+*CRI:	yo soy el más fuerte y puedo matarlos .
+%mor:	pro:per|yo=I v|se-1S&PRES=be det:art|el&MASC&SG=the adv|más=more adj|fuerte=strong 
+	coord|y=and v|pode-1S&PRES=can v|mata-INF~pro:clit|OBJ&MASC&PL . 
+*CRI:	y qué ?
+%mor:	coord|y=and pro:int|qué=what ? 
+*CRI:	vosotros os quedáis ?
+%mor:	pro:per|you&MASC-PL=you pro:per|os=you v|queda-2P&PRES=stay ? 
+*CRI:	oh (.) hay un tiburón .
+%mor:	co|oh=oh v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|tiburón&masc=shark 
+	. 
+*CRI:	vámonos .
+%mor:	v|i-1P&IMP=go . 
+*CRI:	corre .
+%mor:	v|corre-3S&PRES=run . 
+*CRI:	<corriendo mucho> [/] corriendo mucho .
+%mor:	v|corre-PROG=run adv|mucho=much . 
+*CRI:	esto pa(ra) qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+%com:	el puesto del vigía
+*INV:	mira en el dibujo .
+%mor:	co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*NIC:	el dibujo ?
+%mor:	det:art|el&MASC&SG=the n|dibujo&masc=design ? 
+*CRI:	ah (.) <se pone ahí> [/] se pone aquí .
+%mor:	co|ah pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+*NIC:	rico [/] rico [/] rico .
+%mor:	adj|rico-MASC=rich . 
+*CRI:	pero ahora cómo lo meteremos ?
+%mor:	conj|pero=but adv|ahora=now co|cómo pro:per:1|lo&masc=him v|mete-1P&FUT=put 
+	? 
+*NIC:	el pirata .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*NIC:	mira que miedo .
+%mor:	co|mira=look prep|que=than n|miedo&masc=fear . 
+*CRI:	y todo así .
+%mor:	coord|y=and det:indef|todo-MASC=all adv|así=thus . 
+*NIC:	mira que miedo .
+%mor:	co|mira=look prep|que=than n|miedo&masc=fear . 
+*CRI:	mira aquí arriba está .
+%mor:	co|mira=look adv|aquí=here adv|arriba=above v|esta-3S&PRES=be . 
+*NIC:	<mira que miedo> [/] mira que miedo .
+%mor:	co|mira=look prep|que=than n|miedo&masc=fear . 
+*CRI:	sí .
+%mor:	co|sí=yes . 
+*CRI:	ese es el pirata Javier .
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	n:prop|Javier . 
+*CRI:	mira que está esto !
+%mor:	co|mira=look prep|que=than v|esta-3S&PRES=be det:dem|este-MASC=this ! 
+%com:	pone un pirata en el puesto que está colocado en lo más alto del mástil
+*INV:	que alto .
+%mor:	prep|que=than adj|alto-MASC=tall . 
+*CRI:	casi se podía caer .
+%mor:	adv|casi=almost pro:per|se=itself v|pode-13S&PAS=can v|cae-INF=fall . 
+*NIC:	sí .
+%mor:	co|sí=yes . 
+*NIC:	se cae un poco .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall det:art|un&masc=one adv|poco=few 
+	. 
+*CRI:	iba al mar .
+%mor:	v|i-13S&PAS=go prep|a~det|el&MASC n|mar&fem=sea . 
+*NIC:	yo quiero nadar y montar .
+%mor:	pro:per|yo=I v|quere-1S&PRES=want v|nada-INF=swim coord|y=and v|monta-INF=climb_on 
+	. 
+*CRI:	Nicolás !
+%mor:	n:prop|Nicolás ! 
+%com:	se cae el pirata
+*NIC:	te enseño ?
+%mor:	pro:per|te=you v|enseña-1S&PRES=teach ? 
+*NIC:	mira .
+%mor:	co|mira=look . 
+*CRI:	ahora tiene que mirar por aquí .
+%mor:	adv|ahora=now v|tene-3S&PRES=have prep|que=than v|mira-INF=look prep|por=for 
+	adv|aquí=here . 
+*CRI:	yo veo un tiburón .
+%mor:	pro:per|yo=I v|ve-1S&PRES=see det:art|un&masc=one n|tiburón&masc=shark 
+	. 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CRI:	volver [*] al barco .
+%mor:	v|volve-INF=turn prep|a~det|el&MASC n|barco-MASC=boat . 
+*CRI:	que hay un tiburón vámonos con el barco pirata .
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|tiburón&masc=shark 
+	v|i-1P&IMP=go prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate 
+	. 
+*CRI:	pero ya lo lleva Cristina aquí .
+%mor:	conj|pero=but adv|ya=already pro:per:1|lo&masc=him v|lleva-3S&PRES=carry 
+	n:prop|Cristina adv|aquí=here . 
+*CRI:	que voy a llevar yo al barco pirata .
+%mor:	prep|que=than v|i-1S&PRES=go prep|a=to v|lleva-INF=carry pro:per|yo=I 
+	prep|a~det|el&MASC n|barco-MASC=boat n|pirata&masc=pirate . 
+*CRI:	al barco pirata !
+%mor:	prep|a~det|el&MASC n|barco-MASC=boat n|pirata&masc=pirate ! 
+*NIC:	el barco pirata !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate ! 
+*CRI:	el tesoro .
+%mor:	det:art|el&MASC&SG=the co:voc|tesoro=treasure . 
+*CRI:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CRI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*NIC:	ya está esto .
+%mor:	adv|ya=already v|esta-3S&PRES=be det:dem|este-MASC=this . 
+*NIC:	ya va éste .
+%mor:	adv|ya=already v|i-3S&PRES=go pro:dem|éste=this_one . 
+*CRI:	lleva esto .
+%mor:	v|lleva-3S&PRES=carry det:dem|este-MASC=this . 
+*CRI:	esto por aquí .
+%mor:	det:dem|este-MASC=this prep|por=for adv|aquí=here . 
+*CRI:	y vamos a coger todos porque ya iban los tiburones .
+%mor:	coord|y=and co|vamos=go prep|a=to v|coge-INF=take det:indef|todo-MASC-PL=all 
+	conj|porque=because adv|ya=already v|i-3P&PAS=go det:art|el&MASC-PL=the 
+	n|tiburón&masc-PL=shark . 
+*CRI:	no .
+%mor:	adv|no=no . 
+*NIC:	se cae .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall . 
+*CRI:	y aquí se pone .
+%mor:	coord|y=and adv|aquí=here pro:per|se=itself v|pone-3S&PRES=put . 
+*CRI:	ves esto ?
+%mor:	co|ves=see det:dem|este-MASC=this ? 
+*CRI:	no ?
+%mor:	adv|no=no ? 
+*CRI:	tiene un tesoro para mi .
+%mor:	v|tene-3S&PRES=have det:art|un&masc=one n|tesoro&masc=treasure prep|para=for 
+	det:pos|mi=my . 
+*NIC:	se cae .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall . 
+*CRI:	da igual .
+%mor:	v|da-3S&PRES=give co|igual=equal . 
+*CRI:	y aquí se preparaba .
+%mor:	coord|y=and adv|aquí=here pro:per|se=itself v|prepara-13S&PAS=prepare 
+	. 
+*CRI:	oh (.) y éste se fue .
+%mor:	co|oh=oh coord|y=and pro:dem|éste=this_one pro:per|se=itself v|i-3S&PRET=go 
+	. 
+*CRI:	eso no se caía .
+%mor:	pro:dem|eso=that_one adv|no=no pro:per|se=itself v|cae-13S&PAS=fall . 
+*NIC:	voy corriendo a jugar .
+%mor:	v|i-1S&PRES=go v|corre-PROG=run prep|a=to v|juga-INF=play . 
+*CRI:	y éste se mete en el barco .
+%mor:	coord|y=and pro:dem|éste=this_one pro:per|se=itself v|mete-3S&PRES=put 
+	prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CRI:	pero hay que quitar 0 [*] los señores que si no van a morir de sueño allá .
+%mor:	conj|pero=but v|habe-3S&PRES&SPEC=have prep|que=than v|quita-INF=remove 
+	det:art|el&MASC-PL=the n|señor&masc-PL=sir prep|que=than conj|si=if adv|no=no 
+	v|i-3P&PRES=go prep|a=to v|mori-INF=die prep|de=of n|sueño&masc=dream 
+	adv|allá=there . 
+*NIC:	y la escalera (.) mira ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|escalera&fem=staircase co|mira=look 
+	? 
+*CRI:	qué ?
+%mor:	pro:int|qué=what ? 
+*CRI:	<los xxx llegaban ahí> [/] los xxx llegaban a ese barco pequeñajo en ese barco más grande .
+%mor:	det:art|el&MASC-PL=the v|llega-3P&PAS=arrive prep|a=to det:dem|ese=that 
+	n|barco-MASC=boat adj|pequeñajo-MASC=small prep|en=in det:dem|ese=that 
+	n|barco-MASC=boat adv|más=more adj|grande=big . 
+*CRI:	pero los piratas son más grandes .
+%mor:	conj|pero=but det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|se-3P&PRES=be 
+	adv|más=more adj|grande-PL=big . 
+*CRI:	ya pero ellos son más grandes que nosotros (.) los cocodrilos los tiburones .
+%mor:	adv|ya=already conj|pero=but pro:per|ello-MASC-PL=he v|se-3P&PRES=be adv|más=more 
+	adj|grande-PL=big prep|que=than pro:per|nosotro-MASC-PL=we det:art|el&MASC-PL=the 
+	n|cocodrilo&masc-PL=crocodile det:art|el&MASC-PL=the n|tiburón&masc-PL=shark 
+	. 
+*CRI:	ya lo saben pero nosotros tenemos habas [*] .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|sabe-3P&PRES=know conj|pero=but 
+	pro:per|nosotro-MASC-PL=we v|tene-1P&PRES=have n|haba&fem-PL=bean . 
+*CRI:	ya lo sabemos por eso mataban a los animales .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|sabe-1P&PRES=know prep|por=for 
+	pro:dem|eso=that_one v|mata-3P&PAS=kill prep|a=to det:art|el&MASC-PL=the 
+	n|animal&masc-PL=animal . 
+*CRI:	se va a pasear .
+%mor:	pro:per|se=itself v|i-3S&PRES=go prep|a=to v|pasea-INF=stroll . 
+*CRI:	<se va> [/] <se va> [/] se va a otro sitio .
+%mor:	pro:per|se=itself v|i-3S&PRES=go prep|a=to pro:indef|otro=other n|sitio&masc=place 
+	. 
+%com:	mueve el barco
+*CRI:	<se va> [/] se va .
+%mor:	pro:per|se=itself v|i-3S&PRES=go . 
+*CRI:	corre Julieta .
+%mor:	v|corre-3S&PRES=run n:prop|Julieta . 
+*CRI:	se va el barco (.) pipi y ya se desmontaban .
+%mor:	pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the n|barco-MASC=boat 
+	n|pipi&fem=weenie coord|y=and adv|ya=already pro:per|se=itself v|desmonta-3P&PAS=dismount 
+	. 
+*CRI:	el barco se iba .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|i-13S&PAS=go 
+	. 
+*CRI:	que se va el barco .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*CRI:	ahora espera .
+%mor:	adv|ahora=now v|espera-3S&PRES=wait . 
+*CRI:	ahora cómo se saca ?
+%mor:	adv|ahora=now pro:int|cómo=how pro:per|se=itself v|saca-3S&PRES=bring_out 
+	? 
+%com:	la barca que estaba en el camarote
+*CRI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CRI:	ya lo he cogido el barquito .
+%mor:	adv|ya=already pro:per:1|lo&masc=him co|he part|coge-PPART&MASC=take det:art|el&MASC&SG=the 
+	n|barco-DIM-MASC=boat . 
+*CRI:	corre que vienen tiburones !
+%mor:	v|corre-3S&PRES=run prep|que=than v|veni-3P&PRES=come n|tiburón&masc-PL=shark 
+	! 
+*CRI:	pues venga .
+%mor:	co|pues=well co|venga=come_on . 
+*CRI:	qué estás haciendo ?
+%mor:	pro:int|qué=what v|esta-2S&PRES=be v|hace-PROG=do ? 
+%com:	a INV
+*NIC:	que vienen los tiburones !
+%mor:	prep|que=than v|veni-3P&PRES=come det:art|el&MASC-PL=the n|tiburón&masc-PL=shark 
+	! 
+*CRI:	venió [: vino] [*] .
+%mor:	n|vino&masc=wine . 
+*NIC:	venió [: vino] [*] .
+%mor:	n|vino&masc=wine . 
+*NIC:	y ahora van más lejos .
+%mor:	coord|y=and adv|ahora=now v|i-3P&PRES=go adv|más=more adv|lejos=far . 
+*CRI:	éstos al mar van .
+%mor:	pro:dem|éste-MASC-PL=this_one prep|a~det|el&MASC n|mar&fem=sea v|i-3P&PRES=go 
+	. 
+*CRI:	y esto puede ser un palo para cuando vienen (.) y de pistola .
+%mor:	coord|y=and det:dem|este-MASC=this v|pode-3S&PRES=can n|ser&masc=being 
+	det:art|un&masc=one n|palo&masc=stick prep|para=for conj|cuando=when v|veni-3P&PRES=come 
+	coord|y=and prep|de=of n|pistola&fem=pistol . 
+%com:	la vela rota
+*INV:	puede ser .
+%mor:	v|pode-3S&PRES=can n|ser&masc=being . 
+*CRI:	y también puede ser un bastón .
+%mor:	coord|y=and adv|también=also v|pode-3S&PRES=can n|ser&masc=being det:art|un&masc=one 
+	n|bastón&masc=cane . 
+*INV:	también .
+%mor:	adv|también=also . 
+*CRI:	y también puede ser así pum^pum@o para jugar a fútbol .
+%mor:	coord|y=and adv|también=also v|pode-3S&PRES=can n|ser&masc=being adv|así=thus 
+	on|pumpum prep|para=for v|juga-INF=play prep|a=to n|fútbol&masc=soccer 
+	. 
+*NIC:	soy el capitán .
+%mor:	v|se-1S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*CRI:	a_ver Nicolás <que tú mandas no> [*] .
+%mor:	co|a_ver=see n:prop|Nicolás prep|que=than pro:per|tú=you v|manda-2S&PRES=order 
+	co|no=no . 
+*CRI:	Nicolás (.) mira .
+%mor:	n:prop|Nicolás co|mira=look . 
+@End

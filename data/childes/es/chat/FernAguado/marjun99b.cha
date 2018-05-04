@@ -1,0 +1,775 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , SAR Sara Sister , INV Marta Investigator , FAT Alberto Father
+@ID:	spa|fernaguado|CHI|4;0.13||||Target_Child|||
+@ID:	spa|fernaguado|SAR|7;10.28||||Sister|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@ID:	spa|fernaguado|FAT|||||Father|||
+@Date:	07-JUN-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	MAR y SAR juegan con el barco
+*CHI:	voy a coger éste .
+%mor:	v|i-1S&PRES=go prep|a=to v|coge-INF=take pro:dem|éste=this_one . 
+%com:	coge un pirata
+*SAR:	voy a coger esto .
+%mor:	v|i-1S&PRES=go prep|a=to v|coge-INF=take det:dem|este-MASC=this . 
+*SAR:	a_ver esto .
+%mor:	co|a_ver=see det:dem|este-MASC=this . 
+%com:	mira las redes en el dibujo
+*SAR:	van a ser aquí .
+%mor:	v|i-3P&PRES=go prep|a=to n|ser&masc=being adv|aquí=here . 
+*CHI:	al pirata cañón !
+%mor:	prep|a~det|el&MASC n|pirata&masc=pirate n|cañón&masc=cannon ! 
+*SAR:	se agarrarán de aquí (.) no (.) así .
+%mor:	pro:per|se=itself v|agarra-3P&FUT=grasp prep|de=of adv|aquí=here adv|no=no 
+	adv|así=thus . 
+*CHI:	al pirata cañón !
+%mor:	prep|a~det|el&MASC n|pirata&masc=pirate n|cañón&masc=cannon ! 
+*SAR:	no se puede .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can . 
+*SAR:	sí .
+%mor:	co|sí=yes . 
+*FAT:	Sara mira el dibujo hija mía .
+%mor:	n:prop|Sara co|mira=look det:art|el&MASC&SG=the n|dibujo&masc=design n|hijo-FEM=child 
+	pro:pos|mío-FEM=mine . 
+*FAT:	lo que te han manda(do) (.) vale ?
+%mor:	pro:per:1|lo&masc=him prep|que=than pro:per|te=you v|habe-3P&PRES=have 
+	part|manda-PPART&MASC=order co|vale=okay ? 
+*SAR:	será con éste .
+%mor:	v|se-3S&FUT=be prep|con=with pro:dem|éste=this_one . 
+%com:	cuelga una red de un mástil
+*SAR:	será en éste .
+%mor:	v|se-3S&FUT=be prep|en=in pro:dem|éste=this_one . 
+*SAR:	oh (.) que se cae el barco .
+%mor:	co|oh=oh prep|que=than pro:per|se=itself v|cae-3S&PRES=fall det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*CHI:	y éste en dónde ?
+%mor:	coord|y=and pro:dem|éste=this_one prep|en=in pro:int|dónde=where ? 
+%com:	coge otra red
+*SAR:	tú tienes que mirar el dibujo .
+%mor:	pro:per|tú=you v|tene-2S&PRES=have prep|que=than v|mira-INF=look det:art|el&MASC&SG=the 
+	n|dibujo&masc=design . 
+*CHI:	ya lo hice .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|hace-1S&PRET=do . 
+*SAR:	así .
+%mor:	adv|así=thus . 
+*CHI:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*CHI:	esto es así .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|así=thus . 
+*SAR:	hay cuatro dos en cada la(d)o .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|cuatro=four det:num|dos=two prep|en=in 
+	det:indef|cada=each n|lado&masc=side . 
+%com:	engancha las redes en el mástil y en el barco como debe ser
+*SAR:	este aquí .
+%mor:	det:dem|este=this adv|aquí=here . 
+*SAR:	sí (.) pero si lo metemos aquí queda +...
+%mor:	co|sí=yes conj|pero=but conj|si=if pro:per:1|lo&masc=him v|mete-1P&PRES=put 
+	adv|aquí=here v|queda-3S&PRES=stay +... 
+*SAR:	será uno así no ?
+%mor:	v|se-3S&FUT=be det:art|un-MASC=one adv|así=thus adv|no=no ? 
+*CHI:	tienen que subir los piratas .
+%mor:	v|tene-3P&PRES=have prep|que=than v|subi-INF=go_up det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate . 
+*CHI:	yo subo por ésta red .
+%mor:	pro:per|yo=I v|subi-1S&PRES=go_up prep|por=for pro:dem|éste-FEM=this_one 
+	n|red&fem=network . 
+*SAR:	ah (.) ya entiendo .
+%mor:	co|ah adv|ya=already v|entende-1S&PRES=understand . 
+*SAR:	ah (.) ya entiendo .
+%mor:	co|ah adv|ya=already v|entende-1S&PRES=understand . 
+*SAR:	esto se agarra por los dos lados así .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|agarra-3S&PRES=grasp prep|por=for 
+	det:art|el&MASC-PL=the det:num|dos=two n|lado&masc-PL=side adv|así=thus 
+	. 
+*SAR:	esto es así .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|así=thus . 
+*CHI:	oh (.) estoy aquí !
+%mor:	co|oh=oh v|esta-1S&PRES=be adv|aquí=here ! 
+%com:	pone un pirata en la red
+*SAR:	esto se escapa .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|escapa-3S&PRES=escape . 
+*SAR:	y cómo es esto ?
+%mor:	coord|y=and co|cómo v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*CHI:	oh (.) este pirata no tiene ojos .
+%mor:	co|oh=oh det:dem|este=this n|pirata&masc=pirate co|no=no v|tene-3S&PRES=have 
+	n|ojo&masc-PL=eye . 
+*SAR:	así sí .
+%mor:	adv|así=thus co|sí=yes . 
+%com:	engancha las redes
+*SAR:	así .
+%mor:	adv|así=thus . 
+*CHI:	oye yo voy a tirar un tiro (.) eh (.) de aquí .
+%mor:	co|oye=listen pro:per|yo=I v|i-1S&PRES=go prep|a=to v|tira-INF=throw det:art|un&masc=one 
+	n|tiro&masc=toss co|eh prep|de=of adv|aquí=here . 
+%com:	el cañón
+*SAR:	yo voy a tirar aquí .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to v|tira-INF=throw adv|aquí=here 
+	. 
+%com:	con la barca
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	quita .
+%mor:	v|quita-3S&PRES=remove . 
+*SAR:	quita que voy a tirar yo .
+%mor:	v|quita-3S&PRES=remove prep|que=than v|i-1S&PRES=go prep|a=to v|tira-INF=throw 
+	pro:per|yo=I . 
+*CHI:	espera que yo voy a tirar .
+%mor:	v|espera-3S&PRES=wait prep|que=than pro:per|yo=I v|i-1S&PRES=go prep|a=to 
+	v|tira-INF=throw . 
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	yo .
+%mor:	pro:per|yo=I . 
+*SAR:	yo la primera y luego tú (.) vale ?
+%mor:	pro:per|yo=I det:art|el&FEM&SG=the adj|primer-FEM=first coord|y=and adv|luego=afterwards 
+	pro:per|tú=you co|vale=okay ? 
+*CHI:	vale .
+%mor:	co|vale=okay . 
+*SAR:	a_ver .
+%mor:	co|a_ver=see . 
+*CHI:	yo la primera luego .
+%mor:	pro:per|yo=I det:art|el&FEM&SG=the adj|primer-FEM=first adv|luego=afterwards 
+	. 
+*SAR:	a_ver bajamos .
+%mor:	co|a_ver=see v|baja-1P&PRES=come_down . 
+*SAR:	ay que tonta .
+%mor:	co|ay=ay prep|que=than n|tonto-FEM=dummy . 
+%com:	saca el cañón
+*SAR:	así .
+%mor:	adv|así=thus . 
+*SAR:	espera (.) cómo se hace esto ?
+%mor:	v|espera-3S&PRES=wait pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do 
+	det:dem|este-MASC=this ? 
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*SAR:	ah (.) esto se mete aquí .
+%mor:	co|ah det:dem|este-MASC=this pro:per|se=itself v|mete-3S&PRES=put adv|aquí=here 
+	. 
+*SAR:	ya entiendo .
+%mor:	adv|ya=already v|entende-1S&PRES=understand . 
+*SAR:	se mete aquí .
+%mor:	pro:per|se=itself v|mete-3S&PRES=put adv|aquí=here . 
+%com:	carga el cañón
+*SAR:	se pone aquí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+*FAT:	Sara hay que montar el barco .
+%mor:	n:prop|Sara v|habe-3S&PRES&SPEC=have prep|que=than v|monta-INF=climb_on 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*FAT:	no hay que jugar .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have prep|que=than v|juga-INF=play . 
+*SAR:	ya se .
+%mor:	adv|ya=already pro:per|se=itself . 
+*CHI:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*SAR:	a_ver (.) el cofre lo vamos a meter ahí que nadie lo ve .
+%mor:	co|a_ver=see det:art|el&MASC&SG=the n|cofre&masc=coffer pro:per:1|lo&masc=him 
+	co|vamos=go prep|a=to v|mete-INF=put adv|ahí=there prep|que=than pro:per|nadie=nobody 
+	pro:per:1|lo&masc=him co|ve=see . 
+%com:	en el camarote
+*CHI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*SAR:	luego a_ver esto dónde lo dejamos ?
+%mor:	adv|luego=afterwards co|a_ver=see det:dem|este-MASC=this pro:int|dónde=where 
+	pro:per:1|lo&masc=him v|deja-1P&PRES=leave ? 
+%com:	la barca
+*CHI:	ah (.) a mi sí que me ha salido (.) eh ?
+%mor:	co|ah prep|a=to det:pos|mi=my adv|sí=yes prep|que=than pro:per|me=me 
+	co|ha part|sali-PPART&MASC=leave co|eh ? 
+%com:	dispara el cañón
+*CHI:	a mi sí .
+%mor:	prep|a=to det:pos|mi=my co|sí=yes . 
+*SAR:	jo (.) es que no se dónde dejar esto .
+%mor:	co|jo=whoa v|se-3S&PRES=be prep|que=than adv|no=no pro:per|se=itself pro:int|dónde=where 
+	v|deja-INF=leave det:dem|este-MASC=this . 
+*SAR:	el ancla la vamos a sacar .
+%mor:	det:art|el&MASC&SG=the n|ancla&fem=anchor det:art|el&FEM&SG=the co|vamos=go 
+	prep|a=to v|saca-INF=bring_out . 
+*CHI:	le voy a dar a mi papá .
+%mor:	pro:per|le=him v|i-1S&PRES=go prep|a=to v|da-INF=give prep|a=to det:pos|mi=my 
+	n|papá&masc=papa . 
+%com:	con la pelota
+*CHI:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+%com:	se la lanza
+*FAT:	ve a montar aquello (.) venga .
+%mor:	co|ve=see prep|a=to v|monta-INF=climb_on det:dem|aquello-MASC=that co|venga=come_on 
+	. 
+*CHI:	lánzamela .
+%mor:	v|lanza-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+*FAT:	no .
+%mor:	adv|no=no . 
+*FAT:	esto no es para jugar a esto .
+%mor:	det:dem|este-MASC=this adv|no=no v|se-3S&PRES=be prep|para=for v|juga-INF=play 
+	prep|a=to det:dem|este-MASC=this . 
+*SAR:	cómo será ?
+%mor:	co|cómo v|se-3S&FUT=be ? 
+*FAT:	aquí no hemos venido a jugar a esto (.) venga .
+%mor:	adv|aquí=here adv|no=no v|habe-1P&PRES=have part|veni-PPART&MASC=come 
+	prep|a=to v|juga-INF=play prep|a=to det:dem|este-MASC=this co|venga=come_on 
+	. 
+*CHI:	dame la pelota .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*SAR:	cómo se metían éstos ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|mete-3P&PAS=put pro:dem|éste-MASC-PL=this_one 
+	? 
+*SAR:	no hay más por aquí (.) no ?
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more prep|por=for adv|aquí=here 
+	adv|no=no ? 
+*SAR:	esto lo vamos a meter aquí (.) no ?
+%mor:	det:dem|este-MASC=this pro:per:1|lo&masc=him co|vamos=go prep|a=to v|mete-INF=put 
+	adv|aquí=here adv|no=no ? 
+*SAR:	mejor aquí .
+%mor:	adj|mejor=better adv|aquí=here . 
+*CHI:	esto más lejos .
+%mor:	det:dem|este-MASC=this adv|más=more adv|lejos=far . 
+%com:	coge el micrófono
+*CHI:	esto se pone más lejos .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put adv|más=more 
+	adv|lejos=far . 
+*SAR:	ah (.) es que el barco va abajo .
+%mor:	co|ah v|se-3S&PRES=be prep|que=than det:art|el&MASC&SG=the n|barco-MASC=boat 
+	v|i-3S&PRES=go adv|abajo=below . 
+*CHI:	ahí se pone más lejos .
+%mor:	adv|ahí=there pro:per|se=itself v|pone-3S&PRES=put adv|más=more adv|lejos=far 
+	. 
+*CHI:	esto se pone ahí más lejos y se puede más .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put adv|ahí=there 
+	adv|más=more adv|lejos=far coord|y=and pro:per|se=itself v|pode-3S&PRES=can 
+	adv|más=more . 
+*CHI:	voy a darle un tiro .
+%mor:	v|i-1S&PRES=go prep|a=to v|da-INF~pro:clit|3S det:art|un&masc=one n|tiro&masc=toss 
+	. 
+*CHI:	voy a darle un tiro .
+%mor:	v|i-1S&PRES=go prep|a=to v|da-INF~pro:clit|3S det:art|un&masc=one n|tiro&masc=toss 
+	. 
+*CHI:	oh (.) que ya no me dejan .
+%mor:	co|oh=oh prep|que=than adv|ya=already adv|no=no pro:per|me=me v|deja-3P&PRES=leave 
+	. 
+*CHI:	ah (.) que lo quiero abrir .
+%mor:	co|ah prep|que=than pro:per:1|lo&masc=him v|quere-1S&PRES=want v|abri-INF=open 
+	. 
+%com:	quiere sacar el cañón
+*CHI:	ya va .
+%mor:	adv|ya=already v|i-3S&PRES=go . 
+*CHI:	ya va .
+%mor:	adv|ya=already v|i-3S&PRES=go . 
+*CHI:	voy a disparar .
+%mor:	v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot . 
+*CHI:	esto se tiene que meter del todo y ahora disparas .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|tene-3S&PRES=have prep|que=than 
+	v|mete-INF=put prep|de~det|el&MASC det:indef|todo-MASC=all coord|y=and 
+	adv|ahora=now v|dispara-2S&PRES=shoot . 
+%com:	dispara
+*FAT:	no tienes que montar ?
+%mor:	adv|no=no v|tene-2S&PRES=have prep|que=than v|monta-INF=climb_on ? 
+*FAT:	no tienes que hacer ?
+%mor:	adv|no=no v|tene-2S&PRES=have prep|que=than v|hace-INF=do ? 
+*FAT:	no tienes que mirar ahí ?
+%mor:	adv|no=no v|tene-2S&PRES=have prep|que=than v|mira-INF=look adv|ahí=there 
+	? 
+*SAR:	a_ver éste .
+%mor:	co|a_ver=see pro:dem|éste=this_one . 
+*SAR:	María el rojo .
+%mor:	n:prop|María det:art|el&MASC&SG=the adj|rojo-MASC=red . 
+%com:	busca un pirata
+*CHI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CHI:	te digo cómo se dispara ?
+%mor:	pro:per|te=you v|deci-1S&PRES=say pro:int|cómo=how pro:per|se=itself 
+	v|dispara-3S&PRES=shoot ? 
+*SAR:	el rojo dónde está ?
+%mor:	det:art|el&MASC&SG=the adj|rojo-MASC=red pro:int|dónde=where v|esta-3S&PRES=be 
+	? 
+*CHI:	te digo cómo se dispara ?
+%mor:	pro:per|te=you v|deci-1S&PRES=say pro:int|cómo=how pro:per|se=itself 
+	v|dispara-3S&PRES=shoot ? 
+*SAR:	dame el rojo .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&MASC&SG=the adj|rojo-MASC=red . 
+*CHI:	Sara te digo .
+%mor:	n:prop|Sara pro:per|te=you v|deci-1S&PRES=say . 
+*CHI:	mira le apr(i)etas [*] así .
+%mor:	co|mira=look pro:per|le=him v|apreta-2S&PRES=tighten adv|así=thus . 
+%com:	dispara
+*SAR:	dónde está el rojo en este barco ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the adj|rojo-MASC=red 
+	prep|en=in det:dem|este=this n|barco-MASC=boat ? 
+*SAR:	ah (.) aquí .
+%mor:	co|ah adv|aquí=here . 
+*SAR:	a_ver si esto va aquí .
+%mor:	co|a_ver=see conj|si=if det:dem|este-MASC=this v|i-3S&PRES=go adv|aquí=here 
+	. 
+%com:	coloca las redes mientras MAR canta
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	esto se pone aquí arriba .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here 
+	adv|arriba=above . 
+%com:	las velas
+*CHI:	se pone ahí arriba .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|ahí=there adv|arriba=above . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	tata@f no .
+%mor:	fam|tata co|no=no . 
+*CHI:	no [/] no [/] no .
+%mor:	adv|no=no . 
+*FAT:	Sara hay unos más largos que otros .
+%mor:	n:prop|Sara v|habe-3S&PRES&SPEC=have det:art|un-MASC-PL=one adv|más=more 
+	adj|largo-MASC-PL=long prep|que=than det:indef|otro-MASC-PL=other . 
+%com:	unas redes
+*FAT:	mira a_ver cuál es el que corresponde en cada sitio .
+%mor:	co|mira=look co|a_ver=see pro:int|cuál=which v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	prep|que=than v|corresponde-3S&PRES=correspond prep|en=in det:indef|cada=each 
+	n|sitio&masc=place . 
+*CHI:	hay que responder la pregunta y <hay que responderla> [/] <hay que responderla > [/] hay que responderla .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|responde-INF=respond det:art|el&FEM&SG=the 
+	n|pregunta&fem=question coord|y=and v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|responde-INF~pro:clit|OBJ&FEM . 
+*SAR:	esto no va aquí .
+%mor:	det:dem|este-MASC=this adv|no=no v|i-3S&PRES=go adv|aquí=here . 
+%com:	cambia las redes de mástil
+*SAR:	éste va así .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go adv|así=thus . 
+*SAR:	estos dos no van aquí .
+%mor:	det:dem|este-MASC-PL=this det:num|dos=two adv|no=no v|i-3P&PRES=go adv|aquí=here 
+	. 
+*INV:	no pasa nada .
+%mor:	adv|no=no v|pasa-3S&PRES=pass pro:indef|nada=nothing . 
+%com:	MAR rompe el gancho de una vela
+*INV:	María pon la otra .
+%mor:	n:prop|María v|pone-2S&IMP=put det:art|el&FEM&SG=the det:indef|otro-FEM=other 
+	. 
+*SAR:	ves ?
+%mor:	co|ves=see ? 
+%com:	pone las redes
+*SAR:	así .
+%mor:	adv|así=thus . 
+*CHI:	el cañón .
+%mor:	det:art|el&MASC&SG=the n|cañón&masc=cannon . 
+*SAR:	no María .
+%mor:	co|no=no n:prop|María . 
+*SAR:	éste no va aquí .
+%mor:	pro:dem|éste=this_one adv|no=no v|i-3S&PRES=go adv|aquí=here . 
+*SAR:	aquí no puede ir éste .
+%mor:	adv|aquí=here adv|no=no v|pode-3S&PRES=can v|i-INF=go pro:dem|éste=this_one 
+	. 
+*SAR:	a_ver si va éste .
+%mor:	co|a_ver=see conj|si=if v|i-3S&PRES=go pro:dem|éste=this_one . 
+*CHI:	y esta cuerda que es para agarrar a los de los cañones .
+%mor:	coord|y=and det:dem|este-FEM=this n|cuerda&fem=string prep|que=than v|se-3S&PRES=be 
+	prep|para=for v|agarra-INF=grasp prep|a=to det:art|el&MASC-PL=the prep|de=of 
+	det:art|el&MASC-PL=the n|cañón&masc-PL=cannon . 
+*CHI:	esta cuerda (.) sabes para que es ?
+%mor:	det:dem|este-FEM=this n|cuerda&fem=string co|sabes=you_know prep|para=for 
+	prep|que=than v|se-3S&PRES=be ? 
+*CHI:	para atarla ?
+%mor:	prep|para=for v|ata-INF~pro:clit|OBJ&FEM ? 
+*CHI:	para [//] esto es para el agua .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for det:art|el&MASC&SG=the 
+	n|agua&fem=water . 
+*CHI:	se coge esto y se pone .
+%mor:	pro:per|se=itself v|coge-3S&PRES=take det:dem|este-MASC=this coord|y=and 
+	pro:per|se=itself v|pone-3S&PRES=put . 
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	ésta no va .
+%mor:	pro:dem|éste-FEM=this_one adv|no=no v|i-3S&PRES=go . 
+*CHI:	se pone aquí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+*SAR:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+*CHI:	se pone aquí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+*SAR:	no puedo .
+%mor:	adv|no=no v|pode-1S&PRES=can . 
+*CHI:	se pone así enganchado .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|así=thus part|engancha-PPART&MASC=hook 
+	. 
+*CHI:	se pone así .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|así=thus . 
+*CHI:	se pone así .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|así=thus . 
+*CHI:	mira (.) así se pone .
+%mor:	co|mira=look adv|así=thus pro:per|se=itself v|pone-3S&PRES=put . 
+*CHI:	esto se pone así .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put adv|así=thus 
+	. 
+*SAR:	ah (.) ya entiendo .
+%mor:	co|ah adv|ya=already v|entende-1S&PRES=understand . 
+*CHI:	y esto nos quita los xxx .
+%mor:	coord|y=and det:dem|este-MASC=this pro:per|nos=us v|quita-3S&PRES=remove 
+	det:art|el&MASC-PL=the . 
+*SAR:	que no entra .
+%mor:	prep|que=than adv|no=no v|entra-3S&PRES=come_in . 
+*INV:	sí [/] sí .
+%mor:	co|sí=yes . 
+*CHI:	claro .
+%mor:	co|claro=obvious . 
+*SAR:	ah (.) mira .
+%mor:	co|ah co|mira=look . 
+*CHI:	que voy a tirar un disparo .
+%mor:	prep|que=than v|i-1S&PRES=go prep|a=to v|tira-INF=throw det:art|un&masc=one 
+	n|disparo&masc=shot . 
+*CHI:	disparar .
+%mor:	v|dispara-INF=shoot . 
+*CHI:	hay que disparar .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|dispara-INF=shoot . 
+*CHI:	hay que disparar .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|dispara-INF=shoot . 
+*SAR:	no juegues María .
+%mor:	co|no=no n|juego&masc-PL=game n:prop|María . 
+*SAR:	no juegues .
+%mor:	co|no=no n|juego&masc-PL=game . 
+*CHI:	le has da(d)o la vuelta ?
+%mor:	pro:per|le=him v|habe-2S&PRES=have part|da-PPART&MASC=give det:art|el&FEM&SG=the 
+	n|vuelta&fem=turn ? 
+*CHI:	le has da(d)o la vuelta ?
+%mor:	pro:per|le=him v|habe-2S&PRES=have part|da-PPART&MASC=give det:art|el&FEM&SG=the 
+	n|vuelta&fem=turn ? 
+*SAR:	dónde está lo de sacar ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be pro:per:1|lo&masc=him prep|de=of 
+	v|saca-INF=bring_out ? 
+%com:	el trampolín
+*SAR:	saca y aquí se pone un pirata el del cuchillo .
+%mor:	v|saca-3S&PRES=bring_out coord|y=and adv|aquí=here pro:per|se=itself 
+	v|pone-3S&PRES=put det:art|un&masc=one n|pirata&masc=pirate det:art|el&MASC&SG=the 
+	prep|de~det|el&MASC n|cuchillo&masc=knife . 
+*CHI:	el del cuchillo ?
+%mor:	det:art|el&MASC&SG=the prep|de~det|el&MASC n|cuchillo&masc=knife ? 
+*SAR:	así mira .
+%mor:	adv|así=thus co|mira=look . 
+*CHI:	a_ver (.) el pirata cañón .
+%mor:	co|a_ver=see det:art|el&MASC&SG=the n|pirata&masc=pirate n|cañón&masc=cannon 
+	. 
+*CHI:	a_ver (.) voy a hablar un poco en el teléfono .
+%mor:	co|a_ver=see v|i-1S&PRES=go prep|a=to v|habla-INF=speak det:art|un&masc=one 
+	adv|poco=few prep|en=in det:art|el&MASC&SG=the n|teléfono&masc=telephone 
+	. 
+%com:	se pone una mano en la oreja
+*SAR:	luego subiendo .
+%mor:	adv|luego=afterwards v|subi-PROG=go_up . 
+*CHI:	ah (.) sí [/] sí .
+%mor:	co|ah co|sí=yes . 
+*SAR:	éste va subiendo (.) no ?
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go v|subi-PROG=go_up co|no=no ? 
+*CHI:	y éste claro va <en el barco> [/] en el barco de piratas .
+%mor:	coord|y=and pro:dem|éste=this_one co|claro=obvious v|i-3S&PRES=go prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	. 
+*SAR:	sí .
+%mor:	co|sí=yes . 
+*SAR:	éste va subiendo .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go v|subi-PROG=go_up . 
+*SAR:	éste va subiendo las escaleras así .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go v|subi-PROG=go_up det:art|el&FEM-PL=the 
+	n|escalera&fem-PL=staircase adv|así=thus . 
+*CHI:	luego .
+%mor:	adv|luego=afterwards . 
+*SAR:	claro esto está así .
+%mor:	co|claro=obvious det:dem|este-MASC=this v|esta-3S&PRES=be adv|así=thus 
+	. 
+*SAR:	luego está esto .
+%mor:	adv|luego=afterwards v|esta-3S&PRES=be det:dem|este-MASC=this . 
+%com:	el puesto del vigía
+*CHI:	luego lo van a matar .
+%mor:	adv|luego=afterwards pro:per:1|lo&masc=him v|i-3P&PRES=go prep|a=to v|mata-INF=kill 
+	. 
+*CHI:	lo van a matar .
+%mor:	pro:per:1|lo&masc=him v|i-3P&PRES=go prep|a=to v|mata-INF=kill . 
+*SAR:	y esto cómo se sujeta ahora ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|cómo=how pro:per|se=itself 
+	v|sujeta-3S&PRES=subject adv|ahora=now ? 
+*SAR:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*SAR:	es que es aquí .
+%mor:	v|se-3S&PRES=be prep|que=than v|se-3S&PRES=be adv|aquí=here . 
+%com:	lo cambia de mástil
+*SAR:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*SAR:	<ya lo sabía yo> [/] <ya lo sabía yo> [/] <ya lo sabía yo> [/] ya lo sabía yo .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|sabe-13S&PAS=know pro:per|yo=I 
+	. 
+*SAR:	aquí es que tú +...
+%mor:	adv|aquí=here v|se-3S&PRES=be prep|que=than pro:per|tú=you +... 
+*SAR:	a_ver y dónde está el ese ?
+%mor:	co|a_ver=see coord|y=and pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the 
+	det:dem|ese=that ? 
+*SAR:	aquí .
+%mor:	adv|aquí=here . 
+%com:	coge un pirata
+*SAR:	aquí [/] aquí [/] aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*SAR:	ya va .
+%mor:	adv|ya=already v|i-3S&PRES=go . 
+*CHI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CHI:	estoy disparando .
+%mor:	v|esta-1S&PRES=be v|dispara-PROG=shoot . 
+*SAR:	chillando .
+%mor:	v|chilla-PROG=scream . 
+*CHI:	no le da .
+%mor:	adv|no=no pro:per|le=him v|da-3S&PRES=give . 
+*CHI:	la metes ahí .
+%mor:	det:art|el&FEM&SG=the v|mete-2S&PRES=put adv|ahí=there . 
+*CHI:	y estaba .
+%mor:	coord|y=and v|esta-13S&PAS=be . 
+*CHI:	y estaba (.) a qué sí ?
+%mor:	coord|y=and v|esta-13S&PAS=be prep|a=to pro:int|qué=what co|sí=yes ? 
+*CHI:	es que le haces que se cierra [*] ahí (.) eh ?
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|le=him v|hace-2S&PRES=do prep|que=than 
+	pro:per|se=itself v|cerra-3S&PRES=close adv|ahí=there co|eh ? 
+*CHI:	es que le aprietas y escapa .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|le=him v|apreta-2S&PRES=tighten 
+	coord|y=and v|escapa-3S&PRES=escape . 
+%com:	el cañón
+*CHI:	escapa (.) a que sí ?
+%mor:	v|escapa-3S&PRES=escape prep|a=to prep|que=than co|sí=yes ? 
+*CHI:	y sueltas .
+%mor:	coord|y=and adj|suelto-FEM-PL=loose . 
+*SAR:	déjalo .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC . 
+*SAR:	no toques que se va a caer .
+%mor:	adv|no=no v|toca-2S&SUB&PRES=touch prep|que=than pro:per|se=itself v|i-3S&PRES=go 
+	prep|a=to v|cae-INF=fall . 
+*CHI:	porque mira .
+%mor:	conj|porque=because co|mira=look . 
+%com:	mira el dibujo
+*SAR:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CHI:	porque mira tata@f (.) mira .
+%mor:	conj|porque=because co|mira=look fam|tata co|mira=look . 
+*SAR:	lo [*] qué ?
+%mor:	pro:per:1|lo&masc=him pro:int|qué=what ? 
+*CHI:	éste .
+%mor:	pro:dem|éste=this_one . 
+*SAR:	ya lo se pero +...
+%mor:	adv|ya=already pro:per:1|lo&masc=him pro:per|se=itself conj|pero=but +... 
+*CHI:	tata@f (.) en la barca .
+%mor:	fam|tata prep|en=in det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*SAR:	mira aquí .
+%mor:	co|mira=look adv|aquí=here . 
+*SAR:	el de la barca es éste .
+%mor:	det:art|el&MASC&SG=the prep|de=of det:art|el&FEM&SG=the n|barco-FEM=boat 
+	v|se-3S&PRES=be pro:dem|éste=this_one . 
+*SAR:	perdóname el de la barca es éste porque mira (.) mira el barco .
+%mor:	v|perdona-2S&IMP~pro:clit|1S det:art|el&MASC&SG=the prep|de=of det:art|el&FEM&SG=the 
+	n|barco-FEM=boat v|se-3S&PRES=be pro:dem|éste=this_one conj|porque=because 
+	co|mira=look co|mira=look det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*SAR:	no tiene aquí .
+%mor:	adv|no=no v|tene-3S&PRES=have adv|aquí=here . 
+*SAR:	el de la barca es éste .
+%mor:	det:art|el&MASC&SG=the prep|de=of det:art|el&FEM&SG=the n|barco-FEM=boat 
+	v|se-3S&PRES=be pro:dem|éste=this_one . 
+*CHI:	y también mira .
+%mor:	coord|y=and adv|también=also co|mira=look . 
+*CHI:	y también hay éste .
+%mor:	coord|y=and adv|también=also v|habe-3S&PRES&SPEC=have pro:dem|éste=this_one 
+	. 
+%com:	señalando
+*CHI:	está monta(d)o el pirata cañón !
+%mor:	v|esta-3S&PRES=be part|monta-PPART&MASC=climb_on det:art|el&MASC&SG=the 
+	n|pirata&masc=pirate n|cañón&masc=cannon ! 
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	que lo vas a tirar todo !
+%mor:	prep|que=than pro:per:1|lo&masc=him v|i-2S&PRES=go prep|a=to v|tira-INF=throw 
+	det:indef|todo-MASC=all ! 
+*SAR:	aquí que se despachurra@f por todos los la(d)os .
+%mor:	adv|aquí=here prep|que=than pro:per|se=itself fam|despachurra prep|por=for 
+	det:indef|todo-MASC-PL=all det:art|el&MASC-PL=the n|lado&masc-PL=side . 
+*SAR:	no tires la bola muchas veces .
+%mor:	adv|no=no v|tira-2S&SUB&PRES=throw det:art|el&FEM&SG=the n|bola&fem=ball 
+	det:indef|mucho-FEM-PL=many n|vez&fem-PL=turn . 
+*SAR:	María que <sólo no hemos venido> [*] (.) para hacer lo de la bomba .
+%mor:	n:prop|María prep|que=than adv|sólo=only adv|no=no v|habe-1P&PRES=have 
+	part|veni-PPART&MASC=come prep|para=for v|hace-INF=do pro:per:1|lo&masc=him 
+	prep|de=of det:art|el&FEM&SG=the n|bomba&fem=bomb . 
+*CHI:	arriba las colonias .
+%mor:	adv|arriba=above det:art|el&FEM-PL=the n|colonia&fem-PL=colony . 
+*SAR:	y la mesa ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|mesa&fem=table ? 
+*CHI:	mira (.) mal .
+%mor:	co|mira=look adv|mal=badly . 
+%com:	dispara
+*SAR:	aquí no te sale la mesa .
+%mor:	adv|aquí=here adv|no=no pro:per|te=you v|sali-3S&PRES=leave det:art|el&FEM&SG=the 
+	n|mesa&fem=table . 
+%com:	en el dibujo
+*SAR:	la voy a dejar ahí .
+%mor:	det:art|el&FEM&SG=the v|i-1S&PRES=go prep|a=to v|deja-INF=leave adv|ahí=there 
+	. 
+%com:	en la bodega
+*SAR:	aquí faltan fichas .
+%mor:	adv|aquí=here v|falta-3P&PRES=be_lacking n|ficha&fem-PL=marker . 
+*SAR:	aquí falta una ficha .
+%mor:	adv|aquí=here v|falta-3S&PRES=be_lacking det:art|un-FEM=one n|ficha&fem=marker 
+	. 
+*SAR:	aquí falta una ficha .
+%mor:	adv|aquí=here v|falta-3S&PRES=be_lacking det:art|un-FEM=one n|ficha&fem=marker 
+	. 
+*CHI:	no faltan .
+%mor:	adv|no=no v|falta-3P&PRES=be_lacking . 
+*CHI:	a_ver a quién llega al aita@s:eus o a Marta ?
+%mor:	co|a_ver=see prep|a=to pro:int|quién=who v|llega-3S&PRES=arrive prep|a~det|el&MASC 
+	L2|aita coord|o=or prep|a=to n:prop|Marta ? 
+%com:	dispara
+*SAR:	ahora a mi .
+%mor:	adv|ahora=now prep|a=to det:pos|mi=my . 
+*CHI:	a Marta .
+%mor:	prep|a=to n:prop|Marta . 
+*SAR:	ahora a mi .
+%mor:	adv|ahora=now prep|a=to det:pos|mi=my . 
+*FAT:	María me voy a enfadar al final .
+%mor:	n:prop|María pro:per|me=me v|i-1S&PRES=go prep|a=to v|enfada-INF=anger 
+	prep|a~det|el&MASC n|final&masc=end . 
+*CHI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*FAT:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*CHI:	porque no lo monto ?
+%mor:	conj|porque=because adv|no=no pro:per:1|lo&masc=him v|monta-1S&PRES=climb_on 
+	? 
+*SAR:	y dónde está la mesa ?
+%mor:	coord|y=and pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|mesa&fem=table ? 
+*CHI:	le ha dado al aita@s:eus .
+%mor:	pro:per|le=him co|ha part|da-PPART&MASC=give prep|a~det|el&MASC L2|aita 
+	. 
+*CHI:	dame [/] dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+%com:	FAT se queda con la pelota y MAR se la pide para seguir disparando el cañón
+*SAR:	ah (.) la bandera va aquí .
+%mor:	co|ah det:art|el&FEM&SG=the n|bandera&fem=banner v|i-3S&PRES=go adv|aquí=here 
+	. 
+*CHI:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*FAT:	cuando montes todo .
+%mor:	conj|cuando=when n|monte&masc-PL=hill det:indef|todo-MASC=all . 
+*SAR:	y va más aquí [/] aquí [/] aquí [/] aquí [/] aquí .
+%mor:	coord|y=and v|i-3S&PRES=go adv|más=more adv|aquí=here . 
+*CHI:	el pirata cañón !
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate n|cañón&masc=cannon ! 
+*CHI:	no [/] no [/] no .
+%mor:	adv|no=no . 
+*SAR:	espera un momento .
+%mor:	v|espera-3S&PRES=wait det:art|un&masc=one n|momento&masc=moment . 
+*SAR:	ahí .
+%mor:	adv|ahí=there . 
+%com:	pone la bandera
+*CHI:	se ha caido el pirata que vuelve a cada niño (.) oh (.) de cabeza .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|el&MASC&SG=the 
+	n|pirata&masc=pirate prep|que=than v|volve-3S&PRES=turn prep|a=to det:indef|cada=each 
+	n|niño-MASC=child co|oh=oh prep|de=of n|cabeza&fem=head . 
+*CHI:	ah (.) sí porque el barco tiene que estar aquí .
+%mor:	co|ah co|sí=yes conj|porque=because det:art|el&MASC&SG=the n|barco-MASC=boat 
+	v|tene-3S&PRES=have prep|que=than v|esta-INF=be adv|aquí=here . 
+*SAR:	a_ver ahora ?
+%mor:	co|a_ver=see adv|ahora=now ? 
+*SAR:	yo creo que ya está hecho el barco .
+%mor:	pro:per|yo=I v|cree-1S&PRES=believe prep|que=than adv|ya=already v|esta-3S&PRES=be 
+	n|hecho&masc=action det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*SAR:	faltan los piratas .
+%mor:	v|falta-3P&PRES=be_lacking det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	. 
+*SAR:	a_ver (.) y esto ?
+%mor:	co|a_ver=see coord|y=and det:dem|este-MASC=this ? 
+*CHI:	esto aquí en el balcón .
+%mor:	det:dem|este-MASC=this adv|aquí=here prep|en=in det:art|el&MASC&SG=the 
+	n|balcón&masc=balcony . 
+*SAR:	a_ver (.) esto mételo dentro María que éste no sale en el dibujo .
+%mor:	co|a_ver=see det:dem|este-MASC=this v|mete-2S&IMP~pro:clit|OBJ&MASC adv|dentro=inside 
+	n:prop|María prep|que=than pro:dem|éste=this_one adv|no=no v|sali-3S&PRES=leave 
+	prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*SAR:	el pirata éste no va aquí .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate pro:dem|éste=this_one adv|no=no 
+	v|i-3S&PRES=go adv|aquí=here . 
+*SAR:	va éste .
+%mor:	v|i-3S&PRES=go pro:dem|éste=this_one . 
+*CHI:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*SAR:	pero no está al lado de la escalera .
+%mor:	conj|pero=but adv|no=no v|esta-3S&PRES=be prep|a~det|el&MASC n|lado&masc=side 
+	prep|de=of det:art|el&FEM&SG=the n|escalera&fem=staircase . 
+*CHI:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*SAR:	que se cae .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall . 
+*CHI:	el pirata cañón !
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate n|cañón&masc=cannon ! 
+*CHI:	mira porque el barco tiene que estar cerca .
+%mor:	co|mira=look conj|porque=because det:art|el&MASC&SG=the n|barco-MASC=boat 
+	v|tene-3S&PRES=have prep|que=than v|esta-INF=be adv|cerca=near . 
+*SAR:	está ahí .
+%mor:	v|esta-3S&PRES=be adv|ahí=there . 
+%com:	mirando el dibujo
+*SAR:	pues esto tiene que estar aquí .
+%mor:	co|pues=well det:dem|este-MASC=this v|tene-3S&PRES=have prep|que=than 
+	v|esta-INF=be adv|aquí=here . 
+*CHI:	con el pirata así .
+%mor:	prep|con=with det:art|el&MASC&SG=the n|pirata&masc=pirate adv|así=thus 
+	. 
+*SAR:	tienen que luchar .
+%mor:	v|tene-3P&PRES=have prep|que=than v|lucha-INF=fight . 
+*CHI:	esto está [*] <muy difícil> [/] muy difícil .
+%mor:	det:dem|este-MASC=this v|esta-3S&PRES=be adv|muy=very adj|difícil=difficult 
+	. 
+*SAR:	ya está hecho .
+%mor:	adv|ya=already v|esta-3S&PRES=be n|hecho&masc=action . 
+*CHI:	ya está hecho papá .
+%mor:	adv|ya=already v|esta-3S&PRES=be n|hecho&masc=action n|papá&masc=papa 
+	. 
+*CHI:	mira (.) ya lo hemos hecho .
+%mor:	co|mira=look adv|ya=already pro:per:1|lo&masc=him v|habe-1P&PRES=have 
+	n|hecho&masc=action . 
+*CHI:	esto se levanta un poco y se caza (.) claro .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|levanta-3S&PRES=raise det:art|un&masc=one 
+	pro:indef|poco=little coord|y=and pro:per|se=itself v|caza-2S&IMP=hunt 
+	co|claro=obvious . 
+%com:	engancha la barca al barco
+*CHI:	ya lo hemos monta(d)o .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|habe-1P&PRES=have part|monta-PPART&MASC=climb_on 
+	. 
+*CHI:	la pelota !
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball ! 
+*FAT:	faltan de montar dos .
+%mor:	v|falta-3P&PRES=be_lacking prep|de=of v|monta-INF=climb_on det:num|dos=two 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	el pirata .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*CHI:	el pirata .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*SAR:	no .
+%mor:	adv|no=no . 
+*SAR:	así no va .
+%mor:	adv|así=thus adv|no=no v|i-3S&PRES=go . 
+*SAR:	va ahí .
+%mor:	v|i-3S&PRES=go adv|ahí=there . 
+*SAR:	luego éste .
+%mor:	adv|luego=afterwards pro:dem|éste=this_one . 
+*SAR:	esto va ahí navegando con él mirando por las vistas y luego con la barca .
+%mor:	det:dem|este-MASC=this v|i-3S&PRES=go adv|ahí=there v|navega-PROG=navigate 
+	prep|con=with pro:per|él&masc=he v|mira-PROG=look prep|por=for det:art|el&FEM-PL=the 
+	n|vista&fem-PL=view coord|y=and adv|luego=afterwards prep|con=with det:art|el&FEM&SG=the 
+	n|barco-FEM=boat . 
+*SAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CHI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*SAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CHI:	dame la pelota .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*INV:	ya está ?
+%mor:	adv|ya=already v|esta-3S&PRES=be ? 
+*CHI:	te voy a dar un tiro .
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|da-INF=give det:art|un&masc=one 
+	n|tiro&masc=toss . 
+@End

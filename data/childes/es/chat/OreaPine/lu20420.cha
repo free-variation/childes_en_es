@@ -1,0 +1,504 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;4.20|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	28-FEB-2001
+@Location:	Madrid
+@Situation:	1 Lucía juega con FAT al puzle en la salita de juegos , (2) Lucía cena con FAT y MOT en el salón
+@Time Start:	21:00
+@Situation:	1
+*FAT:	falta una clarísimamente .
+*CHI:	no .
+*FAT:	&=q dónde está ?
+*FAT:	&=q dónde está la pieza ?
+*FAT:	&=q dónde está ?
+*CHI:	no .
+*FAT:	&=q se la ha comido el patito ?
+*FAT:	pi@o [x 5] .
+%act:	como si picara con un patito de juguete
+*FAT:	&=q se la ha comido el patito ?
+*CHI:	sí .
+*FAT:	oh@o .
+*FAT:	a ver .
+*FAT:	di le al patito que la devuelva .
+*FAT:	patito [x 2] .
+*FAT:	devuelve la ficha .
+*CHI:	pi@o [x 4] .
+%act:	como si picara con un patito de juguete
+*FAT:	&=q dónde está ?
+*FAT:	corre .
+*FAT:	a ver si la encontramos .
+*CHI:	no .
+*FAT:	sí .
+*FAT:	la estoy viendo .
+*CHI:	no .
+*FAT:	&=q dónde está ?
+*CHI:	&=q esta ?
+*FAT:	a ver .
+*FAT:	sí .
+*FAT:	vamos a probar .
+*FAT:	&=e no !
+*CHI:	uah@i .
+%act:	revuelve entre las piezas del puzle
+*CHI:	&=q cuál es ?
+*FAT:	&=q cuál es la pieza que falta ?
+*CHI:	lalarito@o .
+%par:	canta
+*FAT:	pipiripirito@o .
+%par:	canta
+*FAT:	&=q dónde está ?
+*FAT:	ah@i .
+*FAT:	&=q está ahí ?
+*CHI:	sí .
+%act:	se ha levantado y la ha cogido del suelo
+*FAT:	&=q es esa ?
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	&=e toma !
+*FAT:	&=e choca [x 2] , Lu !
+%act:	chocan la mano
+*FAT:	muy bien .
+*FAT:	corre .
+*FAT:	&=q hacemos otro ?
+*CHI:	sí .
+*FAT:	&=q cuál ?
+*CHI:	el caballo .
+*FAT:	venga .
+*FAT:	a ver cuánto tardamos en hacer el caballo .
+*FAT:	tocotón@o [x 4] .
+%par:	imita el galope del caballo
+*CHI:	&=e mu@o !
+%par:	imita el sonido de la vaca
+*FAT:	no .
+*FAT:	eso no es el caballo .
+*FAT:	&=q ese cuál es ?
+*CHI:	este e(s) la vaca .
+*CHI:	mu@o este .
+*FAT:	&=q esta hace mu@o ?
+*CHI:	sí .
+*FAT:	&=q la vaca hace mu@o ?
+*CHI:	sí .
+*FAT:	&=q y el rabo qué hace ?
+%exp:	rabo = tail
+*FAT:	espantar moscas (.) y avispas .
+*FAT:	Lucía .
+*CHI:	Carlos .
+*FAT:	corre .
+*FAT:	vamos a hacer el caballo .
+*FAT:	&=q dónde está el caballo , Lucía ?
+*CHI:	aquí está .
+*MOT:	ay@i .
+*FAT:	si es Carlos .
+*FAT:	hola .
+*FAT:	&=q la sentamos aquí a Carlos ?
+*FAT:	hola , Carlos .
+*FAT:	&=q te quieres sentar aquí a hacer el puzle con nosotros ?
+*CHI:	no .
+*FAT:	corre .
+*FAT:	dí le algo a Carlos .
+*CHI:	no .
+*FAT:	gracias .
+*FAT:	Carlos .
+%add:	muñeco
+*FAT:	&=q quieres hacer el puzle con nosotros ?
+%add:	muñeco
+*FAT:	venga .
+*FAT:	a ver dónde va esa ficha , Carlos .
+*FAT:	Lulú .
+*FAT:	&=q ya estás corriendo ?
+*CHI:	ay@i .
+*CHI:	la@o [x 3] .
+%par:	canturrea
+*FAT:	Lucía .
+*FAT:	&=q te vienes a cenar ahí con nosotros ?
+*CHI:	sí .
+*FAT:	venga .
+*CHI:	eh:@o .
+%act:	se va corriendo al salón
+*FAT:	enciende la luz .
+*FAT:	enciende la luz .
+*FAT:	no .
+*FAT:	así .
+*FAT:	prin@o .
+%act:	enciende la luz
+*FAT:	corre .
+*FAT:	vamos a sentar nos , Lu .
+*CHI:	&=e yo !
+*FAT:	&=q dónde ?
+*CHI:	aquí .
+%act:	señala al silla
+*FAT:	venga .
+*FAT:	a ver cómo te sientas .
+*FAT:	ya .
+*CHI:	ah@i .
+%act:	a partado la silla y se ha sentado
+%sit:	(2)
+*CHI:	ay@i .
+%act:	intenta acercar la silla
+*FAT:	&=q qué ?
+*FAT:	&=q cómo se pide ?
+*CHI:	&=q (f)avo(r) 0 [*] silla 0 [*] arrima [*] ?
+%err:	0 = la $SYN $LOS ; 0 = me $MOR $LOS $PREFIX ; arrima = arrimas $MOR $LOS $NFL 3s/2s
+*MOT:	sí .
+%act:	le acerca la silla
+*FAT:	&=q arrimas la silla ? [+ COR]
+*CHI:	0 .
+%act:	agarra la jarra de agua
+*FAT:	&=q de quién es la jarra ?
+*CHI:	mía .
+*FAT:	mía .
+*CHI:	mía .
+*FAT:	mía .
+*FAT:	a ver .
+*FAT:	&=q me pones agua ?
+*CHI:	sí .
+%act:	intenta echar agua en el vaso que le acerca FAT
+*CHI:	< no pue@x > [/] no puedo .
+*FAT:	sí puedes .
+*FAT:	a ver .
+*CHI:	no puedo .
+%act:	ha intentado levantar la jarra
+*FAT:	&=q quieres que la sirva yo ?
+*FAT:	&=q cómo me lo pides ?
+*CHI:	&=q (f)avo(r) 0 [*] sirvo [*] agua ?
+%err:	0 = me $MOR $LOS $PREFIX ; sirvo = sirves $MOR $SUB $NFL 1s/2s
+*CHI:	(f)avo(r) [x 2] .
+*FAT:	pero .
+*FAT:	a ver otra vez .
+%par:	se está riendo
+*CHI:	(f)avo(r) [x 2] agua aquí .
+%par:	señala
+*FAT:	por+favor &=q me sirves agua ? [+ COR]
+*CHI:	0 .
+%par:	se rie
+*FAT:	Lucía .
+*FAT:	servir .
+*FAT:	&=q me sirves agua ? [+ COR]
+*CHI:	no .
+*FAT:	bueno .
+*FAT:	&=q lo hago yo ?
+*CHI:	sí .
+*FAT:	a ver &=q cómo es ?
+*CHI:	chiu@o .
+%par:	imita el sonido del agua
+%act:	hace como si echara agua con la mano
+*FAT:	&=q y cómo se pide ?
+*CHI:	(f)avo(r) .
+*FAT:	&=q qué mas ?
+*CHI:	gracias .
+*FAT:	ya .
+%par:	echa un poco de agua
+*FAT:	&=q para quién es ese vaso ?
+*CHI:	para Papá .
+*FAT:	&=e bien !
+@Situation:	1 Lucía juega con FAT al puzle en la salita de juegos , (2) Lucía cena con FAT y MOT en el salón
+@Time Start:	21:00
+@Situation:	1
+*CHI:	quiero queso de mamá .
+*FAT:	&=q quieres queso de mamá ?
+*CHI:	sí .
+*CHI:	quiero queso de mamá .
+*FAT:	&=q cómo se pide ?
+*CHI:	&=q (f)avo(r) el queso de mamá ?
+*FAT:	Lucía .
+*FAT:	cuénta nos qué has hecho < en la > [/] en el cole hoy .
+*FAT:	a ver .
+*CHI:	&=q yo ?
+*FAT:	sí .
+*FAT:	&=q has estado con Alonso ?
+*CHI:	sí .
+*FAT:	&=q te han dado un japi@f ?
+*CHI:	no .
+*FAT:	&=q has hecho pis (.) en el colegio ?
+*CHI:	no [x 2] .
+*FAT:	&=q has comido ?
+*CHI:	sí .
+*FAT:	&=q qué has comido ?
+*CHI:	arroz .
+*FAT:	&=q nos lo creemos o no nos lo creemos ?
+*CHI:	no .
+*FAT:	a ver .
+*FAT:	&=q tú te crees que ha comido arroz ?
+%add:	MOT
+*FAT:	uy@i , Lucía .
+*FAT:	me parece que estás en Ecuador .
+%act:	le acerca queso
+*CHI:	no .
+*FAT:	&=q no quieres queso ?
+*CHI:	no .
+*FAT:	ah@i .
+*CHI:	quero [*] de mamá .
+%err:	quero = quiero $MOR $LOS $REG
+*FAT:	ese es de Mamá .
+*FAT:	Mother .
+%add:	MOT
+*FAT:	&=q este es tu queso ?
+%add:	MOT
+*MOT:	sí .
+*MOT:	todos los quesos son míos .
+*CHI:	no .
+*MOT:	soy la reina de los quesos .
+*FAT:	&=q y este de quién es ?
+*CHI:	de Papá .
+*FAT:	bueno .
+*FAT:	&=q tú qué quieres ?
+*FAT:	&=q de este blandito ?
+*CHI:	sí .
+*FAT:	&=q cómo se llama este queso ?
+*CHI:	de Mamá .
+*FAT:	no .
+%par:	riéndose
+*FAT:	se llama el queso blandito .
+*CHI:	b(l)andito . [+ IMI]
+*FAT:	blan::dito .
+*FAT:	no .
+*FAT:	en verdad se llama (.) Brie .
+*CHI:	Brie . [+ IMI]
+*FAT:	justo .
+*FAT:	muy bien , Brie .
+*FAT:	di “Papá &=q me das un poco de queso Brie” ?
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	&=q cómo se dice ?
+*CHI:	&=q (f)avo(r) el Brie es queso de Mamá ?
+*FAT:	es queso Brie < de Pa@x > [//] de Mamá .
+*FAT:	&=q vale ?
+*CHI:	vale .
+*FAT:	&=q a ver cómo es ?
+*FAT:	&=q cómo es ?
+*FAT:	&=q cómo se pide , Lucía ?
+*CHI:	(f)avo(r) .
+*FAT:	&=q qué es ?
+*FAT:	&=q cómo se llama esta queso ?
+*FAT:	&=q cómo se llama esta queso ?
+*CHI:	0 .
+%act:	come queso
+*CHI:	0 .
+%act:	sigue comiendo
+*FAT:	hola , Lucía .
+*CHI:	hola .
+*FAT:	&=q vamos a ver a Hilario y a Marta después ?
+*CHI:	sí .
+*FAT:	&=q a ver qué nos cuentan hoy ?
+*MOT:	Lucía .
+*MOT:	&=q con quién has jugado en el cole ?
+*MOT:	&=q eh@i ?
+*FAT:	&=q con quién ?
+*CHI:	quero [*] ot(r)o .
+%err:	quero = quiero $MOR $LOS $REG
+*FAT:	&=q otro qué ?
+*CHI:	otro queso este .
+*FAT:	&=q cómo se llama ?
+*CHI:	0 .
+%act:	mira a MOT
+*FAT:	eh@i .
+*FAT:	no le soples , Mother .
+%add:	MOT
+*FAT:	&=q cómo se llama este queso ?
+*MOT:	no sabe lo que es soplar .
+%add:	FAT
+*FAT:	&=q ah@i no ?
+*FAT:	bueno , Lucía .
+*FAT:	&=q cómo se llama este queso ?
+*FAT:	y te doy un poquito .
+*FAT:	&=q cómo se llama este queso ?
+*CHI:	xxx .
+*FAT:	no [x 2] .
+*FAT:	&=e error !
+*CHI:	error . [+ IMI]
+*FAT:	mala contestación .
+*FAT:	se queda la niña sin queso .
+*CHI:	eh@i .
+%par:	enfadada
+*FAT:	bueno .
+*FAT:	yo te lo digo .
+*FAT:	se llama queso Brie .
+*CHI:	Brie . [+ IMI]
+*FAT:	muy bien .
+*FAT:	Lucía .
+*FAT:	&=q cómo se llama este queso ?
+*CHI:	Brie . [+ IMI]
+*FAT:	muy bien .
+*FAT:	&=q y cómo se pide ?
+*CHI:	(f)avo(r) &=q el queso de Mamá a@x [//] este ?
+*FAT:	&=q y cómo se llama el queso ?
+*CHI:	de Brie .
+*FAT:	ahora tienes que poner queso Brie en la pregunta .
+*CHI:	vale .
+*FAT:	< a ver > [/] a ver .
+*CHI:	&=q el [x 2] queso este de Mamá ?
+*FAT:	&=q cómo se llama este queso ?
+*CHI:	de Br@x [/] Brie .
+*FAT:	pues ahora tienes que pedir la pregunta con queso Brie .
+@Situation:	1 Lucía juega con FAT al puzle en la salita de juegos , (2) Lucía cena con FAT y MOT en el salón
+@Time Start:	21:00
+@Situation:	1
+*FAT:	a ver .
+*FAT:	otra vez .
+*MOT:	&=q me cortas más de este ?
+%add:	FAT
+*FAT:	espera .
+%add:	MOT
+*FAT:	a ver , Lucía .
+*CHI:	(f)avo(r) &=q el queso este de Mamá ?
+*FAT:	pero si tienes que decir cómo se llama el queso .
+*CHI:	Brie .
+*FAT:	muy bien , Lucía .
+*FAT:	entonces .
+*FAT:	tienes que decir “por+favor me das < un peso > [//] un [x 2] poco de queso Brie (.) de este de Mamá” ?
+*FAT:	a ver .
+*FAT:	venga , Lucía .
+*FAT:	píde lo .
+*FAT:	venga , Lu .
+*FAT:	píde lo que yo te lo doy .
+*FAT:	a ver .
+*FAT:	&=q cómo es la pregunta ?
+*CHI:	(f)avo(r) .
+*CHI:	me da el queso de Mamá este +/.
+*FAT:	no , queso Brie .
+*CHI:	Brie .
+*FAT:	muy bien .
+*FAT:	&=q así ?
+*FAT:	hala@i .
+*FAT:	cuánto .
+*FAT:	mira .
+*FAT:	es un trozo grande .
+*MOT:	sí .
+*FAT:	ya está .
+*FAT:	&=q eh@i ?
+*FAT:	el último .
+*FAT:	&=q vale ?
+*CHI:	ay@i .
+*FAT:	&=q es pegajoso el queso Brie de Mamá ?
+*CHI:	sí .
+*CHI:	eh@i .
+%act:	ha cogido el queso que había sobre la mesa
+*CHI:	es mío .
+%par:	riéndose
+*FAT:	no [x 6] .
+*FAT:	< ladrona de queso Brie > [//] ladrona de quesos Brie .
+*FAT:	no [x 5] .
+*CHI:	agua .
+*CHI:	(f)avo(r) .
+*CHI:	agua de Mamá , (f)avo(r) .
+%act:	bebe agua que le da MOT
+*CHI:	ah@i .
+*FAT:	Lucía .
+*FAT:	no seas exagerada , hija .
+*FAT:	lo hace en el cole &=q no ?
+%add:	MOT
+*CHI:	ya .
+*CHI:	quero [*] más queso de Brie .
+*MOT:	toma .
+%act:	hace como si le diera algo sin darle nada
+*FAT:	toma .
+*CHI:	no .
+*FAT:	&=q no quieres más queso Brie ?
+*CHI:	no .
+*FAT:	muy bien , Lucía .
+*FAT:	&=q qué quieres ahora ?
+*FAT:	&=q correr un poco ?
+*FAT:	&=q volar ?
+*FAT:	&=q vas a volar un poco ?
+*CHI:	sí .
+*FAT:	a ver .
+*CHI:	volando [x 5] .
+%err:	$VALIDAUXE
+%act:	se ha bajado de la silla y corre por la casa
+*CHI:	ya .
+%act:	vuelve
+*FAT:	&=q ya has volado ?
+*CHI:	sí .
+*FAT:	&=q dónde has estado ?
+*CHI:	ay@i .
+*CHI:	volando [x 2] .
+*FAT:	&=q y don@x [//] hasta dónde has estado volando ?
+*FAT:	cuénta me .
+*FAT:	&=q has llegado a la luna volando ?
+*CHI:	sí .
+*FAT:	&=q y cómo estaban los lunáticos ?
+*CHI:	0 .
+%par:	se ríe
+*FAT:	esta@x [//] &=q cómo estaban los lunáticos ?
+*FAT:	&=q había lunáticos en la luna ?
+*CHI:	sí .
+*FAT:	&=q y cómo eran ?
+*FAT:	muy altos o bajitos .
+*CHI:	altos . [+ IMI]
+*FAT:	&=q eran altos ?
+*CHI:	sí .
+*FAT:	&=q y delgados o gordos ?
+*CHI:	gordos . [+ IMI]
+*CHI:	sí .
+*FAT:	mm@i .
+*FAT:	&=q y tenían sombrero ?
+*FAT:	&=q eh@i Lu ?
+*CHI:	sí .
+*FAT:	&=q los lunáticos altos y gordos tenían sombrero ?
+*CHI:	sí .
+*FAT:	&=q y cómo era el sombrero ?
+*FAT:	&=q de qué color ?
+*CHI:	rojo red@s .
+*FAT:	anda .
+*CHI:	volando [x 8] .
+%err:	$VALIDAUXE
+%act:	corre por la casa
+*FAT:	uy@i , Lucía .
+*FAT:	&=q qué tal los lunáticos ?
+*FAT:	&=q les das un recuerdo de mi parte ?
+*CHI:	volando [x 3] .
+*FAT:	&=q eh@i ?
+*FAT:	&=q a quién has visto en la luna ?
+*CHI:	ay@i .
+*CHI:	a volar mucho .
+%act:	se sube a las piernas de FAT y le la coge en brazos
+*FAT:	pero , Lucía .
+*FAT:	&=q a quién has visto en la luna , hija ?
+*FAT:	cuénta me .
+*FAT:	&=q a quién has visto en la luna ?
+*FAT:	&=q a quién has visto ?
+*FAT:	&=q has visto a los lunáticos ?
+*CHI:	sí .
+*FAT:	&=q altos y gordos y con un sombrero ?
+*CHI:	sí .
+*FAT:	&=q y qué te han dicho ?
+*FAT:	&=q te han dicho algo para Mamá ?
+*FAT:	&=q qué te han dicho para Mamá ?
+*FAT:	han dicho “cuando veas a Mamá di le que no se lo olvide acostar a Lucía en la cama (.) y quitar le el chupete porque ya es mayor” .
+*FAT:	&=q eh@i Lu ?
+*FAT:	&=q es eso lo que te han dicho los lunáticos ?
+*CHI:	sí .
+*FAT:	muy bien .
+%act:	deja a Lucía en el suelo
+*CHI:	quiero volar .
+*CHI:	quiero volar .
+*FAT:	pero bueno , Lulú .
+*FAT:	Lulú .
+*FAT:	Lucía .
+*FAT:	&=q les vas a decir a los lunáticos de parte de Mamá que esta noche vas a dormir en una cama en vez de en la cuna ?
+*FAT:	mm@i .
+%par:	interroga
+*CHI:	quiero volar .
+*FAT:	&=q dónde ?
+*CHI:	aquí .
+%act:	señala hacia el techo
+*CHI:	0 [*] el techo .
+%err:	0 = en $SYN $LOS
+*FAT:	&=q en el techo quieres volar ?
+*CHI:	sí .
+*FAT:	a ver .
+%act:	coge a Lucía en brazos
+*FAT:	uy@i .
+*FAT:	ya .
+*CHI:	ot(r)a vez .
+*FAT:	no .
+*CHI:	sí .
+*FAT:	no .
+*FAT:	no que Papá está cenando .
+*FAT:	cuando terminemos de cenar seguimos jugando .
+*FAT:	&=q vale ?
+@End

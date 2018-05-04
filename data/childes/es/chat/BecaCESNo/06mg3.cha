@@ -1,0 +1,1798 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	MIG Miguel Target_Child , SER Sergio Target_Child , PAU Paula Investigator , JUL Julia Mother , FAT Padre Father , ROS Rosa Girl , AUN Tía Aunt , JOR Jorge Child
+@ID:	spa|becasesno|MIG|3;2.17||||Target_Child|||
+@ID:	spa|becasesno|SER|6;4.08||||Target_Child|||
+@ID:	spa|becasesno|PAU|||||Investigator|||
+@ID:	spa|becasesno|JUL|||||Mother|||
+@ID:	spa|becasesno|FAT|||||Father|||
+@ID:	spa|becasesno|ROS|||||Girl|||
+@ID:	spa|becasesno|AUN|||||Aunt|||
+@ID:	spa|becasesno|JOR|||||Child|||
+@Date:	01-NOV-1994
+@Location:	Spain
+@Situation:	En casa mientras dibujan y hablan del colegio
+*SER:	se me dá muy bien (.) y pintar (.) y hacer cosas .
+*PAU:	a_ver (.) dime , qué estás pintando ?
+*SER:	una cosechadora .
+%spa:	$RES
+*MIG:	mia [*] voy a pintá [*] .
+%err:	mia = mira $PHO ; pintá = pintar $PHO ;
+*SER:	+^ mira (.) está cosechando .
+*PAU:	a_ver !
+*MIG:	esta es una coehadora [*] .
+%err:	coechadora = cosechadora $PHO ;
+*PAU:	y tú , a_ver ?
+*MIG:	mia [*] una coechadora [*] .
+%err:	mia = mira $PHO ; coechadora = cosechadora $PHO ;
+*PAU:	a_ver , donde ?
+*MIG:	aquí .
+%spa:	$RES
+*SER:	igual hago deberes .
+*PAU:	tienes que hacer deberes ?
+*PAU:	y eso ?
+*SER:	porque tengo que hacerlos .
+*SER:	me los mandan .
+%spa:	$RES
+*PAU:	claro (.) porque ya eres mayor .
+*SER:	no (.) si tengo que hacer cuadricula .
+*PAU:	yo tambien tengo que hacer muchos deberes .
+*SER:	cuantos (.) a_ver ?
+*PAU:	uf (.) mira todo esto (.) mira !
+*SER:	vas al instituto ?
+*PAU:	voy a la facultad .
+*MIG:	a ve [*] pintate un tactor [*] .
+%err:	ve = ver $PHO ; tactor = tractor $PHO ;
+*PAU:	yo ?
+*PAU:	a_ver (.) dime como se hace (.) a_ver .
+*MIG:	mia [*] (.) así .
+%err:	mia = mira $PHO ;
+%spa:	$RES
+*PAU:	y , luego ?
+*MIG:	encima (..) y luego la pala aquí .
+*MIG:	la pala va ahí .
+%spa:	$RES
+*PAU:	donde va la pala ?
+*MIG:	aquí .
+%spa:	$RES
+*PAU:	y las ruedas ?
+%com:	se encoge de hombros
+*PAU:	y esto de aqui , qué es ?
+*MIG:	mama !
+*JUL:	qué cariño ?
+*JUL:	qué le estas dibujando a Pauli ?
+*MIG:	mama (.) el tate [*] xxx una ja@f .
+%err:	tate = chache $PHO ;
+*JUL:	el chache ha dicho una ja@f ?
+*JUL:	es que una ja@f significa una eme .
+*MIG:	+^ xxx una jai@f .
+*JUL:	has dicho una ja@f ?
+%add:	SER
+*MIG:	ahí .
+*JUL:	pues eso no se dice , eh ?
+*MIG:	mama lo ha dicho ahí una ja@f .
+*JUL:	no (.) no (.) eso no se dice .
+*MIG:	pues si que se dice .
+*PAU:	bueno a_ver (.) cuentame , que haces en la guarderia ?
+*MIG:	pintar los puntitos .
+%spa:	$RES
+*PAU:	y que más (.) a_ver ?
+*MIG:	pintar los colores (.) jope (.) , <ota ves> [*] ?
+%err:	ota ves = otra vez $PHO ;
+*PAU:	<te gusta> [>] ?
+*JUL:	<lo ha echo> [<] [/] lo ha echo muchas veces , Miguel !
+*SER:	<Pauli (.) tú> [<] +/.
+*JUL:	cuentale [<] a Pauli que te han echo esta tarde en la guardería .
+*JUL:	te tenian castiga(d)o , por qué te tenian castiga(d)o ?
+*MIG:	porque si .
+%spa:	$RES
+*SER:	a mi no me castigan .
+*MIG:	a_ver (.) diceme [*] una ja@f .
+%err:	diceme = dime $MOR ;
+%add:	JUL
+*JUL:	una ja@f !
+*MIG:	yo le digo al chache [/] yo le digo al chache una ja@f .
+*JUL:	por qué le dices una ja@f ?
+*JUL:	qué te ha dicho ?
+*SER:	a_ver venga dime una ja@f !
+*JUL:	una ja@f !
+*MIG:	una ja@f !
+%spa:	$IMIT
+*JUL:	dos jas@f .
+*PAU:	a_ver cuentame por qué te han castiga(d)o , eh ?
+*PAU:	qué has echo ?
+*SER:	Juanmi !
+%com:	se corta la cinta y parece continuar con un chiste
+*SER:	un niño al baño , no ?
+*SER:	pues (.) estaba la [/] la cisterna atrancada y [/] y va por un desatascador (.) no puede (.) no puede .
+*SER:	a por uno mediano (.) tampoco puede .
+*SER:	a por un gigantesco (.) arranca to(d)o el water y llega un señor al almacén xxx .
+*SER:	y se pone [/] y se pone el niño +"/.
+*SER:	+" pero tú de ahí , qué haces ?
+*SER:	y se pone el señor +"/.
+*SER:	yo no sé .
+*SER:	yo estaba cagando en Cuenca .
+%com:	risas
+*MIG:	<mira yo> [/] mira yo xxx yo .
+*PAU:	y , que haces ahí ?
+*MIG:	jugar .
+%spa:	$RES
+*PAU:	con quién juegas , eh ?
+*MIG:	mia [*] yo con mi papá .
+%err:	mia = mira $PHO ;
+*PAU:	andá (.) tú con tu papá !
+%spa:	$REF
+*MIG:	y yo con mi mamá .
+*PAU:	y , donde estais ?
+*MIG:	estoy e mi pue(blo) [//] estamos en mi puebo [*] .
+%err:	puebo = pueblo $PHO ;
+*PAU:	y la piscina .
+*JUL:	su pueblo (.) está en su pueblo .
+*PAU:	y , donde está tu pueblo ?
+*JUL:	Fuentes +//.
+*PAU:	como se llama ?
+*PAU:	no se acuerda .
+*JUL:	Fuentes +//.
+*PAU:	Fuentes [>] +//.
+*JUL:	+, de año [<] .
+*MIG:	Fuentes de año .
+%spa:	$IMIT
+*PAU:	anda mira !
+*MIG:	mira , este quién es ?
+*PAU:	no sé , quuién es ?
+*MIG:	mia [*] mi aguela [*] .
+%err:	mia = mira $PHO ; aguela = abuela $PHO ;
+*PAU:	tu abuela !
+%spa:	$REF
+*MIG:	si (.) y esta quien es ?
+*PAU:	no se , quien es ?
+*PAU:	y esta ?
+*SER:	Pauli +/.
+*PAU:	mam(á) +//.
+*SER:	Pauli veras [/] veras <que xxx> [>] tengo en mi habitación .
+*MIG:	++ mama [<] .
+*MIG:	a_ver (.) mi(r)a yo con el co(rr)epasillos y yo con mi aguela [*] .
+%err:	aguela = abuela $PHO ;
+*JUL:	esperate que ahora vá .
+*SER:	mira tengo radio (.) casco y todo (.) mira [/] mira que de juguetes .
+*PAU:	a_ver , que bonito me gusta mucho !
+*PAU:	no lo saques (.) dejalo así que así lo veo .
+*SER:	tengo también dos trenes +//.
+*PAU:	ala !
+*SER:	+, de estos grandes .
+*PAU:	cuántos juguetes !
+*SER:	tengo muchos más .
+*SER:	mira , ves esa caja ahí ?
+*PAU:	humm .
+*SER:	pues tengo dos trenes <y tie(ne)> [/] y tiene muchas cosas .
+*PAU:	ala , cuantos juguetes !
+*SER:	tengo este [/] este ferrari .
+*SER:	tengo <un co(che)> [/] <un coche> [/] un coche que se le abren las ruedas .
+*SER:	mira tengo +/.
+*PAU:	cuál , ese ?
+*PAU:	a ese se le abren las ruedas ?
+*SER:	no (.) el otro .
+%spa:	$RES
+*SER:	uno que tengo <más pa(ra) (a)trás> [>] .
+*PAU:	<ese que es teledirigido , no> [<] ?
+*SER:	si .
+%spa:	$RES
+*PAU:	y qué hace ?
+*SER:	ese (.) pues corre mucho .
+%spa:	$RES
+*PAU:	hum .
+*SER:	pero el que tengo yo en Fuentes de (.) año .
+*SER:	que es un monstruo .
+*PAU:	si ?
+*SER:	sí (.) es un camión de estos coches .
+%spa:	$RES
+*PAU:	ah (.) de esos grandes que tiene +/.
+*SER:	sí (.) pues ese corre [//] le puedes aumentar la velocidad .
+*PAU:	jolín (.) qué pasada !
+*SER:	sabes qué ?
+*PAU:	qué ?
+*SER:	ese coche como tiene una [//] tiene otros mandos que se dirigen solos .
+*PAU:	uhm .
+*SER:	mira (.) <le dás tú pa(ra) (a)rriba> [/] le das tú pa(ra) (a)rriba .
+*SER:	el mando lo subes más pa(ra) (a)rriba y corre mucho más .
+*PAU:	y no lo tienes aquí .
+*PAU:	lo tienes allí , no ?
+*PAU:	en xxx .
+*SER:	lo tengo en Fuentes de año .
+%spa:	$RES
+*SER:	y ese corre !
+*PAU:	qué es +/.
+*SER:	corre más !
+*PAU:	que es , el que más te gusta ese ?
+*SER:	si .
+%spa:	$RES
+*SER:	y además [/] además tiene amortiguadores .
+*SER:	<se sube> [/] se sube por los baches y todo .
+*PAU:	andá (.) como si fuera de verdad !
+*SER:	también salta coches de esos .
+*PAU:	jo !
+*SER:	lo pones con un coche de verdad .
+*SER:	a la bajada (.) puede llegar a toda velocidad por arriba .
+*SER:	y pega un salto .
+*SER:	y hasta el suelo .
+*PAU:	xxx .
+*SER:	no sé si lo hará .
+*SER:	porque para eso lleva amortiguadores .
+%spa:	$RES
+*SER:	los tiene más guais !
+*PAU:	huy (.) mira !
+*PAU:	como aquello lo tengo yo .
+*SER:	como cuál [>] ?
+*PAU:	<como aquél despertador> [<] .
+*SER:	como ese ?
+*PAU:	que suena [>] .
+*SER:	<me parece que no funciona> [<] .
+*PAU:	no funciona ?
+*SER:	mira !
+*PAU:	xxx [>] .
+*SER:	xxx [<] .
+*PAU:	lo haces tú ?
+*SER:	sí (.) hice yo .
+%spa:	$RES
+*PAU:	para tú mamá .
+*SER:	pa(ra) mí .
+*SER:	era [/] era +//.
+*SER:	mira (.) esta es mi cama .
+*PAU:	y esa [>] +/.
+*SER:	esa [<] la de mi hermano .
+*PAU:	la de tu hermano .
+%spa:	$REF
+*SER:	con el osito .
+*PAU:	tú ya no usas osito , a que no ?
+*SER:	no (.) yo uso benilú(z) .
+%spa:	$RES
+*PAU:	ah (.) ah (.) ah !
+*SER:	porque tiene la luz .
+*SER:	por si lo necesito .
+*PAU:	claro !
+*SER:	mira aquí tengo cuentos y cosas .
+*SER:	mira los rotuladores .
+*SER:	mira , los ves ?
+*PAU:	uhm (.) cuantos jolines !
+*PAU:	y esto , qué es ?
+*SER:	es una cosa para mí .
+%spa:	$RES .
+*SER:	es de mi madre .
+*SER:	<esto es un> [/] esto es un oso .
+*SER:	que hace pompas .
+*PAU:	que vá con pilas ?
+*SER:	pues (.) no lo sé .
+%spa:	$RES
+*SER:	no me acuerdo .
+*PAU:	uhm (.) o sea que esto lo ha echo tú mamá , no +/?
+*SER:	mira (.) tengo todo lo del [//] casi todo +//.
+*PAU:	jolín (.) cuántos libros !
+*SER:	tengo vuentos .
+*SER:	tengo de todo .
+*PAU:	y ya sabes leer ?
+*SER:	pues un poco .
+%spa:	$RES .
+*SER:	mira qué poster !
+*SER:	aquí [>] tengo uno .
+*PAU:	ala [<] !
+*SER:	la del cuello largo .
+*PAU:	ese quién es ?
+*PAU:	cómo se llama ?
+*PAU:	quién es Poti ?
+*SER:	el qué ?
+*PAU:	quién es Poti ?
+*SER:	no [/] no lo sé .
+%spa:	$RES
+*SER:	aquí tengo otro .
+*PAU:	mira (.) este era mío .
+%com:	suena música .
+*PAU:	<qué bonito> [>] !
+*SER:	<para cuando> [<] me dormía .
+*SER:	también tengo este .
+*SER:	que es de mi hermano .
+*SER:	mira !
+*PAU:	andá (.) mira con la hora .
+%com:	suena ruido de tambor .
+*PAU:	qué chulo !
+*SER:	ahora xxx que es esto , verás !
+*PAU:	y ahora se lo das a tu hermano , no ?
+*SER:	sí +//.
+%spa:	$RES
+*PAU:	xxx [>] .
+*SER:	este [<] se lo pongo algunas veces .
+*PAU:	andá (.) también tiene un rediocassette , mira !
+*SER:	sí (.) pero ahora no funciona .
+*SER:	también tengo libros .
+*SER:	Tambien tengo libros de esto (.) también te viene .
+*PAU:	qué libros son esos ?
+*PAU:	de qué es ?
+*SER:	este libro es de [/] de (.) erase una vez el hombre .
+%spa:	$RES
+*PAU:	ah (.) y aquello son los videos , no ?
+*SER:	sí (.) ahí tengo casi to(d)os .
+%spa:	$RES
+*SER:	pero luego unos niños nos los quitan .
+*PAU:	y eso ?
+*SER:	uhm (.) porque les dá la gana !
+%spa:	$RES
+*SER:	aque tengo muchos juguetes ?
+*SER:	y tengo [>] más !
+*PAU:	uff [<] (.) tienes muchisimos !
+*SER:	pero mi hermano lo desordena todo .
+*SER:	y a mí me toca colocarlo .
+*PAU:	claro (.) porque eres el mayor .
+*SER:	sí (.) pero es que no me ayuda pa(ra) na(da) .
+*PAU:	pues que te ayude .
+*SER:	si es que no quiere .
+*SER:	compré un caracol .
+*SER:	los tenía .
+*SER:	le pi [//] le teniamos ahí .
+*SER:	para que vivan .
+*SER:	y para que coman lechuga .
+*SER:	y al final , sabes lo que hizo mi [/] mi hermano con uno ?
+*SER:	con unas botazas (.) pisó un caracol .
+*PAU:	ala !
+*SER:	y se pone +"/.
+*SER:	+" le voy a echar agua [/] le voy a echar agua .
+*PAU:	anda (.) y lo pisó !
+*PAU:	y murió , claro !
+*SER:	no (.) <le echamos a> [/] le echamos a [/] a +//.
+*SER:	+, a_ver , a un campo que tenemos allí .
+*PAU:	ah (.) en el pueblo !
+*SER:	si .
+*PAU:	y esto ?
+*SER:	un libro mio .
+%spa:	$RES
+*SER:	que lo pinto .
+*SER:	y hago cosas .
+*PAU:	uhm (.) mira que [/] que chulo .
+%com:	hay un corte en la cinta .
+*PAU:	a_ver .
+*SER:	se llama Pauli (.) no tía .
+*MIG:	a que es mío ?
+*PAU:	si (.) tuyo .
+*PAU:	a_ver enseñamelo .
+*PAU:	Miguel enseñamelo .
+*MIG:	es mio esto .
+*PAU:	a_ver ?
+*MIG:	mia [*] .
+%err:	mia = mira $PHO ;
+*PAU:	xxx .
+*MIG:	a que yo pinto mu(y) bien de colorao [>] ?
+*PAU:	<muy bien> [<] !
+*PAU:	y que es esto ?
+*MIG:	un [//] el sombero [>] [*] .
+%err:	sombero = sombrero $PHO ;
+%spa:	$RES
+*SER:	mamá [<] .
+*PAU:	un sombrero .
+%spa:	$REF
+*MIG:	umh (.) es baco [*] .
+%err:	baco = blanco $PHO ;
+*MIG:	baco [*] es .
+%err:	baco = blanco $PHO ;
+*PAU:	si (.) ala (.) mira verde !
+*JUL:	Sergio ven !
+*MIG:	y esto e(s) la casa .
+*MIG:	mira un balón .
+*MIG:	xxx , a que sí ?
+*MIG:	mira yo , a que sí ?
+*MIG:	mira (.) yo con el chupete .
+*SER:	ese soy yo .
+*SER:	todos [/] todos los que hay aquí (.) soy yo .
+*MIG:	mira (.) mira papá [/] mira papá [>] .
+*SER:	hey [<] !
+*SER:	sí (.) papá [>] !
+*MIG:	papá [<] con la cuba .
+*MIG:	armando la cuba , a que sí ?
+*MIG:	mi(r)a este es [*] tú .
+%err:	es = eres $MOR ;
+*MIG:	hache [*] <a que este soy yo> [/] a que este soy yo .
+%err:	hache = chache $PHO ;
+*MIG:	aquí tu no has nacido .
+*MIG:	aye [*] !
+%err:	aye = oye $PHO ;
+*PAU:	qué (.) dime ?
+*SER:	mamá , me coges los ro(tuladores) [/] un rotulador ?
+*JUL:	<me están sacando> [/] me están sacando los negativos .
+*SER:	me coges mis rotuladores ?
+*SER:	xxx .
+*JUL:	que te coja los rotuladores ?
+*SER:	voy a pintar [>] .
+*JUL:	oye [<] estos negativos son de [/] , de qué año ?
+*MIG:	mira [/] mira estoy miando [*] .
+%err:	miando = meando $MOR ;
+*PAU:	ala (.) , quién es ese ?
+*MIG:	mi [/] mi chache .
+%spa:	$RES
+*PAU:	ah !
+*MIG:	mira esta [?] casita .
+*PAU:	a_ver (.) anda que chula !
+*PAU:	te gusta ?
+*MIG:	sí .
+%spa:	$RES
+*SER:	mira .
+%add:	PAU
+*PAU:	a_ver [>] .
+*SER:	de [<] muchos colores .
+*PAU:	cuantos colores (.) anda !
+*PAU:	qué color es este ?
+*SER:	es el morao .
+%spa:	$RES
+*PAU:	que morao más raro , no ?
+*SER:	es un morao claro .
+*PAU:	<o gris no lo sé> [>] .
+*MIG:	xxx [<] .
+*SER:	creo que es gris oscuro .
+*MIG:	mira te [*] moto .
+%err:	te = que $PHO ;
+*PAU:	a_ver .
+*MIG:	mira .
+*MIG:	prugggum@o .
+*MIG:	mira .
+*PAU:	qué dices ?
+*MIG:	que mira !
+%spa:	$RES
+*JUL:	el qué cariño ?
+*MIG:	esto .
+%spa:	$RES
+*JUL:	que es eso ?
+*MIG:	mira .
+*JUL:	qué son ?
+*JUL:	<los con(guitos)> [>] +//.
+*MIG:	xxx [<] .
+*MIG:	++ guingos [//] los conguitos .
+*PAU:	andá (.) los conguitos !
+%spa:	$REF
+*MIG:	mama (.) yo he comi(d)o los conguitos .
+*PAU:	los conguitos ó los lacasitos ?
+*JUL:	qué te gustan más los conguitos ó los lacasitos ?
+*MIG:	los lacasitos y los conguitos .
+%spa:	$RES
+*JUL:	<los dos> [>] .
+*PAU:	<le dá igual> [<] .
+*PAU:	anda (.) miralé .
+*MIG:	bueno [?] mejor los lacasitos .
+*JUL:	mejor (.) dí +/.
+*MIG:	esto es mío .
+*JUL:	dí (.) eso <se llama> [>] .
+*PAU:	<me lo dejas> [<] ?
+*MIG:	sí .
+%spa:	$RES .
+*JUL:	esos eran de la tata .
+*MIG:	que [/] que te lo dejo .
+*PAU:	ah (.) que el boli(grafo) me lo dejas (.) también .
+*SER:	a cuadricula .
+*MIG:	&es esta moto xxx [>] .
+*SER:	<ahora tengo xxx> [<] hacer cuadrícula .
+*MIG:	vale ?
+*MIG:	dame caramelos .
+*MIG:	<a que> [?] no me pillas ?
+*PAU:	a que te pillo .
+*MIG:	a xxx uhm .
+*SER:	qué rollazo los cuadros !
+*JUL:	xxx peleonas .
+%com:	risas
+*JUL:	sí (.) tiene unos instíntos muy agresivos .
+*JUL:	mi delirio [?] es muy [>] xxx .
+*MIG:	huaaa [<] !
+*MIG:	jopé (.) que me arancas [*] la rueda .
+%err:	arancas = arrancas $PHO ;
+*MIG:	pi^pi^pi@o xxx .
+*SER:	mama (.) me das algún lapicero ?
+*MIG:	uy !
+*SER:	mierda !
+*SER:	contigo yo no hablo .
+*MIG:	ache [*] .
+%err:	ache = chache $PHO ;
+*MIG:	me dás uno [/] ?
+*MIG:	me dás uno ?
+*MIG:	sólo uno .
+*SER:	no (.) ninguno que tú lo +//.
+*MIG:	yo no los he abierto .
+*MIG:	<que lo hago muy bien> [/] que lo hago muy bien .
+*SER:	que no pintes !
+*SER:	oye (.) que la grabadora está puesta .
+*MIG:	mira [/] mira el cohete amarillo .
+*SER:	cual es éste ?
+*MIG:	amarillo .
+%spa:	$RES
+*MIG:	<mira son iguales> [/] mira son iguales (.) amarillo .
+*SER:	Juan Miguel .
+*MIG:	qué ?
+*SER:	y éste ?
+*MIG:	oscuro .
+%spa:	$RES
+*SER:	no .
+*MIG:	cómo ?
+*SER:	negro .
+%spa:	$RES
+*MIG:	nego [*] , ahora ?
+%err:	nego = negro $PHO ;
+*SER:	a_ver (.) te voy a decir una cosa .
+*MIG:	<ache (.) ache> [*] xxx .
+%err:	ache = chache $PHO ;
+*MIG:	de verde , éste de qué color es ?
+*SER:	deja .
+*MIG:	<éste es dejamos [?]> [/] este es deja(mos) (.) mia [*] .
+%err:	mia = mira $PHO;
+*MIG:	se me ha caido el xxx .
+*SER:	es que eres imbecil Juanmi !
+*SER:	<es que no me dejas> [/] es que no me dejas !
+*MIG:	no te vou a xxx .
+*SER:	dejame !
+%com:	silencio largo
+*MIG:	mira !
+*MIG:	ache [*] mira qué he pintado !
+%err:	ache = chache $PHO ;
+*PAU:	Miguel , no ibas a cantar antes una canción ?
+*PAU:	eh (.) no desías que sabías una canción ?
+*MIG:	si .
+%spa:	$RES
+*PAU:	eh [>] ?
+*MIG:	<estoy haciendo> [<] esto .
+*PAU:	anda (.) cantamela .
+*JUL:	cantalé la de esta mañana .
+*JUL:	que te han enseñado en la (.) guardería [>] .
+*MIG:	no [<] .
+*PAU:	por qué ?
+*MIG:	mamá (.) no te la canto .
+*PAU:	cuál te xxx en religión ?
+*MIG:	una ja@f !
+*SER:	en religión ?
+*MIG:	han [/] han canta(d)o una ja@f !
+*PAU:	vnega , me la cantas ?
+*MIG:	no .
+%spa:	$RES
+*PAU:	por qué ?
+*MIG:	porque no quiero .
+%spa:	$RES
+*MIG:	ésta hoja ya lo [*] he visto .
+%err:	lo = la $MOR ;
+*PAU:	a_ver (.) enseñame las otras .
+*MIG:	que yo no las he visto .
+*PAU:	venga (.) enseñamelas [>] .
+*MIG:	<cual , éstas> [<] ?
+*PAU:	sí .
+*MIG:	no las [/] las has visto ?
+*PAU:	no las he visto .
+*MIG:	ah (.) mira !
+*PAU:	estaba con tu madre .
+*PAU:	a_ver .
+*MIG:	mira xxx .
+*SER:	luego si quieres <jugamos a los viseos> [>] .
+*MIG:	<aquí estoy yo> [<] .
+*PAU:	vale .
+%add:	SER
+*PAU:	a_ver .
+*SER:	te ayudo que (.) <los juegos> [/] los juegos don dificiles .
+*PAU:	si ?
+*SER:	yo me los paso todos .
+*MIG:	mira mi tata .
+*SER:	esa quién es ?
+*MIG:	ta(ta) [//] mi tata .
+%spa:	$RES
+*PAU:	y esto ?
+*SER:	a_ver , quién es su tata ?
+*MIG:	la tata .
+*SER:	<a ver> [>] .
+*PAU:	<qué rica> [<] , eh ?
+*SER:	cuando era mi cumple(años) .
+*SER:	estos son mis primos .
+*PAU:	quién ?
+*SER:	éste [>] .
+*MIG:	<y míos> [<] ache [*] , a que también <son mis primos> [>] ?
+%err:	ache = chache $PHO ;
+*SER:	ésta es <mi abuela> [/] [<] (.) mi <abuela Rosario> [>] .
+*JUL:	<esa es Rosamari> [<] .
+*SER:	mi abuelo Lucio (.) mi otro abuelo que ya ha muerto .
+*SER:	mi tio Lolo (.) ésta es Clara (.) Ruben .
+*PAU:	y ésta ?
+*SER:	pues éste David (.) ésta Rosamari .
+%spa:	$RES
+*SER:	que es la que mejor se vé .
+*PAU:	y éste ?
+*MIG:	Puri .
+%spa:	$RES
+*JUL:	mira cómo la conoce .
+*JUL:	Puri la de Bernardo .
+*MIG:	xxx [>] .
+*JUL:	<Puri la de Jorge> [<] .
+*PAU:	no .
+*MIG:	mira .
+*JUL:	a_ver (.) ala (.) que lo arran(cas) !
+*JUL:	ah (.) no es Clara .
+*JUL:	mira (.) mira (.) todas las arranca .
+*JUL:	es que <no sabe> [/] no sabe .
+*JUL:	manejar las cosas con cuida(d)o .
+*MIG:	mamá !
+*JUL:	tiene unas manos destrozonas !
+*JUL:	a mamá !
+*PAU:	y ésta ?
+*JUL:	cuentaselo .
+*PAU:	a_ver , quién es ésta ?
+*PAU:	no sabe .
+*JUL:	mira , quién es ?
+*MIG:	Rosamari .
+*JUL:	claro (.) mira (..) , quién es ?
+*PAU:	no sabe .
+*JUL:	Ro(samari) [>] +//.
+*PAU:	venga [<] .
+*MIG:	éste ?
+*JUL:	Pedro .
+*MIG:	<que se> [/] que se ha mueto [*] .
+%err:	mueto = muerto $PHO ;
+*JUL:	no se ha muerto Pedro (.) hijo .
+*JUL:	Pedro (.) mira (.) es el papá de [/] de Irene .
+*MIG:	ésta sí que la conozco .
+*JUL:	estás liando las cosas .
+*JUL:	murió el abuelo pero no Pedro .
+*JUL:	pobrecillo me cago en la mar .
+*JUL:	éstas si que las conozco [*] .
+%err:	conzco = conoces $MOR ;
+*JUL:	pero las conoces ya más mayores , a que sí ?
+*MIG:	ésta sí .
+%spa:	$RES
+*JUL:	Elena (.) Irene .
+*PAU:	sí (.) mira que tarta .
+*JUL:	esa es del cumpleaños de +/.
+*MIG:	una casita .
+*PAU:	<ala (.) qué rica> [>] !
+*JUL:	<del cumpleaños del> [<] chache .
+*PAU:	cuántos cumplía ?
+*JUL:	aquí es el pri(mero) [?] +/.
+*MIG:	mía [*] mi vaso .
+%err:	mia = mira $PHO ;
+*MIG:	qué va a ser tu papá ese !
+*MIG:	que sí que es <mi papá> [>] .
+*PAU:	<a que ahí> [<] no es tu papá ?
+*MIG:	que sí .
+%spa:	$RES
+*PAU:	que no .
+*JUL:	<cómo se llama tu papá> [>] ?
+*PAU:	<que sí> [<] .
+*JUL:	cómo se llama tu papá ?
+*MIG:	Juan Miguel .
+%spa:	$RES
+*JUL:	qué más ?
+*MIG:	y mi tio .
+*PAU:	a_ver .
+*JUL:	tu tío , quién ?
+*MIG:	el [/] el tío .
+%spa:	$RES
+*JUL:	qué tío es ?
+*PAU:	no lo sabe .
+*JUL:	el tío Ta(no) +//.
+*MIG:	++ (Ta)no .
+%spa:	$RES
+*JUL:	(Ta)no .
+%spa:	$REF
+*JUL:	el tío Tano (.) se llama Tano .
+*JUL:	y [/] y ella , quién es ?
+*JUL:	la tía +//.
+*MIG:	++ Segunda .
+%spa:	$RES
+*JUL:	no (.) la tía Na(cha) +//.
+*MIG:	++ (Na)cha .
+*JUL:	la tía Nacha y el tío Tano (.) claro !
+%spa:	$REF
+*MIG:	claro .
+*PAU:	quién es esa ?
+*MIG:	mi abuela .
+*PAU:	tu abuela xxx [>] .
+*JUL:	<la abuela cómo> [<] se llama la abuela ?
+*JUL:	Ro(sario) +//.
+*MIG:	++ Losallo [*] .
+%err:	Losallo = Rosario $PHO ;
+*JUL:	Losallo .
+%spa:	$REF
+*JUL:	pero qué listo eres madre !
+*MIG:	y éste quién es ?
+*MIG:	tu pade [*] .
+%err:	pade = padre $PHO ;
+*PAU:	<tu padre> [= ! riendo] .
+%spa:	$REF
+*JUL:	tiene más lios de +//.
+*MIG:	y este que es tuyo ?
+*JUL:	+, tiene unos líos de [/] de sobrinos (.) nietos (.) <de primos (.) es mío es tuyo> [>] .
+*PAU:	<no (.) no es mío y tuyo tampoco> [<] .
+*MIG:	de quién es ?
+*PAU:	no sé .
+*JUL:	es el papá tuyo .
+*JUL:	es el papá de Sergio .
+*JUL:	Sergio y tú sois hermanos .
+*JUL:	yo soy tu medre .
+*PAU:	no [>] .
+*MIG:	<éste es mío> [<] .
+*JUL:	esperate !
+*JUL:	es que le empiezan a decir +"/.
+*JUL:	+" <la tía Carmen> [>] .
+*MIG:	<este es mío> [<] .
+*MIG:	pues sí (.) éste es mío .
+*PAU:	que no hombre !
+*PAU:	xxx .
+*PAU:	no sé , quién es ?
+*PAU:	anda (.) y esto , de quién es esto ?
+*MIG:	mio [//] es mio .
+%spa:	$RES
+*PAU:	a_ver (.) enseñamelas .
+*MIG:	está rota .
+*PAU:	por donde ?
+*MIG:	por aquí .
+%spa:	$RES
+*PAU:	no (.) está bien .
+*MIG:	le fal(ta) [//] que tiene esto .
+*JUL:	una pala me parece , no ?
+*PAU:	mira[>] !
+*MIG:	<no tiene> [<] pala .
+*PAU:	mira , quién es ese ?
+*MIG:	yo conti(go) [/] contigo .
+%spa:	$RES
+*JUL:	el hermano siempre dice que el él , ves ?
+*JUL:	y éste , quién es ?
+*MIG:	yo .
+%spa:	$RES
+*JUL:	aquí tenía Sergio un añito .
+*SER:	yo no he sido , eh ?
+*SER:	quien te lo he tira(d)o .
+*PAU:	que no (.) he sido yo .
+*MIG:	mama aquí estoy contigo ?
+*JUL:	mira (.) no quiere su padre que se las hagamos dormidos .
+*JUL:	porque no le gusta .
+*MIG:	mia [*] yo aquí dormido .
+%err:	mia = mira $PHO ;
+*MIG:	a que soy yo ?
+*JUL:	tú claro !
+*MIG:	xxx a que soy yo .
+*MIG:	mia [*] con oto [*] chupete nuevo .
+%err:	mia = mira $PHO ; oto = otro $PHO ;
+*MIG:	a que sí ?
+*JUL:	ay (.) es que tus chupetes siempre han sido blancos .
+*JUL:	y los del hermano siempre azules .
+*JUL:	mira como distingue !
+*JUL:	de qué color es este chupete ?
+*MIG:	el que tu me has compa(d)o [*] .
+%err:	compado = comprado $PHO ;
+*JUL:	sí , pero de qué color es ?
+*MIG:	mira qué osito guapo .
+*JUL:	que qué osito guapo , donde ?
+*PAU:	a_ver .
+*JUL:	no veo ningún osito .
+*MIG:	has visto ahí ?
+*PAU:	no .
+*JUL:	dónde ha salido el osito ?
+*MIG:	ahí en la tele .
+%spa:	$RES
+*JUL:	habrá salido un osito al principio .
+*MIG:	ha salido un osito .
+*JUL:	mira , verás !
+*MIG:	gande [*] [/] gande [*] .
+%err:	gande = grande $PHO ;
+*MIG:	yo con el coepasillos [*] amarillo [>] .
+%err:	coepasillo = correpasillo $PHO ;
+*PAU:	<anda (.) de quién> [<] es ese coche ?
+*MIG:	mio .
+%spa:	$RES
+*JUL:	estaba en el pueblo y <ahora xxx> [>] +/.
+*MIG:	<estaba con> [<] el casco .
+*SER:	éste era yo Juanmi .
+*JUL:	aquí tienen <más disputas> [>] +/.
+*MIG:	<no era> [<] yo .
+*PAU:	a_ver , pero quién era tú o él ?
+*MIG:	yo xxx [>] .
+*JUL:	<Sergio mira> [<] , te acuerdas tú de la nena ?
+*SER:	no me acuerdo del nombre .
+%spa:	$RES
+*JUL:	no te acuerdas <quién es> [>] ?
+*SER:	<es que hace mucho> [<] que no la veo .
+*PAU:	mira .
+*MIG:	yo con la moto .
+*JUL:	pero +/.
+*MIG:	ache [*] a que soy yo con la moto este ?
+%err:	ache = chache $PHO ;
+*PAU:	Sergio !
+*MIG:	a que soy yo con la moto ?
+*SER:	tú [/] tú no habias nacido Juanmi .
+%spa:	$RES
+*JUL:	le oyes (.) ache [/] le oyes (.) ache .
+*JUL:	en lugar de chache dice ache .
+*MIG:	yo si habia nacido aquí .
+*JUL:	también claudicó .
+*JUL:	los dos han claudica(d)o .
+*JUL:	es normal .
+*MIG:	navidades .
+*PAU:	oye , qué vas a pedir para los reyes ?
+*MIG:	mama (.) yo quiero navidades .
+*JUL:	quiere navidades .
+*PAU:	que le pongas en árbol .
+*JUL:	pero se pondrá cuando llegue (.) hijo (.) las navidades , todavía no !
+*MIG:	que sí !
+*PAU:	eres tú ?
+*MIG:	no Carlitos .
+%spa:	$RES
+*JUL:	<pues no> [= ! riendo] .
+*MIG:	mira (.) el pimo [*] Carlitos con su baño .
+%err:	pimo = primo $PHO ;
+*JUL:	es que la bañera +/.
+*PAU:	qué tiene en la boca ?
+*PAU:	qué es esto ?
+*MIG:	una esponja !
+%spa:	$RES
+*PAU:	anda (.) xxx .
+*JUL:	una qué ?
+*MIG:	una esponja .
+%spa:	$RES
+*MIG:	ache [*] a que sí (.) a que es una esponja ?
+%err:	ache = chache $PHO ;
+*SER:	mamá quiero hacer cuadricula y la [//] y ma mandan hacerlo .
+*JUL:	pues [//] y que es cuadricula hijo ?
+*MIG:	mi yo .
+*JUL:	tienes que hecer deberes .
+%add:	SER
+*MIG:	con mi papa [>] .
+*SER:	xxx [<] .
+*JUL:	tienes que leer esta tarde , eh ?
+*MIG:	mira [/] mira yo .
+*PAU:	tú .
+%spa:	$REF
+*PAU:	con quién está ahí ?
+%add:	JUL
+*JUL:	xxx [>] .
+*MIG:	<con mi papa> [<] .
+*MIG:	y esta es mi cuna .
+*PAU:	no [/] no es tu cuna esa .
+*MIG:	que si que es mi cuna .
+*PAU:	que no (.) <no es tu cuna> [>] .
+*MIG:	<que sí> [<] .
+*MIG:	que sí [/] que sí [/] que sí .
+*PAU:	y este ?
+*PAU:	este osito de quién es ?
+*PAU:	también es tuyo ?
+*SER:	este xxx .
+*MIG:	no es de mi mama , a que sí ?
+*MIG:	mi mama lo tiene ahí .
+*PAU:	pero te lo deja , a que sí ?
+*MIG:	a que me lo dejas ?
+%com:	hay un corte en la cinta
+*SER:	mira donde está mi padre .
+*SER:	mira tía Pauli !
+*SER:	luego dices [/] luego dices !
+*JUL:	la voy a pisar .
+*SER:	Pauli ven !
+*SER:	xxx .
+*PAU:	ah (.) yo también tengo uno de esos .
+*JUL:	esto de plastas , esto que es ?
+*PAU:	y también tengo +/.
+*SER:	aquí tengo otra .
+*SER:	hola !
+*SER:	hola Mario (.) hola !
+*SER:	vuelve xxx .
+*JUL:	y este que hace así ?
+*SER:	con las panatas@c asomadas [= ! riendo] .
+*PAU:	pero , qué haces así ?
+*MIG:	gilipi@c .
+%spa:	$RES
+*JUL:	eh ú no se insulta !
+*MIG:	uhm !
+*JUL:	pero que yo no estoy haciendote nada !
+*SER:	ahora pillas su culo bien así !
+%com:	se oyen cachetes y risas .
+*PAU:	qué te hace ?
+*JUL:	le has enseñado +/.
+*MIG:	a_ver oto [*] [/] oto [*] <que tengo> [>] .
+%err:	oto = otro $PHO ; oto = otro $PHO ;
+*JUL:	<si te ve> [>] Rafa el [/] el este a lo mejor le gusta más .
+*PAU:	el qué ?
+*JUL:	<la máquina> [>] .
+*MIG:	<hola Mario> [<] !
+*PAU:	tenemos una .
+*JUL:	ah (.) sí ?
+*PAU:	lo que pasa es que la tenemos desenchufada .
+*PAU:	www .
+%exp:	hablan Paula y Julia
+*MIG:	<hola Mario> [/] hola Mario [= ! riendo] .
+*MIG:	<hola Mario> [/] hola Mario .
+*MIG:	ahora voy en canzonzillos [*] [= ! riendo] .
+%err:	canzoncillos = calconcillos $PHO ;
+*SER:	ahhh !
+%com:	juegan y hay risas
+*MIG:	xxx .
+*SER:	ah !
+*MIG:	xxx .
+*SER:	hola sanmoscas@c .
+*SER:	papá !
+*MIG:	tienes un xxx .
+*MIG:	eres un xxx (.) cacho imbecil !
+*MIG:	<Juanmi mi libro> [= ! gritando] .
+*MIG:	gili(pollas) .
+*SER:	papa <me está pisando mi libro> [>] .
+*FAT:	<xxx ina ostia> [<] !
+*MIG:	papa <quiero hacer pis> [>] .
+*FAT:	<de papa ná(da) (.) tira> [<] .
+*MIG:	papa que quiero hacer pis !
+*FAT:	te parto la cara como pises el xxx .
+*MIG:	jope (.) papa !
+*FAT:	xxx .
+*MIG:	vete !
+*FAT:	te doy ?
+*MIG:	vete !
+*FAT:	te doy ?
+*MIG:	papa [/] papa , una mierda !
+*FAT:	Juan Miguel , que te atizo !
+*MIG:	jope (.) papa (.) jope (.) joe .
+*SER:	vete Juanmi !
+*MIG:	chache que <va a hacer> [*] .
+%err:	va a hacer = vas a hacer $MOR ;
+*SER:	que tengo que grabar !
+*MIG:	voy a mear .
+*MIG:	a_ver (.) ya verás !
+*MIG:	mira .
+*SER:	vete !
+%com:	Juanmi rie
+*SER:	ten cuida(d)o que te pinchas .
+*MIG:	www .
+%com:	Trozo ininteligible .
+*MIG:	mira se le engancha éste camión .
+*PAU:	Miguel , hazme otro dibujo anda !
+*MIG:	xxx .
+*PAU:	Miguel !
+*MIG:	<pinta un tactor [*]> [/] pinta un tactor [*] .
+%err:	tactor = tractor $PHO ; tactor = tractor $PHO ;
+*MIG:	pintame un tactor [*] .
+%err:	tactor = tractor $PHO ;
+*PAU:	yo no sé .
+*PAU:	pintamelo tú .
+*PAU:	si yo no sé .
+*MIG:	mira [>] .
+*JUL:	<xxx los tractores> [<] .
+*JUL:	le gustan los tractores con locura .
+*PAU:	www .
+%com:	diálogo entre Pauli Y Julia
+*SER:	Pauli no fuma mucho .
+*MIG:	una cosa que hace con ajo .
+*SER:	yo si fumo .
+*MIG:	fumita@c , a_ver !
+*MIG:	que quiere fumar !
+*PAU:	tu no que eres muy pequeño .
+*JUL:	lo niños ?
+*MIG:	xxx .
+*SER:	pues yo he fuma(d)o con la tía Carmen !
+*SER:	yo he fuma(d)o con la tía +/.
+*PAU:	pero es que vosotros no podeis fumar .
+*PAU:	sois muy pequeños .
+*SER:	mi tía Carmen me ha deja(d)o .
+*PAU:	te deja fumar ?
+*PAU:	anda ya !
+*MIG:	<mi tía Carmen> [>] .
+*SER:	<pues sí> [<] .
+*JUL:	di que le pone aïsi el cigarro +/.
+*MIG:	mira [/] mira !
+*JUL:	pero no xxx .
+*PAU:	pero que está encendido ?
+*JUL:	no (.) le hace así .
+*SER:	encendi(d)o sí .
+*JUL:	pero no dá calada .
+*SER:	ah !
+*SER:	mira xxx mira .
+*MIG:	tú xxx .
+*PAU:	no tu hermano [//] juega con tu hermano .
+*MIG:	chache juga [*] tú .
+%err:	juga = juega $MOR ;
+*SER:	yo hago deberes .
+*MIG:	uhh !
+*JUL:	qué instinto de destrucción tiene !
+*JUL:	es muy agresivo .
+*MIG:	a_ver .
+*MIG:	<si me pillas> [>] !
+*JUL:	<no (.) agresivo [/] agresivo es la palabra> [<] .
+*JUL:	<es destructivo> [>] .
+*MIG:	<a_ver si me pilas> [<] .
+*JUL:	ves ?
+*MIG:	a_ver si me pillas !
+*PAU:	<no te pillo> [/] no te pillo .
+*PAU:	te he pilla(d)o !
+*SER:	sabes lo que te digo ?
+*SER:	que mi música a tí no te gusta .
+*PAU:	qué música es ?
+*SER:	no lo sé (.) si le gustará o no .
+*MIG:	ehhh !
+*MIG:	eh (.) que le pongas xxx [>] !
+*SER:	<te gusta> [<] Oliver y Benji ?
+*PAU:	hombre (.) me gusta pero no mucho .
+*PAU:	eso ya .
+*SER:	<pues la tengo> [>] .
+*PAU:	<máquina total sí> [<] .
+*PAU:	me gusta mucho .
+*JUL:	la uno (.) la dos (.) hay siete ya !
+*SER:	máquina total ?
+*PAU:	tengo yo una .
+*SER:	y yo .
+*PAU:	xxx .
+*SER:	mira cuántas cintas tengo !
+*SER:	que no te las he enseña(d)o !
+*MIG:	xxx (.) jolín (.) <que te lo> [/] que te lo tiro !
+*PAU:	<a ver> [>] .
+*MIG:	hola [<] .
+*JUL:	una .
+%com:	se cae un mechero
+*PAU:	ala (.) lo vas a estropear !
+*JUL:	vas a romper el mechero de papá .
+*MIG:	mama , este es de papá ?
+*MIG:	mamá , es de papá ?
+*JUL:	si claro que es de papá .
+*MIG:	es de <mi papá> [>] .
+*JUL:	ves [<] te has dado cuenta ?
+*JUL:	<pisar la guitarra> [>] .
+*MIG:	<que sí que es de mi papá> [<] .
+*JUL:	es que no sabe leer todavía .
+*SER:	sé leer pero algunas veces .
+*SER:	se leer pero poco .
+*JUL:	seis años y mira !
+*MIG:	jope (.) es que se rompe !
+*MIG:	xxx de mi papa .
+*MIG:	ay (.) se va a secar , mira !
+*PAU:	a_ver .
+*MIG:	has visto ?
+*MIG:	mira .
+*MIG:	te cojo yo .
+*MIG:	ache [*] qué vas a poner (.) Oliver ?
+%err:	ache = chace $PHO ;
+*MIG:	ache [*] qué vas a poner Oliver y Benji ?
+%err:	ache = chache $PHO ;
+*SER:	Pauli !
+*PAU:	qué ?
+*SER:	estoy arreglandola .
+*JUL:	una canción que te han contado esta mañana en religión .
+*JUL:	y era muy bonito .
+*JUL:	ya no te acuerdas ?
+*SER:	ya no me acuedo xxx .
+%spa:	$RES
+*JUL:	pues (.) si la has cantado .
+*JUL:	Miguel , qué haces ?
+*JUL:	Juan Miguel , qué haces ?
+*MIG:	poniendo esto .
+%spa:	$RES
+*JUL:	poniendo qué ?
+*JUL:	qué es eso ?
+*MIG:	nada [/] .
+%spa:	$RES
+*PAU:	<a ver> [<] que lo veamos .
+*MIG:	está roto (.) mira .
+*MIG:	mira [/] mira está roto .
+*JUL:	está roto ?
+*JUL:	no funcionan las pilas .
+*JUL:	vente para acá Miguel .
+*MIG:	qué ?
+*JUL:	quieres hacernos el favor de contarnos un cuento ?
+*MIG:	una ja@f .
+%spa:	$RES
+*JUL:	pero hijo <no xxx> [>] .
+*PAU:	<anda (.) &cuen> [<] cuentamele (.) nda .
+*PAU:	yo no me le sé .
+*MIG:	no .
+*PAU:	por qué ?
+*JUL:	<que te han contado> [/] que te han contado en la guarderia .
+*JUL:	a_ver , que cuento te han contado en la guardería ?
+*JUL:	o solo habeis canta(d)o ?
+*JUL:	quë habei cantado ?
+*MIG:	nada .
+%spa:	$RES
+*JUL:	vaya , no habeis hecho nada ?
+*JUL:	ni habeis pintado ?
+*JUL:	ni habeis cantado ?
+*JUL:	ni os han conta(d)o cuentos ?
+*JUL:	qué habeis echo entonces (.) nada ?
+*MIG:	nada .
+%spa:	$RES
+*MIG:	no (.) he pinte(d)o los puntitos .
+*JUL:	has pinta(d)o los puntitos .
+%spa:	$REF
+*JUL:	dile a Pauli +//.
+*JUL:	++ me han castigado .
+*MIG:	en una silla .
+*PAU:	y qué has hecho ?
+*PAU:	no lo sabe .
+*MIG:	no (.) he hecho así !
+%spa:	$RES
+*JUL:	por no estarme +//.
+*SER:	hayvá !
+*MIG:	ha hecho esto .
+*SER:	por no estarme +//.
+*MIG:	++ quieto .
+*JUL:	y no obede(cer) +//.
+*SER:	le pongo la cara a quién haga eso !
+*SER:	y <le dejo> [/] le dejo aquí la mano marcá(da) .
+*JUL:	cómo le defiende a su hermano .
+*JUL:	<no pero le defiende muchísimo> [>] .
+*MIG:	cuál [/] cuál [<] [<] cual , a la seño ?
+*SER:	a la seño me dá igual .
+*MIG:	a [/] a la guarderi(a) +/.
+*SER:	me voy contigo [/] me voy contigo .
+%exp:	se refiere a su padre
+*FAT:	no puedes hijo .
+*SER:	jope [>] .
+*MIG:	papa[<] , a donde vas ?
+*FAT:	a hacer un poco el tonto cariño .
+*MIG:	papa , que vas ha hacer ?
+*SER:	pues no eres tonto (.) perdona que te diga .
+*MIG:	pero (.) papa , qué vas <ha hacer> [>] ?
+*FAT:	<el tonto> [<] (.) voy ha hacer el tonto .
+*SER:	pero no eres tonto (.) perdona <que te diga (.) majo> [>] .
+*FAT:	<pero voy a> [<] hacerlo .
+*MIG:	&a &a a_ver qué caramelo ?
+*MIG:	oh (.) mira !
+*MIG:	qué caamelo [*] .
+%err:	caamelo = caramelo $PHO ;
+*MIG:	xxx .
+*MIG:	&caram caramelos mingo .
+*FAT:	bueno (.) me voy (.) <hasta luego> [>] .
+*SER:	<a dónde> [<] ?
+*FAT:	a la casa (d)el conde .
+*FAT:	adios Miguel [/] adios Miguel .
+*MIG:	papa , a donde te vas ?
+*FAT:	a trabajar .
+*MIG:	a [//] y , a la casa del conde ?
+*FAT:	a la casa del conde (.) sí .
+*MIG:	y a [//] a [*] puebo [*] ?
+%err:	a = al $PHO; puebo = pueblo $PHO ;
+*FAT:	al pueblo no hombre !
+*FAT:	cómo voy a ir al pueblo !
+*FAT:	vale !
+*FAT:	te va a portar bien ?
+*FAT:	eh ?
+*MIG:	sí .
+%spa:	$RES
+*MIG:	papa , lo estoy paltiendo [*] .
+%err:	paltiendo partiendo $PHO ;
+*FAT:	lo estás partiendo ?
+*MIG:	sí .
+%spa:	$RES
+*FAT:	hasta que no acabe (.) no para .
+*FAT:	hasta luego !
+*MIG:	papa se ha ido , ves ?
+*SER:	no me [/] no me funciona .
+*MIG:	Pauli ven !
+*MIG:	xxx .
+%com:	se oye música
+*MIG:	chache , qué es ?
+*MIG:	chiquitereté chiquitereté ?
+*SER:	oye (.) que no me funciona (.) la cinta .
+*JUL:	<se cargan mi equipo> [/] se cargan mi equipo .
+*SER:	que no mama xxx .
+%com:	llaman al timbre
+*SER:	chupa !
+*MIG:	papa xxx .
+*SER:	<quién es> [>] ?
+*MIG:	<a lo mejor es> [<] papa .
+*SER:	mama mira .
+*SER:	ésta [//] está (.) ésta , sabes quien la tiene xxx ?
+*SER:	chiquiteretereré pichiquitereteteterá [= ! cantando] .
+*ROS:	ay (.) por qué haces esto ?
+*ROS:	qué tienes que hacer de deberes ?
+*ROS:	terminar esto y hacer esto y nada más .
+*JUL:	hay que hacer los deberes Sergio .
+*SER:	no (.) no quiero , vale ?
+*SER:	no ú no .
+*ROS:	pues lo vas a hacer .
+*ROS:	si no me voy a mi casa .
+*JUL:	no me contestes !
+%add:	SER
+*SER:	es una broma .
+*JUL:	no (.) ya te veo a tí las bromas .
+*MIG:	que vas a hacer ?
+*PAU:	mira (.) ven (.) quiero que me lo cuentes .
+*PAU:	a_ver , quien es este ?
+*PAU:	es yo no lo conozco .
+*MIG:	Loli .
+%spa:	$RES
+*PAU:	quién ?
+*MIG:	Loli .
+%spa:	$RES
+*PAU:	Loli (.) muy bien (.) vamos a_ver otro , vale ?
+*PAU:	a_ver (.) mira .
+*MIG:	el seño .
+*PAU:	con una manguera , qué hace ?
+*MIG:	mojando .
+%spa:	$RES
+*PAU:	va a mojar a la señora .
+*PAU:	quienes son estos ?
+*MIG:	no sé .
+%spa:	$RES
+*PAU:	no sabes (.) el pato Donald .
+*ROS:	el pato +/.
+*MIG:	mira un coche !
+*PAU:	mira un coche (.) rojo .
+%spa:	$REF
+*MIG:	rojo , y este ?
+*PAU:	no sé , quien es ?
+*PAU:	ni idea .
+*MIG:	cartas !
+*PAU:	mira (.) vaya cuantas , eh ?
+*PAU:	de colores (.) ojas y negras .
+*PAU:	a_ver .
+*MIG:	a_ver , esto qué es ?
+*PAU:	pues muchas cartas .
+*MIG:	<pato Donald> [/] <pato Donald> [/] pato Donald .
+*PAU:	uffú cuántos patos Donald !
+*MIG:	pato Donald (.) todos .
+*PAU:	todos (.) mira corazones .
+*MIG:	&cin cintas , y esto ?
+*MIG:	una [/] una agua .
+*PAU:	sí (.) cuantas cosas , eh ?
+*PAU:	mira .
+*MIG:	el pato Donald .
+*MIG:	<el pato> [//] la pata Donald .
+*SER:	videos (.) videos .
+*MIG:	video xxx !
+*MIG:	que hay vidios [*] !
+%err:	vidios = videos $PHO ;
+*PAU:	en donde ?
+%com:	Pauli rie
+*MIG:	xxx .
+*PAU:	nooo !
+*PAU:	te estas comiendo un chicle , eh ?
+*MIG:	nada (.) estoy chupando .
+%spa:	$RES
+*SER:	tengo cintas mejores que esas .
+*MIG:	a_ver .
+*PAU:	tu hermano no se come el chicle ?
+*SER:	no .
+%spa:	$RES
+*PAU:	no puede ?
+*PAU:	es pequeño (.) entonces xxx[>] ?
+*SER:	xxx[<] .
+*SER:	noo !
+*PAU:	me lo como yo .
+*MIG:	no +/.
+*SER:	muerde (.) venga !
+*MIG:	no que la [//] <que me> [/] que me la tago [*] .
+%err:	tago = trago $PHO ;
+*SER:	venga (.) dámelo [/] dámelo [/] dámelo .
+*MIG:	ache [*] me lo tago [*] por aquí y por aquí .
+%err:	ache = chache $PHO ; tago = trago $PHO ;
+*SER:	te ahoga ?
+*MIG:	sí .
+%spa:	$RES
+*SER:	si ?
+*MIG:	ag (.) qué asco tiene un pelo !
+*SER:	me lo como Juanmi ?
+*MIG:	qué asco de pelos !
+*PAU:	ag !
+*SER:	www .
+%com:	hablan todos a la vez y no se entiende
+*PAU:	pero es que no saben quienes son ?
+*MIG:	es que +/.
+*SER:	toma Juanmi , me lo das pá(ra) mi ?
+*MIG:	que me lo tago [*] por aquí <y por aquí> [*] .
+%err:	tago = trago $PHO ;
+*SER:	<están más> [<] buenos .
+*MIG:	me lo tago [*] por aquí y por aquí .
+%err:	tago = trago $PHO ;
+*PAU:	claro porque eres pequeño .
+*SER:	xxx .
+*PAU:	me está enseñando un cuento (.) pero no sale cómo se llama [>] .
+*MIG:	<soy [<] gande [*]> [/] soy gande .
+%err:	gande = grande $PHO ;
+*PAU:	eso (.) eres grande .
+*PAU:	pero yú hermano es más grande .
+*MIG:	pero yo mira .
+*PAU:	a_ver ?
+*MIG:	yo mira .
+*PAU:	fijate qué grande (.) madre mia !
+*SER:	mira que gande [*] soy .
+%err:	gande = grande $PHO ;
+*PAU:	más que yo !
+*MIG:	ache [*] que mira yo soy gande [*] (.) mira (.) mira .
+%err:	ache = chache $PHO ; gande = grande $PHO ;
+*PAU:	pero casi le llegas , a que sí ?
+*MIG:	yo tambien llego [>] .
+*SER:	<pero si me> [<] pongo así ?
+*MIG:	i+i+i+i .
+*SER:	quieres ver la de Aladín ?
+*PAU:	eh ?
+*SER:	quieres ver la de Aladín ?
+*PAU:	ahora no puedo (.) me tengo que ir .
+*SER:	jope !
+*MIG:	xxx Aladín úyo también tengo Aladín .
+*PAU:	eh ?
+*MIG:	y xxx y (.) Bestia .
+*PAU:	a_ver , cuantos tienes ?
+*PAU:	enseñamelos .
+*SER:	el qué ?
+*PAU:	los que tienes (.) los videos .
+*SER:	pues mira (.) esto +//.
+*PAU:	cuál es el de Aladín ?
+*MIG:	mira este (.) esta cinta .
+%spa:	$RES
+*MIG:	esta +/.
+*PAU:	xxx .
+*MIG:	este (.) Celia .
+*SER:	tengo (.) Civer va al oeste .
+*PAU:	cual ?
+*SER:	Civer va al oeste .
+%spa:	$RES
+*PAU:	ah (.) Civer va al oeste ?
+*SER:	del ratón .
+*PAU:	esa no la he visto .
+*MIG:	y dice agua [>] .
+*SER:	<te acuerdas> [<] mama ?
+*MIG:	eh (.) se <pone el otro> [>] +"/.
+*SER:	xxx [<] .
+*MIG:	+" agua (.) agua .
+*PAU:	este es el ratón ?
+*PAU:	y cuál más tienes , a_ver ?
+*JUL:	hay que quitar la <música Sergio> [>] .
+*MIG:	ésta [<] .
+%spa:	$RES
+*MIG:	ésta es Celia .
+*MIG:	ésta es la de Civer va al oeste .
+*SER:	esta es de Civer va al oeste [>] .
+*PAU:	<no me la> [<] que me tengo que ir enseguida .
+*MIG:	mira +/.
+*SER:	es que es muy poco .
+*MIG:	la quieres ver ?
+*PAU:	es que me tengo que ir .
+*MIG:	uhmm !
+*PAU:	ala (.) que <me ha tira(d)o> [>] !
+*MIG:	<la quieres ver> [<] ?
+*PAU:	que me has tira(d)o , qué fuerza !
+*JUL:	xxx .
+*MIG:	ahora te toca .
+*PAU:	el qué ?
+*MIG:	te toca tirarte .
+%spa:	$RES
+*SER:	hasta los sábados !
+*PAU:	que me tiras !
+*MIG:	ota [*] ves [*] .
+%err:	ota = otra $PHO ; ves = vex $PHO ;
+*PAU:	no otra vez no .
+*JUL:	xxx , nina .
+*PAU:	está vacio .
+*MIG:	pero que tiene una [//] pero (.) tiene un bicho .
+*MIG:	mira !
+*PAU:	qué ?
+*PAU:	ala (.) los bolos !
+*MIG:	bian^bian^bia@o !
+*MIG:	que te saco un ojo !
+*JUL:	pero eso no .
+*MIG:	mira qué moto !
+*JUL:	ya se cansa .
+*MIG:	mira que moto .
+*SER:	no te +//.
+*SER:	ésta mola !
+*MIG:	mu(y) bien (.) que voy a coger uno .
+*ROS:	<no vas a coger ninguno> [/] no vas a coger ninguno (.) Miguel .
+*MIG:	pues estos no son tuyos .
+*ROS:	bueno (.) pero son de tu hermano .
+*SER:	Juanmi (.) como si fueran de ella (.) no cojas .
+*ROS:	ya no te voy a pintar más .
+*SER:	por qué ?
+*ROS:	porque me canso .
+*MIG:	si (.) porfi , anda !
+*SER:	tengo que hacer deberes .
+*MIG:	mama , porque me pones ahí la pelota [>] ?
+*SER:	<yo me quiero> [<] subir pá(ra) (a)rriba .
+*SER:	venga (.) cantasela Juanmi !
+*MIG:	mi papá se ha ido allí a &ma a martillar .
+*PAU:	a donde ?
+*MIG:	mira como &matalli (.) mia [*] mi padre martilla .
+%err:	mia = mira $PHO ;
+*PAU:	así ?
+*MIG:	sí .
+%spa:	$RES
+*PAU:	bueno qué (.) ma <cantas la canción o no> [>] ?
+*MIG:	pum+pum [<] .
+*PAU:	venga hombre (.) cantamela !
+*MIG:	es que no +//.
+*SER:	pobrecita !
+*MIG:	<es que> [/] es que ésta <la de> [/] (.) m (.) la de (.) ratón .
+*ROS:	la de +//.
+*ROS:	ven princesa bella .
+*ROS:	venga cantasela [>] .
+*SER:	<ven [<] princesa llevame a donde sueñes> [= ! cantando] .
+*MIG:	mira (.) mira un volante , ahí !
+*PAU:	esto qué es ?
+*MIG:	un volante .
+%spa:	$RES
+*SER:	mama tengo que hacer deberes .
+*SER:	<un mundo ideal> [>] .
+*MIG:	<un mundo ideal que &com> [<] .
+*SER:	<un mundo ideal (.) un mundo en el que tu y yo> [= ! cantando] .
+*SER:	<podamos decidir <cómo vivir>[>]> [= ! cantando] .
+*MIG:	<cómo vivir> [<] [= ! cantando] .
+*SER:	<sin nadie que decida> [= ! cantando] .
+*MIG:	toma .
+*SER:	<un lugar para> [= ! cantando] .
+*MIG:	soñar .
+*SER:	<fabilosa visión> [= ! cantando] .
+*MIG:	ah (.) que no puedo .
+*PAU:	un besito que me voy (.) un besito .
+*MIG:	no te vas (.) boragg [>] !
+*PAU:	<me tengo> [<] [/] me tengo que ir .
+*PAU:	vengo mañana , vale ?
+*MIG:	no (.) dame una galleta .
+%spa:	$RES
+*SER:	hola (.) só (.) probando .
+*MIG:	ponemo algún programa [*] ?
+%err:	pograma = programa $PHO ;
+*MIG:	voy a xxx un pograma [*] .
+%err:	pograma = programa $PHO ;
+*MIG:	voy a poner un pogama [*] .
+%err:	pogama = programa $PHO ;
+*MIG:	<voy a buscarme un progama [*]> [/] voy a buscarme un programa .
+%err:	progama = programa $PHO ;
+*MIG:	así no es (.) que lo rompes !
+*JUL:	ten cuida(d)o con el primo !
+*MIG:	un [/] un pogama [*] voy a buscame [*] un pogama .
+%err:	pogama = programa $PHO ; buscame = buscarme $PHO ;
+*MIG:	www .
+%err:	ininteligible y bullicio .
+*MIG:	le voy a romper (.) cara de xxx .
+*AUN:	y por qué lo vas a romper ?
+*MIG:	a_ver si me da una [//] un pogama [*] .
+%err:	pogama = programa $PHO ;
+%spa:	$RES
+*MIG:	hola !
+*MIG:	aquí , vale ?
+*MIG:	toma , ponelo [*] !
+%err:	ponelo = ponlo $MOR ;
+*MIG:	mia has visto ?
+*MIG:	<lo ha puesto> [/] lo ha puesto ahí .
+*MIG:	no lo metas en la boca .
+*MIG:	eso no (.) eso es caca .
+*MIG:	mama (.) mami .
+*JUL:	qué ?
+*MIG:	que han llama(d)o .
+%spa:	$RES
+*PAU:	qué ?
+*MIG:	que han llama(d)o .
+%spa:	$RES
+*JUL:	que què ha sona(d)o ?
+*MIG:	no que ya [//] que han llama(d)o .
+*SER:	no xxx .
+*JUL:	no he escucha(d)o nada .
+*MIG:	ache [*] han llama(d)o .
+%err:	ache = chache .
+*SER:	ahora sí (.) pero como papá me dice que no abra .
+*SER:	xxx .
+*MIG:	quién es ?
+*MIG:	no hay nadie .
+*JUL:	a_ver , muevete !
+*SER:	no quiero los +//.
+*JUL:	no .
+*SER:	+, bonitos .
+*JUL:	cuál bonitos ?
+*SER:	mira (.) los que llevan las cosas esas por alante [*] .
+%err:	alante = delante $LEX ;
+%spa:	$RES
+*SER:	los grandes esos (.) los estira(d)os .
+*JUL:	sí (.) pero esa +/.
+*SER:	jo (.) <dí que no> [/] dí que no .
+*JUL:	a_ver .
+*MIG:	ala (.) tienes las botazas !
+*SER:	como yo [//] como voy vestido de señor , no ?
+*SER:	no mama ?
+*MIG:	ale (.) el sombrero .
+*SER:	te la canto (.) papa .
+*SER:	a_ver +/.
+*JUL:	ya ha canta(d)o otra +/.
+*SER:	+" <el otoño ha llegado y con el las vaciones> [= ! cantando] .
+*SER:	<ya volvemos al colegio a aprender nuevas canciones> [= ! cantando] .
+*SER:	<y otra vez con mis amigos pintaré muchos dibujos> [= ! cantando] .
+*SER:	<<como soy mucho más grande> [/] (..) como soy mucho más grande> [= ! cantando] .
+*SER:	<yo de clase he cambiado>[= ! cantando] .
+*SER:	<y con señorita nueva el colegio he comenzado> [= ! cantando] .
+*FAT:	muy bien !
+*SER:	mira te (.) la canto .
+*SER:	<el otoño ha llegado y con él las vaciones> [= ! cantando] .
+*SER:	<ya volvemos al colegio a aprender nuevas canciones>[= ! cantando] .
+*SER:	<y otra vez con mis amigos en el patio jugaremos>[= ! cantando] .
+*SER:	<como soy mucho más grande>[= ! cantando] .
+*SER:	eeeh .
+*JUL:	Juanmi (.) cuántas cazadoras tienes aquí , tres [>] ?
+*SER:	<la [<] clase he cambiad> [= ! cantando] .
+*JUL:	xxx cazadora , te guardo alguna ?
+*MIG:	ese tactor [*] es mío xxx [<] .
+%err:	tactor = tractor $PHO ;
+*SER:	<y con señorita [<] nueva> [= ! cantando] .
+*SER:	<el colegio he comenzado> [= ! cantando] .
+*SER:	joer (.) que la tuya es más larga , qué morro !
+*MIG:	xxx cacho .
+*MIG:	ota [*] ves [*] cuentame la del colegio .
+%err:	ota = otra $PHO ; ves = vez $PHO ;
+*SER:	no ya no te la canto porque no me has escucha(d)o .
+*MIG:	<que sí que te escucho> [/] que sí que te escucho .
+*SER:	a_ver cómo es tu ésta .
+*SER:	a_ver (.) que no te la quito .
+*MIG:	ah (.) que me lo quitas (.) ahhh .
+*MIG:	ache [*] cuentamela .
+%err:	ache = chache $PHO ;
+*SER:	ya no te la cuento .
+*MIG:	sí .
+*SER:	no !
+*MIG:	la del colegio .
+*SER:	que no me pegues !
+*MIG:	que sí que te voy a escuchar .
+*MIG:	que sí que te voy a escuchar xxx [>] .
+*SER:	<panda [<] pandita ven a merendar> [= ! cantando] .
+*SER:	<un nuevo guiso para terminar> [= ! cantando] .
+*MIG:	papa (.) que ya me he dormido .
+*FAT:	pues que te duermas y pon la almohada en su sitio .
+*MIG:	<papa ya me he dormido> [/] papa ya me he dormido .
+*MIG:	ya [/] ya me he dormido .
+*FAT:	muy bien .
+*MIG:	ache [*] ya me he dormifdo .
+%err:	ache = chache $PHO ;
+*MIG:	somos piratas garrapatame@c (.) somos &pi +/.
+*SER:	somos piratas garrapatamé@c .
+*MIG:	somos piraras .
+*SER:	garrapatamé@c (.) somos los piratas garrapatamé@c .
+*SER:	somos los piratas garrapatamé@c .
+*SER:	sí (.) somos los piratas más malvados que hay .
+%com:	llaman a la puerta
+*SER:	quién es ?
+*MIG:	el tío Lucio [>] .
+*SER:	hola [<] tío .
+*AUN:	hola (.) , estás ya vestido macho !
+*SER:	muy bien (.) cómo un señorito .
+*MIG:	está fresquito mamá (.) tengo mocos .
+*JUL:	por llorar .
+*MIG:	mama (.) mama .
+*JUL:	sabes por qué tienes mocos ?
+*MIG:	sí .
+%spa:	$RES
+*JUL:	porque lloras y cuando lloras te salen mocos .
+*SER:	mama (.) moco (.) moco (.) moco (.) moco (.) moco barcalero@c .
+*SER:	barcalero@c (.) <chiquitito barcalero> [>] .
+*JUL:	<y dice mi madre> [<] +"/.
+*JUL:	+" anda (.) por qué los invitas ?
+*JUL:	o sea (.) que los invitas tú a comer .
+*JUL:	y quién hace la comida , tú o yo ?
+*SER:	yo .
+*JUL:	<le está mirando papá> [/] le está mirando papá a mamá para que no conteste .
+*JUL:	xxx .
+*JUL:	Sergio (.) vamos !
+*JUL:	el cucu@f (.) ven (.) el cucu@f .
+*MIG:	ya me voy , qué ?
+*MIG:	mama (.) dame la mano (.) má(ma) !
+*JUL:	Sergio !
+*SER:	que qué estoy viendo en la tele ?
+*SER:	un rollazo .
+*SER:	papa , me estiro ?
+*SER:	<fabulosa visión> [= ! cantando] .
+*JUL:	ven !
+*ROS:	Miguel (.) venga !
+*JUL:	Miguel !
+*MIG:	espera (.) espera [>] .
+*JUL:	<princesa [<] (.) cen princesa> [= ! cantando] .
+*SER:	<cosas maravillosas> [= ! cantando] .
+*SER:	xxx [>] .
+*MIG:	un momento [<] (.) aaaah [>] !
+*SER:	<un mundo ideal> [<] [= ! cantando] .
+*SER:	<un mundo ideal (.) un mundo en el que <tú y yo> [>]> [= ! cantando] .
+*MIG:	<tu y yo> [<] [= ! cantando] .
+*SER:	<podamos decidir (.) cómo vivir> [= ! cantando] .
+*SER:	<sin nadie que xxx> [= ! cantando] .
+*SER:	<<un mundo en el> [/] un mundo en el [>]> [= ! cantando] .
+*MIG:	xxx[<] .
+*SER:	<un mundo e el que tú yo podamos decidir> [= ! cantando] .
+*SER:	<cómo vivir (.) sin nadie> [>][= ! cantando] .
+*MIG:	<como vivir (.) sin nadie> [<] [= ! cantando] .
+*SER:	<que lo impida> [= ! cantando] .
+*MIG:	recuperar [= ! cantando] .
+*SER:	ya se ha acaba(d)o , eh ?
+*PAU:	venga (.) canta otra vez .
+*PAU:	yo no lo <he oido> [>] .
+*MIG:	mira [<] [/] , ira (.) el chiqui se ha caga(d)o .
+*SER:	venga (.) cantala Juanmi .
+*MIG:	<el chiqui se ha mea(d)o> [/] el chiqui se ha mea(d)o .
+*MIG:	pos [*] sí (.) <el chiqui se ha mea(d)o> [/] el chiqui se ha mea(d)o .
+%err:	po = pues $PHO ;
+*ROS:	xxx cantale la del tractor amarillo .
+*MIG:	<tengo un tactor [*] amarillo> [= ! cantando] .
+%err:	tactor = tractor $PHO ;
+*SER:	<tengo un tractor amarillo> [= ! cantando] .
+*MIG:	<que <que es lo que se lleva ahora>[>]> [= ! cantando] .
+*SER:	<es lo que se lleva ahora> [= ! cantando] .
+*SER:	<<tengo un tractor amarillo> [>]> [= ! cantando] .
+*MIG:	amarillo [<] .
+*SER:	<<que es de última moda>[>]> [= ! cantando] .
+*MIG:	moda [<] [= ! cantando] .
+*PAU:	qué mas ?
+*MIG:	ache [*] , qué más[>] ?
+%err:	ache = chache $PHO ;
+*SER:	<hay [<] que comprar un tractor> [= ! cantando] .
+*SER:	<ya lo decia mi padre> [= ! cantando] .
+*PAU:	tu no lo sabes Miguel , a que no ?
+*MIG:	pa^papa^pa^pa@o .
+*MIG:	pa^papa^pa^pa@o [>] .
+*SER:	pa^papa^pa^pa@o [<] .
+*SER:	<cuando fuí a (..) a la solo de banderas> [= ! cantando] .
+*ROS:	y la de Macarena , Miguel ?
+*SER:	Macarena tiene un novio que se llama .
+*SER:	que se llama de apellido Vitorino .
+*PAU:	no la sabes Miguel ?
+*ROS:	xxx [>] .
+*MIG:	<que se llama Vitorino> [<] (.) um (.) Vitorino .
+*MIG:	que se llama Vitorino [/] Vitorino [>] .
+*ROS:	<cuál te> [<] sabes , Miguel ?
+*MIG:	hey [>] (.) Macarena (.) ahá !
+*MIG:	aah !
+*SER:	<Macarena tien un novio que se llama> [= ! cantando] .
+*SER:	<que se llama de apellido Vitorino> [= ! cantando] .
+*SER:	<y xxx del muchacho donde vive> [= ! cantando] .
+*SER:	<ella irá contigo> [= ! cantando] .
+*PAU:	Miguel no sabe contar .
+*PAU:	no sabe ninguna canción , mira !
+*PAU:	cuál sabes tú , venga ?
+*MIG:	<panda (.) pandita (.) ven a &mere> [= ! cantando] +/.
+%spa:	$RES
+*SER:	<panda (.) pandita xxx te he preparado <pan y pescado> [>]> [= ! cantando] .
+*MIG:	<pan y pescado> [= ! cantando] .
+*SER:	<y un huevo frito para> [= ! cantando] .
+*PAU:	pero (.) canta !
+*MIG:	<y un huevo frito para>[= ! cantando] +/.
+*SER:	Juanmi (.) que no vuelve a venir , eh ?
+*PAU:	yo me voy .
+*PAU:	porque como no cantas (.) me voy .
+*SER:	venga Miguel xxx [>] .
+*ROS:	xxx [<] .
+*MIG:	estate ahí !
+*MIG:	ponte ahí [/] ahí .
+*ROS:	panda (.) pandita .
+*MIG:	no quiero .
+*ROS:	Miguel (.) Miguel mira .
+*ROS:	panda (.) venga cantala .
+*PAU:	no quieres cantar ?
+*PAU:	pues me voy .
+*MIG:	no !
+*PAU:	venga (.) dejame que me voy .
+*MIG:	no (.) no <no te> [>] .
+*PAU:	sí [<] me tengo que ir .
+*PAU:	porque como no cantas (.) pues !
+*PAU:	no te he oido cantar [>] .
+*MIG:	<panda [<] pandita> [= ! cantando] .
+*PAU:	cantar no cantará pero me está matando [= ! riendo] .
+*SER:	xxx .
+*ROS:	dame la manita .
+*SER:	<panda pandita te he preparado [>]> [= ! cantando] .
+*PAU:	<me voy> [<] .
+*SER:	un pan y <un pescado> [>] .
+*MIG:	<no te vayas> [<] .
+*PAU:	me voy porque no me cantas .
+*MIG:	sí .
+*PAU:	que no .
+*MIG:	si que te canto .
+*PAU:	a_ver (.) quiero <oirlo yo> [>] .
+*MIG:	ahora [<] no te vas .
+*PAU:	si me voy porque no me cantas .
+*PAU:	venga me voy .
+*MIG:	jolín (.) jolín [>] .
+*SER:	ay [<] (.) que me pisas .
+*PAU:	ay (.) perdona !
+*SER:	no (.) que no me pisas .
+*PAU:	pero que me ibas < a pisar> [>] .
+*MIG:	xxx[<] .
+*PAU:	me voy porque como no me cantas (.) me voy .
+*MIG:	que no !
+*SER:	jope (.) que rollo , <cuánto rato te has &echa> [/] cuánto rato <te has &echa>[/] te has queda(d)o ?
+*SER:	que poquito tiempo !
+*PAU:	me voy Miguel .
+*MIG:	una ja@f !
+*PAU:	qué ?
+*MIG:	una ja@f .
+%spa:	$RES
+*PAU:	que sí (.) que me voy .
+*PAU:	porque no me cantas (.) me voy .
+*PAU:	anda (.) adios .
+*MIG:	no te vayas .
+*PAU:	si .
+*MIG:	cochita@f fea !
+*PAU:	adios .
+*SER:	jope (.) no te vayas !
+*MIG:	una ja@f !
+*PAU:	si (.) porque me ibas a cantar la de Aladino .
+*PAU:	y ya no me la cantas .
+*PAU:	yo me voy .
+*SER:	te la canto +/.
+*MIG:	princesa y dejame yadito [?] ya (.) .
+*SER:	<dejame a donde tú> [= ! cantando] .
+*PAU:	no te entiendo con el papel en la boca .
+*SER:	rahgrrrr !
+*MIG:	y [/] y dejame ya !
+*MIG:	yo quiero este coche rojo [>] .
+*PAU:	ah [<] (.) eso no es una canción , eh ?
+*MIG:	que sí .
+*PAU:	no [= ! riendo] .
+*PAU:	es una canción de Aladino eso ?
+*PAU:	que quiere un coche rojo ?
+*SER:	xxx Aladino no tiene un coche rojo .
+*PAU:	por eso (.) eso no vale .
+*MIG:	y un coche amarillo .
+*SER:	es que es más xxx .
+*PAU:	ah !
+*MIG:	y esto .
+*PAU:	a_ver ?
+*MIG:	también tiene esto .
+*SER:	que no viene .
+*MIG:	tiene esto +/.
+*PAU:	quién ?
+*MIG:	yo lo tengo tambien [>] .
+*SER:	<bueno yo> [<] me voy a subir pa(ra) arriba .
+*MIG:	xxx .
+*SER:	me llevo algo para jugar [>] ?
+*PAU:	<yo me> [<] voy .
+*MIG:	el mostuo [*] de las galletas .
+%err:	mostuo = monstruo $PHO ;
+*JUL:	<el monstruo de las galletas> [/] el monstruo de las galletas .
+%spa:	$REF
+*JUL:	así lo llamaba xxx .
+*SER:	hola barrio (.) hola .
+*SER:	vuelve barra sasama con las panatas xxx .
+*MIG:	mama xxx (.) mama , a que así no es ?
+*JUL:	no es , cómo es ?
+*MIG:	hala bario [*] (.) hola bario .
+%err:	bario = barrio $PHO ;
+%spa:	$RES
+*JUL:	hola barrio (.) hola barrio .
+%spa:	$REF
+*SER:	hola barra (.) hola .
+*MIG:	así no gilipollas [>] .
+*JUL:	eh [<] !
+*SER:	gilipollas tú !
+*JUL:	mira qué clarito habla .
+*JUL:	has visto cómo se le entiende todo ?
+*SER:	solo xxx [>] .
+*MIG:	hola gilipollas [<] .
+*JUL:	eso no se (..) dice hombre !
+*JUL:	no (.) que me lo tiras .
+*MIG:	mama (.) he bebi(d)o tes [*] litos [*] .
+%err:	tes = tres $PHO ; litos = litros $PHO ;
+*JUL:	qué ha bebido ?
+*MIG:	<tes litos> [*] .
+%err:	tes litos = tres litros $PHO ;
+%spa:	$RES
+*JUL:	tres litros ?
+*MIG:	mama (.) ya no quiero más .
+*JUL:	has bebido un poquito (.) <nada más> [>] .
+*MIG:	<no quiero> [<] más !
+*JUL:	este poquito sólo [/] sólo .
+*MIG:	el ache [*] se lo ha comido todo [/] todo ?
+%err:	ache = chache $PHO ;
+*JOR:	el chache se lo ha comido todo .
+%spa:	$REF
+*JUL:	eres un marrano (.) eso no se hace hijo !
+*SER:	es que me +//.
+*JUL:	eh (.) bueno .
+*SER:	+, pones mucha agua .
+*SER:	se me escapa , y qué ?
+*SER:	se te ha escapado ?
+*JUL:	pues pide perdón .
+*JUL:	pero no te rías [>] .
+*SER:	<pues no lo> [<] pido .
+*JUL:	pues no te rías (.) eso no se hace así .
+*JUL:	y encima uno se rie .
+*JUL:	eso es una marranada (.) Sergio .
+*SER:	quién me tiene que pedir perdón eres tú !
+*SER:	a mi se me ha escapa(d)o .
+*SER:	y tú me has pega(d)o una bofetada .
+*MIG:	mama (.) a que ya no voy a ir al cole(gio) ?
+*MIG:	mama (.) a que el chache se va a ir en coche ?
+*JUL:	a donde ?
+*MIG:	en coche .
+%spa:	$RES
+*JUL:	a donde se va a ir en coche ?
+*MIG:	en el oto [*] coche .
+%err:	oto = otro $PHO ;
+%spa:	$RES
+*JOR:	ah (.) cuando se va a natación dices ?
+*MIG:	donde tienes el [*] dedos ?
+%err:	el = los $LEX ;
+*JUL:	claro (.) tendo dedos (.) los de los pies .
+*JUL:	me echas para atrás y me los partes .
+*MIG:	y luego xxx [>] .
+*JUL:	<Sergio termina> [<] .
+*MIG:	mama y luego te llevo yo con el coche <depisa (.) depisa> [*] .
+%err:	depisa depisa = deprisa deprisa $PHO ;
+@End

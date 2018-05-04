@@ -1,0 +1,381 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;3.16|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	23-JAN-2001
+@Location:	Madrid
+@Situation:	Por la tarde MOT y Lucía juegan con las pinturas y los cuadernos de colorear
+*MOT:	&=q vas a colorear , Lucía ?
+*CHI:	no .
+*MOT:	&=q este pajarito ?
+*CHI:	no .
+*CHI:	toma .
+*CHI:	tú pinta [*] .
+%err:	pinta = pintas $MOR $LOS $NFL 3s/2s:TU
+%act:	le da una pintura a MOT
+*MOT:	&=q pinto yo ? [+ COR]
+*CHI:	sí .
+%par:	mueve la cabeza ; sí
+*MOT:	< a ver > [/] a ver .
+*MOT:	esta cresta .
+%exp:	cresta = cockscomb
+*CHI:	c(r)e(s)ta . [+ IMI]
+*MOT:	vamos a hacerle la cresta .
+%act:	dibuja mientras Lucía observa
+*CHI:	naranaja no .
+%act:	le quita la pintura de la mano a MOT
+*MOT:	&=q no ?
+*MOT:	a ver .
+*MOT:	&=q de qué color ?
+*MOT:	&=q de qué color pintamos la cresta ?
+*CHI:	este yo .
+%act:	coge dos pinturas
+*CHI:	no .
+*CHI:	este .
+%act:	le da una pintura a MOT
+*MOT:	&=q azul ?
+*CHI:	sí .
+*CHI:	y este no .
+*CHI:	&=q vale ?
+*MOT:	azul .
+*MOT:	la cresta .
+*CHI:	esto .
+%act:	coge otra pintura y se la da a MOT
+*MOT:	&=q este azul ?
+*CHI:	no .
+*CHI:	esta .
+*CHI:	y esta no .
+*CHI:	esta .
+%act:	dandole todo el tiempo pinturas a MOT y quitándoselas de la mano , auqnue al final le da un lapicero
+*MOT:	&=q este ?
+*CHI:	sí .
+*MOT:	con este el pico .
+%exp:	pico = beak
+*MOT:	&=q vale ?
+*CHI:	sí .
+*CHI:	no .
+*CHI:	el pico no .
+%act:	le vuelve a quitar el lápiz a MOT
+*MOT:	el pico .
+*CHI:	el pico no .
+*MOT:	&=q el pico no ?
+*CHI:	no .
+*MOT:	&=q por qué ?
+*CHI:	porque no .
+*MOT:	venga .
+*MOT:	a ver .
+*MOT:	da me un color para pintar el ala .
+*CHI:	no .
+*MOT:	&=q no quieres que lo pintemos el ala ?
+*CHI:	no .
+%par:	susurra
+%act:	aparta la bandeja de las pinturas y señala hacia la cámara
+*CHI:	quero [*] esto .
+*MOT:	a ver .
+*MOT:	pues este .
+%act:	coge un libro de dibujar que había debajo de la cámara
+*CHI:	&=q < a ver a ver > [/] a ver ?
+*MOT:	este .
+*MOT:	&=q a ver este qué tiene ?
+*CHI:	xxx .
+*MOT:	uy@i .
+*MOT:	mira .
+*MOT:	un cerdito sonriente .
+*CHI:	ce(r)dito . [+ IMI]
+*MOT:	&=q cuál quieres que pintemos ?
+*MOT:	&=q la bruja ?
+%exp:	bruja = witch
+*CHI:	sí .
+*CHI:	(l)a b(r)uja . [+ IMI]
+*MOT:	&=q pintamos la bruja ?
+*MOT:	el gorrito así .
+*MOT:	mira .
+*CHI:	sí .
+*MOT:	xxx .
+*CHI:	mira . [+ IMI]
+*CHI:	(l)a [x 2] b(r)uja . [+ IMI]
+*MOT:	la bruja .
+*CHI:	que e(s) mala .
+*MOT:	a ver .
+*MOT:	&=q es mala la bruja ?
+*CHI:	sí .
+*MOT:	&=q por qué ?
+*CHI:	eh@i .
+*CHI:	el gorro 0 [*] blanco white@s .
+%err:	0 = es $SYN $LOS
+%com:	OMITE EL VERBO
+*MOT:	&=q el blanco [//] gorro es blanco white@s ? [+ COR]
+*CHI:	sí .
+*MOT:	ahora ya no .
+%act:	está pintando sobre el libro de dibujos
+*MOT:	&=q ahora de qué color es ?
+*CHI:	ve(r)de green@s .
+*MOT:	claro .
+*CHI:	mira (l)a b(r)uja .
+%act:	señala con el dedo
+*MOT:	&=q qué está haciendo la bruja ?
+*CHI:	cogiendo ere@x [//] e(s)ta [*] .
+%err:	$AUXVALID ; esta = este $MOR $SUB $AGA
+*MOT:	&=q está cogiendo a este ? [+ COR]
+*CHI:	sí .
+*MOT:	&=q le va a coger en su escoba ?
+*CHI:	sí .
+*MOT:	mira su escoba .
+*MOT:	mira .
+*MOT:	esto es una escoba .
+*MOT:	&=q ves ?
+*CHI:	sí .
+*MOT:	para volar .
+*CHI:	sí .
+*CHI:	mira .
+*CHI:	(l)a b(r)uja e(s) mala .
+*CHI:	e(l) [*] dientes .
+%err:	el = los $MOR $SUB $AGA
+*CHI:	mira e(l) [*] dientes .
+%err:	el = los $MOR $SUB $AGA
+*MOT:	sí .
+*MOT:	es verdad .
+*MOT:	los dientes . [+ COR]
+*MOT:	se está riendo .
+*MOT:	ji@o [x 4] .
+*CHI:	no .
+*CHI:	e(s) mala .
+*MOT:	&=q es mala ?
+*MOT:	&=q por qué ?
+*CHI:	coge (l)a mano de e(s)ta .
+*MOT:	&=q qué ?
+*CHI:	0 [*] e(s)te coge .
+%err:	0 = a $SYN $LOS
+*MOT:	&=q está cogiendo a ese ?
+*CHI:	sí .
+*MOT:	&=q y qué va a hacer con él ?
+*CHI:	mira el [*] patitos .
+%err:	el = los $MOR $SUB $AGA
+%act:	señala
+*MOT:	uy@i .
+*MOT:	los patitos . [+ COR]
+*MOT:	&=q pintamos un patito ?
+*CHI:	sí .
+*MOT:	pues venga .
+*MOT:	da me un color .
+*MOT:	a ver .
+*MOT:	toma .
+%act:	le da una pintura a Lucía
+*MOT:	para el patito .
+*CHI:	toma .
+%par:	susurra
+%act:	ha rebuscado entre la bandeja de pinturas y le ha dado una MOT
+*MOT:	&=q este ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*MOT:	uy@i .
+*MOT:	es un color un poco oscuro , Lucía .
+%act:	dibuja mientras Lucía observa atentamente
+*MOT:	el pico .
+*CHI:	mira .
+%act:	le quita la pintura
+*CHI:	e(s)te .
+%act:	empieza a dibujar
+*CHI:	&=q vale ?
+*MOT:	vale .
+*CHI:	bonito .
+*CHI:	&=q vale ?
+%act:	sigue dibujando
+*MOT:	vale .
+*CHI:	e(s)te e(s) mu(y) o(s)curo .
+%act:	lo deja en la bandeja
+*MOT:	muy oscuro .
+*MOT:	sí .
+*CHI:	sí .
+*MOT:	coge uno más clarito a ver .
+*CHI:	e(s)te .
+%act:	ha cogido otra pintura
+*CHI:	xxx .
+%act:	empieza a dibujar
+*MOT:	&=q este ?
+*MOT:	vale .
+*MOT:	a ver .
+*MOT:	&=q el pico ?
+*MOT:	&=q el pico rosa ?
+*CHI:	no , este .
+*MOT:	ese es el pico del pato .
+%exp:	pato = duck
+*CHI:	0 .
+%act:	hace garabatos bruscos
+*MOT:	uy@i .
+*MOT:	uy@i .
+*MOT:	cuánto estás pintando .
+*MOT:	ay@i .
+*MOT:	en el libro no , Lu .
+*CHI:	0 .
+%act:	tira la pintura en la bandeja
+*MOT:	a ver .
+*MOT:	vamos a pintar: el cerdito .
+*MOT:	&=q de qué color es el cerdito ?
+*CHI:	b(l)anco white@s .
+%act:	coge una pintura de color rosa
+*MOT:	no .
+*MOT:	&=q cuál es este ?
+*CHI:	rosa pink@s .
+*MOT:	claro .
+@Situation:	Por la tarde MOT y Lucía juegan con las pinturas y los cuadernos de colorear
+*MOT:	el cerdito siempre es rosa .
+*MOT:	&=q a que sí ?
+*MOT:	&=q eh@i ?
+*MOT:	tiene las patitas rosas .
+*MOT:	tiene el rabito .
+*MOT:	míra lo .
+*MOT:	mira el rabito .
+*MOT:	la colita .
+*MOT:	la colita rosa .
+*MOT:	&=q ya ?
+*CHI:	y la b(r)uja .
+*MOT:	la bruja mala .
+*MOT:	vamos a pintar las botas rosas .
+*MOT:	mira .
+*MOT:	rosas las tiene .
+*MOT:	y esta también .
+*MOT:	&=q y esto sabes lo que es ?
+*CHI:	sí .
+*MOT:	&=q qué es ?
+*CHI:	0 .
+%act:	no dice nada y mira a MOT
+*MOT:	un es::pan::ta::pá::ja::ros .
+*MOT:	&=q eh@i ?
+*CHI:	sí .
+*MOT:	espantapájaros .
+*CHI:	sí .
+*MOT:	&=q qué mas hay en este libro ?
+%act:	pasa de página
+*MOT:	anda .
+*MOT:	&=e qué divertido !
+*MOT:	qué divertido .
+%par:	bostezando
+*MOT:	&=q esto sabes cómo se juega , Lucía ?
+*CHI:	sí .
+*MOT:	&=q cómo ?
+*MOT:	hay que unir los números .
+*MOT:	mira .
+*MOT:	el uno con el dos: .
+%act:	dibuja .
+*MOT:	el dos con el tres: .
+*MOT:	el tres con el cuatro .
+*MOT:	el cuatro con el cinco .
+*MOT:	el cinco con el seis .
+*MOT:	el seis con el siete con el ocho y con el nueve .
+*MOT:	con el diez .
+*MOT:	con el once .
+*MOT:	el doce .
+*MOT:	el trece .
+*MOT:	el catorce .
+*MOT:	el quince .
+*MOT:	dieciséis diecisiete dieciocho diecinueve .
+*CHI:	ya .
+%par:	contenta
+*MOT:	&=q qué es ?
+*CHI:	una rana .
+*MOT:	&=e un caracol !
+*CHI:	sí .
+*CHI:	un caracol .
+*CHI:	+" caracol col@x [x 2] .
+*CHI:	+" xxx al sol . [+ NON]
+*MOT:	+" que tu padre y tu madre ya lo sacó .
+*CHI:	mira .
+%act:	se pone de pie sobre la silla .
+*MOT:	no .
+*MOT:	de pie no , Lu .
+*MOT:	muy mal .
+*CHI:	0 .
+%act:	se deja caer sobre la mesa
+*MOT:	muy mal .
+*CHI:	xxx .
+%act:	se braza al cuello de MOT
+*MOT:	no .
+*MOT:	así no juego yo .
+*MOT:	no juego , Lucía .
+%act:	la aparta un poco
+*MOT:	vale .
+*MOT:	así , sí .
+*CHI:	a ve(r) .
+*MOT:	uy@i .
+*MOT:	pupa .
+*CHI:	no .
+*MOT:	ay@i .
+*MOT:	pupa .
+*MOT:	&=q < que había en la > [//] qué has hecho en la guarde@c , Lucía ?
+*MOT:	&=q has jugado ?
+*CHI:	no .
+*MOT:	&=q con qué nenes había ?
+*CHI:	no .
+*MOT:	&=q no había nenes hoy ?
+*CHI:	no .
+*MOT:	&=q has hecho caca ?
+*MOT:	&=q eh@i ?
+*CHI:	no .
+*MOT:	no has hecho caca en el cole .
+*CHI:	no .
+%act:	se abraza otra vez a MOT y la besa
+*MOT:	hola , cielo .
+*CHI:	0 .
+%act:	se pone de pie sobre la sila
+*MOT:	no .
+*MOT:	así no juego .
+*MOT:	no hay que poner se de pie en los bancos .
+%exp:	la silla en realidad es un banquito de los que se venden en Ikea , que también sirven para meter cosas ; banco = bench
+*MOT:	así que yo así no juego a nada .
+*CHI:	0 .
+%act:	se pone un momento de rodillas sobre la silla
+*MOT:	así sí .
+*CHI:	0 .
+%act:	se levanta , se vuelve a arrodillar y se acerca a la pantallita de la cámara para mirarse en ella
+*CHI:	b(r)uja .
+*MOT:	no .
+*MOT:	no toques , Lucía .
+*MOT:	no toques ahí .
+*CHI:	0 .
+%act:	coloca el dedo en el objetivo de la cámara
+*MOT:	no toques ahí te digo , hombre .
+*MOT:	Lucía .
+%act:	coge a Lucía en brazos y la aparta de la cámara
+*CHI:	mira .
+%act:	se ha quitado una zapatilla y la ha colocado sobre la mesa
+*CHI:	mira .
+*CHI:	mira .
+*MOT:	&=q qué ha pasado ?
+*MOT:	mm@i .
+%par:	interrogando
+*MOT:	&=q qué ha pasado , Lucía ?
+*CHI:	mira .
+*CHI:	mira .
+%act:	da un golpe con la zapatilla sobre la mesa
+*MOT:	&=q qué ha pasado ?
+*CHI:	mira .
+%act:	vuelve a dar otro golpe ccon la zapatilla sobre la mesa
+*MOT:	&=q qué es eso ?
+*CHI:	mira .
+*MOT:	&=q qué es ?
+*MOT:	&=q te la has quitado tú ?
+@Situation:	1 Por la tarde MOT y Lucía juegan con las pinturas
+*CHI:	hala@i .
+%act:	golpea a MOT con la zapatilla
+*MOT:	no [x 2] .
+*MOT:	golpes no , Lucía .
+*CHI:	0 .
+%act:	deja caer la zapatilla sobre el suelo y se baja a por ella
+*CHI:	&=q xxx ayudas ? [+ NON]
+*MOT:	&=q qué ?
+*CHI:	&=q me ayudas [?] ? [+ NON]
+*MOT:	sí .
+*CHI:	ay@i .
+%act:	le da la zapatilla a MOT
+*MOT:	a ver .
+*MOT:	siénta te .
+*CHI:	0 .
+%act:	se sienta sobre la silla
+*MOT:	ya estás .
+*CHI:	e(s)to .
+%act:	se había metido debajo de la mesa y ha subido con el teléfono de juguete en la mano
+@End

@@ -1,0 +1,931 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , MOT Madre Mother , FAT Padre Father
+@ID:	spa , eng|OreaPine|CHI|2;6.22|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	29-APR-2001
+@Location:	Madrid
+@Situation:	1 FAT y MOT están desayunando , y Lucía les acompaña
+@Time Start:	09:00
+@Situation:	1
+*MOT:	a ver , Lucía .
+*CHI:	yo no puedo .
+*MOT:	a ver .
+%act:	intenta acercar a la mesa la silla en la que está sentada Lucía la mesa
+*MOT:	que te acerque Papá si no .
+*FAT:	&=q ahí ?
+%act:	le acerca la sill a la mesa con el pie
+*CHI:	&=q ahí [x 3] ? [+ IMI]
+%act:	da golpes con las manos sobre un libro que tiene abierto en la mesa
+*MOT:	la +...
+%act:	señala con el dedo sobre el libro que va leyendo de aquí en adelante
+*CHI:	sira@x sirafa [: jirafa] .
+%com:	nombre del personaje del libro
+*MOT:	Rafa .
+*MOT:	y el +...
+*CHI:	0 .
+%act:	mueve la boca sin hablar
+*MOT:	elefante gigante .
+*MOT:	son buenos amigos +...
+*MOT:	del +...
+*CHI:	0 .
+%par:	tose
+*MOT:	0 .
+%act:	desenvuelve algo
+*CHI:	quero [*] de +...
+%err:	quero = quiero $MOR $LOS $REG
+*CHI:	a ver si me gu(s)ta .
+*CHI:	&=q vale ?
+*MOT:	me parece que no .
+*CHI:	sí .
+*CHI:	a ver si me gu(s)ta .
+*CHI:	&=q vale ?
+*FAT:	&=q cómo se llama ese ?
+*MOT:	&=q cuál es ?
+*CHI:	brie .
+*MOT:	sí .
+*CHI:	es brie: .
+%par:	contenta
+*FAT:	es queso brie . [+ COR]
+*CHI:	el tuyo no e(s) brie: .
+*FAT:	&=q el mío cómo es ?
+*CHI:	camabé [: Camembert] .
+*FAT:	no .
+*MOT:	no: .
+*FAT:	es manchego .
+*CHI:	manchego . [+ IMI]
+*FAT:	va a ser un poco frío este día .
+%add:	MOT
+*FAT:	&=q no ?
+%add:	MOT
+*FAT:	&=q ponemos la cale ?
+%add:	MOT
+*MOT:	mejor sí .
+*MOT:	aunque hoy andamos un poco justos .
+*MOT:	estamos a diez+y+ocho .
+*CHI:	&=e un cocod(r)ilo !
+*FAT:	&=q cómo se llama ?
+*FAT:	el cocodrilo .
+*FAT:	Cirilo .
+*CHI:	eh@i .
+%par:	contenta
+*FAT:	es el nombre de ese cocodrilo .
+*CHI:	sí: .
+*CHI:	uh@i .
+*CHI:	li@i [x 10] .
+%par:	canturrea
+*CHI:	mira .
+%act:	señala en el libro
+*CHI:	saca (l)a uenga [: lengua] .
+*MOT:	la lengua . [+ COR]
+*CHI:	mira .
+%par:	se ríe
+*CHI:	&=q seguimos por aquí ?
+%act:	pasa de hoja
+*FAT:	eso xxx algún@x [//] algunas palabras &=q eh@i ? [+ NON]
+%add:	MOT
+*MOT:	&=q sí ?
+*CHI:	&=q seguimos aquí ?
+%act:	golpea un vaso con el brazo
+*FAT:	uy@i .
+*FAT:	el vaso .
+*FAT:	el vaso .
+*FAT:	&=q qué era ayer ?
+%add:	MOT
+*CHI:	< siga por a@x > [//] &=q sigamos [*] aquí ?
+%err:	sigamos = seguimos $MOR $SUB $NFL PRESUB1p/1p
+*FAT:	los lunares del cuerpo los llamaba nulares@c .
+%add:	MOT
+*MOT:	0 .
+%par:	se ríe
+*CHI:	< a po@x > [//] a ver , Papá .
+*CHI:	&=e sigue aquí !
+%act:	sigue dando golpes con la mano sobre el cuento
+*FAT:	www .
+%add:	MOT .
+*CHI:	conta [*] .
+%err:	conta = cuenta $MOR $SUB $REG
+%com:	GEM
+*CHI:	xxx .
+*CHI:	conta [x 2] [*] y conta .
+*MOT:	una .
+%exp:	contar means count (numbers) or tell (a story)
+*CHI:	dos .
+*FAT:	no es “conta@c” .
+*FAT:	es cuenta@q . [+ COR]
+*CHI:	cuenta: .
+*FAT:	eso es .
+*FAT:	cuenta un cuento . [+ COR]
+*CHI:	no .
+*FAT:	mm@i .
+%par:	afirma
+*FAT:	yo cuento un cuento . [+ COR]
+*FAT:	Mamá cuenta un cuento . [+ COR]
+*CHI:	0 .
+%par:	se ríe
+*CHI:	Mamá .
+*FAT:	pero voy a contar lo .
+*FAT:	&=q vale ?
+*CHI:	vale .
+*FAT:	a ver .
+*FAT:	cuando sale él +...
+%act:	señala sobre el libro
+*CHI:	++ sol .
+*FAT:	van al +...
+*CHI:	cocod(r)ilo .
+%par:	susurra
+*FAT:	a bañar se .
+*FAT:	y ahí se encuentran al +...
+*CHI:	cocod(r)ilo .
+%par:	susurra
+*FAT:	&=q al +..?
+*CHI:	++ cocod(r)ilo .
+*FAT:	que ya .
+*FAT:	pero ya lo he pasado .
+*FAT:	&=q y al +..?
+*MOT:	al pato .
+%par:	susurrando
+*CHI:	al pato .
+%par:	susurrando
+*FAT:	sí: .
+*FAT:	un día andando por el +...
+*CHI:	pato .
+%par:	susurra
+*FAT:	Lucía .
+*FAT:	o lo dices alto (.) o no seguimos .
+*MOT:	tienes que hablar alto .
+*CHI:	vale .
+*FAT:	&=q vamos a ver a Lolita hoy ?
+*FAT:	&=q quieres ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*MOT:	anda .
+*MOT:	se me había olvidado .
+*MOT:	es verdad .
+*FAT:	&=q y a qué vamos a jugar ?
+*FAT:	&=q le vas a enseñar cómo montas ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*MOT:	&=q en triciclo ?
+*MOT:	ah@i .
+*MOT:	también triciclo lo dice muy divertido .
+%add:	FAT
+*FAT:	sí .
+*FAT:	&=q le vas a enseñar ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*FAT:	&=q el qué le vas a enseñar ?
+*CHI:	ih@i .
+*FAT:	&=q eh@i ?
+@Situation:	1 FAT y MOT están desayunando , y Lucía les acompaña
+@Time Start:	09:00
+@Situation:	1
+*CHI:	a montar .
+%par:	susurrando
+*MOT:	&=q en qué ?
+*FAT:	&=q en dónde ?
+*MOT:	&=q a montar en +..?
+*CHI:	++ eclito [: triciclo] .
+*MOT:	0 .
+%par:	se ríe
+*MOT:	dice como ciclito@c o algo así .
+%add:	FAT
+*FAT:	cicli@x [//] ciclito@c .
+*CHI:	bici .
+%exp:	bici = bicicle
+*MOT:	bici .
+*MOT:	sí .
+*MOT:	eso es más fácil .
+*MOT:	&=q pero sabes qué pasa , Lucía ?
+*MOT:	que las bicis tienen dos ruedas .
+*FAT:	bi::ci .
+*FAT:	bicicleta .
+*FAT:	son dos ruedas .
+*MOT:	tiene dos ruedas .
+*FAT:	tri::ciclo (.) son tres .
+*CHI:	0 .
+%par:	se ríe
+*FAT:	tri::ciclo .
+*FAT:	bi::ciclo .
+*FAT:	&=q has visto ?
+*FAT:	es muy sencillo .
+*FAT:	es muy sencillo todo , hija .
+*CHI:	xxx elelé@x . [+ NON]
+%exp:	está diciendo cosas sin significado
+*FAT:	&=q el qué: ?
+*CHI:	elelelelé@x .
+%exp:	está diciendo cosas sin significado
+*MOT:	es una tramposa .
+%par:	riéndose
+*MOT:	no dice nada .
+*FAT:	&=q no estás diciendo nada ?
+*CHI:	oh@i .
+*CHI:	mira .
+%act:	se ha quitado la zapatilla
+*FAT:	eso no me gusta , Lucía .
+*FAT:	ya lo sabes .
+*CHI:	xxx .
+%par:	susurra
+*FAT:	eso no me gusta .
+*CHI:	mira .
+%act:	levanta la zapatilla y se la enseña a MOT
+*MOT:	muy mal .
+*CHI:	ay@i .
+%par:	muy contenta
+*CHI:	tililititi@o .
+%par:	canturrea
+*CHI:	titi@o .
+%par:	canturrea
+*CHI:	ahora xxx . [+ NON]
+*CHI:	&=q vale ?
+*CHI:	ayuda .
+%act:	se acerca hacia FAT
+*FAT:	no te voy a ayudar hasta que no te pongas la zapatilla .
+*CHI:	oh@i .
+%act:	se baja de la silla
+*CHI:	ay@i .
+*CHI:	ih@i .
+*FAT:	&=q entonces tú crees que los xxx que he comprado no van a funcionar ? [+ NON]
+%add:	MOT
+*MOT:	sí .
+%add:	FAT
+*CHI:	no puedo .
+%act:	se está intentando poner al zapatilla en el suelo
+*CHI:	ya .
+*FAT:	venga .
+*FAT:	levanta .
+*FAT:	no .
+*FAT:	< pon la bien > [/] pon la bien .
+*FAT:	pon bien la tirita , Lucía .
+*FAT:	mejor .
+*CHI:	&=q así ?
+*FAT:	un poquito mejor .
+*FAT:	más fuerte .
+*FAT:	venga .
+*FAT:	< más fuerte > [/] más fuerte .
+*FAT:	bien: .
+*CHI:	ahora ot(r)a .
+*FAT:	no .
+*FAT:	esa ya está bien .
+*CHI:	no .
+*CHI:	espera .
+*CHI:	&=q así ?
+*FAT:	muy bien , Lucía .
+*CHI:	uh@i [x 2] .
+*MOT:	va a pesar un mogollón , &=q eh@i ?
+%add:	FAT
+%exp:	un mogollón = a lot (slang)
+*FAT:	&=q la niña ?
+%add:	MOT
+*MOT:	la [x 2] chimenea .
+%add:	FAT
+*FAT:	ya .
+%add:	MOT
+*MOT:	pero un mogollón .
+%add:	FAT
+*FAT:	sí [x 2] .
+%add:	MOT
+*FAT:	no .
+%add:	MOT
+*FAT:	si no va a ser nada fácil (.) montar la ahí encima .
+%add:	MOT
+*CHI:	0 .
+%act:	está mirando antentamente lo que dice MOT
+*MOT:	y además va a haber que sacar la por la ventana porque tampoco creo que quepa por la puerta .
+%add:	FAT
+*MOT:	&=q o sí ?
+%add:	FAT
+*FAT:	no fastidies .
+%add:	MOT
+*MOT:	ah@i sí .
+%add:	FAT
+*MOT:	sí que cabe .
+%add:	FAT
+*FAT:	sí .
+%add:	MOT
+*FAT:	entró , &=q no ?
+%add:	MOT
+*FAT:	ah@i no [x 3] .
+%add:	MOT
+*FAT:	entró por el agujero .
+%add:	MOT
+*MOT:	entró por el agujero .
+%add:	FAT
+*MOT:	&=q verdad ?
+%add:	FAT
+*FAT:	sí pero hay que ver si xxx +... [+ NON]
+%add:	MOT
+*CHI:	sí ent(r)a .
+*CHI:	ab@x [//] entró por el abujero [: agujero] . [+ IMI]
+*FAT:	por el agujero . [+ COR]
+*CHI:	&=e abujero [: agujero] !
+*FAT:	que no , hombre .
+*FAT:	que no .
+*FAT:	que no es con b@l .
+*MOT:	no es lo mismo decir abujero@c .
+*MOT:	no .
+*MOT:	aguje@x .
+*MOT:	todos los niños dicen abujero &=q eh ?
+*FAT:	mm@i .
+%par:	interrogativo
+*CHI:	abujero [: agujero] .
+*FAT:	y no sólo los niños .
+%add:	MOT
+*MOT:	&=q quién ?
+%add:	FAT
+*FAT:	hay gente que también dice abujero@c .
+%add:	MOT
+*FAT:	+" el bujero ese .
+%exp:	imita una variación dialectal
+*FAT:	les es más fácil .
+%add:	MOT
+*MOT:	como furgoneta .
+%add:	FAT
+*MOT:	en vez de furgoneta .
+*CHI:	0 .
+%act:	observa atentamente la conversación
+*FAT:	sí .
+%add:	MOT
+*FAT:	como crocreta@c .
+%add:	MOT
+*CHI:	0 .
+%par:	se ríe
+*MOT:	o calcamanía@c .
+*FAT:	no .
+%add:	MOT
+*FAT:	&=q qué más cosas hay así típicas ?
+%add:	MOT
+*MOT:	cocreta@c .
+%add:	FAT
+*CHI:	coc(r)eta@c . [+ IMI]
+*MOT:	no , croqueta . [+ COR]
+*CHI:	coc(r)eta@c . [+ IMI]
+%par:	susurra
+*CHI:	cocreta@c . [+ IMI]
+*CHI:	co@x [//] .
+*CHI:	&=q me ayudas ?
+%act:	esta de rodillas en la silla y estira el brazo hacia FAT
+*MOT:	cera@c (.) en vez de acera .
+*CHI:	&=q me ayudas ?
+*MOT:	iba por la cera@c .
+*FAT:	&=q sí ?
+%add:	MOT
+%act:	ayuda a Lucía a bajar de la silla
+%par:	se ríe
+*MOT:	con quién se junta .
+%par:	se ríe también
+*CHI:	cumpleaños feliz .
+%par:	canta
+*CHI:	cump@x +...
+%par:	canta
+*MOT:	no .
+*MOT:	tú esto no lo toques , cielo .
+*MOT:	esto es pupa , &=q eh@i ?
+%exp:	pupa = shore
+*CHI:	ah@i ni@x [x 4] .
+%act:	intenta coger algo que hay sobe la mesa
+%par:	canturrea
+*MOT:	pupa [x 2] , cielo .
+*MOT:	no .
+*MOT:	de verdad .
+*CHI:	putu@x [x 5] .
+%par:	canturrea
+*CHI:	la@x [x 3] .
+%par:	canturrea
+*CHI:	nananani .
+%par:	canturrea
+*CHI:	la@x [x 3] .
+%par:	canturrea
+*CHI:	toma .
+*FAT:	no .
+*FAT:	no lo quiero .
+*FAT:	Lucía .
+*FAT:	&=q hacemos una cosa ?
+*FAT:	llevas esto a la pila .
+*CHI:	no .
+*FAT:	bueno .
+@Situation:	1 FAT y MOT están desayunando , y Lucía les acompaña
+@Time Start:	09:00
+@Situation:	1
+*FAT:	&=q quieres seguir leyendo tu cuento ?
+*FAT:	&=q o no ?
+*CHI:	no .
+*MOT:	&=e qué desayuno nos hemos pegado !
+%add:	FAT
+*FAT:	jo@i .
+*FAT:	yo estoy lleno .
+%add:	MOT
+*MOT:	dios+mio+de+mi+vida .
+%add:	FAT
+*MOT:	qué guay .
+%add:	FAT
+%exp:	guay = good (children slang)
+*CHI:	qué guay . [+ IMI]
+*CHI:	cumpleaños fe@x [//] .
+%par:	canta
+*CHI:	yo no veo .
+*FAT:	&=q el qué ?
+%act:	ha movido la cámara para que Lucía apareciera en la imagen
+*CHI:	ah@i .
+*CHI:	e(s)to .
+%act:	coloca un globo alarcado con el que está jugando contra el objetivo de la cámara
+*CHI:	e(s)to .
+*CHI:	yo no veo .
+*FAT:	&=q el qué ?
+*CHI:	yo no veo .
+%act:	se mueve a otro extremo de la mesa mientras FAT gira la cámara para que no perderla del encuadre
+%par:	se está riendo
+*CHI:	ay@i .
+%act:	corre de un lado a otro de la mesa intentando que FAT no logre encuadrarla
+*MOT:	uy@i Father .
+%add:	FAT
+*MOT:	qué mareo va a ser eso .
+%add:	FAT
+*MOT:	&=q has terminado de montar en el triciclo ?
+*MOT:	sí , &=q no ?
+%com:	hay un corte
+*MOT:	los cocodrilos no son rojo red .
+*CHI:	es [*] verde green .
+%err:	es = son $MOR $SUB $NFL 3s/3p
+*MOT:	sí .
+*CHI:	&=q a casa de su mamá ?
+*CHI:	y < de su abu(e)lita > [//] de su abu(e)lita .
+*MOT:	&=q iba a casa de su abuelita ?
+*CHI:	sí .
+*CHI:	a casa de (su) abu(e)lita . [+ IMI]
+*CHI:	ih@i .
+%act:	está jugando en el suelo
+*MOT:	bueno , < el día > [//] el día de la boda puede ser una incertidumbre , eh@i .
+%add:	FAT
+*CHI:	xxx .
+*FAT:	ah@i del tiempo .
+%add:	MOT
+*MOT:	www .
+*CHI:	e(s)to es rojo red .
+*CHI:	e(s)to es rojo red .
+*CHI:	sí .
+*CHI:	y e(s)to no .
+*MOT:	no .
+*CHI:	uau@i .
+*CHI:	qué caballo .
+*CHI:	ti [x 10] .
+%par:	canturrea
+%com:	hay un corte
+*CHI:	Papá .
+*CHI:	toma .
+%act:	coge una mucñeca pra dársela a FAT
+*FAT:	&=q a quién ?
+*FAT:	&=q a quién ?
+*CHI:	ahí está .
+*CHI:	cóge la .
+*FAT:	&=q la ponemos aquí a desayunar ?
+*FAT:	a ver .
+*FAT:	da le de desayunar tú .
+*FAT:	corre .
+*CHI:	no .
+*CHI:	se va a [//] a xxx < abu@x abu@x> [//] Abus@f . [+ NON]
+*MOT:	&=q se va a ver a los Abus@f ?
+*CHI:	sí .
+*CHI:	< e(s)ta es la Abus@f a Lola > [*] .
+%err:	$SYN $SUB
+*CHI:	toma .
+%act:	le da otra muñeca a FAT
+*FAT:	&=q quién es esta ?
+%par:	riéndose
+*CHI:	Lola .
+*FAT:	no .
+*FAT:	esta no es Lola .
+*FAT:	este es Carlos .
+*FAT:	&=q éste es Carlos ?
+*FAT:	&=q o quién es ?
+*CHI:	Lola .
+*FAT:	&=q ponemos aquí a Carlos a desayunar ?
+%act:	lo coloca sobre la mesa
+*CHI:	sí .
+*CHI:	aquí cabe .
+%act:	se ha agachado y está mirando dentro de un cochecito de niños de juguete
+*FAT:	&=q quién ?
+*CHI:	Carlos .
+*FAT:	venga .
+*FAT:	&=q le ponemos ahí ?
+*CHI:	sí .
+*CHI:	venga .
+*FAT:	cánta les algo .
+*FAT:	corre .
+*CHI:	cumpleaños feliz .
+%par:	canta
+*FAT:	no .
+%par:	riéndose
+*MOT:	ja@i [x 3] .
+%par:	se ríe
+*CHI:	te deseamos to@x +...
+%par:	también se ríe
+*FAT:	no .
+%par:	riéndose
+*FAT:	ya vale .
+*FAT:	esa no .
+*FAT:	esa no vale , Lucía .
+*FAT:	eso no es una canción .
+*MOT:	jo@i que no .
+*MOT:	claro que es una canción .
+*MOT:	&=q verdad ?
+*CHI:	cumpleaños feliz .
+%par:	canta
+*MOT:	&=q es el cumpleaños de Carlos ?
+*CHI:	sí .
+*MOT:	&=q cuántos cumple ?
+*CHI:	dos .
+%act:	muestra la edad con los dedos
+*MOT:	&=q dos ?
+*FAT:	&=q y qué le vas a regalar ?
+*CHI:	un regalo .
+*FAT:	a ver .
+*FAT:	&=q cómo es el regalo ?
+*CHI:	cumpleaños feliz .
+%par:	canta
+*MOT:	&=q pero por qué te da tanta rabia ?
+%add:	FAT
+%par:	riéndose
+*CHI:	cóge la , Mamá .
+*CHI:	cóge la .
+*MOT:	&=q a quién ?
+*CHI:	aquí .
+*CHI:	ay@i .
+*CHI:	aquí está .
+%act:	le da un muñeco a MOT
+*CHI:	toma .
+%act:	le da otro muñeco a FAT
+*FAT:	&=q yo cojo a Carlos ?
+*FAT:	&=q o le ponemos aquí a desayunar ?
+*CHI:	vale .
+*FAT:	ay@i Lucía .
+*FAT:	&=q < le cuentas > [//] le [//] le cuentas tú el cuento (.) a Carlos ?
+*CHI:	sí .
+*FAT:	venga .
+*FAT:	corre .
+*FAT:	súbe te y se lo contamos .
+*FAT:	&=q vale ?
+*CHI:	yo no cabo [*] .
+%err:	cabo = quepo $MOR $SUB $REG
+%act:	se está intentando subir a una silla , pero no se llega a subir
+*MOT:	yo no quepo . [+ COR]
+%com:	GEM
+*CHI:	toma .
+%act:	le da un muñeco a FAT
+*FAT:	venga .
+*CHI:	a ver .
+*CHI:	su car(r)ito .
+*CHI:	su car(r)ito .
+*CHI:	xxx .
+*CHI:	&=q vale ?
+%act:	coge el cochecito del niño y lo acerca a la mesa donde están MOT y FAT
+*CHI:	sentada .
+*FAT:	&=q aquí ?
+*FAT:	venga .
+*FAT:	pero vamos a contar le el cuento .
+*FAT:	&=q vale ?
+*CHI:	vale .
+*FAT:	venga .
+@Situation:	1 FAT y MOT están desayunando , y Lucía les acompaña
+@Time Start:	09:00
+@Situation:	1
+*CHI:	cóge la .
+*CHI:	aupa .
+%act:	está de pie sobre la silla .
+*FAT:	aupa .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*FAT:	ahora aquí .
+*FAT:	venga .
+*FAT:	cuénta le el cuento .
+*CHI:	y aupa .
+*FAT:	venga .
+*FAT:	a ver cómo se lo cuentas , Lucía .
+*FAT:	&=q eh@i ?
+*CHI:	tú .
+*FAT:	no: .
+*FAT:	tú a ella .
+*CHI:	ay@i .
+%act:	intenta hacer algo con el muñeco
+*CHI:	ay@i .
+*CHI:	yo no puedo .
+*CHI:	toma .
+%act:	le da la muñeca a FAT
+*MOT:	&=q qué quieres ?
+*MOT:	&=q subir le los brazos ?
+*CHI:	sí .
+%par:	susurra
+*FAT:	así .
+*FAT:	&=q vale ?
+*FAT:	toma .
+*CHI:	no .
+*CHI:	má(s) alta .
+*MOT:	es+que los tienen cortitos los niños .
+*CHI:	así .
+%act:	le ha movido los brazos al muñeco
+*CHI:	asi .
+*CHI:	&=q vale ?
+*FAT:	vale .
+*CHI:	asi .
+*CHI:	&=q vale ?
+*CHI:	asi .
+*CHI:	asi .
+%par:	susurra
+%act:	se intenta bajar de la silla
+*FAT:	no , Lucía .
+*FAT:	pero es para contar le el cuento .
+*FAT:	venga .
+*FAT:	cuénta selo .
+*CHI:	toma .
+*CHI:	xxx .
+%act:	le da el muñeco a MOT
+*MOT:	oye .
+*MOT:	&=q todos ?
+*CHI:	de pie .
+%act:	ha colocado el muñeco sobre la mesa , cerca de MOT
+*CHI:	a ver si se te@x [//] senta [*] .
+%err:	senta = sienta $MOR $LOS $REG
+*MOT:	claro que se sienta .
+*CHI:	aquí se sienta .
+%act:	coge el muñeco y lo coloca a su lado
+*CHI:	conmigo .
+*CHI:	&=q vale ?
+*MOT:	vale .
+*CHI:	no .
+*CHI:	aquí .
+%act:	lo vuelve a colocar sobre la mesa
+*CHI:	aquí xxx .
+*MOT:	es+que este muñeco es de unas tiendas que hay que se llaman así o algo así .
+*MOT:	unas que son llenas de xxx .
+*MOT:	&=q sabes cuáles ?
+*CHI:	no .
+%act:	le coge el muñeco a MOT
+*FAT:	ah@i sí .
+*CHI:	e(s)to .
+*FAT:	&=q ahí lo ha comprado mi madre ?
+*CHI:	no .
+*MOT:	yo creo que sí porque el otro día pasé +...
+*CHI:	e(s)to e(s) de Papá .
+*CHI:	Mama .
+*CHI:	tú e(s)ta .
+%act:	le da una muñeca
+*MOT:	vale .
+*CHI:	tú e(s)ta .
+*MOT:	y había mogollón de muñecos así vestidos .
+%add:	FAT
+*CHI:	toma , Papá .
+%act:	le da una muñeca a FAT
+*FAT:	oye .
+*FAT:	&=q le contamos a Rita el cuento éste ?
+*FAT:	venga .
+*FAT:	a ver cómo se lo contamos .
+*FAT:	venga .
+*FAT:	cuénta selo tú .
+*CHI:	no , tú .
+*FAT:	no .
+*FAT:	le tienes que ir diciendo los animalitos y ella tiene que decir el nombre .
+*FAT:	&=q vale ?
+*CHI:	no .
+*CHI:	el león no .
+*FAT:	venga .
+*FAT:	corre .
+*FAT:	a ver .
+*FAT:	ve enseñándo le y ella va diciendo los nombres de los animales .
+*CHI:	(l)a serpiente no .
+*CHI:	su cabeza .
+*FAT:	no .
+*FAT:	tú .
+*FAT:	&=q vale ?
+*FAT:	venga , Lucía .
+*MOT:	así tienes que hacer .
+*MOT:	haz tú así .
+%act:	da golpecitos con el dedo sobre el libro
+*MOT:	entonces la [//] Rita dice Jirafa@q .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	ahora así tú .
+%act:	da golpecitos con el dedo sobre el libro
+*CHI:	oso .
+*FAT:	no .
+*FAT:	pero tú le tienes que hacer eso para que Rita lo diga .
+*CHI:	no .
+*CHI:	yo .
+*FAT:	no: .
+*CHI:	oso .
+*FAT:	pero tú le tienes que enseñar a ella .
+*CHI:	xxx .
+*FAT:	oso .
+%par:	como si hablara la muñeca
+*MOT:	lo ha dicho .
+*MOT:	a ver .
+*FAT:	lo ha dicho .
+*MOT:	otro .
+*MOT:	a ver si se lo sabe este .
+*MOT:	a ver .
+*MOT:	pregúnta le ese .
+*CHI:	serefante [: elefante] .
+*MOT:	pregúnta selo (.) a Rita .
+*CHI:	defante [: elefante] .
+*MOT:	tienes que preguntar le “&=q cuál es este animal” ?
+*MOT:	pregúnta selo (.) a Rita .
+*CHI:	a ver .
+*CHI:	xxx .
+*CHI:	ahora a senta(r) [*] .
+%err:	sentar = siéntate $MOR $SUB $INFA
+%act:	coge de la mesa a la muñeca a la que se supene que tenía que contarle el cuento y la cambia de sitio
+*CHI:	sénta la [*] .
+%err:	séntala = siéntala $MOR $LOS $REG
+%act:	le da la muñeca a FAT
+*FAT:	aquí .
+%act:	la coloca donde estaba antes
+*CHI:	sí .
+*FAT:	&=q vale ?
+*CHI:	no .
+*FAT:	&=q dónde ?
+*CHI:	en el car(r)ito .
+%act:	se baja de la silla con el muñeco en la mano
+*FAT:	&=q en el carrito ?
+*CHI:	no se [*] vayas [*] .
+%err:	se = te $MOR $SUB $PREFIX
+*CHI:	<no te vayas> [x 3] .
+*CHI:	&=q va@x [//] vale ?
+*CHI:	así .
+*CHI:	no te vayas , Mamá .
+%exp:	antes le hablaba a la muñeca pero ahora se ha dirigido a MOT
+*CHI:	Mamá .
+*CHI:	toma .
+%act:	empuja el carrito lanzándolo hacia MOT pero se cocha contra un mueble
+*CHI:	se ha chocado .
+*CHI:	no .
+*CHI:	se cae .
+*MOT:	está malito .
+*MOT:	mira .
+*CHI:	no .
+*CHI:	no está xxx . [+ NON]
+%act:	viene hacia FAT con un muñeco en brazos
+*CHI:	toma , Papa .
+*CHI:	le sentamos aquí .
+*FAT:	vale .
+*CHI:	&=q vale ?
+*FAT:	&=q le vas a contar el cuento o no ?
+*FAT:	&=q eh@i ?
+*FAT:	a ver cómo se lo cuentas , Lucía .
+*CHI:	&=q 0 [*] ab(r)ochas esto ?
+%err:	0 = le $MOR $LOS $PREFIX
+*CHI:	el pijama .
+*FAT:	ya está .
+*FAT:	ven aquí , Lu .
+*CHI:	ahora lo quito .
+*FAT:	no hombre .
+*FAT:	no .
+*FAT:	si lo quitas +...
+*FAT:	&=q entonces para qué la abrocho , Lucía ?
+*FAT:	venga .
+*FAT:	no .
+*CHI:	sí: .
+*FAT:	las motos &=q eh ?
+%add:	MOT
+%exp:	se oyen motos en la calle
+*MOT:	sí .
+%add:	FAT
+*MOT:	hay carreras .
+%add:	FAT
+*MOT:	ayer entrenamiento y hoy carreras .
+%add:	FAT
+*CHI:	así .
+*CHI:	a ver 0 [*] se pone morena .
+%err:	0 = si $SYN $LOS
+*CHI:	&=q vale ?
+*FAT:	&=q se va a poner morena ?
+*FAT:	&=q y eso de qué ?
+*FAT:	&=q de tomar el sol ?
+*FAT:	no .
+*FAT:	no le hagas eso .
+*FAT:	que < le va a hacer > [//] le entra frío , Lucía .
+*CHI:	no .
+*CHI:	no .
+*CHI:	&=e no !
+@Situation:	1 FAT y MOT están desayunando , y Lucía les acompaña
+@Time Start:	09:00
+@Situation:	1
+*FAT:	&=q no qué , Lu ?
+*CHI:	(l)a mano .
+*FAT:	&=q la mano qué ?
+*MOT:	pues podíais quedar entre semana a jugar un día más o menos fijo . [+ ADD]
+%add:	FAT
+*FAT:	con este , &=q verdad ?
+%add:	MOT
+*MOT:	claro .
+%add:	FAT
+*CHI:	xxx .
+*MOT:	ese es el mejor plan .
+%add:	FAT
+*CHI:	xxx .
+*FAT:	pero es+que entre semana a la hora que llego yo +...
+%add:	MOT
+*CHI:	hale@i .
+*MOT:	de ocho y media a nueve y media a lo mejor .
+%add:	FAT
+*FAT:	&=q por la noche ?
+%add:	MOT
+*MOT:	claro .
+%add:	FAT
+*CHI:	así .
+*CHI:	a:sí .
+*CHI:	así .
+*CHI:	xxx .
+%act:	está yendo de un lugar a otro de la mesa con los muñecos y el carrito
+*FAT:	yo no sé si este se quedaría contento ayer .
+%add:	MOT
+*FAT:	tampoco parecía muy efusivo .
+*FAT:	&=q no ?
+*FAT:	después .
+%add:	MOT
+*FAT:	www .
+%add:	MOT
+*CHI:	ya .
+*CHI:	ya .
+*CHI:	ha(s)ta+mañana .
+%par:	mueve la mano como si se despidiera , empujando el carrito con la otra mano
+*CHI:	ha(s)ta+mañana .
+*MOT:	mejor , &=q no ?
+%add:	FAT
+*MOT:	www .
+%add:	FAT
+*CHI:	ha(s)ta+mañana , Mamá y Papá .
+*MOT:	hasta+mañana .
+*FAT:	adiós , Lucía .
+*FAT:	tú y yo casi el más entusiasta .
+%add:	MOT
+*FAT:	&=q sabes ?
+%add:	FAT
+*MOT:	www .
+%add:	FAT
+*CHI:	ahora se duerme .
+*CHI:	ahora se levanta .
+*FAT:	&=q quién ?
+*CHI:	ay@i .
+*CHI:	Lola .
+%act:	se está subiendo otra vez a la silla
+*FAT:	&=q que prefieres eso ?
+%add:	MOT
+*FAT:	&=q o qué ?
+%add:	MOT
+*MOT:	sí .
+%add:	FAT
+*MOT:	porque si no es un poco agobiante .
+%add:	FAT
+*CHI:	Lo:la .
+*MOT:	www .
+%add:	FAT
+*CHI:	Lo:la .
+*CHI:	Carlitos .
+*FAT:	&=q Carlitos ?
+*FAT:	&=q qué pasa con Carlitos ?
+*CHI:	está +...
+*CHI:	ah@i .
+*MOT:	que te llame de vez en cuando .
+%add:	FAT
+*MOT:	o que tú también .
+%add:	FAT
+*MOT:	&=q sabes ?
+%add:	FAT
+*CHI:	tiqui [x 2] .
+%par:	canturrea
+*FAT:	www .
+%add:	MOT
+*MOT:	hombre .
+%add:	FAT
+*MOT:	lo bueno es fijar un día a la semana .
+%add:	FAT
+*MOT:	eso está claro .
+%add:	FAT
+*FAT:	todos los sábados de diez a +...
+%add:	MOT
+*MOT:	los sábados no .
+%add:	FAT
+*MOT:	los sábados no te va a servir .
+%add:	FAT
+*MOT:	porque los sábados son los días de hacer recados .
+%add:	FAT
+*MOT:	pero un jueves .
+%add:	FAT
+*MOT:	por ejemplo todos los jueves .
+*FAT:	una horita , &=q no ?
+%add:	MOT
+*CHI:	mira .
+*FAT:	a ver .
+*FAT:	de ocho a nueve , &=q no ?
+%add:	MOT
+*FAT:	ahora en verano .
+%add:	MOT
+*MOT:	con las luces .
+%add:	FAT
+*MOT:	lo que sea .
+%add:	FAT
+*MOT:	&=q sabes ?
+%add:	FAT
+@End

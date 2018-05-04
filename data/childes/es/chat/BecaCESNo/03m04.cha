@@ -1,0 +1,1617 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	SER Sergio Target_Child , CAR Carlos Investigator , TER Teresa Aunt , PAD Padre Father
+@ID:	spa|becasesno|SER|3;4.28||||Target_Child|||
+@ID:	spa|becasesno|CAR|||||Investigator|||
+@ID:	spa|becasesno|TER|||||Aunt|||
+@ID:	spa|becasesno|PAD|||||Father|||
+@Date:	08-JAN-1995
+@Location:	Spain
+@Situation:	situación estructurada intentando que Sergio realice el test de Bender
+*TER:	son puntos .
+*CAR:	no te molesta esto porque esté aquí , no (.) eh ?
+*SER:	&n (.) &n (.) no .
+*CAR:	bueno (.) pues mira a_ver si puedes hacer ese dibujo .
+*SER:	son neonditos [*] ?
+%err:	neonditos = redonditos $PHO ;
+*CAR:	eh ?
+*CAR:	son redonditos (.) si .
+%spa:	$REF
+*SER:	cómo son neonditos [*] (.) chiquititos ?
+%err:	neonditos = redonditos $PHO ;
+*SER:	así ?
+%exp:	señalando un círculo redondo
+*CAR:	pero tu mira cómo es (.) míralo bien (.) miralo bien .
+*TER:	venga (.) a_ver si lo haces igual .
+*SER:	pero hay uno tapa mucho , mira este .
+*CAR:	bueno (.) pues tu intenta hacerlo lo más parecido posible .
+*SER:	<qué es> [>] ?
+*CAR:	<tu intenta hacerlo> [<] lo más parecido posible .
+*SER:	qué es ?
+*CAR:	es un dibujo , no es nada (.) es un dibujo solo .
+*SER:	y esto qué es ?
+*CAR:	pues lo mismo (.) un dibujo .
+*TER:	rayas .
+*SER:	nayas [*] .
+%err:	nayas = rayas $PHO ;
+%spa:	$IMIT
+*TER:	una escoba parece .
+*SER:	no (.) <esto es> [//] (..) será +//.
+*TER:	el qué ?
+*SER:	a lo mejor +//.
+*TER:	qué puede ser ?
+*SER:	<al mejor> [*] será +//.
+%err:	al mejor = a lo mejor $PHO ;
+*SER:	pos [/] pos [*] puede ser +//.
+%err:	pos = pues $PHO ;
+*SER:	yo no sé hasé [*] puntos .
+%err:	hasé = hacer $PHO ;
+*CAR:	no sabes hacer puntos ?
+*SER:	no .
+%spa:	$RES
+*CAR:	si has estado haciendo antes ahí !
+*TER:	si has hecho puntos +//.
+*CAR:	si has hecho puntos antes .
+*TER:	con solo clavar el lápiz así ya te salen puntos .
+*TER:	a_ver clava el lápiz .
+%com:	el niño golpetea el lápiz sobre el papel
+*TER:	pero más (.) un poquito más .
+%com:	el niño vuelve a golpear el lápiz sobre el papel
+*TER:	más fuerte (.) osea más fuerte (..) aprieta más .
+%com:	el niño golpea el làpiz de nuevo
+*TER:	tan poco +//.
+*TER:	eso (.) ves ?
+*TER:	te ha salido un punto .
+*SER:	pues +//.
+%com:	golpeando de nuevo
+*TER:	has xxx puntitos ?
+*SER:	si .
+%spa:	$RES
+*TER:	aprietas un poco más (.) así (.) y haces así (.) mira .
+%act:	haciendo puntitos en un papel
+*CAR:	bueno (.) tu intenta hacerlo como (.) <como tu> [/] como tu creas .
+*CAR:	tu intenta hacerlo como quieras .
+*SER:	aso [*] que se me ha da(d)o la vuelta el boli .
+%err:	aso = y eso $PHO ;
+*TER:	<no pasa nada> [>] .
+*CAR:	<no pasa nada> [<] [/] no pasa nada [/] no pasa nada .
+*CAR:	venga intenta hacerle (..) ya nos quedan muy pocos dibujos .
+*SER:	0 [= ! estornudando] .
+*SER:	yo he estornuda(d)o .
+*SER:	0 [= ! tosiendo] .
+*CAR:	pero tienes que hacero como esta forma (.) no ?
+*SER:	no sube ?
+%exp:	se refiere a la persona que está en el piso de abajo
+*CAR:	cómo [>] ?
+*TER:	no [<] (.) están ahí en la escalera .
+*SER:	quién ?
+*TER:	tu padre .
+*TER:	mira ahora a_ver como lo haces .
+*TER:	no le des más vueltas (.) si no +//.
+*TER:	venga intenta hacer esto a_ver como lo haces .
+*SER:	0 [= ! tosiendo] .
+*TER:	ay va !
+*SER:	0 [= ! tosiendo] .
+*TER:	vaya tos .
+*TER:	(...) no sabes hacer +/.
+*SER:	tengo unos xxx con sinturones [*] (.) mira .
+%err:	sinturones = cinturones $PHO ;
+%com:	les enseña los cinturones
+*TER:	oh que bonitos !
+*SER:	mira .
+*TER:	y eso los reyes te los han traido ?
+*SER:	no .
+%spa:	$RES
+*TER:	no ?
+*SER:	es una señora .
+*TER:	una señora te los ha traido ?
+*SER:	si .
+%spa:	$RES
+*CAR:	has acaba(d)o de hacer este dibujo (..) o vas a hacerle ?
+*CAR:	(.) has acaba(d)o de hacerle o vas a hacerle ?
+*SER:	no .
+%spa:	$RES
+*CAR:	no le vas a hacer o ya has acaba(d)o ?
+*CAR:	(.) has acaba(d)o de hacerle ?
+*TER:	no le gusta este .
+*CAR:	venga hombre (.) intenta hacer este y ya te [/] te [/] (.) <te enseño otro , vale> [>] ?
+*TER:	<venga corre intenta hacerlo que te va a enseñar otro> [<] .
+*CAR:	<y te enseño otro dibujo> [>] .
+*TER:	<otro más guay@c (.) más bonito> [<] !
+*CAR:	+^ a_ver si te gusta más , vale ?
+*SER:	como es &a aquel (.) chiquitito .
+*CAR:	si como aquellos .
+%spa:	$REF
+*TER:	si .
+%spa:	$REF
+*CAR:	pero tienes que hacer primero este .
+*TER:	tu hazlo como tu sepas y ya está .
+*CAR:	claro (.) tu haz como tu sepas este dibujo .
+*TER:	tampoco te tiene que sali igual .
+*SER:	(...) más ?
+*TER:	no hombre (.) con que se vea un poquito ya está .
+*TER:	ya está ?
+*SER:	si .
+%spa:	$RES
+*CAR:	eso es este dibujo ?
+*TER:	muy chiquitito , no (.) lo has hecho ?
+*SER:	qué ?
+*SER:	si (.) no se .
+%spa:	$RES
+*CAR:	<este es> [/] este es este dibujo (.) eh ?
+*CAR:	(.) es ?
+*CAR:	es o no es ?
+*SER:	no .
+%spa:	$RES
+*CAR:	no es ?
+*SER:	no .
+%spa:	$RES
+*CAR:	pues entonces haz [//] has un poco más a_ver si se parece un poco más .
+*SER:	esto es una mariposa .
+%com:	se refiere al dibujo que tiene que realizar
+*CAR:	ya pero es que nosotros <no estamos> [//] <no quere(mos)> [//] <no esta> [//] pero esto no es una mariposa .
+*SER:	no [>] ?
+*CAR:	<a ver> [<] si puedes hacer un dibujo parecido a este (.) poque esto no es una mariposa .
+*SER:	no (.) eso es +//.
+*CAR:	este dibujo es esto ?
+*SER:	si .
+%spa:	$RES
+*CAR:	vale .
+*SER:	(...) me queda uno ?
+*CAR:	te quedan dos (.) solo dos (.) solo te quedan dos .
+*SER:	pos [*] (.) voy a poné [*] los dos ahí .
+%err:	pos = pues $PHO ; poné = poner $PHO ;
+*CAR:	no porque si +/.
+*TER:	no de uno en uno <que si no> [>] +/.
+*CAR:	<no porque si no te> [<] puedes equivocar .
+*TER:	no (.) venga (.) que este es muy bonito .
+*SER:	pues +//.
+*TER:	tu [/] tu hazlo (.) eso ya se <verá> [>] .
+*CAR:	pues [<] tu míralo (.) tu mira cómo es y luego intenta hacerlo como es .
+*TER:	(...) te damos la vuelta a la hoja para [>] que la tengas limpia ?
+*SER:	si [<] .
+%spa:	$RES
+*TER:	bueno venga (.) no (.) venga aquí [/] aquí te cabe .
+*TER:	toma que no lo ves .
+*SER:	0 [= ! tosiendo] .
+*TER:	venga (.) Sergio (.) que tu sabes hacerlo !
+*CAR:	(...) uno (.) dos (.) si tu puedes .
+*CAR:	(...) qué pasa que es muy dificil (.) de hacer ?
+*SER:	si .
+%spa:	$RES
+*TER:	pero tampoco tiene que ser igual .
+*CAR:	pero tampoco hace falta que sea igual .
+*TER:	que sea parecido .
+*CAR:	que sea parecido .
+*SER:	y que es aquella esca(lera) [//] (.) aquella casa abieta [*] ?
+%err:	abieta = abierta $PHO ;
+*TER:	un belén .
+*CAR:	un belén .
+*TER:	ahora te lo enseño (.) venga (.) haz eso primero y cuando hagas ese dibujo te lo enseño .
+*SER:	pá [*] que es ?
+%err:	pá = para $PHO ;
+*TER:	de adorno (.) nada más .
+*SER:	es (.) es paesío [*] ?
+%err:	paesío = parecido $PHO ;
+*TER:	cual ?
+*SER:	este .
+%spa:	$RES
+*TER:	si (.) que lo hagas ahí parecido (.) o sea (.) que no hace falta que sea igual .
+*SER:	quién está cantando por ahí ?
+*TER:	tu padre será .
+*PAD:	Sergio !
+*SER:	es Tonti (.) que está cantando , estó [*] aquí !
+%err:	estó = estoy $PHO ;
+*PAD:	Sergio !
+*SER:	estó [*] aquí !
+*CAR:	venga a_ver (.) vamos a_ver si puedes hacer este , vale ?
+%exp:	se refiere a otro dibujo del test
+*CAR:	y luego ya nos vamos , vale (.) eh ?
+*SER:	si .
+%spa:	$RES
+*CAR:	venga (.) pues a_ver si puedes hacerlo .
+*SER:	solo hago este dibujo ?
+*CAR:	eh ?
+*SER:	que cuando haga este dibujo me bajo ?
+*CAR:	cuando hagas este y estos dos que te quedan aquí (.) ya si te puedes bajar a jugar , vale (.) eh ?
+*TER:	si se lo está pasando bien (.) ahí .
+*CAR:	porque como +/.
+*SER:	pues <teno un ten> [*] (.) cuando baje +/.
+%err:	teno un ten = tengo un tren $PHO ;
+*CAR:	<como me has dicho> [/] como me has dicho que te gustaba pintar (.) pues digo (.) pues a lo mejor le gusta copiar estos dibujos que tengo yo , eh ?
+*CAR:	digo (.) voy a_ver como dibuja Sergio .
+*SER:	a mi me usta [*] dibujá [*] lo le [*] colegio (.) <lo le [*] > [/] lo le cole(gio) (.) lo le [*] colegio .
+%err:	usta = gusta $PHO ; dibujá = dibujar $PHO ; le = del $PHO ;
+*CAR:	el colegio ?
+*SER:	sepa [*] [//] sabo [*] pintá [*] un niño .
+%err:	sepa sabo = se $MOR ; pintá = pintar $PHO ;
+*CAR:	ah (.) sabes pintar un niño ?
+*SER:	si .
+%spa:	$RES
+*CAR:	a_ver pues pintame un niño (.) a_ver .
+*CAR:	pintame un niño , vale ?
+*SER:	pero con las manos .
+*CAR:	lo que quieras (.) tu pinta un niño .
+*SER:	(..) los pies .
+*CAR:	y luego si quieres seguimos con esto , vale ?
+*CAR:	después de que pintes al niño , si quieres seguimos con esto , vale ?
+*TER:	<venga a ver> [>] .
+*CAR:	<a lo mejor es> [<] que tienes más ganas de pintar a un niño .
+*SER:	un baso [*] .
+%err:	baso = brazo $PHO ;
+*CAR:	no (.) un niño me has dicho .
+*TER:	pues <un brazo> [/] un brazo .
+*CAR:	ah (.) un brazo !
+*CAR:	había entendido un vaso perdona [/] perdona Sergio .
+*TER:	&=rie .
+*SER:	los niños llevan un baso [*] .
+%err:	baso = brazo $PHO ;
+*CAR:	un vaso o un brazo ?
+*SER:	si .
+%spa:	$RES
+*TER:	un brazo .
+%spa:	$REF
+*SER:	un baso [*] .
+%err:	baso = brazo $PHO ;
+*CAR:	ah (.) vale .
+*SER:	ala (.) <oto baso> [*] aquí (.) vale .
+%err:	oto baso = otro brazo $PHO ;
+*SER:	(..) ya están los dos basos [*] .
+%err:	basos = brazos $PHO ;
+*CAR:	&mm .
+%exp:	asentimiento de que se da por enterado
+*SER:	pero más gande [*] con este , eh ?
+%err:	gande = grande $PHO ;
+*SER:	tengo que hasé [*] así .
+%err:	hasé = hacer $PHO ;
+*SER:	este cachito está malo [*] (.) pero no pasa nada .
+%err:	malo = mal $LEX ;
+*TER:	qué quieres que te borre ?
+*TER:	toma (.) borra lo que sobre .
+*TER:	(..) así no .
+*TER:	es que no sabe borrar .
+%exp:	le comenta a Carlos refiriendose a Sergio
+*TER:	mira (.) lo coges así y hacer así .
+%exp:	explica a Sergio como tiene que borrar
+*CAR:	si tampoco hace falta que esté muy bien (.) tu pinta al niño como tu quieres pintar al niño (.) pinta al niño como quieras .
+*TER:	espera mira .
+*SER:	me sube Patisia [*] que ayo [*] no ha querido subime [*] y po [*] eso papá se va a [*] pueta [*] con el pa [*] que no venga .
+%err:	Patisia = Patricia $PHO ; ayo = yayo $PHO ; subime = subirme $PHO ; po = por $PHO ; a = a la $MOR ; pueta = puerta $PHO ; pa = para $PHO ;
+*TER:	ya está (.) yo creo que ya está , no ?
+*SER:	no (.) este poquito no +//.
+%spa:	$RES
+*SER:	(...) teno [*] un pelo por aquí .
+%err:	teno = tengo $MOR ;
+*TER:	no importa .
+*TER:	si <ya está bien> [/] ya está bien (.) ya puedes seguir (.) ya está .
+*SER:	si ?
+*TER:	si .
+*CAR:	vamos .
+*SER:	<pimero las penas> [*] (..) y los pies (.) un pie ya está .
+%err:	pimero las penas = primero las piernas $PHO ;
+*CAR:	muy bien .
+*SER:	ota [*] cosa .
+%err:	ota = otra $PHO ;
+*SER:	(..) este pie (.) dos pies .
+*CAR:	muy bien .
+*SER:	las <cuso po> [*] aquí (.) una cosa gande [*] (.) ota [*] .
+%err:	cuso po = cruzo por $PHO ; gande = grande $PHO ; ota = otra $PHO ;
+*SER:	voy a hasele [*] una cabesita [*] y luego la niña (.) esto es el xxx .
+%err:	hasele = hacerle $PHO ; cabesita = cabecita $PHO ;
+*CAR:	<muy bien> [/] muy bien .
+*TER:	está muy bonito (.) si .
+*SER:	tengo una pupa aquí .
+*CAR:	que tiene una pupa el niño ?
+*TER:	no (.) él .
+%exp:	refiriendose a Sergio
+*CAR:	ah (.) que tienes tu una pupa !
+*SER:	y (.) y la tengo aquí atás [*] .
+%err:	atás = atrás $PHO ;
+*CAR:	ya bueno pero no hace falta que nos la enseñes .
+*TER:	vas a coger frio Sergio (.) que aquí hace frio .
+*CAR:	claro venga (.) acaba el dibujo del niño que estabas haciendo (.) que te está saliendo muy bien .
+*SER:	y , que le faltaba ?
+*CAR:	no se (.) tu lo sabrás (.) has dicho que le ibas a pintar una camiseta o +//.
+*SER:	la cabesa [*] .
+%err:	cabesa = cabeza $PHO ;
+*CAR:	muy bien .
+*SER:	y los ojos .
+*CAR:	<muy bien> [/] muy bien .
+*SER:	un [//] una cosa dedonda [*] .
+%err:	dedonda = redonda $PHO ;
+*SER:	ya .
+*CAR:	a_ver ?
+*CAR:	enséñamelo (.) ah (.) esa es la cabeza , no ?
+*SER:	si .
+%spa:	$RES
+*CAR:	si .
+%spa:	$REF
+*SER:	ya .
+*CAR:	le quieres poner alguna cosa más ?
+*SER:	no .
+%spa:	$RES
+*TER:	pelo ni nada (.) no le quieres poner nada ?
+*CAR:	no .
+*SER:	pelo .
+*CAR:	oye te ha queda(d)o muy bien !
+*SER:	eso es el pelo .
+%exp:	señalando el pelo dibujado
+*TER:	a_ver ?
+*CAR:	te ha queda(d)o muy bien .
+*SER:	ara [*] (.) ya .
+%err:	ara = ahora $PHO ;
+*CAR:	muy bien (.) este te ha quedado muy bien (.) muy bonito .
+*SER:	si .
+%spa:	$RES
+*CAR:	quieres (.) acabamos estos (.) eh ?
+*SER:	no .
+%spa:	$RES
+*CAR:	venga si nos quedan dos .
+*SER:	&sss .
+*CAR:	acabamos estos dos y ahora si quieres bajas a jugar (.) eh ?
+*TER:	ahora ya que has entrado en calor +//.
+*CAR:	vamos ahora que ya has pintado este <magnífico> [//] a este magnífico niño .
+*TER:	eso ya está chupa(d)o .
+*CAR:	ya (.) eso ya .
+*TER:	eso chupa(d)o , a que si ?
+*CAR:	venga a_ver <inténtalo> [/] inténtalo hacer (.) venga que ya que después de que te has calentado con este dibujo tan bonito (.) a_ver si ahora +//.
+*SER:	con este cachito vale ?
+*CAR:	si (.) con ese cachito vale .
+*SER:	al ladito .
+*CAR:	<donde quieras> [//] puedes hacerlo donde quieras .
+*TER:	venga (.) dibuja eso .
+*SER:	así ?
+*TER:	<así (.) como está> [>] .
+*CAR:	<vamos (.) tu intenta hacerlo> [<] (.) <como tu> [/] como tu crees que es el dibujo .
+*TER:	que no hagas así (.) ponlo en la hoja (.) tu hazlo en la hoja .
+*SER:	cómo es ?
+*TER:	tú como quieras hacerlo (.) como creas tú que se hace .
+*SER:	y qué es este número ?
+*TER:	un seis (.) es el dibujom número seis (.) venga a_ver como lo haces .
+*SER:	qué ?
+*TER:	a_ver como lo haces (.) si es muy bonito (..) no sabes ?
+*TER:	va pero si es muy facil .
+*CAR:	no sabes hacerlo ?
+*SER:	no .
+%spa:	$RES
+*CAR:	bueno (.) pues (.) vamos a enseñarte otro a_ver .
+*SER:	ala (.) un pico (.) oto [*] pico (.) para tu boli(grafo) (..) no [/] no fue +//.
+*SER:	no está el pico .
+*CAR:	pero , ya has acabado el dibujo este ?
+*TER:	no .
+*SER:	no .
+%spa:	$IMIT
+*CAR:	ah !
+*SER:	son dos ?
+*TER:	no es uno .
+*SER:	aquel , qué es ?
+*CAR:	<ese es otro> [/] ese es otro dibujo .
+*TER:	si cuando termines +/.
+*CAR:	cuando acabes ese dibujo te enseñamos este .
+*SER:	uno es ?
+*CAR:	um ?
+*SER:	que si es uno ?
+*TER:	si solo queda ese .
+*CAR:	si (.) solo te queda uno para acabar (...) vamos inténtalo .
+*TER:	es muy bonito (.) venga (.) que <ibas muy bien> [/] ibas muy bien haciendo los picos .
+*SER:	pero me tengo que +//.
+*SER:	apetando [*] aquí .
+%err:	apetando = apretando $PHO ;
+*TER:	el qué ?
+*SER:	apetando [*] aquí .
+%err:	apetando = apretando $PHO ;
+*TER:	no (.) tu cógelo como lo coges siempre (..) es más facil (..) <así> [/] (.) <así> [//] venga hazlo así (.) ya verás que bien te sale .
+*SER:	así (.) con esta mano ?
+*TER:	si (.) <así> [/] así .
+*TER:	si (.) hazlo así (.) verás que bien te sale .
+*CAR:	vamos que ya solo te queda uno (.) cuando acabes este dibujo ya te enseño otro (.) y cuando lo acabes ya nos vamos (.) te vas a jugar con el tren y con la moto , vale ?
+*CAR:	eh (.) te parece bien Sergio ?
+*SER:	si .
+%spa:	$RES
+*CAR:	vale (.) pues a_ver (.) inténtale acabar (.) si habias empeza(d)o muy bien (...) , quieres que te enseñe otro ?
+*SER:	si .
+%spa:	$RES
+*CAR:	este ya es el último .
+*SER:	si (.) este es el +/.
+*CAR:	este es el último .
+*TER:	ala (.) que bonito !
+*SER:	una [/] una pimero [*] un pico aquí (.) oto [*] pico +//.
+*SER:	ya .
+%err:	pimero = primero $PHO ; oto = otro $PHO ;
+*TER:	ya está ?
+*TER:	pero si no <se ve> [>] !
+*CAR:	<ya lo> [<] has acaba(d)o ?
+*SER:	ya lo &s (.) ya están los picos .
+*TER:	los picos claro ya +/.
+*CAR:	pero el dibujo no es solo los picos (.) tiene más cosas , quieres acabarlo o está acabado ya así ?
+*SER:	si estaba así .
+%spa:	$RES
+*CAR:	está acabado ?
+*SER:	si [/] (.) si .
+%spa:	$RES
+*CAR:	pues <muy bien> [/] (.) muy bien Sergio .
+*SER:	y , ara [*] que hago con el papel ?
+%err:	ara = ahora $PHO ;
+*CAR:	ahora este papel me lo guardo yo (.) porque como a mi me gustan mucho los dibujos estos +//.
+*TER:	<se lo regalas> [/] (.) se lo regalas , a que si ?
+*CAR:	me lo voy a quedar , eh (.) no te importa ?
+*CAR:	es que me gustan mucho (.) lo has hecho muy bien (..) y aparte de dibujar niños , dibujas a la familia también ?
+*SER:	si .
+%spa:	$RES
+*CAR:	si ?
+*SER:	si .
+%spa:	$RES
+*CAR:	y me harias un dibujo a mi de la familia ?
+*CAR:	eh (.) me lo harías ?
+*SER:	no .
+%spa:	$RES
+*CAR:	un dibujo de la familia .
+*TER:	con mamá (.) con papá (.) con Oscar .
+*CAR:	eh ?
+*SER:	solo con Osca [*] .
+%err:	Osca = Oscar $PHO ;
+*CAR:	con quien quieras , me lo haces ?
+*CAR:	es que como te he visto que has hecho la figura del niño tan bien +//.
+*TER:	con Edu también .
+*CAR:	<digo voy a ver> [/] digo voy a_ver (.) digo si Sergio me puede hacer una familia , me la quieres hacer ?
+*SER:	eh (.) um .
+*CAR:	dímelo (.) si quieres hacérmele si [//] dime si (.) si no quieres hacérmele pues me dices que no .
+*SER:	no .
+%spa:	$RES
+*CAR:	no tienes +/.
+*TER:	no tiene ganas .
+*CAR:	bueno pues no pasa nada (.) otro dia me lo haces , eh (.) vale ?
+*TER:	que te cuente algo .
+*CAR:	qué_tal ?
+*CAR:	qué me habías dicho que te habían traido los reyes ?
+*SER:	un ten [*] y una moto , y qué más ?
+%err:	ten = tren $PHO ;
+%com:	el niño se pregunta a si mismo en voz alta
+*SER:	y [/] y ota [*] moto como la de verano .
+%err:	ota = otra $PHO ;
+*TER:	grande ?
+*SER:	muy gande [*] (.) pero la de verani [*] se la dejo al [*] Osca [*] .
+%err:	gande = grande $PHO ; verani = verano $PHO ; al = a $SYN ; Osca = Oscar $PHO ;
+*TER:	ah (.) se la dejas al Oscar ?
+%spa:	$REF
+*SER:	si .
+%spa:	$RES
+*CAR:	y vas a llevarte algún juguete al colegio ?
+*SER:	no .
+%spa:	$RES
+*TER:	no <alli no> [>] .
+%spa:	$REF
+*SER:	poque [<] [*] me lo quitan los niños como a +//.
+%err:	poque = porque $PHO , 
+*SER:	no te acuerdas que cuando yo fuí al colegio le quitó [*] un juguete <a los niños> [*] ?
+%err:	quitó = quitaron $MOR ; a los niños = los niños $LEX ;
+%exp:	se refiere a un compañero del colegio
+*TER:	si .
+*SER:	poque [*] <se llevó> [*] al colegio poque [*] [/] poque [*] le lió [*] la gana ?
+%err:	poque = porque $PHO ; se llevó = se lo llevó $SYN ; lio = dió $PHO ;
+*TER:	hombre (.) eso al colegio no se lleva .
+*SER:	pos [*] se lo quitó [*] .
+%err:	pos = pues $PHO ; quitó = quitaron $MOR ;
+*TER:	hay que estudiar en el cole(gio) .
+*SER:	yo no me llevo coches .
+*TER:	claro que no (.) eso en casa .
+*SER:	eso en casa .
+%spa:	$IMIT
+*CAR:	y los demás niños se llevan coches ?
+*SER:	pero mañana [*] <he visto [*] yo> [*] <un niño> [*] con un coche (.) en el colegio .
+%err:	mañana = ayer $LEX ; he visto = ví $MOR ; he visto yo = yo he visto $SYN ; un niño = a un niño $SYN ;
+*TER:	cuándo vas a ir al cole (.) Sergio ?
+*SER:	cuando [/] &cua (.) cuando no tenga colegio me voy a ir <con el pimo [*] > [/] con el pimo [*] a casa (.) que lleva [*] tantos juguetes (.) y [/] y lleva [*] un camión que se engancha (.) y [/] y [/] y [/] y un coche de poisía [*] .
+%err:	pimo = primo $PHO ; lleva = tiene $LEX ; poisía = policia $PHO ;
+*TER:	de policía ?
+*SER:	si .
+%spa:	$RES
+*TER:	que bonito , no ?
+*TER:	se le encienden las luces ?
+*SER:	(.) no .
+%spa:	$RES
+*TER:	no ?
+*SER:	solo se le abe [*] la pueta [*] (.) <a que> [*] lleva quistal [*] no se abe [*] la pueta [*] (.) hay dos que se abe [*] la pueta [*] y oto [*] que se abe [*] la pueta [*] (.) <a eso [*] los [*]> [?] (.) y este es poisía [*] y luego se abe [*] la pueta [*] (.) <este no> [//] a este no .
+%err:	abe = abre $PHO ; pueta = puerta $PHO ; a que = al que $PHO ; quistal = cristal $PHO ; oto = otro $PHO ; eso = esos $PHO ; los = dos $PHO ; poisía = policia $PHO ;
+*TER:	mira , qué bonito !
+*SER:	se lo ases [*] a estos dos .
+%err:	ases = haces $PHO ;
+*TER:	y que son de tu primo o tuyos ?
+*SER:	no (.) son de mi pimo [*] Calos [*] .
+%err:	pimo = primo $PHO ; Calos = Carlos $PHO ;
+*TER:	ah (.) tu no tienes coche de policía ?
+*SER:	no .
+%spa:	$RES
+*SER:	teno [*] uno gande [*] <que se> [/] que se abía [*] la tapa <y que> [/] y que se metía uno (.) peo [*] la del estanco me [/] me ha taio [*] tantos juguetes !
+%err:	teno = tengo $MOR ; gande = grande $PHO ; abía = abría $PHO ; peo = pero $PHO ; taio = traido $PHO ;
+*SER:	tenía un camión así de gande [*] me la [*] taio [*] .
+%com:	indica el tamaño del camión con sus manos
+%err:	gande = grande $PHO ; la = lo ha $PHO ; taio = traido $PHO ;
+*SER:	ya está en el chiscón y tengo unos [*] puas xxx chiscón (.) así de gandes [*] .
+%err:	unos = unas $MOR ; gandes = grandes $PHO ;
+*SER:	da [*] verás cuando baje <y no> [//] y tengo pinchos .
+%err:	da = ya $PHO ;
+*TER:	pinchos ?
+*SER:	si .
+%spa:	$RES
+*TER:	qué es eso ?
+*SER:	pinchos que [/] que se ponen (.) que se cavan [*] en lo gosa [*] .
+%err:	cavan = clavan $PHO ; gosa = rosa $PHO ;
+*TER:	ah (.) para hacer dibujos ?
+*SER:	si .
+%spa:	$RES
+*SER:	y papá sabes lo que me ha hecho ?
+*TER:	qué ?
+*SER:	una tele(visión) .
+*TER:	una tele(visión) ?
+*SER:	si .
+%spa:	$RES
+*TER:	que bien !
+*SER:	con &tan [//] son de tantos colores !
+*TER:	que bonito !
+*TER:	o sea que te has portado bien y te han traido muchas cosas los reyes , no ?
+*SER:	si .
+%spa:	$RES
+*SER:	han dicho <que po [*] &pota> [/] que po [*] potame [*] mal (.) han dicho (.) gueno [*] te taemos [*] juguetes (.) han dicho eso .
+%err:	po = por $PHO ; potame = portarme $PHO ; gueno = bueno $PHO ; taemos = traemos $PHO ;
+*TER:	bueno (.) pues mira !
+*SER:	po [*] potame [*] mal me han taio [*] juguetes .
+%err:	po = por $PHO ; potame = portarme $PHO ; taio = traido $PHO ;
+*TER:	anda (.) pero hay que portarse bien , eh ?
+*SER:	ha dicho <que cuando> [/] que cuando me pote [*] bien <en la case [*] > [/] en la case [*] <con la> [/] con la señorita (.) me taen [*] juguetes en verano .
+%err:	pote = porte $PHO ; case = clase $PHO ; taen = traen $PHO ;
+*SER:	en verano también venen [*] !
+%err:	venen = vienen $MOR ;
+*TER:	en verano vienen los reyes ?
+*SER:	si .
+%spa:	$RES
+*TER:	anda !
+*SER:	pos [*] en verano me potaré [*] bien .
+%err:	pos = pues $PHO ; potaré = portaré $PHO ;
+*TER:	anda (.) en verano , que bien !
+*CAR:	oye Sergio (.) y en el colegio que hacéis ?
+*CAR:	cuéntame que hacéis en el colegio .
+*SER:	hasé [*] una niña y un niño .
+%err:	hasé = hacer $PHO ;
+*CAR:	hacéis una niña y un niño ?
+*SER:	si <y luego dise [*] el &po> [//] y luego dise [*] la poesora [*] que se vayan lo +//.
+%err:	dise = dice $PHO ; poesora = profesora $PHO ;
+*SER:	tengo una cosa xxx en el colegio (.) y una [*] costusione [*] .
+%err:	una = unas $PHO ; costusione = construcciones $PHO ;
+*CAR:	y qué más ?
+*SER:	<me ido> [*] a [/] a (.) &ju &ju juvenalia con Noelia y había +//.
+%err:	me ido = me he ido $PHO ;
+*SER:	<me ido> [*] a [/] a [/] a ota [*] &pa a oto [*] guincón [*] de [/] de (.) había &do &do dos juvenalias .
+%err:	me ido = me he ido $PHO ; ota = otra $PHO ; oto = otro $PHO ; guincón = rincón $PHO ;
+*SER:	y donde juvenalla [*] me he enconta(d)o [*] una cosa (.) un ten [*] (.) pero anda (.) pero al lao [*] del ten [*] hay una buja [*] con un palo de esto (.) que quiere asustá [*] a <lo niño> [*] .
+%err:	juvenalla = juvenalia $PHO ; encontao = encontrado $PHO ; ten = tren $PHO ; lao = lado $PHO ; buja = bruja $PHO ; asustá = asustar $PHO ; lo niño = los niños $PHO ;
+*TER:	anda (.) que mala !
+*SER:	pero no se asustan (.) no (.) eso es de mentira .
+*TER:	claro que es de mentira !
+*TER:	y tu , te has asustado ?
+*SER:	no .
+%spa:	$RES
+*TER:	no te has asustado ?
+*SER:	ha icho [*] el seño [*] de (.) yo +/.
+%err:	icho = dicho $PHO ; seño = señor $PHO ;
+*TER:	cómo era (.) como era ?
+*SER:	<sabe po qué> [*] [/] (.) <sabe po qué> [*] no me [/] <sabe po qué> [*] no he monta(d)o yo ?
+%err:	sabe po qué = sabes por qué $PHO ;
+*SER:	poque [*] han sega(d)o [*] (.) ha icho [*] la poesora [*] que han sega(d)o [*] el ten [*] (.) ja ja y como está sega(d)o [*] <los niños estaban> [*] en el ten [*] (.) no se han dado cuenta .
+%err:	poque = porque $PHO ; sega(d)o = cerrado $PHO ; icho = dicho $PHO ; poesora = profesora $PHO ; ten = tren $PHO ; los niños estaban = los niños que estaban $SYN ;
+*TER:	anda mira !
+*SER:	no se han da(d)o cuenta (.) y <al como> [*] se han queda(d)o &to &to &to todo el dia en el ten [*] (.) <han &te> [/] han tenido que [/] que [/] que segá [*] la calle .
+%err:	al como = como $SYN ; ten = tren $PHO ; segá = cerrar $PHO ;
+*TER:	y qué más has visto en Juvenalia ?
+*SER:	y [/] y logo [*] <se han> [/] se han &que &to los &ni y <se han> [//] han intenta(d)o &sa al ten [*] (.) <es que> [/] es que con poquito no vale solo con munchos [*] .
+%err:	logo = luego $PHO ; ten = tren $PHO ; munchos = muchos $PHO ;
+*TER:	ah (.) claro !
+*SER:	como se han monta(d)o to(do)s han tenido que segá [*] la calle y se han queda(d)o en la calle .
+*TER:	y que más había en Juvenalia Sergio ?
+*SER:	había una cosa segá [?] [*] y un agua .
+%err:	segá = cerrada $PHO ;
+*TER:	un agua ?
+*SER:	si con una peota [*] .
+%err:	peota = pelota $PHO ;
+*TER:	y no te han regalado nada allí ?
+*SER:	si (.) cuando <he ido> [*] mañana [*] con la nuña@f <me han degalao [*]> [*] una camiseta .
+%err:	he ido = fui $SYN ; degalao = regalado $PHO ; mañana = ayer $LEX ; me han degalao = me regalaron $SYN ;
+*TER:	anda que bonito !
+*SER:	peo [*] <en el paque [*]> [/] en el paque [*] de atasiones [*] <me fui> [*] con papá mañana [*] (.) el lunes .
+%err:	peo = pero $PHO ; paque = parque $PHO ; atasiones = atracciones $PHO ; me fui = estuve $SYN ; mañana = ayer $LEX ;
+*TER:	el lunes (.) te vas o te has ido ?
+*SER:	mañana [*] (.) el lunes me fui .
+%err:	mañana = ayer $LEX ;
+*TER:	ah (.) te fuiste !
+*SER:	peo [*] ya no (.) casen [*] [/] casen [*] aquellas [*] [/] &aque aquellas cosas alli ?
+%err:	peo = pero $PHO ; casen = que hacen $PHO ;
+*TER:	son letras .
+*SER:	qué ?
+*TER:	ahora te voy a dar yo unas letras (.) vale ?
+*TER:	te sabes las letras ?
+*SER:	no .
+%spa:	$RES
+*TER:	no te sabes las vocales (.) a (.) e ?
+*SER:	no [/] no me has dicho que cuando yo <iba a teminá [*]> [*] ese dibujo <me vas> [*] [//] me ibas a enseñá [*] el belén que hay alli ?
+%err:	teminá = terminar $PHO ; iba a teminá = terminara $SYN me vas = me ibas $SYN ; enseñá = enseñar $PHO ;
+*CAR:	ah (.) si [/] si (.) cómo no te lo va a enseñar ?
+*CAR:	lo que pasa es que se la ha olvidado .
+*TER:	se me ha olvidado (.) hablando +//.
+*SER:	a ve [*] ?
+%err:	ve = ver $PHO ;
+*TER:	quienes son esos que hay alli (.) sabes quienes son ?
+*SER:	si .
+%spa:	$RES
+*TER:	quienes ?
+*SER:	este quenes [*] ?
+%err:	quenes = quién es $PHO ;
+*TER:	este quién es ?
+*TER:	es un rey mago .
+*SER:	pos [*] el gey [*] [/] guey [*] mago también ha veni(d)o a mi casa y me [/] me ha taido [*] juguetes (.) pa(ra) que se [*] [//] es este aujero [*] ?
+%err:	pos = pues $PHO ; guey = rey $PHO ; se = es $SYN ; taido = traido $PHO ; aujero = agujero $PHO ;
+*TER:	para que vean por la ventana .
+*SER:	si ?
+*TER:	claro .
+*SER:	&pa (.) y están vendo [*] que los niños se están pontando [*] bien ?
+%err:	vendo = viendo $MOR ; pontando = portando $PHO ;
+*TER:	eh ?
+*SER:	que si están viendo que si se están pontando [*] los niños bien ?
+%err:	pontando = portando $PHO ;
+*TER:	claro desde ahi lo ven .
+*SER:	qué ?
+*SER:	y [/] y pa(ra) qué sasoman [*] ?
+%err:	sasoman = se asoman $PHO ;
+*TER:	pues [= ! riendo] .
+*CAR:	<para mirar> [//] se asoman para mirar .
+*TER:	y para <cuando hace> [/] cuando hace frio cierran la casa y cuando hace calor la abren para que entre el aire para respirar .
+*SER:	y luego po [*] [/] <po [*] donde> [/] po [*] donde entan [*] .
+%err:	po = por $PHO ; entan = entran $PHO ;
+*TER:	pues <no se> [/] no se .
+*CAR:	pues llamarán a la puerta y se abrirá .
+*TER:	<se abre> [/] se abre automáticamente .
+*CAR:	<cuando llamen estran> [//] cuando llaman se abre la puerta y entran .
+*SER:	&s y logo [*] se siega [*] y +/.
+%err:	logo = luego $PHO ; siega = cierra $PHO ;
+*TER:	cuál te guata más de los reyes ?
+*SER:	a mi me ustan [*] +//.
+%err:	ustan = gustan $PHO ;
+*TER:	los tres ?
+*SER:	los tes [*] enanitos .
+%err:	tes = tres $PHO ;
+*TER:	o sea los siete enanitos (.) la has visto ?
+*SER:	si .
+%spa:	$RES
+*TER:	pues yo no la he visto (.) mira que la quiero ver +//.
+*SER:	la queres [*] ve [*] pos [*] entonse [*] +/.
+%err:	queres = quieres $MOR ; ve = ver $PHO ; pos = pues $PHO ; entonse = entonces $PHO ;
+*TER:	y <que pasa> [/] que pasa en la película ?
+*SER:	papá (.) mamá <ma compao> [*] &u una &sin sinta [*] de cuentos .
+%err:	ma compao = me ha comprado $PHO ; sinta = cinta $PHO ;
+*TER:	anda !
+*SER:	es de los peses [*] en el guio [*] .
+%err:	peses = peces $PHO ; guio = rio $PHO ;
+*TER:	los peces en el rio ?
+*SER:	si (.) me [*] vuelven a bebé [*] .
+%err:	me = que $LEX ; bebé = beber $PHO ;
+*TER:	es una canción , no ?
+*SER:	si .
+%spa:	$RES
+*TER:	y como es ?
+*TER:	es que no me acuerdo .
+*SER:	la vigen [*] lavaba y san osé [*] tendia señora Santana <po qué> [*] llora el niño ?
+%err:	vigen = virgen $PHO ; osé = José $PHO ; po qué = por qué $PHO ;
+*SER:	es esa cansión [*] .
+%err:	cansión = canción $PHO ;
+*TER:	y te la sabes ?
+*SER:	si .
+%spa:	$RES
+*CAR:	a_ver &can y la sabes cantar ?
+*SER:	si .
+%spa:	$RES
+*CAR:	a_ver (.) cantanosla a_ver como es .
+*TER:	yo es que no me acuerdo .
+*SER:	la vigen [*] lavaba (.) san José tendía (.) señora Santana <po qué> [*] llora el niño ?
+%err:	vigen = virgen $PHO ; po qué = por qué $PHO ;
+%act:	con un poco de tonillo al principio .
+*SER:	por [/] por el frio que [/] que lleva .
+%act:	al final se queda dudando .
+*TER:	algo así (.) si .
+*SER:	logo [*] (.) duego [*] ota [*] ansión [*] .
+%err:	logo = luego $PHO ; duego = luego $PHO ; ota = otra $PHO ; ansión = canción $PHO ;
+*TER:	a_ver , cuál ?
+*SER:	<la de> [/] la de (.) no cuela .
+*CAR:	no te acuerdas ?
+*TER:	pero cómo era a_ver ?
+*SER:	y [/] y pa(ra) que es esto ?
+*TER:	eso es la chimenea .
+*SER:	pa(ra) qué ?
+*TER:	para que salga el humo (.) cuando hace fuego (.) cuando para que (.) para que haya calor pues se enciende el fuego y sale el humo por ahí .
+*SER:	y pa(ra) qué es esto ?
+*TER:	es una ventana .
+*SER:	y esto ?
+*TER:	el qué ?
+*TER:	<otra ventana> [>] para que no entre el aire cuando está cerrada .
+*SER:	<y esto> [<] ?
+*SER:	y esto ?
+*TER:	eso es la puerta (.) mira eso si es una puerta .
+*SER:	aquí no pueo [*] no se puede meté [*] la (.) por aquí no puedo meté [*] la cabesa [*] , y qués [*] esto ?
+%err:	pueo = puedo $PHO ; meté = meter $PHO ; cabesa = cabeza $PHO ; qués = qué es $PHO ;
+*TER:	el qué ?
+*SER:	esto .
+%act:	indicando algo del belén .
+*TER:	eso de dentro ?
+*SER:	si .
+%spa:	$RES
+*TER:	de qué color es eso ?
+*SER:	de este señó [*] (.) de este .
+*TER:	ese es un rey .
+*SER:	de este (.) de ese guey [*] .
+%err:	guey = rey $PHO ;
+*TER:	de qué color va ?
+*SER:	<de qué> [*] es este color ?
+%err:	de qué = cuál $LEX ;
+*TER:	tú no sabes los colores ?
+*SER:	no .
+%spa:	$RES
+*TER:	rojo .
+*SER:	dojo [*] .
+%err:	dojo = rojo $PHO ;
+%spa:	$IMIT
+*SER:	man [*] &ense (.) &ma man [*] enseña(d)o ya lo [/] lo (.) a contá [*] (.) man [*] ensena(d)o ya a contá [*] .
+%err:	man = me han $PHO ; contá = contar $PHO ;
+*TER:	si ?
+*TER:	hasta qué número sabes ?
+*SER:	al [*] ocho y [/] y al [*] nueve .
+%err:	al = hasta el $SYN ;
+*TER:	a_ver cuenta (.) a_ver como cuentas .
+*SER:	cuato [*] (.) sinco [*] (.) nueve .
+%err:	cuato = cuatro $PHO ; sinco = cinco $PHO ;
+*TER:	pero colocados todos , cuál es el primero ?
+*SER:	el sei [*] (.) el +/.
+%err:	sei = seis $PHO ;
+*TER:	cuántos dedos hay aquí ?
+*SER:	cuato [*] .
+%err:	cuato = cuatro $PHO ;
+*TER:	cuatro ?
+*TER:	pues no , estos cuántos son ?
+*SER:	cuato [*] .
+%err:	cuato = cuatro $PHO ;
+*TER:	no (.) cuenta (.) uno +//.
+*SER:	++ uno (.) y dos .
+*TER:	cuántos hay ?
+*SER:	dos .
+%spa:	$RES
+*TER:	dos , y aquí cuántas cosas hay ?
+*SER:	dos xxx .
+*TER:	no (.) cuéntalos [/] cuéntalos .
+*SER:	uno (.) dos (.) cuato [*] (.) sinco [*] .
+%err:	cuato = cuatro $PHO ; sinco = cinco $PHO ;
+*TER:	no (.) te falta uno (.) tres .
+*SER:	tes [*] .
+%spa:	$IMIT
+%err:	tes = tres $PHO ;
+*SER:	y pa(ra) qué es esa pueta [*] ?
+%err:	pueta = puerta $PHO ;
+*TER:	para +//.
+*CAR:	pa(ra) que no entre el frio .
+*SER:	pa(ra) que no ente [*] ?
+%err:	ente = entre $PHO ;
+*CAR:	ni la gente que no conoces , por qué cierras tú la puerta en tú casa ?
+*CAR:	para que no entre la gente que no conoces .
+*SER:	no .
+*CAR:	para que no entre el frio .
+*SER:	<y luego> [/] y luego no +//.
+*SER:	en mi casa no dejo la pueta [*] abía [*] como estos señores (.) mia [*] la deja abía [*] .
+%err:	pueta = puerta $PHO ; abía = abierta $MOR ; mia = mira $PHO ;
+*CAR:	claro (.) la han dejado abierta es verdad .
+*TER:	y a que no sabes quién es ese niño que está ahí dentro ?
+*SER:	ese ?
+*TER:	ese niño que está ahí tumbado en la cuna .
+*SER:	qué es ?
+*TER:	quién es ?
+*SER:	ese (.) el niño Jesús ?
+*CAR:	muy bien .
+*SER:	y este ?
+*TER:	ese te lo he dicho antes , quién era ?
+*SER:	san José .
+%spa:	$RES
+*TER:	no .
+*SER:	y estos son los (.) quiénes ?
+*TER:	son los reyes (.) falta , cuántos faltan ?
+*TER:	uno .
+*SER:	y esto que es ?
+*TER:	eso es una oveja .
+*SER:	pa(ra) qué ?
+*TER:	porque va con ellos .
+*SER:	y que es esto ?
+*TER:	esto es otra oveja .
+*SER:	y pa(ra) qué es esto ?
+*TER:	una campana .
+*SER:	pa(ra) qué ?
+*TER:	para que suene din+din+din (.) parecido a una puerta suena .
+*SER:	y logo [*] , cómo suena ?
+%err:	logo = luego $PHO ;
+*TER:	no hombre es de juguete y ahí no suena , no ves que está pintada (.) que no es de verdad ?
+*SER:	y quén es este ?
+%err:	quén = quién $PHO ;
+*TER:	esa , quién es esa ?
+*SER:	la [/] la +//.
+*TER:	quién crees que es ?
+*SER:	la +//.
+*TER:	esa que lavaba en la canción .
+*SER:	si .
+*TER:	quién es la que lavaba en la canción ?
+*SER:	la Vigen [*] .
+%err:	Vigen = Virgen $PHO ;
+*TER:	claro .
+*SER:	esta Vigen [*] ?
+%err:	Vigen = Virgen $PHO ;
+*TER:	esa es la Virgen y el otro , quién es ?
+*SER:	san José .
+*TER:	claro .
+*SER:	este es san José ?
+%act:	señalando a la figura de san José .
+*TER:	si .
+*SER:	y este ?
+*TER:	ese me lo has dicho antes tú .
+*SER:	es niño Jesús ?
+*TER:	claro .
+*SER:	y este ?
+*TER:	ese quién era que te lo he dicho también ?
+*TER:	quiénes eran esos ?
+*SER:	&e &e este (.) el [/] el +//.
+*TER:	el rey .
+*SER:	el guey [*] .
+%spa:	$IMIT
+%err:	guey = rey $PHO ;
+*TER:	y ese (.) el otro ?
+*SER:	quién ?
+*TER:	el otro rey (.) y falta uno +//.
+*SER:	uno ?
+*TER:	+, que ahí no esta (.) debe ser que no ha llegado todavía .
+*SER:	que no ha llega(d)o a casa .
+*TER:	claro .
+*SER:	un degalo [*] .
+%err:	degalo = regalo $PHO ;
+*TER:	está repartiendo regalos por ahí todavía .
+*SER:	si [/] si .
+*TER:	y esto blanco qué es ?
+*TER:	no sabes lo qué es ?
+*SER:	qué es ?
+*SER:	y qué es esto banco [*] ?
+%err:	banco = blanco $PHO ;
+*TER:	eso nada .
+*SER:	pintura ?
+*TER:	claro pintura .
+*SER:	y esto [/] esto nego , qué es ?
+%err:	nego = negro $PHO ;
+*TER:	también pintura que ha caído .
+*SER:	y esto ?
+*TER:	también pintura .
+*SER:	y esto ?
+*TER:	eso blanco qué es ?
+*SER:	pintura .
+%spa:	$RES
+*TER:	si pero que [/] , que parece ?
+*TER:	es nieve .
+*SER:	ah (.) nieve !
+*TER:	es que ha nevado .
+*SER:	si ha nevado (.) y [/] , y qué es esto ?
+%spa:	$IMIT
+*SER:	nieve , pa(ra) que suenen las campanas ?
+*SER:	y cómo suenan las campanas ?
+*TER:	tolón+tolón !
+*SER:	tirando ?
+*TER:	claro , nunca has visto una campana ?
+*SER:	no .
+%spa:	$RES
+*TER:	ni en los coches de bomberos (.) ni en los de juguete ?
+*SER:	no .
+%spa:	$RES
+*TER:	que tiras de una cuerda (.) hace lin+lin+lin+lin ?
+*SER:	no .
+%spa:	$RES
+*TER:	no lo has visto nunca ?
+*SER:	no .
+%spa:	$RES
+*TER:	es que no tengo ninguna .
+*SER:	<como un> [//] como este señó [*] se ha ponido [*] en la pueta (.) &po &po <no puede> [/] no puede +/.
+*TER:	no puede entrar ni salir .
+*SER:	ni sali [*] (.) no puede enta [*] ni sali .
+%spa:	$IMIT
+%err:	sali = salir $PHO ; enta = entrar $PHO ;
+*SER:	como se ponga este pos [*] no puede sali [*] este señor ni puede enta [*] .
+%err:	pos = pues $PHO ; sali = salir $PHO ; enta = entrar $PHO ;
+*TER:	ni caben más ya .
+*SER:	y qué es eso ?
+*TER:	qué lleva ahí ?
+*TER:	un regalo al niño .
+*SER:	a [/] a qué niño ?
+*TER:	tú no sabes lo que llevan los reyes ?
+*SER:	si .
+%spa:	$RES
+*TER:	qué llevaban ?
+*SER:	un degalo [*] pa(ra) este nino [*] .
+%err:	degalo = regalo $PHO ; nino = niño $PHO ;
+*TER:	y qué eran los regalos ?
+*TER:	oro +//.
+*SER:	oro .
+%spa:	$IMIT
+*SER:	el oro pa(ra) qué es ?
+*CAR:	para hacerse cadenas y collares y sortijas .
+*TER:	vale mucho dinero el oro .
+*CAR:	y pulseras .
+*SER:	pos [*] Maricú [*] lleva una [/] una cosa como ese niño como ese .
+%err:	pos = pues $PHO ; Maricú = Maricruz $PHO ;
+*CAR:	quién es Maricú ?
+*TER:	Maricruz .
+*SER:	la [/] la (.) donde vive nona@f está Maricú [*] .
+%err:	Maricú = Maricruz $PHO ;
+*SER:	ves ?
+*SER:	ya no puede [*] enta [*] lo [*] [//] los señores .
+%err:	puede = pueden $MOR ; entá = entrar $PHO ; lo = los $MOR ;
+*TER:	no .
+*SER:	no .
+%spa:	$IMIT
+*SER:	y logo [*] que hasen [*] los señores ?
+%err:	logo = luego $PHO ; hasen = hacen $PHO ;
+*TER:	pues nada (.) quedarse ahí hasta que no se quite el otro .
+*SER:	y logo [*] van así andando y le disen [*] a este seño [*] que se quite de ahí y logo [*] se quita pa(ra) que ente [*] y logo [*] se da la vuelta pa(ra) enta [*] por aquí .
+%err:	logo = luego $PHO ; disen = dicen $PHO ; seño = señor $PHO ; ente = entre $PHO ; enta = entrar $PHO ;
+*TER:	claro .
+*SER:	y logo [*] +//.
+%err:	logo = luego $PHO ;
+*SER:	ara [*] hase [*] fio [*] ?
+%err:	ara = ahora $PHO ; hase = hace $PHO ; fio = frio $PHO ;
+*TER:	si hace frio si .
+*SER:	pos [*] +//.
+%err:	pos = pues $PHO ;
+*TER:	++ pues se cierra .
+*SER:	pos [*] se sega [*] .
+%err:	pos = pues $PHO ; sega = cierra $PHO ;
+*SER:	po [*] qué no sabe [*] la pueta [*] .
+%err:	po = por $PHO ; sabe = se abre $PHO ; pueta = puerta $PHO ;
+*TER:	porque no se puede cerrar (...) , y esto qué es ?
+*TER:	verde .
+*SER:	qué ?
+*TER:	esto es hierba ?
+*SER:	si .
+%spa:	$RES
+*SER:	yeba [*] se mete aquí .
+%err:	yeba = hierba $PHO ;
+*TER:	mira un bastón , lo ves ?
+*SER:	si .
+%spa:	$RES
+*SER:	pos [*] , quién es ese ?
+%err:	pos = pues $PHO ;
+*TER:	si ya te lo he dicho (.) si lo sabes tú , quién es ese ?
+*SER:	<um (.) san José> [= ! canturreando] .
+*SER:	y quién es aquel ?
+*TER:	<quién ese> [>] ?
+*CAR:	<Sancho Panza> [<] .
+*TER:	Sancho Panza .
+*SER:	y [/] y esos talones que lleva ahí abajo , qué ?
+*TER:	el qué ?
+*CAR:	la madera (.) la peana .
+*TER:	eso es para que se agarre ahí (.) para que no se caiga el muñeco .
+*SER:	es que lleva unos patines ?
+*CAR:	no [/] no lleva unos patines .
+*SER:	y pa(ra) qué es eso ?
+*CAR:	para que se sujete .
+*TER:	para que se sujete (.) para que no se caiga al suelo .
+*CAR:	si no tuviera eso a lo mejor se caía .
+*SER:	pos [*] yo no tengo eso en mi casa (.) no [/] no son muebes [*] .
+%err:	pos = pues $PHO ; muebes = muebles $PHO ;
+*CAR:	claro tú tienes otros muebles diferentes en tu casa , no ?
+*SER:	si .
+%spa:	$RES
+*CAR:	cómo son los muebles de tu casa ?
+*SER:	de oto [*] color como ese no .
+%err:	oto = otro $PHO ;
+*CAR:	si ?
+*SER:	si .
+%spa:	$RES
+*TER:	más oscuros .
+*SER:	más oscuros (.) pero &den dento [*] del muebe [*] tengo unas fotos .
+%err:	dento = dentro $PHO ; muebe = mueble $PHO ;
+*TER:	de quién ?
+*SER:	&d &d mias .
+%spa:	$RES
+*TER:	tú te has hecho fotos ?
+*SER:	qué ?
+*TER:	tú tienes fotos tuyas ?
+*SER:	si .
+%spa:	$RES
+*TER:	y cómo sales en las fotos ?
+*SER:	pos [*] mamá y yo en Fuenla(brada) (.) en Fuenlabrada hay una señora con fotos y madao [*] tantas [*] [//] tantos tapones con [/] con tantas chapas .
+%err:	pos = pues $PHO ; madao = me ha dado $PHO ; tantas = tantos $MOR ;
+%com:	suena el teléfono .
+*CAR:	el teléfono .
+*TER:	www .
+*SER:	y yo &cu &cu cuando llamo dónde está el teléfono aquí ?
+*SER:	dónde ?
+*CAR:	dónde está el teléfono ?
+*SER:	si .
+*CAR:	<aquí no> [/] aquí no tienen teléfono porque esta casa es muy antigua (.) entonces no tenía teléfono todavía .
+*SER:	esto es cuando [*] ha sona(d)o ?
+%err:	cuando = lo que $SYN ;
+*CAR:	no lo se .
+*SER:	qué es eso ?
+*CAR:	pues <a lo mejor era el teléfono> [/] a lo mejor era el teléfono .
+*SER:	el timbe [*] ?
+%err:	timbe = timbre $PHO ;
+*CAR:	puede ser .
+*SER:	a_ver (..) no (.) <y logo [*] pa(ra) qué es> [/] y logo [*] pa(ra) qué es esta pueta [*] que está abía [*] ?
+%err:	logo = luego $PHO ; pueta = puerta $PHO ; abía = abierta $MOR ;
+*CAR:	pues a lo mejor es para que salga la oveja que está aquí dentro .
+*SER:	si , y pa(ra) qué es esto ?
+*CAR:	esto es una goma de borrar .
+*SER:	de bogá [*] ?
+%err:	bogá = borrar $PHO ;
+*SER:	esto es bogá ?
+%err:	bogá = borrar $PHO ;
+*CAR:	esto es un lapiz .
+*SER:	pa(ra) qué ?
+*CAR:	qué has estado haciendo antes con el lapiz ?
+*PAD:	Sergio !
+%com:	el padre le llama desde otra parte de la casa .
+*SER:	qué ?
+*SER:	qué ?
+*PAD:	pórtate bien .
+*SER:	estó [*] vendo [*] esto !
+%err:	estó = estoy $PHO ; vendo = viendo $MOR ;
+*SER:	en [*] tú aquí y te lo enseño !
+%err:	en = ven $PHO ;
+*SER:	en [*] tú aquí y te lo enseño !
+%err:	en = ven $PHO ;
+*PAD:	ahí estás bien .
+*SER:	no quere [*] velo [*] esto .
+%err:	quere = quiere $MOR ; velo = verlo $PHO ;
+*CAR:	no quiere verlo ?
+*CAR:	a lo mejor es que solo te gusta verlo a tí (.) a mi también me gusta verlo (.) es que como es tan bonito , verdad ?
+*SER:	qués [*] esto ?
+%exp:	señalando un buzón .
+%err:	qués = qué es $PHO ;
+*CAR:	no se (.) vamos a preguntarle a Teresa a_ver si sabe lo que es esto .
+*TER:	el qué ?
+*CAR:	esto .
+%exp:	señalando un buzón .
+*SER:	esto .
+%spa:	$IMIT
+*TER:	esto es para echar cartas (.) un buzón .
+*CAR:	ah (.) es un buzón yo creía que era un teléfono .
+*SER:	un buzón pa(ra) echá [*] catas [*] ?
+%err:	echá = echar $PHO ; catas = cartas $PHO ;
+*CAR:	claro porque los reyes como van a echar regalos a los niños (.) a lo mejor es el buzón donde echan los niños las cartas .
+*SER:	duego [*] entan [*] a [/] a la casa &en (.) yo tengo una cata [*] .
+%err:	duego = luego $PHO ; entan = entran $PHO ; cata = carta $PHO ;
+*CAR:	una carta ?
+*SER:	si .
+%spa:	$RES
+*SER:	los gueyes [*] me han ponío [*] la cata [*] en los juguetes , sabe [*] dónde me han ponío [*] la cata [*] ?
+%err:	gueyes = reyes $PHO ; ponío = puesto $MOR ; cata = carta $PHO ; sabe = sabes $PHO ;
+*SER:	<en el ten [*] > [//] en la caja del ten [*] .
+%err:	ten = tren $PHO ;
+*CAR:	o sea que los reyes te han puesto la carta en la caja del tren .
+*SER:	<pa(ra) qué> [/] pa(ra) qué es eso ?
+*TER:	para tí .
+*SER:	pa(ra) mi ?
+*SER:	pa(ra) [//] &po pos [*] a_ver qué es si es pa(ra) mi .
+%err:	pos = pues $PHO ;
+*TER:	qué es eso ?
+*TER:	las letras .
+*SER:	las letas [*] ?
+%err:	letas = letras $PHO ;
+*TER:	para que te las aprendas .
+*TER:	si ?
+*TER:	pero no te las metas en la boca , eh ?
+*SER:	no voy a sacalas [*] pa(ra) contalas [*] .
+%err:	sacalas = sacarlas $PHO ; contalas = contarlas $PHO ;
+*TER:	ah (.) bueno !
+*SER:	cómo es este número ?
+*TER:	es una letra (.) la i .
+*SER:	pos [*] esto <dónde va> [//] dónde iba [*] ?
+%err:	pos = pues $PHO ; iba = va $SYN ;
+*TER:	no si no van (.) van colocadas y pones un nombre con cada letra (.) esa es la a .
+*SER:	estas [//] , esta cómo es ?
+*SER:	dónde va ?
+*TER:	esa es la w (.) según lo que quieras poner .
+*SER:	esto dónde es ?
+*TER:	cuál te gusta más de todas ?
+*SER:	este [/] este .
+*TER:	ese te gusta más ?
+*SER:	si juntado con &es este aquí .
+*TER:	de que color es eso ?
+*SER:	como estos (.) como este y como esto .
+%exp:	señala fichas del mismo color .
+*CAR:	muy bien .
+*SER:	este es como ese y también es +/.
+*TER:	<pues cuéntalas> [>] .
+*CAR:	<y este cómo es> [<] ?
+*TER:	cuéntalas .
+*CAR:	eh (.) Sergio , y este cómo es ?
+*TER:	espera [/] espera .
+*CAR:	eh (.) Sergio , y este cómo es ?
+*SER:	como pocos (.) mira es , te lo digo ?
+*CAR:	si .
+*SER:	coges esos dos .
+%com:	Carlos los coge y los junta .
+*SER:	no [/] no lo juntes .
+*TER:	venga sepáralos por colores .
+*SER:	se separa (.) este es &co como estoros [*] (.) como estos .
+%err:	estoros = estos dos $PHO ;
+*CAR:	muy bien .
+*SER:	<este es> [//] pos [*] esto es una casa .
+%err:	pos = pues $PHO ;
+*TER:	eso es una casa ?
+*SER:	si , y esto qué es ?
+%spa:	$RES
+*TER:	una p@l .
+*SER:	una p@l , pa(ra) qué pa(ra) ponerla aquí ?
+*TER:	no .
+*SER:	pa(ra) qué es ?
+*TER:	si la quieres poner ahí también .
+*SER:	<pos [*] la pongo así> [//] la estoy poniendo así , y esto pa(ra) qué es ?
+%err:	pos = pues $PHO ;
+*CAR:	eso para qué es ?
+*TER:	eso será el punto y la coma .
+*SER:	y esto pa(ra) qué es ?
+*TER:	eso también para ponerlo donde quieras (.) sepáralo por colores (.) los del mismo color juntos .
+*SER:	el mismo color juntos .
+%spa:	$IMIT
+*SER:	este va con este ?
+*TER:	si .
+*SER:	si &es &es ese va con ese .
+*TER:	esos son iguales ?
+*TER:	no (.) esos van solos porque no hay más iguales .
+*SER:	pos [*] logo [*] cuando baje más se lo enseñaré .
+%err:	pos = pues $PHO ; logo = luego $PHO ;
+*CAR:	a qué hora tienes que comer Sergio ?
+*SER:	qué ?
+*SER:	que a qué hora +//.
+*SER:	cora [*] es ?
+%err:	cora = qué hora $PHO ;
+*CAR:	pues son las [//] la una y media .
+*SER:	voy a comé [*] ya ?
+%err:	comé = comer $PHO ;
+*CAR:	no se .
+*SER:	es esta ?
+%exp:	Sergio se refiere a una letra de un color determinado .
+*CAR:	a que hora te han dicho que le dejemos ?
+%exp:	se refiere a Sergio dirigiéndose a Teresa
+*TER:	cuando nos vayamos .
+*SER:	esta ?
+%com:	insiste en que le contesten a su pregunta .
+*TER:	esta es verde , de qué color es ?
+*TER:	verde (.) mira como tu jersey (.) verde .
+*TER:	de qué color es eso ?
+*SER:	&co como este es .
+*TER:	como cuál es ese ?
+*CAR:	muy bien .
+*SER:	como este .
+*CAR:	si (.) muy bien .
+*TER:	y este ?
+*SER:	este <es como> [/] es como este .
+*TER:	si , pero en tu jersey tienes este color ?
+*SER:	ah (.) es que un dia estos los chicos y esta cosa ni esto (.) ni esto (.) ni to(do) eso .
+*TER:	eso son dibujos .
+*SER:	<hay de tanta cosa esta> [*] ?
+%err:	hay de tanta cosa esta = hay tanto de esta cosa $SYN ;
+*TER:	qué es eso ?
+*SER:	un limón .
+%spa:	$RES
+*TER:	una manzana .
+*SER:	una mansana [*] .
+%spa:	$IMIT
+%err:	mansana = manzana $PHO ;
+*TER:	y esto ?
+*SER:	un niño .
+%spa:	$RES
+*TER:	y esto ?
+*SER:	un deló .
+%spa:	$RES
+%err:	deló = reloj $PHO ;
+*TER:	y esto ?
+*SER:	un tambó .
+%spa:	$RES
+%err:	tambó = tambor $PHO ;
+*TER:	y esto ?
+*SER:	una <bosa de cagüeta> [*] .
+%spa:	$RES
+%err:	bosa de cagüeta = bolsa de cacahuetes $PHO ;
+*CAR:	una ?
+*TER:	bueno es un huevo de Pascua .
+*CAR:	qué has dicho que era ?
+*TER:	una bolsa de +//.
+*SER:	++ <un hueso> [/] un hueso .
+%spa:	$RES
+*TER:	y esto ?
+*SER:	un pe [*] .
+%spa:	$RES
+%err:	pe = pie $PHO ;
+%com:	van señalando los distintos dibujos y Sergio contesta .
+*SER:	una niña (.) un caballo (.) y esto es un guey [*] .
+%err:	guey = rey $PHO ;
+*TER:	esto es una reina porque lleva xxx .
+*SER:	esto es una ganja [*] .
+%err:	ganja = granja $PHO ;
+*SER:	una cosa pa(ra) casá [*] (.) pa(ra) casá [*] este gatón [*] .
+%err:	casá = cazar $PHO ; gatón = ratón $PHO ;
+*SER:	una tueca [*] .
+%err:	tueca = tuerca $PHO ;
+*TER:	esto es una +//.
+*SER:	++ tueca [*] .
+%err:	tueca = tuerca $PHO ;
+*TER:	no (.) es una lámpara .
+*SER:	no .
+*TER:	lo que pasa es que ahí no se ve bien .
+*SER:	la tueca .
+%err:	tueca = tuerca $PHO ;
+*TER:	no fíjate bien (.) para abrir la puerta , qué se utiliza para abrir las puertas ?
+*SER:	una llave .
+%spa:	$RES
+*TER:	una llave , y esto ?
+%spa:	$REF
+*SER:	una oveja .
+%spa:	$RES
+*TER:	una jarra .
+*SER:	una jara [*] .
+%spa:	$IMIT
+%err:	jara = jarra $PHO ;
+*TER:	y esto ?
+*SER:	un limón .
+%spa:	$RES
+*TER:	un limón ?
+*SER:	si [= ! riendo] .
+%spa:	$RES
+*TER:	esto es un limón ?
+*SER:	si <un limón> [/] esto es un limón , <qué es esto> [/] qué es esto ?
+*TER:	un niño y una niña que les hemos quitado la cabeza sin darnos cuenta .
+*SER:	do [*] está ?
+%err:	do = donde $PHO ;
+*TER:	no está (.) se ha roto .
+*CAR:	a_ver déjame ver los dibujos a mi también (.) uy (.) que bonitos son !
+*SER:	eso es un caballo y esto es una guienda [*] (.) esto es una casa pa(ra) casar a este (.) una lámpara y una llave y un jarón [*] y +/.
+*TER:	no me digas un limón .
+*SER:	y un limón .
+%spa:	$IMIT
+*TER:	no (.) un bote .
+*SER:	<y un bote chulo> [/] y un bote chulo .
+*TER:	fíjate que bien se sabe todos !
+*TER:	y esto qué era que te lo he dicho antes ?
+*SER:	un limón .
+%spa:	$RES
+*TER:	no (.) una +//.
+*SER:	++ una naranja .
+*TER:	una man(zana) +//.
+*SER:	++ (ma)no .
+*TER:	una man(zana) +//.
+*SER:	++ (ma)na .
+*TER:	+, (man)za(na) +//.
+*SER:	++ (za)ja .
+*TER:	manza(na) +//.
+*SER:	++ (manza)na .
+*CAR:	qué habías dicho que era antes ?
+*TER:	un limón .
+*CAR:	un limón ?
+*SER:	un limón .
+%spa:	$IMIT
+*SER:	es una mansana [*] !
+%err:	mansana = manzana $PHO ;
+*TER:	es una manzana .
+%spa:	$REF
+*SER:	esto son mansanas [*] con un limón .
+*TER:	y esto de ahí abajo que también te he dicho qué era ?
+*SER:	una guienda [*] .
+%spa:	$RES
+%err:	guienda = rienda $PHO ;
+*TER:	y esto ?
+*SER:	una llave .
+%spa:	$RES
+*TER:	que sirve (.) para qué ?
+*SER:	pa(ra) la llave .
+%spa:	$RES
+*TER:	para qué sirven las llaves ?
+*SER:	pa(ra) chulo (.) o pa(ra) chula [= ! riendo] .
+*CAR:	pa(ra) chulo [= ! riendo] .
+*SER:	y pa(ra) chulo y pa(ra) chula [= ! riendo] .
+*TER:	bueno entonces , te gustan las letras ?
+*SER:	y qué hay allí metido ?
+*TER:	eso es un +//.
+*TER:	en la bolsa ?
+*SER:	si .
+%spa:	$RES
+*TER:	ropa .
+*SER:	y [/] y &aq aquella llave que lleva ?
+*TER:	esta son las llaves de la casa .
+*SER:	<un muñeco> [/] un muñeco .
+*TER:	no sabes quién es ese muñeco ?
+%com:	el niño asiente .
+*TER:	quién ?
+*SER:	el que come de esto .
+*TER:	qué es eso ?
+*TER:	palomitas .
+*SER:	paomitas [//] [*] el que come paomitas [*] .
+%spa:	$IMIT
+%err:	paomitas = palomitas $PHO ;
+*TER:	ese es E+t , no has visto la película de E+t ?
+*SER:	qué (.) que si me usta [*] ?
+%err:	usta = gusta $PHO ;
+*SER:	si la [/] la película de E+t me usta [*] la de E+t .
+%err:	usta = gusta $PHO ;
+*TER:	y ese es E+t , y qué dice E+t ?
+*TER:	la has visto ?
+*TER:	qué dice ?
+*SER:	qué ?
+*TER:	mi casa !
+*TER:	no la has visto ?
+*SER:	si .
+%spa:	$RES
+*CAR:	te gusta ?
+*SER:	si .
+%spa:	$RES
+*SER:	es [/] es lo que más me usta [*] (.) juntalo [*] .
+%err:	usta = gusta $PHO ; juntalo = juntarlo $PHO ;
+*TER:	claro .
+*SER:	si junto este va con este ?
+*TER:	si tu quieres si .
+*SER:	pos [*] &co , po [*] qué se juntan ?
+%err:	pos = pues $PHO ; po = por $PHO ;
+*SER:	pa(ra) qué hay que juntalas [*] ?
+%err:	juntalas = juntarlas $PHO ;
+*TER:	para poner nombres (.) son letras .
+*SER:	letas [*] pa(ra) poné [*] nombes [*] ?
+%err:	letas = letras $PHO ; poné = poner $PHO ; nombes = nombres $PHO ;
+*TER:	esta es la ese .
+*SER:	la ese y la +/.
+*TER:	y esta es la e .
+*SER:	lo que tenía que meté [*] esto +/.
+%err:	meté = meter $PHO ;
+*TER:	y aquí pone se .
+*SER:	se .
+%spa:	$IMIT
+*TER:	y si pones la erre , dónde está la erre a_ver ?
+*SER:	la ere +//.
+*TER:	ser .
+*SER:	ses [*] .
+%spa:	$IMIT
+%err:	ses = ser $MOR ;
+*TER:	y si ponemos la ge y la i y la o pone Sergio (..) ahí pone Sergio .
+%com:	ahora Sergio está juntando letras .
+*TER:	ahí pone am .
+*SER:	mo , y aquí qué pone ?
+*SER:	(..) aquí que pone ?
+*TER:	amo .
+*SER:	amo .
+%spa:	$IMIT
+*SER:	aquí ?
+*TER:	si quitas esta pone mo nada mas .
+*SER:	qué pone ?
+*TER:	amo .
+*SER:	aquí pone +/.
+*TER:	ah (.) no es la eme !
+*SER:	la eme donde va [= ! tarareando] ?
+*TER:	cuál te gusta más de todas ?
+*TER:	qué letra te gusta más ?
+*SER:	&e &e esta .
+*TER:	esa por el color ?
+*SER:	no mejó [*] esta me usta [*] .
+%err:	mejó = mejor $PHO ; usta = gusta $PHO ;
+*TER:	de qué color es eso ?
+*TER:	no lo sabes , no ?
+*SER:	no pos [*] , de qué es ?
+%err:	pos = pues $PHO ;
+*TER:	rojo .
+*SER:	dojo [*] .
+%spa:	$IMIT
+%err:	dojo = rojo $PHO ;
+*TER:	sepáramelos por colores (.) los del mismo color así .
+*SER:	esto (.) esos .
+*TER:	te falta una .
+*SER:	este .
+*TER:	y ahora los de este .
+*SER:	este .
+%spa:	$IMIT
+*TER:	y ahora los se este Sergio .
+*SER:	qué ?
+*TER:	los de este color .
+*SER:	no más .
+*TER:	no hay más ?
+*TER:	yo creo que si que había uno más .
+%com:	el niño coloca un color mal .
+*TER:	no eso no es igual .
+%com:	el niño lo rectifica .
+*TER:	y ahora los de este .
+*SER:	los de ese ?
+*SER:	come palomitas [= ! canturreando] .
+*CAR:	come palomitas si (.) le deben de gustar mucho las palomitas a E+t (.) mira además le llegan a la boca (.) mira como se las come , ves ?
+%spa:	$REF
+*SER:	y cuando se come ota [*] qué hase [*] ?
+%err:	ota = otra $PHO ; hase = hace $PHO ;
+*CAR:	cuando se come otra pues coge otra palomita y se la come y cuando se gasta ya todo [/] todo lo de las palomitas se compra otra bolsa de palomitas .
+*SER:	y case [*] ?
+%err:	case = qué hace $PHO ;
+*CAR:	pues se las come otra vez , tú que haces con las palomitas ?
+*CAR:	tú has comido palomitas alguna vez ?
+*SER:	si he comi(d)o paomitas [*] cuando he ido al sico [*] con Patisia [*] .
+%err:	paomitas = palomitas $PHO ; sico = circo $PHO ; Patisia = Patricia $PHO ;
+*TER:	y qué has visto en el circo ?
+*TER:	has visto los leones ?
+*SER:	y <logo [*] cuando> [*] se me ha acabado ?
+%exp:	se refiere a las fichas .
+%err:	logo = luego $PHO ; logo cuando = ahora que $SYN ;
+*SER:	no tenes [*] más ?
+%err:	tenes = tiens $MOR ;
+*SER:	ay (.) de dónde es esta ?
+*TER:	esa va ahí (..) y esa también (.) y esa (.) y otra más .
+*SER:	pos [*] esta me usta [*] meterla aquí .
+%err:	pos = pues $PHO ; usta = gusta $PHO ;
+*SER:	no esta no .
+%exp:	señalando otra ficha .
+*TER:	y esta ?
+*SER:	esta <me usta [*] a mi> [>] .
+%err:	usta = gusta $PHO ;
+*TER:	<y esta con quién va> [<] ?
+*SER:	esta va +//.
+*TER:	busca las de su panda .
+*SER:	<su panda (.) su panda (.) su panda> [= ! susurrando] .
+%spa:	$IMIT
+*TER:	que bien .
+*SER:	estos [/] estos (.) esto no va (.) estos .
+%exp:	se refiere a las fichas que está ordenando .
+*TER:	estos con quién van ?
+*SER:	<con estos> [/] con estos .
+*TER:	y con quién mas ?
+*SER:	con este y con este y con este .
+*TER:	ponlos juntos .
+*SER:	pos [*] este mira , con qué va este ?
+*SER:	esta gafa con qué va ?
+*TER:	&=rie .
+*SER:	<con qué> [//] quién lleva la gafa esa ?
+*TER:	a quién se la quieres poner ?
+*SER:	a este niño ?
+*SER:	pa(ra) qué es esto ?
+%com:	señala una puerta abierta .
+*SER:	pa(ra) que ente [*] o no ?
+%err:	ente = entre $PHO ;
+*TER:	claro .
+*SER:	si ?
+*SER:	estos han abido [*] la pueta [*] <pa(ra) que> [/] pa(ra) que ente [*] el niño .
+%err:	abido = abierto $MOR ; pueta = puerta $PHO ; ente = entre $PHO ;
+*TER:	quién es el niño (.) ese ?
+*SER:	este .
+*SER:	pa(ra) que ente [*] la señora (.) las señoras llevan gafas ja+ja+ja+ja (.) pos [*] aquí está la [/] la mamá .
+%err:	ente = entre $PHO ; pos = pues $PHO ;
+*SER:	la Vigen [*] lavaba (.) la Vigen [*] estaba sentá [*] pa(ra) [/] pa(ra) lavá [*] pa(ra) lavaba [*] .
+%err:	Vigen = Virgen $PHO ; sentá = sentada $MOR ; lavá = laver $PHO ; lavaba = lavar $MOR ;
+*CAR:	qué lavaba (.) la ropa ?
+*CAR:	eh (.) la Virgen qué lavaba (.) la ropa ?
+*SER:	no .
+%spa:	$RES
+*TER:	eso no lo dice en la canción .
+*SER:	san José tendía la gopa [*] .
+%err:	gopa = ropa $PHO ;
+*CAR:	san José tendía la ropa (.) ah !
+%spa:	$REF
+*SER:	<y la> [/] y la <Vigen [*] lavaba> [/] la Vigen [*] lavaba .
+%err:	Vigen = Virgen $PHO ;
+*TER:	y el niño qué hacía mientras ?
+*SER:	nada .
+%spa:	$RES
+*TER:	nada (.) lo mismo que hace el edu@f , no ?
+%spa:	$REF
+*TER:	dormir .
+*SER:	si .
+%spa:	$RES
+%com:	la prima de Sergio ha entrado en la habitación .
+*SER:	estoy jugando con esto (.) <con estas letas [*] > [/] con estas letas [*] (.) mira !
+%add:	PRI
+%err:	letas = letras $PHO ;
+*SER:	con una leta [*] .
+%err:	leta = letra $PHO ;
+*CAR:	dónde te la guardamos Sergio ?
+*CAR:	te la guardamos aquí o te la guardamos en la bolsa (.) eh ?
+*SER:	en la bolsa .
+*CAR:	en esta bolsa ?
+*SER:	si .
+%spa:	$RES
+*CAR:	venga (.) a_ver (.) pues tú las metes y yo abro la bolsa .
+*CAR:	además te llevas una bolsa muy bonita , verdad ?
+*SER:	si .
+%spa:	$RES
+*TER:	esto es mio (.) no ?
+%exp:	se refiere a un bolígrafo .
+*CAR:	si .
+*TER:	xxx .
+*SER:	bien , y esto ?
+*CAR:	eso es de Sonia .
+*SER:	ah (.) lo dejo aquí .
+*CAR:	ven porque aquí tienes la bolsa .
+*SER:	la [/] la &pue , saca !
+*SER:	qué es esto ?
+*SER:	pa(ra) entá [*] humo .
+%err:	enta = entrar $PHO ;
+*CAR:	cuéntaselo [/] cuéntaselo para qué es la casa .
+%exp:	se refiere a la prima de Sergio .
+*SER:	<pa(ra) que salga> [/] pa(ra) que salga esto po [*] aquí (.) pa(ra) que salga el humo .
+%err:	po = por $PHO ;
+*CAR:	y quién está dentro de la casa (.) eh ?
+*CAR:	quién está dentro ?
+*SER:	se lo enseño ?
+*CAR:	si .
+*SER:	el niño y san José y la Vigen [*] <y la vaca> [//] y esta vaca y este es +//.
+%err:	Vigen = Virgen $PHO ;
+*SER:	quién es este ?
+*CAR:	era un +//.
+*CAR:	quién te ha traido a ti los [/] los regalos ?
+*SER:	ese (.) es (.) eh (.) me ha dicho Sonia que es un guey [*] .
+%err:	guey = rey $PHO ;
+*CAR:	si es un rey .
+*SER:	es este (.) el que lleva lo [*] guegalos [*] .
+%err:	lo = los $MOR ; guegalos = regalos $PHO ;
+*CAR:	si un Rey Mago .
+*SER:	mira este es un Guey [*] Mago que lleva los legalo [*] y este también es oto [*] que [/] que lleva oto [*] legalo [*] .
+%add:	PRI
+%err:	Guey = Rey $PHO ; legalo = regalos $PHO ; oto = otro $PHO ; legalo = regalo $PHO ;
+*SER:	como este está en medio <de la> [/] de la pueta [*] (.) pos [*] logo [*] da la vuelta y le ise [*] a ese señó [*] que [/] que se quita [*] y enta [*] al patio (.) se da la vuelta y entan [*] .
+%add:	PRI
+%err:	pueta = puerta $PHO ; pos = pues $PHO ; logo = luego $PHO ; ise = dice $PHO ; señó = señor $PHO ; quita = quite $MOR ; enta = entra $PHO ; entan = entran $PHO ;
+*SER:	ma [*] enseñado ese niño a pintá [*] con estas dos cosas (.) si y un papel .
+%add:	PRI
+%exp:	se refiere a Carlos el que le está entrevistando .
+%err:	ma = me ha $PHO ; pintá = pintar $PHO ;
+*CAR:	pero esto cómo se llamaba ?
+*SER:	eh (.) um (.) una cosa que se [/] se hase [*] así .
+%err:	hase = hace $PHO ;
+*CAR:	y sirve para borrar .
+*SER:	para bogá [*] .
+%spa:	$IMIT
+%err:	bogá = borrar $PHO ;
+*CAR:	si .
+*SER:	y esto pa(ra) pintá [*] .
+%err:	pintá = pintar $PHO ;
+*CAR:	y esto cómo se llama ?
+%com:	la prima de Sergio ha salido de la habitación .
+*TER:	esto lo quieres Sergio o lo tiro ?
+*SER:	um (.) si .
+%spa:	$RES
+*TER:	lo quieres ?
+*SER:	si .
+*TER:	toma .
+%spa:	$RES
+*SER:	&cua (.) yo no voy a sacá [*] de abajo las letas [*] poque [*] si no el Osca [*] me las quita .
+%err:	sacá = sacar $PHO ; letas = letras $PHO ; Osca = Oscar $PHO ;
+*TER:	ah (.) claro .
+*SER:	y los tene [*] ebajo [*] el [*] sillón y yo no [/] no tengo .
+%err:	tene = tiene $MOR ; ebajo = debajo $PHO ; el = del $MOR ;
+*SER:	ya veás [*] cuando vea la [//] el tio Calos [*] la [*] letas [*] se va a poné [*] contento .
+%err:	veás = verás $PHO ; Calos = Carlos $PHO ; la = las $MOR ; letas = letras $PHO ; poné = poner $PHO ;
+*CAR:	le van a gustar , verdad ?
+*SER:	si y logo [*] va a esi [*] que se las queda él .
+%err:	logo = luego $PHO ; esi = decir $PHO ;
+*CAR:	se las queda él ?
+*CAR:	no pero dile que son tuyas .
+*SER:	si .
+*CAR:	tú si quieres se las puedes dejar pero que no se las quede porque son tuyas .
+*SER:	que no se las quede .
+%spa:	$IMIT
+*SER:	<que si no me voy yo solo> [//] que si no me voy yo en el ten [*] solo a su casa le quito las letas [*] y me las llevo yo a mi casa .
+%err:	ten = tren $PHO ; letas = letras $PHO ;
+*CAR:	<muy bien> [/] muy bien (.) bueno pues me parece que te tienes que bajar ya a comer , no ?
+*SER:	si .
+%spa:	$RES
+*CAR:	que han venido a buscarte .
+*SER:	que quién ha venido a buscarme ?
+*CAR:	quién ha venido a buscarte ?
+*SER:	la pima [*] .
+%err:	pima = prima $PHO ;
+*CAR:	ah (.) tu prima , y cómo se llama tu prima ?
+*SER:	la pima [*] Cala [*] .
+%err:	pima = prima $PHO ; Cala = Carla $PHO ;
+*CAR:	pues bueno Sergio +//.
+*SER:	qué ?
+*CAR:	+, que muy bien (.) que muchas gracias .
+*CAR:	otro dia vendremos a verte para que nos sigas contando qué_tal has empezado el colegio , eh ?
+*SER:	si .
+@End

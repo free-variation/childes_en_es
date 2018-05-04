@@ -1,0 +1,356 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother , AB2 Abuelo Grandfather
+@ID:	spa , eng|OreaPine|CHI|||||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@ID:	spa , eng|OreaPine|AB2|||||Grandfather|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	08-AUG-2001
+@Location:	Madrid
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza , el abuelo está en la terraza pero apenas interviene
+@Situation:	1
+@Time Start:	8:00
+*CHI:	no .
+%act:	da vueltas en un tazón de leche y galletas de tipo María Fontaneda mientras MOT le coloca un babero
+*CHI:	xxx leche e(s)te . [+ NON]
+*CHI:	no .
+*CHI:	&=e no !
+*MOT:	&=q no qué , Juan ?
+*CHI:	e(s) mía .
+*CHI:	< e(s) mía > [/] e(s) mía .
+%par:	quejándose
+*MOT:	vale [x 2] .
+*MOT:	pues tú tienes la tuya y yo tengo la mía , Juan .
+%exp:	se refiere a la cucharilla , cada uno tiene una dentro del tazón
+*CHI:	e(s) mía .
+*MOT:	pues venga , tuya .
+*MOT:	a ver < cómo abres cómo > [/] cómo abres la boca y metes la cuchara .
+*CHI:	0 .
+%act:	coge un poco de leche con galletas y se la mete en la boca con cuidado
+*MOT:	ahora me toca a mí .
+*MOT:	&=q vale ?
+*CHI:	&=e yo !
+*MOT:	&=q tú solo ?
+*MOT:	tráe me servilletas , por+favor .
+%add:	FAT
+*FAT:	sí .
+%add:	MOT
+*AB2:	madre .
+*AB2:	&=q tú solito comes ?
+*CHI:	0 .
+%act:	se come otra cucharada
+*AB2:	solito Juan come .
+*MOT:	&=q sí o no ?
+*MOT:	venga , Juan .
+*MOT:	a ver .
+*MOT:	ahora .
+*AB2:	madre .
+*AB2:	qué cucharota .
+*CHI:	0 .
+%act:	se le cae un trozo de galleta sobre la mesa
+*MOT:	Juan .
+%act:	coge la cuchara y empieza a darle de comer
+*CHI:	0 [*] ha caído .
+%err:	0 = se $MOR $LOS $PREFIX
+*MOT:	&=q se te ha caído , Juan ? [+ COR]
+*CHI:	sí .
+*MOT:	&=q qué se ha caído ?
+*CHI:	e(l) [*] leche .
+%err:	el = la $SYN $SUB
+*MOT:	&=q la leche ? [+ COR]
+*MOT:	&=q y dónde ?
+*AB2:	en el suelo .
+*AB2:	encima +//.
+*MOT:	&=q dónde se ha caído ?
+*AB2:	encima del pantalón .
+*MOT:	&=q dónde se ha caído , Juan ?
+*CHI:	aquí .
+%act:	se señala las piernas
+*MOT:	&=q y eso qué es ?
+*CHI:	aquí .
+*CHI:	(l)a (r)odilla .
+*MOT:	&=q en la rodilla se ha caído , cariño ?
+*CHI:	0 .
+%act:	coge una galleta , la parte en trozos y la va echando en el tazón de leche
+*CHI:	0 [*] ha ve(r)tido .
+%err:	0 = se $MOR $LOS $PREFIX
+*MOT:	&=q se ha vertido otra vez ? [+ COR]
+*MOT:	&=q y dónde ahora ?
+*CHI:	aquí 0 [*] (l)a mano .
+%err:	0 = en $SUB $LOS
+*MOT:	&=q aquí en la mano ? [+ COR]
+*CHI:	sí .
+*MOT:	me+cachis .
+*MOT:	todo el rato se vierte , &=q verdad ?
+*MOT:	&=q y por qué será ?
+*AB2:	porque no come bien Juan .
+*MOT:	porque Juan quiere hacer lo solo .
+*AB2:	quiere comer Juan solo y lo vierte .
+*CHI:	uh@i .
+%par:	contento
+*CHI:	un ba(r)quito .
+*AB2:	cachito [x 2] &=q eh@i ?
+*AB2:	mucho .
+*MOT:	un barquito .
+%add:	AB2
+*AB2:	&=q un barquito ?
+*FAT:	dejar le hablar al niño .
+%add:	AB2
+*CHI:	yo e(s)ta .
+*CHI:	toma .
+%act:	le da una cucharilla a MOT y coge la que tenía ella
+*MOT:	vale .
+*MOT:	tú esa .
+*MOT:	&=q dónde estuviste ayer ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q dónde estuviste ayer ?
+*CHI:	en un xxx . [+ NON]
+*MOT:	&=q eh@i ?
+*CHI:	0 [*] película .
+%err:	0 = < en una > $SYN $LOS
+*MOT:	&=q viendo una película ? [+ COR]
+*MOT:	no es verdad .
+*MOT:	estuvimos en la playa &=q no ?
+*CHI:	xxx .
+*MOT:	&=q qué hiciste en la playa ?
+*CHI:	vimo(s) camione(s) .
+*MOT:	&=q vimos camiones ?
+*MOT:	&=q sí ?
+*MOT:	&=q dónde ?
+*CHI:	0 [*] 0 [*] pa(r)tido .
+%err:	0 = se $MOR $LOS $PREFIX ; 0 = ha $SYN $LOS $AUXH
+*MOT:	&=q qué ?
+*CHI:	0 [*] 0 [*] pa(r)tido .
+*MOT:	&=q se ha partido ? [+ COR]
+*CHI:	sí .
+*MOT:	vaya .
+*CHI:	quiero una redonda .
+*MOT:	&=q quieres una redonda ?
+*CHI:	sí .
+*MOT:	ahora te la doy .
+*MOT:	toma .
+%act:	saca una galleta y del paquetito y se la da
+*MOT:	una redonda .
+*MOT:	&=q esa ?
+*CHI:	sí .
+*MOT:	&=q a echar la ?
+*CHI:	0 .
+%par:	se ríe
+%act:	echa la galleta en el tazón e intenta cogerla con la cuchara
+*MOT:	cuidado que se te va a verter &=q eh@i ?
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza de un apartamento en la playa , el abuelo está en la terraza pero apenas interviene , FAT está en el interior y apenas interviene
+@Situation:	1
+@Time Start:	8:00
+*CHI:	mi(r)a un ba(r)co .
+%act:	señala hacia la calle
+*CHI:	< mira un a@x mira un abo@x > [//] mira un ba(r)co .
+*MOT:	&=q un barco ?
+*CHI:	sí .
+*MOT:	anda , sí .
+*MOT:	que se está yendo .
+*MOT:	&=q o está entrando ?
+%act:	mira hacia la calle
+*MOT:	&=q se va ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*CHI:	se va . [+ IMI]
+*MOT:	sí .
+*CHI:	quiero má(s) redonda .
+*MOT:	&=q quieres otra redonda ?
+*CHI:	sí .
+*MOT:	espera .
+*MOT:	ahora te la doy .
+*CHI:	grande .
+*MOT:	vale .
+*MOT:	abre la boca , hombre .
+%act:	le da una cucharada de galletas con leche
+*MOT:	toma .
+%act:	le da otra galleta a Juan y él la mete en el tazón
+*CHI:	partir [*] .
+%err:	partir = FIN $MOR $SUB $ROOT
+%act:	mientras parte la galleta con la cucharita
+*MOT:	sí .
+*CHI:	0 .
+%par:	se ríe
+*CHI:	yo [x 2] esta .
+*MOT:	jo@i .
+*MOT:	que con esa se te va a caer , Juan , hombre .
+*CHI:	0 .
+%act:	se mete una cucharada en la boca y se ríe , muy contento
+*MOT:	qué bobalato@f eres .
+*AB2:	dí “no , Mamá” .
+*AB2:	+" no soy bobalato@f .
+*MOT:	&=q no eres bobalato@f ?
+*AB2:	no .
+*CHI:	(s)e 0 [*] toto [: roto] .
+%err:	0 = ha $SYN $LOS $AUXH
+*MOT:	&=q < qué se ha roto > [/] qué se ha roto ? [+ COR]
+*CHI:	(l)a leche .
+*MOT:	la leche no se puede romper .
+*MOT:	&=q qué se puede romper ?
+*MOT:	&=q a ver ?
+*CHI:	(l)a galleta .
+*MOT:	ah@i .
+*MOT:	la galleta sí .
+*MOT:	pero la leche no se puede romper .
+*MOT:	&=q y < qué más se puede romper > [/] qué más se puede romper ?
+*MOT:	&=q quiénes son ?
+*CHI:	abuela no .
+*MOT:	&=q abuela no qué ?
+*CHI:	f(u)era .
+*MOT:	oye .
+*MOT:	a ver si me enfado &=q eh@i ?
+*MOT:	no se echa a nadie fuera .
+*MOT:	toma otra redonda .
+%act:	le da otra galleta
+*CHI:	yo [x 4] sólo .
+%act:	echa él la galleta en el tazón y la machaca con la cucharilla
+*MOT:	&=q < qué estás haciendo > [/] qué estás haciendo , Juan ?
+*MOT:	&=q qué estás haciendo con la galleta ?
+*CHI:	0 [*] 0 [*] partiendo .
+%err:	0 = estoy $SYN $LOS $AUXE ; 0 = la $MOR $LOS $SUFFIX
+*MOT:	&=q partiendo ?
+*CHI:	0 .
+%act:	se mete una cucharada en la boca .
+*MOT:	mm@i qué rica .
+*MOT:	venga eh@i .
+*MOT:	no hagas el tonto .
+*MOT:	bueno .
+*MOT:	no me cuentas qué hiciste ayer en la playa .
+*MOT:	&=q qué hiciste ayer en la playa ?
+*CHI:	un mono sa(l)tarín .
+*MOT:	&=q un mono saltarín hiciste en la playa ?
+*MOT:	&=q pero qué es eso ?
+*FAT:	cuéntale lo de la cometa , Juan .
+*CHI:	xxx .
+*MOT:	oye .
+*MOT:	&=q qué hiciste con la cometa ?
+*CHI:	vola(r) [*] 0 [*] .
+%err:	volar = fin $MOR $SUB $ROOT ; 0 = la $MOR $LOS $SUFFIX
+*MOT:	&=q volar ? [+ ADS]
+*MOT:	&=q y cómo [/] cómo hacía Juan ?
+*CHI:	así .
+%act:	ha movido la mano en el aire
+*MOT:	&=q cómo hacía ?
+*CHI:	ab(r)e la boca .
+*MOT:	&=q abre la boca te decía ?
+*MOT:	&=q quién te decía eso ?
+*CHI:	un d(r)agón .
+*MOT:	&=q un dragón ?
+*CHI:	sí .
+%par:	después hace una pedorreta
+*MOT:	&=q hacía una pedorreta el dragón ?
+*CHI:	sí .
+*MOT:	&=q y qué más ?
+*CHI:	en el culo .
+%act:	se toca en el culo
+*MOT:	&=q qué pasa con el culo ?
+*CHI:	la pedorreta 0 [*] el culo .
+%err:	0 = en $SYN $LOS
+%exp:	pedorreta = trumpeting with the lips , but it could also be intended as a fart (kids expression)
+*MOT:	&=q ah@i ?
+*MOT:	&=q el culo también hace pedorretas ?
+*MOT:	ese yo creo que se tira pedetes .
+*MOT:	no hace pedorretas .
+*CHI:	pe(de)tes [x 2] . [+ IMI]
+%err:	pedetes = small farts
+*MOT:	pedetes , sí .
+*CHI:	un mono sa(l)tarí(n) xxx . [+ NON]
+*MOT:	&=q un mono saltarín como una pulga ?
+*CHI:	sí .
+*MOT:	&=q y eso qué es ?
+*MOT:	&=q el cuento de Papá ?
+*CHI:	0 [*] cuento de Papá .
+%err:	0 = el $SYN $LOS
+*MOT:	un mono saltarín como una pulga .
+*MOT:	&=q y qué más animales hay ?
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza de un apartamento en la playa , el abuelo está en la terraza pero apenas interviene , FAT está en el interior y apenas interviene
+@Situation:	1
+@Time Start:	8:00
+@Warning:	Name on tape location doesn't fit
+*MOT:	&=q un +..?
+*CHI:	++ xxx un (a)nimal . [+ NON]
+*MOT:	&=q y qué otro animal hay ahí ?
+*MOT:	a ver .
+*MOT:	&=q un +..?
+*CHI:	xxx .
+*MOT:	&=q un +..?
+*MOT:	&=q un ti@x +..?
+*CHI:	++ g(r)e@x .
+*MOT:	&=q tigre ?
+%add:	FAT
+*FAT:	no .
+*FAT:	un leopardo .
+%add:	MOT
+*MOT:	un lepardo seco como un +...
+*CHI:	++ palo .
+*MOT:	como un palo .
+*MOT:	< y una > [/] y una +...
+*CHI:	sí .
+*MOT:	&=q la pequeñita [x 2] cómo se llama ?
+*MOT:	una mos::ca +...
+*CHI:	++ (chin)chosa .
+*MOT:	chichosa .
+%par:	se ríe
+*MOT:	&=q y qué más hay ?
+*MOT:	a ver .
+*MOT:	&=q qué más animales hay ?
+*MOT:	un camaleón +...
+*CHI:	++ (multi)colo(r) .
+*MOT:	multicolor .
+*MOT:	&=q vas a querer más galletas ?
+*CHI:	0 .
+%par:	mueve la cabeza ; no
+*MOT:	&=q no , verdad ?
+*CHI:	no .
+*CHI:	< quie(r)o más galletas > [/] quiero más galletas .
+*MOT:	&=q me pasas un paquete de galletas que hay por ahí ?
+%add:	FAT
+*MOT:	está por ahí encima yo creo .
+%add:	FAT
+*FAT:	0 .
+%act:	le da las galletas
+*MOT:	me lo iba a traer y lo he dejado .
+%add:	FAT
+*MOT:	&=q quieres otra ?
+%act:	miestras abre el paquete
+*CHI:	no .
+*MOT:	&=q quieres otra o no ?
+*CHI:	no .
+*MOT:	bueno .
+*MOT:	&=q entonces para qué me la pides ?
+*CHI:	un poquito 0 [*] galleta no .
+%err:	0 = de $SYN $LOS
+*MOT:	venga .
+*MOT:	abre la boca .
+*CHI:	no .
+*MOT:	oye .
+*MOT:	hay que terminar se esto .
+%act:	coge el tazón de leche y se lo acerca a la boca
+*MOT:	mira .
+*MOT:	bebido .
+*MOT:	venga .
+*MOT:	va .
+*MOT:	bebe leche .
+*CHI:	no .
+*MOT:	Juan .
+*MOT:	bebe leche .
+*CHI:	no [x 3] .
+*MOT:	Juan .
+*CHI:	no [x 3] .
+*MOT:	&=q no quieres más ?
+*CHI:	no [x 3] .
+*MOT:	&=q ya no quieres más ?
+*MOT:	&=q qué hace el abuelo ?
+*AB2:	xxx .
+%par:	susurra algo inaudible
+*AB2:	venga .
+*AB2:	que está muy rica .
+*MOT:	venga .
+*CHI:	yo .
+*MOT:	tú solo , venga .
+*MOT:	< tú solo > [/] tú solo .
+*MOT:	pero sin verter la .
+@End

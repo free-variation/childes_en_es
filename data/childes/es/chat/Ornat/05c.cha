@@ -1,0 +1,790 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , MAD Mother , PAD Father
+@ID:	spa|ornat|CHI|1;10.||||Target_Child|||
+@ID:	spa|ornat|MAD|||||Mother|||
+@ID:	spa|ornat|PAD|||||Father|||
+@Media:	05c, video
+@Tape Location:	Z-1;10-213
+@Situation:	María en el salón con el triciclo.
+*CHI:	no . 0_483
+%mor:	adv|no=no . 
+*PAD:	tú eres un trasto . 483_1716
+%mor:	pro:per|tú=you v|se-2S&PRES=be det:art|un&masc=one n|trasto&masc=furniture 
+	. 
+*CHI:	no: . 1716_2626
+%mor:	adv|no=no . 
+*MAD:	dí , no , yo soy una niña . 2626_3845
+%mor:	v|da-1S&PRET=give cm|cm adv|no=no cm|cm pro:per|yo=I v|se-1S&PRES=be det:art|un-FEM=one 
+	co:voc|niña=child . 
+*PAD:	tú qué eres , María ? 3845_4618
+%mor:	pro:per|tú=you pro:int|qué=what v|se-2S&PRES=be cm|cm n:prop|María 
+	? 
+*CHI:	a [= la/una] niña . 4618_5460
+%mor:	prep|a=to co:voc|niña=child . 
+*PAD:	un trasto . 5460_6171
+%mor:	det:art|un&masc=one n|trasto&masc=furniture . 
+*CHI:	a [= la/una] niña ! 6171_7481
+%mor:	prep|a=to co:voc|niña=child ! 
+*PAD:	eres un trasto . 7481_9256
+%mor:	v|se-2S&PRES=be det:art|un&masc=one n|trasto&masc=furniture . 
+*CHI:	a [= la/una] niña ! 9256_10438
+%mor:	prep|a=to co:voc|niña=child ! 
+*PAD:	un trasto ! 10438_11180
+%mor:	det:art|un&masc=one n|trasto&masc=furniture ! 
+*CHI:	a [= la/una] niña ! 11180_12271
+%mor:	prep|a=to co:voc|niña=child ! 
+*PAD:	eres un niño ? 12271_13923
+%mor:	v|se-2S&PRES=be det:art|un&masc=one co:voc|niño=child ? 
+*CHI:	a [= la/una] niño ? 13923_15188
+%mor:	prep|a=to co:voc|niño=child ? 
+*MAD:	eres un niño ? 15188_16004
+%mor:	v|se-2S&PRES=be det:art|un&masc=one co:voc|niño=child ? 
+*CHI:	sí . 16004_16796
+%mor:	co|sí=yes . 
+*PAD:	una@q niño ? 16796_17740
+%mor:	meta|una co:voc|niño=child ? 
+*CHI:	a [= la/una] niña . 17740_19251
+%mor:	prep|a=to co:voc|niña=child . 
+*PAD:	una niño . 19251_20308
+%mor:	det:art|un-FEM=one co:voc|niño=child . 
+*CHI:	a [= la/una] niña . 20308_22020
+%mor:	prep|a=to co:voc|niña=child . 
+*PAD:	una niño . 22020_23030
+%mor:	det:art|un-FEM=one co:voc|niño=child . 
+*CHI:	a [= la/una] niña ! 23030_24598
+%mor:	prep|a=to co:voc|niña=child ! 
+*PAD:	pues eres un trasto ! 24598_26230
+%mor:	co|pues=well v|se-2S&PRES=be det:art|un&masc=one n|trasto&masc=furniture 
+	! 
+*CHI:	no . 26230_27095
+%mor:	adv|no=no . 
+*PAD:	qué eres ? 27095_27923
+%mor:	pro:int|qué=what v|se-2S&PRES=be ? 
+*CHI:	a [= la/una] niña . 27923_29750
+%mor:	prep|a=to co:voc|niña=child . 
+*PAD:	una@q niño . 29750_30855
+%mor:	meta|una co:voc|niño=child . 
+*CHI:	no , a [= la/una] niña . 30855_33148
+%mor:	adv|no=no cm|cm prep|a=to co:voc|niña=child . 
+*PAD:	ah ! 33148_33615
+%mor:	co|ah ! 
+*PAD:	eres una niña ! 33615_34216
+%mor:	v|se-2S&PRES=be det:art|un-FEM=one co:voc|niña=child ! 
+*CHI:	sí . 34216_35326
+%mor:	co|sí=yes . 
+*PAD:	no eres una@q niño ? 35326_36631
+%mor:	adv|no=no v|se-2S&PRES=be meta|una co:voc|niño=child ? 
+*CHI:	no . 36631_37095
+%mor:	adv|no=no . 
+*PAD:	eres un niño . 37095_38230
+%mor:	v|se-2S&PRES=be det:art|un&masc=one co:voc|niño=child . 
+*CHI:	sí . 38230_39138
+%mor:	co|sí=yes . 
+*MAD:	y Papá qué es ? 39138_40168
+%mor:	coord|y=and n:prop|Papá pro:int|qué=what v|se-3S&PRES=be ? 
+*CHI:	Tedito [= Teíto] . 40168_40905
+%mor:	n:prop|Tedito . 
+*MAD:	pero , es un niño ? 40905_42248
+%mor:	conj|pero=but cm|cm v|se-3S&PRES=be det:art|un&masc=one co:voc|niño=child 
+	? 
+*CHI:	a [= la/una] niño no . 42248_43488
+%mor:	prep|a=to co:voc|niño=child adv|no=no . 
+*MAD:	qué es ? 43488_44436
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*CHI:	qué ? 44436_45746
+%mor:	pro:int|qué=what ? 
+*MAD:	qué es Papá ? 45746_46623
+%mor:	pro:int|qué=what v|se-3S&PRES=be n:prop|Papá ? 
+*CHI:	qué ? 46623_47836
+%mor:	pro:int|qué=what ? 
+@Tape Location:	Z-1;10-214
+@Situation:	María en el salón; está montada en el triciclo y empieza a saltar sobre él.
+*CHI:	a monta(r) [= a montar] . 47836_49741
+%mor:	prep|a=to v|monta-INF=climb_on . 
+*MAD:	a montar , di que sí . 49741_51131
+%mor:	prep|a=to v|monta-INF=climb_on cm|cm v|da-1S&PRET=give prep|que=than co|sí=yes 
+	. 
+*CHI:	papapapapapapapapapapa@wp [% empieza a saltar] . 51131_57470
+%mor:	wplay|papapapapapapapapapapa . 
+*MAD:	María no es un caballo . 57470_58895
+%mor:	n:prop|María adv|no=no v|se-3S&PRES=be det:art|un&masc=one n|caballo&masc=horse 
+	. 
+*MAD:	que es un triciclo , mi vida . 58895_60081
+%mor:	prep|que=than v|se-3S&PRES=be det:art|un&masc=one n|triciclo&masc=tricycle 
+	cm|cm det:pos|mi=my co:voc|vida=life . 
+*CHI:	un caballo . 60081_61851
+%mor:	det:art|un&masc=one n|caballo&masc=horse . 
+*PAD:	no . 61851_62371
+%mor:	adv|no=no . 
+*CHI:	un caballo , un caballo , un caballo [% saltando] . 62371_65676
+%mor:	det:art|un&masc=one n|caballo&masc=horse cm|cm det:art|un&masc=one n|caballo&masc=horse 
+	cm|cm det:art|un&masc=one n|caballo&masc=horse . 
+*CHI:	&=rie caballo , mi caballo ! 65676_70008
+%mor:	n|caballo&masc=horse cm|cm det:pos|mi=my n|caballo&masc=horse ! 
+*MAD:	que tienes un caballo ? 70008_71095
+%mor:	prep|que=than v|tene-2S&PRES=have det:art|un&masc=one n|caballo&masc=horse 
+	? 
+*CHI:	caballo , caballo ! 71095_72606
+%mor:	n|caballo&masc=horse cm|cm n|caballo&masc=horse ! 
+*MAD:	te vas a hacer pupa . 72606_75348
+%mor:	pro:per|te=you v|i-2S&PRES=go prep|a=to v|hace-INF=do n|pupa&fem=pimple 
+	. 
+*MAD:	oye . 75348_77586
+%mor:	co|oye=listen . 
+*MAD:	cuántos añitos tienes ? 77586_80476
+%mor:	pro:int|cuánto-PL=how_much n|año-DIM-MASC-PL=year v|tene-2S&PRES=have 
+	? 
+*CHI:	0 [% se baja del triciclo] . 80476_81840
+@Tape Location:	Z-1;10-215
+@Situation:	María en el salón. Se acaba de bajar del triciclo.
+*MAD:	eh María ? 81840_82991
+%mor:	co|eh n:prop|María ? 
+*CHI:	tonta . 82991_86955
+%mor:	n|tonto-FEM=dummy . 
+%com:	se esconde detrás de la mesa
+*MAD:	por_qué ? 86955_87805
+%mor:	pro:int|por_qué=why ? 
+*CHI:	(n)o e(s)tá . 87805_88636
+%mor:	adv|no=no v|esta-3S&PRES=be . 
+*CHI:	no (e)stá María . 88636_89945
+%mor:	adv|no=no v|esta-3S&PRES=be n:prop|María . 
+*MAD:	dónde está María ? 89945_91506
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be n:prop|María ? 
+*MAD:	enfadica que eres una enfadica . 91506_95070
+%mor:	n|enfadica&fem=angry_person prep|que=than v|se-2S&PRES=be det:art|un-FEM=one 
+	n|enfadica&fem=angry_person . 
+*CHI:	&=rie . 95070_97318
+*MAD:	ya ves ? 97318_98541
+%mor:	adv|ya=already co|ves=see ? 
+*PAD:	sí . 98541_99138
+%mor:	co|sí=yes . 
+*CHI:	cucú &=rie . 99138_105361
+%mor:	n|cucú&masc=cuckoo . 
+*MAD:	cucú . 105361_106541
+%mor:	n|cucú&masc=cuckoo . 
+*MAD:	tás@c cucú . 106541_112251
+%mor:	chi|tás n|cucú&masc=cuckoo . 
+*MAD:	tás@c . 112251_114553
+%mor:	chi|tás . 
+*MAD:	cucú . 114553_117626
+%mor:	n|cucú&masc=cuckoo . 
+*PAD:	⌈es que no enfoca⌉ bien esto +... 117626_119298
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no v|enfoca-3S&PRES=focus adv|bien=well 
+	det:dem|este-MASC=this +... 
+*MAD:	⌊tás⌋@c . 119298_121358
+%mor:	chi|tás . 
+*MAD:	oye , María . 121358_123463
+%mor:	co|oye=listen cm|cm n:prop|María . 
+*CHI:	qué ? 123463_124653
+%mor:	pro:int|qué=what ? 
+*MAD:	me pongo triste ? 124653_126503
+%mor:	pro:per|me=me v|pone-1S&PRES=put adj|triste=sad ? 
+*CHI:	sí . 126503_127605
+%mor:	co|sí=yes . 
+*MAD:	pues ven a darme un beso , anda . 127605_129516
+%mor:	co|pues=well co|ven=come prep|a=to v|da-INF~pro:clit|1S det:art|un&masc=one 
+	n|beso&masc=kiss cm|cm co|anda=come_on . 
+*CHI:	no a t(r)iste [= triste] . 129516_130805
+%mor:	adv|no=no prep|a=to adj|triste=sad . 
+*MAD:	quieres que me ponga triste ? 130805_132118
+%mor:	v|quere-2S&PRES=want prep|que=than pro:per|me=me v|pone-13S&SUB&PRES=put 
+	adj|triste=sad ? 
+*CHI:	sí . 132118_132695
+%mor:	co|sí=yes . 
+*MAD:	no me da la gana . 132695_133421
+%mor:	adv|no=no pro:per|me=me v|da-3S&PRES=give det:art|el&FEM&SG=the n|gana&fem=feeling 
+	. 
+*CHI:	sí , t(r)iste [= triste] . 133421_134603
+%mor:	adv|sí=yes cm|cm adj|triste=sad . 
+*MAD:	no: . 134603_135215
+%mor:	adv|no=no . 
+*CHI:	sí t(r)iste [= triste] . 135215_136458
+%mor:	adv|sí=yes adj|triste=sad . 
+*MAD:	estoy contenta . 136458_136970
+%mor:	v|esta-1S&PRES=be adj|contento-FEM=content . 
+@Tape Location:	Z-1;10-216
+@Situation:	María en el salón con mamá.
+*CHI:	sí t(r)iste [= triste] , t(r)iste [= triste] . 136970_140561
+%mor:	adv|sí=yes adj|triste=sad cm|cm adj|triste=sad . 
+*MAD:	cántale a Papá la canción de cual . 140561_143578
+%mor:	v|canta-2S&IMP~pro:clit|3S prep|a=to n:prop|Papá det:art|el&FEM&SG=the 
+	n|canción&fem=song prep|de=of pro:rel|cual=which . 
+*MAD:	cántale una canción , anda . 143578_144826
+%mor:	v|canta-2S&IMP~pro:clit|3S det:art|un-FEM=one n|canción&fem=song cm|cm 
+	co|anda=come_on . 
+*CHI:	copilla@wp copilla@wp copilla@wp cupira@wp gupira@wp gupira@wp gupira@wp [% cantando] . 144826_156543
+%mor:	wplay|copilla wplay|copilla wplay|copilla wplay|cupira wplay|gupira wplay|gupira 
+	wplay|gupira . 
+*CHI:	asanu@wp ? 156543_157376
+%mor:	wplay|asanu ? 
+*CHI:	sí . 157376_158236
+%mor:	co|sí=yes . 
+*CHI:	así ? 158236_159138
+%mor:	adv|así=thus ? 
+*MAD:	sí . 159138_159838
+%mor:	co|sí=yes . 
+*CHI:	gupira@wp gupira@wp gupila@wp gupila@wp [% cantando] . 159838_164556
+%mor:	wplay|gupira wplay|gupira wplay|gupila wplay|gupila . 
+*CHI:	ese no . 164556_165548
+%mor:	det:dem|ese=that co|no=no . 
+*MAD:	cuando tú dices el día tienes que decir también el año . 165548_167703
+%mor:	conj|cuando=when pro:per|tú=you v|deci-2S&PRES=say det:art|el&MASC&SG=the 
+	n|día&masc=day v|tene-2S&PRES=have prep|que=than v|deci-INF=say adv|también=also 
+	det:art|el&MASC&SG=the n|año&masc=year . 
+*PAD:	ah ! 167703_168673
+%mor:	co|ah ! 
+*PAD:	es verdad . 168673_169815
+%mor:	v|se-3S&PRES=be co|verdad=right . 
+*MAD:	un caro , dices . 169815_171160
+%mor:	det:art|un&masc=one adj|caro-MASC=dear cm|cm v|deci-2S&PRES=say . 
+*PAD:	este año es el ochenta y ocho , verdad María ? 171160_173623
+%mor:	det:dem|este=this n|año&masc=year v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|ochenta&masc=number_eighty coord|y=and n|ocho&masc=number_eight cm|cm 
+	co|verdad=right n:prop|María ? 
+*CHI:	mi(r)a Mamá . 173623_175220
+%mor:	co|mira=look n:prop|Mamá . 
+*MAD:	qué mi vida ? 175220_176695
+%mor:	pro:int|qué=what det:pos|mi=my co:voc|vida=life ? 
+*CHI:	pinto . 176695_177650
+%mor:	v|pinta-1S&PRES=paint . 
+*PAD:	María , qué año es este ? 177650_178681
+%mor:	n:prop|María cm|cm pro:int|qué=what n|año&masc=year v|se-3S&PRES=be 
+	det:dem|este=this ? 
+*MAD:	te has pinta(d)o ? 178681_179410
+%mor:	pro:per|te=you v|habe-2S&PRES=have part|pinta-PPART&MASC=paint ? 
+*CHI:	sí . 179410_179911
+%mor:	co|sí=yes . 
+*MAD:	vaya por Dios ! 179911_180886
+%mor:	co|vaya=come_on prep|por=for n:prop|Dios ! 
+*PAD:	María , tú te sabes en que año estamos ? 180886_182555
+%mor:	n:prop|María cm|cm pro:per|tú=you pro:per|te=you co|sabes=you_know prep|en=in 
+	prep|que=than n|año&masc=year v|esta-1P&PRES=be ? 
+*MAD:	di en el ochenta y ocho , díselo a Papá . 182555_185820
+%mor:	v|da-1S&PRET=give prep|en=in det:art|el&MASC&SG=the n|ochenta&masc=number_eighty 
+	coord|y=and n|ocho&masc=number_eight cm|cm v|deci-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC 
+	prep|a=to n:prop|Papá . 
+*CHI:	no pintas . 185820_186986
+%mor:	adv|no=no v|pinta-2S&PRES=paint . 
+%com:	cogiendo un lápiz y mirando alternativamente sus manos y el lápiz
+*MAD:	no pintas . 186986_188103
+%mor:	adv|no=no v|pinta-2S&PRES=paint . 
+*CHI:	xxx . 188103_188136
+*PAD:	oye , cómo es Papá María ? 188136_191943
+%mor:	co|oye=listen cm|cm co|cómo v|se-3S&PRES=be n:prop|Papá n:prop|María 
+	? 
+*CHI:	0 [% empieza a pintar y luego deja el lápiz] así no . 191943_192511
+%mor:	adv|así=thus adv|no=no . 
+*PAD:	cómo es Papá ? 192511_193345
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Papá ? 
+*PAD:	⌈María⌉ . 193345_194343
+%mor:	n:prop|María . 
+*CHI:	⌊cómo es Papá mi vida⌋ ? 194343_195446
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Papá det:pos|mi=my co:voc|vida=life ? 
+*PAD:	cómo es Papá ? 195446_196371
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Papá ? 
+*MAD:	cómo es Papá hija ? 196371_197586
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Papá co:voc|hija=child ? 
+*MAD:	es feo ? 197586_198935
+%mor:	v|se-3S&PRES=be adj|feo-MASC=ugly ? 
+*CHI:	ya está . 198935_200336
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*PAD:	vale . 200336_200950
+%mor:	co|vale=okay . 
+*MAD:	no nos hace ni caso . 200950_201941
+%mor:	adv|no=no pro:per|nos=us v|hace-3S&PRES=do coord|ni=nor n|caso&masc=event 
+	. 
+@Tape Location:	Z-1;10-217
+@Situation:	María en el salón con mamá y papá.
+*PAD:	ni caso flores . 201941_202438
+%mor:	coord|ni=nor n|caso&masc=event n|flor&fem-PL=blossom . 
+*PAD:	oye , María , cómo es Papá ? 202438_204188
+%mor:	co|oye=listen cm|cm n:prop|María cm|cm co|cómo v|se-3S&PRES=be n:prop|Papá 
+	? 
+*CHI:	&=silencio . 204188_205531
+*MAD:	Papá es feo . 205531_207620
+%mor:	n:prop|Papá v|se-3S&PRES=be adj|feo-MASC=ugly . 
+*CHI:	no . 207620_208508
+%mor:	adv|no=no . 
+*PAD:	cómo es Papá ? 208508_209253
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Papá ? 
+*CHI:	Tidito [= teíto-dim . del nombre de Papá] . 209253_211078
+%mor:	n:prop|Tidito . 
+%com:	coge el triciclo
+*PAD:	pero cómo es , Teíto ? 211078_212613
+%mor:	conj|pero=but pro:int|cómo=how v|se-3S&PRES=be cm|cm n:prop|Teíto ? 
+*MAD:	es feo ? 212613_213390
+%mor:	v|se-3S&PRES=be adj|feo-MASC=ugly ? 
+*MAD:	o es guapo ? 213390_215263
+%mor:	v|oí-1S&PRET=hear v|se-3S&PRES=be adj|guapo-MASC=handsome ? 
+*MAD:	quieres cobrar ? 215263_218961
+%mor:	v|quere-2S&PRES=want v|cobra-INF=charge ? 
+*PAD:	xxx , eh ? 218961_221371
+%mor:	cm|cm co|eh ? 
+*CHI:	xxx . 221371_226560
+*PAD:	oye , Luis cómo es , María ? 226560_227928
+%mor:	co|oye=listen cm|cm n:prop|Luis co|cómo v|se-3S&PRES=be cm|cm n:prop|María 
+	? 
+*CHI:	papo [: guapo] [*] . 227928_229881
+%mor:	adj|guapo-MASC=handsome . 
+*PAD:	cómo es Luis ? 229881_231010
+%mor:	co|cómo v|se-3S&PRES=be n:prop|Luis ? 
+*CHI:	papo [: guapo] [*] . 231010_232105
+%mor:	adj|guapo-MASC=handsome . 
+*PAD:	hasta ahora nunca lo había hecho [% a Mamá] . 232105_233853
+%mor:	prep|hasta=until adv|ahora=now adv|nunca=never pro:per:1|lo&masc=him v|habe-13S&PAS=have 
+	n|hecho&masc=action . 
+*MAD:	decía guapo pues , sí [% a Papá] . 233853_235390
+%mor:	v|deci-13S&PAS=say adj|guapo-MASC=handsome co|pues=well cm|cm co|sí=yes 
+	. 
+*PAD:	oye y el Yayo , cómo es ? 235390_238271
+%mor:	co|oye=listen coord|y=and det:art|el&MASC&SG=the n:prop|Yayo cm|cm co|cómo 
+	v|se-3S&PRES=be ? 
+*CHI:	papo [: guapo] . 238271_239085
+%mor:	adj|guapo-MASC=handsome . 
+*PAD:	el Yayo es guapo , y la Yaya ? 239085_241118
+%mor:	det:art|el&MASC&SG=the n:prop|Yayo v|se-3S&PRES=be adj|guapo-MASC=handsome 
+	cm|cm coord|y=and det:art|el&FEM&SG=the n:prop|Yaya ? 
+*PAD:	cómo es la Yaya ? 241118_241886
+%mor:	co|cómo v|se-3S&PRES=be det:art|el&FEM&SG=the n:prop|Yaya ? 
+*CHI:	(tamb)ién e(s) papo [: guapo] . 241886_243121
+%mor:	adv|también=also v|se-3S&PRES=be adj|guapo-MASC=handsome . 
+*PAD:	la Yaya es papo también ? 243121_244705
+%mor:	det:art|el&FEM&SG=the n:prop|Yaya v|se-3S&PRES=be n|papo&masc=jowl adv|también=also 
+	? 
+*CHI:	sí . 244705_245250
+%mor:	co|sí=yes . 
+*MAD:	papo ? 245250_245810
+%mor:	n|papo&masc=jowl ? 
+*PAD:	y Mamá , cómo es ? 245810_246683
+%mor:	coord|y=and n:prop|Mamá cm|cm co|cómo v|se-3S&PRES=be ? 
+*CHI:	(t)am(b)ién e(s) papa [: guapa] [*] . 246683_248113
+%mor:	adv|también=also v|se-3S&PRES=be adj|guapo-FEM=handsome . 
+*PAD:	Mamá es ? 248113_249275
+%mor:	n:prop|Mamá v|se-3S&PRES=be ? 
+*CHI:	papa [: guapa] . 249275_250458
+%mor:	adj|guapo-FEM=handsome . 
+*PAD:	y Papá ? 250458_251113
+%mor:	coord|y=and n:prop|Papá ? 
+*CHI:	tam(bi)én e(s) papa [: guapa] [*] . 251113_252703
+%mor:	adv|también=also v|se-3S&PRES=be adj|guapo-FEM=handsome . 
+*PAD:	ah . 252703_254063
+%mor:	co|ah . 
+*CHI:	to(d)as papas ! 254063_255926
+%mor:	det:indef|todo-FEM-PL=all n|papa&masc-PL=pope ! 
+*MAD:	todos somos guapos [= riendo] dice que todos son guapos . 255926_257738
+%mor:	det:indef|todo-MASC-PL=all v|se-1P&PRES=be adj|guapo-MASC-PL=handsome 
+	v|deci-3S&PRES=say prep|que=than det:indef|todo-MASC-PL=all v|se-3P&PRES=be 
+	adj|guapo-MASC-PL=handsome . 
+@Tape Location:	Z-1;10-218
+@Situation:	María en el salón; se pone de espaldas a mamá al lado del triciclo.
+*CHI:	se acabó . 257738_258298
+%mor:	pro:per|se=itself v|acaba-3S&PRET=finish . 
+*MAD:	se acabó . 258298_258888
+%mor:	pro:per|se=itself v|acaba-3S&PRET=finish . 
+*CHI:	no na(d)ie (.) xxx . 258888_263896
+%mor:	adv|no=no pro:per|nadie=nobody . 
+*CHI:	Mamá . 263896_265171
+%mor:	n:prop|Mamá . 
+*MAD:	tú me quieres a mí ? 265171_266360
+%mor:	pro:per|tú=you pro:per|me=me v|quere-2S&PRES=want prep|a=to pro:per|mí=me 
+	? 
+*MAD:	cuánto , cuanto me quieres ? 266360_267415
+%mor:	pro:int|cuánto=how_much cm|cm pro:indef|cuanto=how_much pro:per|me=me 
+	v|quere-2S&PRES=want ? 
+*MAD:	dile a Papá cuánto me quieres . 267415_269471
+%mor:	v|da-1S&PRET~pro:clit|3S prep|a=to n:prop|Papá pro:int|cuánto=how_much 
+	pro:per|me=me v|quere-2S&PRES=want . 
+*CHI:	0 [% se toca la nariz] o [= el/un] moco . 269471_270115
+%mor:	v|oí-1S&PRET=hear n|moco&masc=mucus . 
+*MAD:	tienes un moco ? 270115_270860
+%mor:	v|tene-2S&PRES=have det:art|un&masc=one n|moco&masc=mucus ? 
+*CHI:	no , moco no . 270860_273346
+%mor:	adv|no=no cm|cm n|moco&masc=mucus co|no=no . 
+*MAD:	cuánto me quieres , María ? 273346_274716
+%mor:	pro:int|cuánto=how_much pro:per|me=me v|quere-2S&PRES=want cm|cm n:prop|María 
+	? 
+*CHI:	ni u(n) moco . 274716_276470
+%mor:	coord|ni=nor det:art|un&masc=one n|moco&masc=mucus . 
+*MAD:	a_ver , el moco . 276470_277483
+%mor:	co|a_ver=see cm|cm det:art|el&MASC&SG=the n|moco&masc=mucus . 
+*MAD:	uy , moco ! 277483_279293
+%mor:	co|uy cm|cm n|moco&masc=mucus ! 
+*CHI:	u(n) moco . 279293_280405
+%mor:	det:art|un&masc=one n|moco&masc=mucus . 
+*MAD:	sí , me cachis , cómo eres . 280405_282673
+%mor:	adv|sí=yes cm|cm pro:per|me=me co|cachis=bad_luck cm|cm co|cómo v|se-2S&PRES=be 
+	. 
+*MAD:	cómo eres tú ? 282673_283425
+%mor:	co|cómo v|se-2S&PRES=be pro:per|tú=you ? 
+*CHI:	o [= un/el] moco no . 283425_284576
+%mor:	v|oí-1S&PRET=hear n|moco&masc=mucus co|no=no . 
+*MAD:	los mocos no , los mocos . 284576_285858
+%mor:	det:art|el&MASC-PL=the n|moco&masc-PL=mucus co|no=no cm|cm det:art|el&MASC-PL=the 
+	n|moco&masc-PL=mucus . 
+*MAD:	cómo son , hija ? 285858_286361
+%mor:	co|cómo v|se-3P&PRES=be cm|cm co:voc|hija=child ? 
+*CHI:	papo [: guapo] . 286361_287458
+%mor:	adj|guapo-MASC=handsome . 
+*MAD:	guapos no , cochinos . 287458_289705
+%mor:	adj|guapo-MASC-PL=handsome adv|no=no cm|cm adj|cochino-MASC-PL=filthy 
+	. 
+*CHI:	cochinos ? 289705_290771
+%mor:	adj|cochino-MASC-PL=filthy ? 
+*MAD:	sí: . 290771_291376
+%mor:	co|sí=yes . 
+*CHI:	sí ? 291376_292336
+%mor:	co|sí=yes ? 
+*MAD:	los mocos son cochinos , ⌈a qué sí⌉ ? 292336_294621
+%mor:	det:art|el&MASC-PL=the n|moco&masc-PL=mucus v|se-3P&PRES=be adj|cochino-MASC-PL=filthy 
+	cm|cm prep|a=to pro:int|qué=what co|sí=yes ? 
+*CHI:	⌊vale⌋ . 294621_295085
+%mor:	co|vale=okay . 
+*PAD:	vale . 295085_295910
+%mor:	co|vale=okay . 
+*PAD:	María como estás de fuerte . 295910_299070
+%mor:	n:prop|María adv|como=like v|esta-2S&PRES=be prep|de=of adj|fuerte=strong 
+	. 
+*PAD:	María como estás de fuerte así ? 299070_303091
+%mor:	n:prop|María adv|como=like v|esta-2S&PRES=be prep|de=of adj|fuerte=strong 
+	adv|así=thus ? 
+*CHI:	0 [% se va del salón] . 303091_304215
+*PAD:	María , dónde vas ? 304215_304738
+%mor:	n:prop|María cm|cm pro:int|dónde=where v|i-2S&PRES=go ? 
+*CHI:	xxx [% hablando desde la cocina] . 304738_311541
+*PAD:	María . 311541_315371
+%mor:	n:prop|María . 
+@Tape Location:	Z-1;10-219
+@Situation:	María llega al salón.Trae algo en la mano.
+*MAD:	qué es eso ? 315371_328795
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*CHI:	pipas . 328795_329728
+%mor:	n|pipa&fem-PL=cask . 
+*PAD:	son las pipas peladas ? 329728_332428
+%mor:	v|se-3P&PRES=be det:art|el&FEM-PL=the n|pipa&fem-PL=cask part|pela-PPART&FEM-PL=peel 
+	? 
+*MAD:	sí pipas peladas . 332428_334145
+%mor:	adv|sí=yes n|pipa&fem-PL=cask part|pela-PPART&FEM-PL=peel . 
+*MAD:	quién te las ha regalado ? 334145_338976
+%mor:	pro:int|quién=who pro:per|te=you det:art|el&FEM-PL=the co|ha part|regala-PPART&MASC=give_present 
+	? 
+*CHI:	(M)amá . 338976_340603
+%mor:	n:prop|Mamá . 
+*MAD:	no . 340603_341206
+%mor:	adv|no=no . 
+*CHI:	no ? 341206_341758
+%mor:	adv|no=no ? 
+*MAD:	te las trajo el otro día , quién ? 341758_343318
+%mor:	pro:per|te=you det:art|el&FEM-PL=the v|trae-3S&PRET=carry det:art|el&MASC&SG=the 
+	pro:indef|otro=other n|día&masc=day cm|cm pro:int|quién=who ? 
+*CHI:	Nines . 343318_344643
+%mor:	n:prop|Nines . 
+*MAD:	sí: . 344643_345405
+%mor:	co|sí=yes . 
+*CHI:	sí ? 345405_346650
+%mor:	co|sí=yes ? 
+*MAD:	sí: . 346650_347301
+%mor:	co|sí=yes . 
+*CHI:	Nines ? 347301_347985
+%mor:	n:prop|Nines ? 
+*MAD:	sí . 347985_348616
+%mor:	co|sí=yes . 
+*CHI:	Mamá no . 348616_349275
+%mor:	n:prop|Mamá co|no=no . 
+*MAD:	no: . 349275_349880
+%mor:	adv|no=no . 
+*CHI:	no ? 349880_350520
+%mor:	adv|no=no ? 
+*CHI:	Nines ? 350520_351778
+%mor:	n:prop|Nines ? 
+*CHI:	mnn . 351778_353180
+%mor:	co|mnn . 
+*CHI:	esa no [% se refiere a una pipa] . 353180_355495
+%mor:	det:dem|ese-FEM=that co|no=no . 
+*MAD:	no . 355495_356526
+%mor:	adv|no=no . 
+*CHI:	no . 356526_357071
+%mor:	adv|no=no . 
+*MAD:	cómetela . 357071_358023
+%mor:	v|come-2S&IMP~pro:clit|2S~pro:clit|OBJ&FEM . 
+*CHI:	sí , esa sí ? 358023_362241
+%mor:	adv|sí=yes cm|cm det:dem|ese-FEM=that co|sí=yes ? 
+%com:	coge otra y se la come
+*CHI:	b(r)avo: . 362241_363318
+%mor:	co|bravo=bravo . 
+*CHI:	b(r)avo: ! 363318_367390
+%mor:	co|bravo=bravo ! 
+%com:	da palmas
+*MAD:	bravo: ! 367390_368596
+%mor:	co|bravo=bravo ! 
+*MAD:	bie:n ! 368596_369651
+%mor:	adv|bien=well ! 
+*CHI:	xxx . 369651_370371
+*CHI:	esa sí . 370371_377971
+%mor:	det:dem|ese-FEM=that co|sí=yes . 
+*MAD:	esa sí . 377971_378748
+%mor:	det:dem|ese-FEM=that co|sí=yes . 
+*CHI:	esa no . 378748_380338
+%mor:	det:dem|ese-FEM=that co|no=no . 
+*MAD:	no , por_qué ? 380338_382003
+%mor:	adv|no=no cm|cm pro:int|por_qué=why ? 
+*CHI:	esa no . 382003_383696
+%mor:	det:dem|ese-FEM=that co|no=no . 
+*PAD:	María . 383696_387655
+%mor:	n:prop|María . 
+*MAD:	dónde tiene Mamá las pipas ? 387655_389151
+%mor:	pro:int|dónde=where v|tene-3S&PRES=have n:prop|Mamá det:art|el&FEM-PL=the 
+	n|pipa&fem-PL=cask ? 
+*CHI:	(m)i(r)a manos . 389151_390526
+%mor:	co|mira=look n|mano&fem-PL=hand . 
+*MAD:	manos . 390526_390925
+%mor:	n|mano&fem-PL=hand . 
+@Tape Location:	Z-1;10-220
+@Situation:	En el salón , María tiene pipas en la mano.
+*MAD:	xxx todo lo que pregunto ? 390925_394485
+%mor:	det:indef|todo-MASC=all pro:per:1|lo&masc=him prep|que=than v|pregunta-1S&PRES=ask 
+	? 
+*CHI:	eso ? 394485_395010
+%mor:	pro:dem|eso=that_one ? 
+*MAD:	qué es eso ? 395010_395873
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*CHI:	relo(j) [= reloj] . 395873_396585
+%mor:	n|reloj&masc=clock . 
+*MAD:	reloj . 396585_397528
+%mor:	n|reloj&masc=clock . 
+*CHI:	eso ? 397528_399271
+%mor:	pro:dem|eso=that_one ? 
+*MAD:	te gusta el reloj ? 399271_400378
+%mor:	pro:per|te=you v|gusta-3S&PRES=like det:art|el&MASC&SG=the n|reloj&masc=clock 
+	? 
+*CHI:	eso ? 400378_401951
+%mor:	pro:dem|eso=that_one ? 
+*CHI:	pipas . 401951_402818
+%mor:	n|pipa&fem-PL=cask . 
+*MAD:	pipas . 402818_403856
+%mor:	n|pipa&fem-PL=cask . 
+*CHI:	eso ? 403856_404285
+%mor:	pro:dem|eso=that_one ? 
+*MAD:	pipas . 404285_404971
+%mor:	n|pipa&fem-PL=cask . 
+*CHI:	eso ? 404971_405721
+%mor:	pro:dem|eso=that_one ? 
+*MAD:	qué es eso ? 405721_406945
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*CHI:	a [= la/una] pipa . 406945_409090
+%mor:	prep|a=to n|pipa&fem=cask . 
+*MAD:	una pipa , claro que sí . 409090_410361
+%mor:	det:art|un-FEM=one n|pipa&fem=cask cm|cm co|claro=obvious prep|que=than 
+	co|sí=yes . 
+*MAD:	está rica ? 410361_411625
+%mor:	v|esta-3S&PRES=be adj|rico-FEM=rich ? 
+*CHI:	eso ? 411625_412263
+%mor:	pro:dem|eso=that_one ? 
+%com:	señala a Papá
+*MAD:	eso es Papá . 412263_414351
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be n:prop|Papá . 
+*PAD:	eso es la pelí(cula) . 414351_415103
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|película&fem=film 
+	. 
+*CHI:	no . 415103_415815
+%mor:	adv|no=no . 
+*PAD:	eso es la pelí(cula) . 415815_416926
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|el&FEM&SG=the n|película&fem=film 
+	. 
+*MAD:	es una película que luego vamos a ponerla para que la veas tú . 416926_421083
+%mor:	v|se-3S&PRES=be det:art|un-FEM=one n|película&fem=film prep|que=than 
+	adv|luego=afterwards co|vamos=go prep|a=to v|pone-INF~pro:clit|OBJ&FEM 
+	prep|para=for prep|que=than det:art|el&FEM&SG=the v|ve-2S&SUB&PRES=see 
+	pro:per|tú=you . 
+*CHI:	eso . 421083_422060
+%mor:	pro:dem|eso=that_one . 
+%com:	señala la tele
+*MAD:	es la tele , sí . 422060_423458
+%mor:	v|se-3S&PRES=be det:art|el&FEM&SG=the n|tele&masc=television cm|cm co|sí=yes 
+	. 
+*CHI:	a [= la/una] tele . 423458_424245
+%mor:	prep|a=to n|tele&masc=television . 
+*MAD:	la vamos a poner la tele . 424245_425740
+%mor:	det:art|el&FEM&SG=the co|vamos=go prep|a=to v|pone-INF=put det:art|el&FEM&SG=the 
+	n|tele&masc=television . 
+@Tape Location:	Z-1;10-221
+@Situation:	María en el salón.Mamá sentada junto a ella.
+*PAD:	va a cenar un poco de jamón María , no María ? 425740_428538
+%mor:	v|i-3S&PRES=go prep|a=to v|cena-INF=dine det:art|un&masc=one adv|poco=few 
+	prep|de=of n|jamón&masc=ham n:prop|María cm|cm co|no=no n:prop|María 
+	? 
+*CHI:	sí . 428538_429140
+%mor:	co|sí=yes . 
+*MAD:	qué vas a cenar ? 429140_430060
+%mor:	pro:int|qué=what v|i-2S&PRES=go prep|a=to v|cena-INF=dine ? 
+*MAD:	díselo a Papá . 430060_430708
+%mor:	v|deci-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC prep|a=to n:prop|Papá 
+	. 
+*CHI:	jamón . 430708_431508
+%mor:	n|jamón&masc=ham . 
+*MAD:	qué más ? 431508_432123
+%mor:	pro:int|qué=what adv|más=more ? 
+*CHI:	no má(s) . 432123_434908
+%mor:	adv|no=no adv|más=more . 
+*MAD:	pero , qué quieres , sopita , puré o potito ? 434908_437675
+%mor:	conj|pero=but cm|cm pro:int|qué=what v|quere-2S&PRES=want cm|cm n|sopa-DIM-FEM=soup 
+	cm|cm n|puré&masc=puree_soup v|oí-1S&PRET=hear n|pote-DIM-MASC=jar ? 
+*CHI:	pué [: puré] . 437675_439725
+%mor:	n|puré&masc=puree_soup . 
+*MAD:	puré . 439725_440443
+%mor:	n|puré&masc=puree_soup . 
+*CHI:	sopita . 440443_441820
+%mor:	n|sopa-DIM-FEM=soup . 
+*MAD:	sopita , y de postres ? 441820_444490
+%mor:	n|sopa-DIM-FEM=soup cm|cm coord|y=and prep|de=of n|postre&masc-PL=dessert 
+	? 
+*CHI:	po(s)t(r)e . 444490_446451
+%mor:	n|postre&masc=dessert . 
+*MAD:	qué quieres de postre ? 446451_447690
+%mor:	pro:int|qué=what v|quere-2S&PRES=want prep|de=of n|postre&masc=dessert 
+	? 
+*MAD:	un plátano o una manzana ? 447690_450101
+%mor:	det:art|un&masc=one n|plátano&masc=banana v|oí-1S&PRET=hear det:art|un-FEM=one 
+	n|manzana&fem=apple ? 
+*CHI:	a [= la/una] masana [: manzana] [*] . 450101_451390
+%mor:	prep|a=to n|manzana&fem=apple . 
+*MAD:	una manzana ? 451390_452606
+%mor:	det:art|un-FEM=one n|manzana&fem=apple ? 
+*PAD:	quieres una manzana o un plátano ? 452606_454408
+%mor:	v|quere-2S&PRES=want det:art|un-FEM=one n|manzana&fem=apple v|oí-1S&PRET=hear 
+	det:art|un&masc=one n|plátano&masc=banana ? 
+*CHI:	no . 454408_455540
+%mor:	adv|no=no . 
+*PAD:	qué quieres ? 455540_456583
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ? 
+*CHI:	a [= la/una] masana [: manzana] . 456583_457540
+%mor:	prep|a=to n|manzana&fem=apple . 
+*PAD:	a lo mejor prefieres una chirimolla [: cherimoya] . 457540_460150
+%mor:	prep|a=to pro:per:1|lo&masc=him adj|mejor=better v|preferi-2S&PRES=prefer 
+	det:art|un-FEM=one n|cherimoya&fem=chocolate_cherry . 
+*CHI:	no . 460150_461138
+%mor:	adv|no=no . 
+*PAD:	qué quieres ? 461138_461873
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ? 
+*CHI:	a [= la/una] masana [: manzana] . 461873_463245
+%mor:	prep|a=to n|manzana&fem=apple . 
+*PAD:	no preferirías una naranja ? 463245_465310
+%mor:	adv|no=no v|preferi-2S&COND=prefer det:art|un-FEM=one n|naranja&fem=orange 
+	? 
+*CHI:	no . 465310_466013
+%mor:	adv|no=no . 
+*PAD:	qué quieres ? 466013_466671
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ? 
+@Tape Location:	Z-1;10-222
+@Situation:	María en el salón con mamá.
+*CHI:	esa pipa , esa pipa . 466671_469398
+%mor:	det:dem|ese-FEM=that n|pipa&fem=cask cm|cm det:dem|ese-FEM=that n|pipa&fem=cask 
+	. 
+%com:	enseñando a Mamá una pipa que tiene en la mano
+*CHI:	esa pipa . 469398_471623
+%mor:	det:dem|ese-FEM=that n|pipa&fem=cask . 
+*MAD:	de quién es esa pipa ? 471623_472631
+%mor:	prep|de=of pro:int|quién=who v|se-3S&PRES=be det:dem|ese-FEM=that n|pipa&fem=cask 
+	? 
+*CHI:	a Manía [= de María] . 472631_473878
+%mor:	prep|a=to n:prop|Manía . 
+*MAD:	cómetela María . 473878_475341
+%mor:	v|come-2S&IMP~pro:clit|2S~pro:clit|OBJ&FEM n:prop|María . 
+*CHI:	sí ? 475341_476198
+%mor:	co|sí=yes ? 
+*MAD:	sí . 476198_476806
+%mor:	co|sí=yes . 
+*CHI:	sí vale . 476806_478958
+%mor:	co|sí=yes co|vale=okay . 
+*PAD:	vale . 478958_480005
+%mor:	co|vale=okay . 
+*MAD:	ha dicho vale . 480005_483116
+%mor:	co|ha part|deci-PPART-MASC=say co|vale=okay . 
+*CHI:	no (e)stá pipas . 483116_484543
+%mor:	adv|no=no v|esta-3S&PRES=be n|pipa&fem-PL=cask . 
+*CHI:	0 [% comiendo pipas mientras hablan Papá y Mamá] . 484543_496323
+*MAD:	vale María ? 496323_497425
+%mor:	co|vale=okay n:prop|María ? 
+*CHI:	mnn , vale , vale . 497425_500061
+%mor:	co|mnn cm|cm co|vale=okay cm|cm co|vale=okay . 
+*MAD:	vale , vale . 500061_501038
+%mor:	co|vale=okay cm|cm co|vale=okay . 
+*CHI:	sa caca [= es caca] . 501038_504363
+%mor:	v|se-3S&IMP=be n|caca&fem=feces . 
+*MAD:	está mala esa , no te gusta ? 504363_506285
+%mor:	v|esta-3S&PRES=be n|mala&fem=mail det:dem|ese-FEM=that cm|cm adv|no=no 
+	pro:per|te=you v|gusta-3S&PRES=like ? 
+*CHI:	no . 506285_506771
+%mor:	adv|no=no . 
+*MAD:	seguro que te ha salido una mala . 506771_508213
+%mor:	co|seguro=sure prep|que=than pro:per|te=you co|ha part|sali-PPART&MASC=leave 
+	det:art|un-FEM=one n|mala&fem=mail . 
+*CHI:	esa mala . 508213_509980
+%mor:	det:dem|ese-FEM=that n|mala&fem=mail . 
+*MAD:	la tiro . 509980_510825
+%mor:	det:art|el&FEM&SG=the n|tiro&masc=toss . 
+*MAD:	y las otras están ricas ? 510825_512823
+%mor:	coord|y=and det:art|el&FEM-PL=the det:indef|otro-FEM-PL=other v|esta-3P&PRES=be 
+	adj|rico-FEM-PL=rich ? 
+*CHI:	mnn . 512823_513978
+%mor:	co|mnn . 
+@Tape Location:	Z-1;10-223
+@Situation:	María de pie frente a mamá.Esta , sentada , le está dando pipas.
+*MAD:	oye , y este vestido cómo es ? 513978_515971
+%mor:	co|oye=listen cm|cm coord|y=and det:dem|este=this n|vestido&masc=garment 
+	co|cómo v|se-3S&PRES=be ? 
+*MAD:	es muy +... 515971_517791
+%mor:	v|se-3S&PRES=be adv|muy=very +... 
+*CHI:	bonito . 517791_518938
+%mor:	co:voc|bonito=pretty . 
+*MAD:	bonito . 518938_519591
+%mor:	co:voc|bonito=pretty . 
+*PAD:	no es muy bonito el vestido ? 519591_521486
+%mor:	adv|no=no v|se-3S&PRES=be adv|muy=very adj|bonito-MASC=pretty det:art|el&MASC&SG=the 
+	n|vestido&masc=garment ? 
+*CHI:	&=silencio . 521486_521806
+*MAD:	cómo es el vestido , hija ? 521806_523970
+%mor:	co|cómo v|se-3S&PRES=be det:art|el&MASC&SG=the n|vestido&masc=garment 
+	cm|cm co:voc|hija=child ? 
+*MAD:	díselo a Papá . 523970_526305
+%mor:	v|deci-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC prep|a=to n:prop|Papá 
+	. 
+*PAD:	el vestido es bonita . 526305_527551
+%mor:	det:art|el&MASC&SG=the n|vestido&masc=garment v|se-3S&PRES=be co:voc|bonita=pretty 
+	. 
+*PAD:	no ? 527551_527881
+%mor:	adv|no=no ? 
+*MAD:	es bonita el vestido ? 527881_529453
+%mor:	v|se-3S&PRES=be co:voc|bonita=pretty det:art|el&MASC&SG=the n|vestido&masc=garment 
+	? 
+*CHI:	e(s)to e(s) caca . 529453_530903
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be n|caca&fem=feces . 
+*CHI:	eso e(s) caca . 530903_538588
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be n|caca&fem=feces . 
+*MAD:	será una pipa mala . 538588_540323
+%mor:	v|se-3S&FUT=be det:art|un-FEM=one n|pipa&fem=cask n|mala&fem=mail . 
+*CHI:	e [= es/está] mala ? 540323_541313
+%mor:	coord|e=and n|mala&fem=mail ? 
+*MAD:	es mala te doy otra . 541313_542381
+%mor:	v|se-3S&PRES=be n|mala&fem=mail pro:per|te=you v|da-1S&PRES=give det:indef|otro-FEM=other 
+	. 
+*CHI:	ot(r)a ? 542381_543350
+%mor:	det:indef|otro-FEM=other ? 
+%com:	coge otra
+*CHI:	esa no . 543350_545796
+%mor:	det:dem|ese-FEM=that co|no=no . 
+*MAD:	no te gusta ? 545796_547070
+%mor:	adv|no=no pro:per|te=you v|gusta-3S&PRES=like ? 
+*CHI:	esa no . 547070_548270
+%mor:	det:dem|ese-FEM=that co|no=no . 
+*CHI:	esa no Mamá , esa no . 548270_553270
+%mor:	det:dem|ese-FEM=that co|no=no n:prop|Mamá cm|cm det:dem|ese-FEM=that 
+	co|no=no . 
+*MAD:	y esa sí ? 553270_554248
+%mor:	coord|y=and det:dem|ese-FEM=that co|sí=yes ? 
+*CHI:	sí , esa no . 554248_556096
+%mor:	adv|sí=yes cm|cm det:dem|ese-FEM=that co|no=no . 
+*CHI:	a Santi . 556096_565153
+%mor:	prep|a=to n:prop|Santi . 
+@End

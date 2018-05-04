@@ -1,0 +1,1251 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father
+@ID:	spa , eng|OreaPine|CHI|2;5.14|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	19-JAN-2002
+@Location:	Madrid
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan
+@Time Start:	10:30
+@Situation:	1
+*CHI:	se cae así .
+*CHI:	así se cae .
+*CHI:	se cae así .
+*CHI:	se cae .
+*FAT:	< a ver > [/] a ver .
+%act:	le ayuda a montar el cajón/coche
+*CHI:	es un coche .
+*CHI:	un coche .
+*FAT:	tráe te la sillita blanca .
+*FAT:	ya verás que vas a estar mucho más cómodo .
+*CHI:	la sillita blanca . [+ IMI]
+*CHI:	cabe [/] cabe aquí .
+*CHI:	&=q cabe ?
+%act:	mete la sillita dentro del cajón
+*FAT:	&=q a ver ?
+*CHI:	sí cabe .
+*CHI:	no .
+*CHI:	conduciendo .
+%err:	$AUXVALID
+*FAT:	&=q conduciendo ? [+ ADS]
+*CHI:	no cabo [*] .
+%err:	cabo = quepo $MOR $SUB $REG
+*FAT:	< es que no sé si vas a > [//] claro .
+*FAT:	es que no sé si vas a pasar si la pones tan delante .
+*CHI:	0 .
+%act:	se mete dentro del cajón - coche
+*FAT:	ahora sí .
+*FAT:	&=q lo ves ?
+%par:	luego le da la risa al ver a Juan subido a la silla dentro del cajón
+*CHI:	0 .
+%act:	se cierra "las puertas"
+*FAT:	0 .
+%act:	le ha dado la tos muy fuerte y se ha tenido que apartar
+*CHI:	no hay volante .
+*CHI:	no hay volante .
+*CHI:	no hay volante .
+*FAT:	jo@i qué tos .
+*CHI:	no hay volante .
+*FAT:	ahora te traigo yo (.) un volante .
+*FAT:	a ver .
+*CHI:	un volante .
+*FAT:	a ver si encuentro un volante por aquí .
+*CHI:	para el coche .
+*FAT:	claro .
+*FAT:	para el coche . [+ ADS]
+*CHI:	mu(y) g(r)ande .
+*CHI:	mu(y) g(r)ande .
+*CHI:	un volante .
+*FAT:	mira este .
+%act:	le da un aro de goma
+*CHI:	&=q ese volante ?
+*CHI:	&=q a ver ese volante ?
+%act:	busca dónde colocarlo
+*CHI:	no puedo poner en [*] el volante .
+%err:	en = 0 $SYN $LOS
+*FAT:	no .
+*FAT:	lo tienes que sujetar tú con las manos .
+*CHI:	0 .
+%act:	lo sujeta
+*FAT:	hala@i qué bien .
+*FAT:	&=q a dónde vas ?
+*CHI:	a [/] a un pueblo .
+*FAT:	&=q vas a un pueblo ?
+*CHI:	sí .
+*FAT:	&=q a qué pueblo vas ?
+*CHI:	donde viven las gallinas < y los > [/] y los profesores .
+*FAT:	&=q donde viven las gallinas y los profesores ? [+ ADS]
+*CHI:	sí .
+*CHI:	< y los mon@x > [/] y los monstruos buenos .
+*FAT:	&=q y los monstruos buenos ? [+ ADS]
+*CHI:	y los (es)queletos .
+%act:	parece que empieza a enumerar cosas que ve a su alrededor
+*FAT:	&=q y los esqueletos ? [+ ADS]
+*CHI:	y los Mayas .
+*FAT:	&=q y los Mayas ? [+ ADS]
+*CHI:	y los Barbuchis@f .
+*FAT:	&=q y los Barbuchis@f ? [+ ADS]
+*FAT:	&=q ahí viven todos ?
+*CHI:	y los coches .
+*FAT:	&=q y los coches viven en ese pueblo ?
+*CHI:	y las mangueras .
+*FAT:	&=q y las mangueras ? [+ ADS]
+*CHI:	y también xxx . [+ NON]
+*CHI:	y también los cocodrilos .
+*FAT:	&=q todos esos viven en ese pueblo al que vas ?
+*CHI:	sí .
+*FAT:	&=q a ver cómo conduces ?
+*CHI:	< es que es que > [/] es que tiene aquí uno pequeño .
+*FAT:	ah@i .
+*FAT:	aquí tiene ahí una cosita pequeña y en el otro lado no &=q no ?
+*FAT:	&=q verdad ?
+*CHI:	aquí no .
+%act:	observa el "volante"
+*FAT:	< pero porque > [//] &=q sabes por qué ?
+*FAT:	porque esa cosita sólo tiene una .
+*CHI:	&=q sólo tiene uno ?
+*FAT:	mm@i .
+%par:	afirma
+*CHI:	&=q porque [/] porque 0 [*] conduce así ?
+%err:	0 = se $MOR $LOS $PREFIX
+*FAT:	claro .
+*CHI:	no funciona .
+*FAT:	&=q no funciona ? [+ ADS]
+*CHI:	no .
+*FAT:	oh@i .
+*CHI:	< es que es que es que es que la radio > [/] es que la radio no funciona .
+*FAT:	&=q no funciona la radio ?
+*CHI:	no .
+*FAT:	pero hombre .
+*FAT:	enciénde la a ver si funciona .
+*FAT:	enciénde la radio a ver si funciona .
+*CHI:	0 .
+%act:	hace como si tocara un botón en el coche
+*FAT:	+" hola , buenas+tardes .
+%act:	cambia la voz
+*FAT:	+" bienvenidos a nuestro programa de hoy .
+*CHI:	0 .
+%act:	hace otra vez como si tocara un botón en el coche
+*FAT:	+" hola , buenas+tardes .
+%act:	cambia la voz
+*FAT:	+" bienvenidos a nuestro programa de hoy . [+ SNG]
+%act:	cambia la voz
+*FAT:	+" estamos aquí reunidos para hablar del coche de Juan .
+%act:	cambia la voz
+*FAT:	+" el coche de Juan es un coche verde que funciona perfectamente .
+%act:	cambia la voz
+*FAT:	+" y ahora un poquillo de música .
+%act:	cambia la voz
+*CHI:	< un vo@x > [/] un volante rojo .
+*FAT:	&=q quieres un volante rojo ?
+*CHI:	no .
+*CHI:	< otro volante que sea > [/] otro volante que sea +/.
+*CHI:	&=q 0 [*] se llama el otro volante ?
+%err:	0 = cómo $SYN $LOS
+*FAT:	no lo sé .
+*FAT:	&=q cómo se llama el otro volante ? [+ COR]
+*CHI:	no puedo .
+%act:	está intentando salir del "coche"
+*FAT:	tiene [/] tiene puerta y todo &=q eh@i ?
+*FAT:	tienes que echar la silla para atrás para salir .
+*CHI:	toma .
+*CHI:	así .
+*CHI:	que sí puedo salir .
+*FAT:	&=q ves ?
+*CHI:	por el volante .
+*CHI:	&=q cómo se llama ?
+*CHI:	< mi barco > [/] mi barco .
+*FAT:	sí .
+*FAT:	un barquito .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan
+@Time Start:	10:30
+@Situation:	1
+*CHI:	e(s)te es el barco .
+*FAT:	lo has pisado , sí .
+*FAT:	un poco .
+*FAT:	pero no pasa nada .
+*FAT:	&=q no ?
+*CHI:	arregla [?] lo [?] . [+ NON]
+*CHI:	a ver si puedes .
+*FAT:	&=q quieres que lo arregle ?
+*CHI:	sí [x 3] .
+*CHI:	< muy grande > [/] muy grande .
+*CHI:	a ver si puedes .
+*CHI:	muy grande .
+*CHI:	así en lo alto (.) de la montaña .
+*CHI:	colocar [*] le así en lo alto de la montaña .
+%err:	colocar = coloca $MOR $SUB $ROOT
+@Situation:	2
+*FAT:	a ver .
+*FAT:	< ven aquí > [/] ven aquí .
+*FAT:	siéntate , anda .
+*FAT:	aquí en el suelo .
+*FAT:	a ver si te sabes esta historia .
+*FAT:	siéntate .
+*FAT:	mocosón .
+*FAT:	uy@i si tienes mocos .
+*FAT:	de verdad .
+*FAT:	&=q me das ese papel ?
+*FAT:	está allí .
+*FAT:	mira lo .
+*FAT:	&=q me lo coges ?
+*CHI:	sí .
+*CHI:	toma .
+*CHI:	que sí [/] sí conduce .
+*FAT:	a ver .
+%act:	le limpia la nariz
+*FAT:	a ver si te acuerdas de esto .
+*FAT:	un día el ratón quiso ir a navegar .
+%act:	tiene en las manos una barca de papel y un muñequito
+*FAT:	cogió su barca .
+*FAT:	la echó en el agua .
+*FAT:	y se metió en ella .
+*FAT:	&=q pero sabes qué pasó ?
+*FAT:	que no había nada de viento .
+*CHI:	de viento . [+ IMI]
+*FAT:	entonces el ratón dijo viento@q .
+*FAT:	+" ven aquí y sopla para que pueda navegar .
+*FAT:	y vino el viento del oeste y sopló muy fuerte .
+*FAT:	&=q cómo sopló ?
+*CHI:	ff@o .
+%par:	sopla
+*FAT:	y el ratón y el barco salieron volando por los aires .
+*FAT:	y fueron a parar a lo más alto de una alta +... [+ SNG]
+*CHI:	++ chimenea .
+*FAT:	uy@i .
+*FAT:	casa .
+*CHI:	casa . [+ IMI]
+*FAT:	a ver qué hacemos (.) como casa .
+*FAT:	&=q qué utilizamos como casa ?
+*CHI:	0 [*] árbol .
+%err:	0 = el $SYN $LOS
+*FAT:	primero la casa .
+*FAT:	luego los árboles .
+*FAT:	vamos a coger esto como casa .
+*FAT:	&=q sí ?
+*FAT:	&=q hacemos esto como si fuera una casa ?
+*CHI:	sí .
+*CHI:	yo cojo el ratón y la barca .
+*FAT:	tú coges el ratón y la barca .
+*FAT:	< y fueron a parar > [//] mira .
+*FAT:	aquí está la casa .
+*CHI:	aquí está la casa . [+ IMI]
+*FAT:	y hace pic@o .
+%act:	coloca la barca de papel sobre la "casa" de piezas Lego
+*FAT:	encima la barca y encima el ratón .
+*FAT:	&=q y el ratón qué dice ?
+*FAT:	no@q .
+*FAT:	+" esto no es lo que quería .
+*FAT:	viento@q .
+*FAT:	+" ven aquí y arregla este jaleo .
+*FAT:	y viene el viento del este y sopla muy [/] muy fuerte .
+*FAT:	a ver cómo sopla .
+*CHI:	ff@o .
+%par:	sopla
+*FAT:	< más fuerte > [/] más fuerte todavía .
+*FAT:	&=q a ver cómo soplas ?
+*FAT:	tan fuerte sopla que el ratón la barca y la casa salen volando por los aires . [+ SNG]
+*FAT:	y van a parar a lo más alto de un alto +... [+ SNG]
+*FAT:	&=q te acuerdas ?
+*FAT:	de un alto árbol . [+ SNG]
+*FAT:	&=q no te acuerdas del cuento ?
+*CHI:	un alto árbol . [+ IMI]
+*FAT:	mira .
+*FAT:	ahí está el árbol la casa el barco &=q y arriba ?
+*CHI:	el [/] el ratón .
+*FAT:	+" oh@i viento . [+ SNG]
+*FAT:	+" mira lo que has hecho . [+ SNG]
+*FAT:	viento@q . [+ SNG]
+*FAT:	+" ven aquí y arregla este jaleo de una vez . [+ SNG]
+*FAT:	y entonces viene el viento del sur y sopla muy [x 4] fuerte . [+ SNG]
+*FAT:	&=q a ver cómo sopla ?
+*CHI:	ff@o .
+%par:	sopla
+*FAT:	y el ratón la barca la casa y el árbol +/. [+ SNG]
+*CHI:	0 [*] van volando .
+%err:	0 = se $MOR $LOS $PREFIX
+*FAT:	salen volando por los aires .
+*FAT:	&=q y sabes a dónde van ?
+*CHI:	sí .
+*FAT:	&=q a dónde ?
+*CHI:	aquí .
+*FAT:	&=q y esto qué es ?
+*FAT:	&=q una +..?
+*CHI:	montaña .
+*FAT:	a lo más alto de una alta montaña .
+*FAT:	allí en la punta se queda el árbol .
+*FAT:	< y al lado del > [//] y encima del árbol la casa .
+*FAT:	y encima de la casa el barco .
+*FAT:	y encima del barco el ratón .
+*FAT:	el ratón muy triste dice “oh@i , viento” . [+ SNG]
+*FAT:	+" mira lo que has hecho . [+ SNG]
+*FAT:	+" yo sólo quería navegar . [+ SNG]
+*FAT:	anda@q .
+*FAT:	+" ven y arregla este jaleo . [+ SNG]
+*FAT:	y viene el viento del norte y sopla muy [x 2] fuerte . [+ SNG]
+*CHI:	ff@o .
+%par:	sopla
+*FAT:	y mira lo que pasa .
+*FAT:	que la montaña el árbol la casa el barco y el ratón salen volando por los aires . [+ SNG]
+*FAT:	y mira lo que pasa .
+*FAT:	la montaña cae en medio del lago y se hunde .
+*FAT:	y se convierte en una isla al quedar se hundida .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	2
+*FAT:	el árbol cae < en la > [/] en la isla y se queda plantado .
+*FAT:	y al plantar se florece .
+*FAT:	la casa cae junto al árbol en la isla también .
+%act:	va cambiando las piezas Lego para escenificar la historia
+*FAT:	y al quedar se quieta la casa se abre una ventanita y se asoma una linda ratoncita y dice “oh@i , qué lugar tan bonito para vivir” .
+*FAT:	y la barca cae junto a la isla .
+*FAT:	chuf@o .
+*FAT:	y el ratón dentro de la barca .
+*FAT:	y como en ese momento sopla una leve brisa el barco empieza a navegar alrededor de la isla .
+*CHI:	no , yo .
+%act:	le coge el barco de papel a FAT
+*FAT:	y cuando pasa por enfrente de donde estaba la ratoncita dice adiós@q .
+*CHI:	aquí .
+%act:	deja el barco a un lado
+*FAT:	+" adiós [x 2] .
+*FAT:	y colorín+colorado este cuento +...
+*CHI:	y ahora con eso .
+*FAT:	ahora me lo cuentas tú .
+*FAT:	venga .
+*FAT:	a ver .
+*CHI:	y ahora eso amarillo .
+*FAT:	&=q ahora eso amarillo < hay que meter> [/] hay que meter lo también en el cuento ?
+*CHI:	sí .
+*FAT:	&=q eso amarillo qué es ?
+*FAT:	&=q el gigante de hierro ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	< ese es muy > [/] ese es muy bueno .
+*FAT:	&=q es muy bueno , verdad ?
+*CHI:	sí .
+*FAT:	oye .
+*FAT:	no me has contado la película antes .
+*FAT:	me la estabas contando cuando [/] cuando estábamos haciendo las camas pero no me la has terminado de contar .
+*FAT:	&=q me la cuentas ahora ?
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	&=q cómo era ?
+*CHI:	el niño fue por 0 [*] aires .
+%err:	0 = los $SYN $LOS
+*CHI:	y fue y se encontró con un pájaro .
+*FAT:	&=q con un pájaro ? [+ ADS]
+*CHI:	sí .
+*FAT:	iba por los aires .
+*FAT:	&=q y se encontró < con un > [/] con un pájaro ? [+ ADS]
+*FAT:	&=q tú [/] tú piensas que es así “el gigante de hierro” ?
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	&=q qué más pasó ?
+*CHI:	que xxx y fue . [+ NON]
+*CHI:	fue .
+*CHI:	la barca se hunde .
+*FAT:	&=q se hunde la barca ?
+*CHI:	sí .
+*FAT:	&=q y qué le pasa al niño ?
+*CHI:	que [x 3] [/] que resultas [*] que se rompe +/.
+%err:	resultas = resulta $MOR $ADD $NFL 2s/3s
+*CHI:	que se lo rompe y se lo dobla .
+*FAT:	&=q se dobla ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	&=q y aparece el gigante de hierro para salvar lo ?
+*CHI:	sí .
+*FAT:	&=q es este ?
+*FAT:	mira .
+*CHI:	ese .
+*FAT:	&=q este es ?
+*CHI:	sí .
+*CHI:	este es . [+ IMI]
+*CHI:	y ahora la [/] la coge la barca y [/] y la salva .
+%act:	coge la barca de papel
+*FAT:	&=q a la barca la salva ?
+*FAT:	&=q y al niño ?
+*CHI:	también .
+*CHI:	ese es el niño .
+*FAT:	mm@i .
+*FAT:	&=q y son amigos ?
+*CHI:	sí .
+*CHI:	son amigos .
+*CHI:	y montan a@x [/] aquí .
+*CHI:	va a montar aquí .
+*CHI:	va a montar aquí .
+*CHI:	y le lleva .
+*FAT:	&=q le lleva el niño ?
+*CHI:	sí .
+*CHI:	no puede .
+*CHI:	no puede el gigante de hierro porque pesa el niño .
+*CHI:	no puede .
+*FAT:	&=q porque pesa mucho ?
+*CHI:	sí .
+*CHI:	pesa mucho . [+ IMI]
+*FAT:	pero el gigante de hierro es muy fuerte .
+*CHI:	no puede .
+*FAT:	un día juega con el niño a que el niño monta en un coche .
+*FAT:	&=q te acuerdas ?
+*CHI:	sí .
+*FAT:	y entonces el gigante de hierro les da vueltas y vueltas .
+*FAT:	fu@o .
+*FAT:	&=q te acuerdas ?
+*CHI:	sí .
+*CHI:	fu@o .
+*FAT:	y el niño se marea .
+*FAT:	&=q te acuerdas ?
+*CHI:	sí .
+*FAT:	&=q y qué más pasa con el gigante de hierro ?
+*CHI:	que [/] que va xxx el niño . [+ NON]
+*CHI:	y [/] y monta el niño .
+*CHI:	< y sube > [/] y sube el gigante de hierro .
+*CHI:	tu@o [x 3] .
+*CHI:	y se lo lleva .
+*FAT:	&=q se lo lleva volando ?
+*CHI:	y aterriza en la montaña .
+*CHI:	ya [x 3] [/] ya ha llegado .
+*CHI:	ya .
+*CHI:	mira .
+*CHI:	&=e se encuentra con una ratita !
+*CHI:	&=e mira !
+*CHI:	&=e hola !
+*CHI:	&=e hola !
+*CHI:	&=e hola !
+*CHI:	&=q < dónde está > [/] dónde está ?
+%act:	busca sobre la alfombra
+*CHI:	xxx .
+*CHI:	mira .
+*CHI:	se encuentra con una ratita .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	2
+@Situation:	(3)
+*CHI:	se ha encontrado con la ratita .
+*FAT:	&=q se ha encontrado con una ratita ?
+*CHI:	sí .
+*FAT:	&=q y qué hacen ?
+*CHI:	se las lleva aquí .
+*CHI:	< en su mano > [/] se las lleva aquí en su mano .
+*CHI:	y se las lleva aquí y se las mete a la cazuela .
+*FAT:	&=q a la cazuela ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	una ratita en la cazuela .
+*CHI:	xxx .
+*CHI:	< a la ratita > [//] a la cazuela .
+*FAT:	pero bueno .
+*CHI:	< se lo > [/] se lo quitó eso .
+*CHI:	y se lo quitó .
+*CHI:	fue volando 0 [*] los aires moviendo sus +/.
+%err:	0 = por $SYN $LOS
+*CHI:	fue volando [x 2] [/] volando así .
+*CHI:	pon@o [x 2] .
+*CHI:	&=e mira !
+*CHI:	xxx .
+*CHI:	que se ha roto 0 [*] coche de Papá .
+*CHI:	que se ha roto .
+*CHI:	que se ha roto .
+*CHI:	coche .
+*CHI:	que se ha roto el coche .
+*CHI:	conduce < un caballo un caballo > [/] un caballo .
+*FAT:	&=q un caballo ?
+*CHI:	sí [x 3] .
+*FAT:	&=q es un coche con un caballo ?
+*CHI:	no .
+*CHI:	es un remolque con un caballo .
+*FAT:	mm@i .
+*CHI:	aquí monta un señor .
+*CHI:	el marciano que le falta una pata .
+*FAT:	sí .
+*FAT:	le falta una .
+*FAT:	toma .
+*FAT:	aquí .
+%act:	le da una pieza
+*FAT:	ya verás .
+*FAT:	se lo pones aquí .
+*CHI:	no [x 2] .
+*CHI:	es que con las dos juntas no .
+*CHI:	así no .
+*CHI:	es que se quita la otra pata .
+*CHI:	y se la pone la otra .
+*CHI:	y < la ot(r)a > [/] la ot(r)a va en ot(r)o .
+*CHI:	en ot(r)o .
+*FAT:	tú verás .
+*CHI:	la otra .
+*FAT:	tú verás .
+*CHI:	yo quiero hacer otro caballo .
+*CHI:	&=q qué haces ?
+*CHI:	&=q qué haces ?
+*FAT:	un coche .
+*CHI:	un coche . [+ IMI]
+*FAT:	&=q qué pasa ?
+*FAT:	&=q te gusta mi coche ?
+*CHI:	sí .
+*FAT:	&=q tú qué haces ?
+*CHI:	montas [*] eso .
+%err:	montas = monto $MOR $ADD $NFL 2s/1s
+%act:	coloca una pieza sobre el conjunto de piezas que está uniendo FAT
+*FAT:	pero bueno .
+*FAT:	pero yo no sé si quiero que monte eso ahí .
+*FAT:	porque es que ya no es un coche .
+*FAT:	ahora es un avión .
+*FAT:	&=q lo ves ?
+*CHI:	quiero un coche .
+*FAT:	&=q y eso qué es ?
+*FAT:	< es un amigo > [/] es un amigo mío .
+*CHI:	no .
+*CHI:	es que ese [/] ese prepara [?] los aviones . [+ NON]
+*FAT:	ah@i .
+*FAT:	&=q eso es para los aviones ?
+*FAT:	&=q si no no vuelan ?
+*CHI:	no vuelan . [+ IMI]
+*FAT:	mm@i .
+*CHI:	si [/] si le pone [*] aquí un motor funciona .
+%err:	pone = pones $MOR $LOS $NFL 3s/2s
+*FAT:	&=q funciona ? [+ ADS]
+*CHI:	si te [*] pones un motor .
+%err:	te = le $MOR $SUB $PREFIX
+*CHI:	pon [//] pone [*] aquí un motor a ver si funciona .
+%err:	pone = pon $MOR $ADD $REG
+*FAT:	&=q dónde está el motor ?
+*CHI:	es que hay que poner le un motor .
+*CHI:	< es que > [/] es que este [*] va aquí el motor .
+%err:	este = 0 $SYN $ADD
+*FAT:	&=q está ahí el motor ?
+*CHI:	sí .
+*CHI:	porque [/] porque viene un señor y lo fábrica [*] .
+%err:	fábrica = fabrica $MOR $SUB $PHO
+*FAT:	&=q un señor y lo fabrica ?
+*FAT:	&=q viene ?
+*CHI:	sí .
+*CHI:	< viene un > [/] viene xxx . [+ NON]
+*CHI:	< una pierna > [/] una pierna y otra pierna .
+*FAT:	a ver .
+*FAT:	viene un señor y lo fabrica . [+ ADS]
+*CHI:	< la cabeza > [/] la cabeza .
+*FAT:	pero bueno .
+*FAT:	&=q pero qué estás haciendo ?
+*FAT:	&=q el señor que fabrica el motor ?
+*CHI:	sí .
+*FAT:	pero bueno .
+%par:	se ríe
+*CHI:	mira .
+*CHI:	ese señor .
+*CHI:	ese e(s) un señor .
+*FAT:	mira .
+*FAT:	ya he hecho el motor .
+*FAT:	aquí y aquí .
+*CHI:	aquí y aquí . [+ IMI]
+*CHI:	que lo voy a fabricas [*] .
+%err:	fabricas = fabricar $MOR $SUB $NFL 2s/INF
+*CHI:	se ha caído .
+*CHI:	turbulencia .
+%act:	como si volara el "avión"
+*CHI:	vuela [/] vuela el señor .
+*CHI:	mira cómo vuela [?] el señor . [+ NON]
+*CHI:	mira el señor .
+*FAT:	pues vaya .
+*FAT:	fabrica motores para que no vuelen aviones y para volar él .
+*CHI:	mira [x 2] .
+*CHI:	ya .
+*CHI:	ya vola [*] el viento .
+%err:	vola = vuela $MOR $SUB $REG
+*FAT:	le falta un poquito el timón aquí .
+*CHI:	&=q el timón aquí ? [+ IMI]
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	2
+*CHI:	< le falta > [/] le falta .
+*CHI:	le falta uno de esos grande .
+*CHI:	uno grande .
+*CHI:	&=q < dónde está dónde está donde está > [/] dónde está la cabeza de [/] de que monta ese señor [*] ?
+%err:	< de que monta ese señor > = < de ese señor que monta > $SYN $SUB
+*FAT:	aquí .
+*CHI:	&=q aquí ? [+ IMI]
+*CHI:	sí falta .
+*CHI:	es un avión muy grande .
+*FAT:	es un gran avión , sí .
+*CHI:	hay que hacer uno pequeñito de avión .
+*FAT:	ya está .
+*FAT:	pequeñito .
+*CHI:	< uno que que se > [//] uno pequeñito .
+*CHI:	mira .
+*CHI:	hay que hacer un señor para montar lo aquí .
+*FAT:	a ver .
+*FAT:	uno porque es pequeño y otro porque es grande no encontramos el adecuado .
+*CHI:	tú [/] tú coge ese .
+*FAT:	mira .
+*FAT:	este es Sisebuto .
+*CHI:	< tú coge > [/] tú coge ese .
+*CHI:	tú coge ese que es muy grande .
+*CHI:	&=e no !
+*CHI:	no .
+*CHI:	por aquí .
+*CHI:	ese [/] ese por aquí .
+*FAT:	gs@o .
+%act:	como si volara el avión
+*CHI:	gs@o .
+%act:	como si volara el avión
+*FAT:	es un avión carraca .
+*FAT:	jo@i .
+*FAT:	en ese avión pequeño cuánta gente va &=q no ?
+*FAT:	qué suerte , &=q no ?
+*CHI:	mira .
+*CHI:	xxx .
+*CHI:	se lo ha quitado una oreja .
+*FAT:	&=q se lo ha quitado una oreja al avión ?
+*CHI:	sí .
+*CHI:	vamos a poner la .
+*CHI:	la oreja que se la ha puesto Papá .
+*CHI:	vamos a poner la .
+*CHI:	ya .
+*CHI:	mira cómo la lleva aquí .
+*CHI:	la lleva un señor .
+*CHI:	la lleva el señor .
+*CHI:	no [x 2] .
+*CHI:	no < que lo que > [/] que lo fábrica [*] un señor .
+%err:	fábrica = fabrica $MOR $SUB $PHO
+*FAT:	&=q lo fabrica un señor ? [+ COR]
+*FAT:	que venga aquí ahora el señor ese a fabricar .
+*FAT:	mira .
+*FAT:	le sientas aquí .
+*FAT:	y desde aquí él ya controla bien todo el avión .
+*CHI:	&=e ya [x 3] !
+*CHI:	xxx .
+*CHI:	&=e ah@i !
+%act:	se ha quedado con una parte del avión en la mano
+*FAT:	oh@i .
+*FAT:	que se lleva el motor .
+*FAT:	&=e socorro !
+*CHI:	&=e toma !
+*CHI:	ya .
+*CHI:	y ahora aterriza .
+*FAT:	y ahora +//.
+*CHI:	&=e un avión mu(y) grande !
+*CHI:	&=e mira !
+*CHI:	he encontrado un avión muy grande .
+*CHI:	mira .
+*FAT:	&=q has encontrado un avión muy grande ?
+*CHI:	&=e sí !
+*CHI:	que monta ese señor .
+*CHI:	&=e mira !
+*FAT:	&=q cómo se llama ese señor ?
+*CHI:	Sisebuto .
+*FAT:	claro .
+*CHI:	grande .
+*CHI:	< un motor > [/] un motor .
+*FAT:	oye .
+*FAT:	no has terminado de contar me la película , Juan .
+*CHI:	mira .
+*FAT:	del gigante de hierro .
+*FAT:	&=q entonces son amigos ?
+*FAT:	&=q y dónde viven ?
+*CHI:	en [/] en Cambrils .
+*FAT:	&=q viven en Cambrils ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	&=q quién vive en Cambrils ?
+*FAT:	&=q el gigante de hierro y el niño ?
+*CHI:	sí .
+*CHI:	sólo [/] sólo [?] los papás . [+ NON]
+*CHI:	los papás , el gigante de hierro y el niño .
+*FAT:	&=q los papás , el gigante de hierro y el niño ? [+ ADS]
+*CHI:	ese [x 3] < que se > [/] que se xxx solo . [+ NON]
+*FAT:	ay@i , perdón [x 2] .
+*CHI:	ese es .
+*FAT:	perdón [x 3] .
+*FAT:	mira .
+*FAT:	el gigante de hierro pequeñito .
+*CHI:	ff@o .
+%par:	como si volara un avión
+*FAT:	0 .
+%act:	hace como si volara otro avión y choca con el de Juan
+*CHI:	&=e no !
+*CHI:	xxx un señor . [+ NON]
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	2
+*CHI:	xxx .
+*FAT:	oh@i [x 2] .
+*CHI:	oh@i [x 2] .
+*FAT:	es un poco lapa este gigante de hierro .
+%exp:	lapa = burdock
+*CHI:	toma .
+*CHI:	mira [/] mira qué avión .
+*CHI:	no monta el gigante de hierro en la cabeza .
+*CHI:	no .
+*FAT:	pero bueno .
+*CHI:	no .
+*FAT:	que viene el gigante de hierro grande .
+*FAT:	su papá .
+%act:	coge un conjutno de piezas grande
+*CHI:	eh@i .
+*FAT:	así xxx la siesta . [+ NON]
+*FAT:	mira .
+*FAT:	una dos y tres . [+ SNG]
+*CHI:	y tres . [+ IMI]
+*FAT:	se levanta .
+*FAT:	uh@i .
+*CHI:	&=e y mira !
+*CHI:	&=e hay una nave+espacial !
+*CHI:	&=e mira !
+*CHI:	hay una nave+espacial .
+*CHI:	mira .
+*CHI:	hay una nave+espacial .
+*CHI:	ah@i .
+*CHI:	un señor que vola [*] .
+%err:	vola = vuela $MOR $SUB $REG
+*CHI:	las hélices .
+*CHI:	ese es un señor que [x 4] vol [*] [?] . [+ NON]
+%err:	bare stem ?
+*CHI:	que [x 3] [/] que lo vola [*] .
+%err:	vola = vuela $MOR $SUB $REG
+*CHI:	se [/] se lo va 0 [*] .
+%err:	0 = V $SYN $LOS
+*CHI:	< y su papá > [/] y su papá .
+%par:	susurra
+*CHI:	otro gigante de hierro fábricos [*] .
+%err:	fábricos = fabrica $MOR $SUB $NFL 2s/1s
+*FAT:	&=q quién fabrica otro gigante de hierro ?
+*CHI:	el gigante .
+*FAT:	&=q el gigante fabrica otro gigante ?
+*CHI:	van a montar .
+*FAT:	&=q por qué ?
+*FAT:	&=q son amigos , no ?
+*CHI:	monta [/] monta solo aquí .
+*FAT:	&=q en dónde ?
+*CHI:	0 .
+%act:	se toca la nuca
+*FAT:	&=q en el cogotillo ?
+*CHI:	aquí .
+*FAT:	&=q ahí ?
+*CHI:	no .
+*CHI:	aquí .
+*FAT:	&=q ahí a corderetas ?
+*CHI:	en el cuello .
+*FAT:	&=q aquí ?
+*CHI:	no .
+*CHI:	a xxx . [+ NON]
+*CHI:	no .
+*CHI:	así no .
+*CHI:	que [x 2] [/] es que iba así .
+*CHI:	a@x [/] aquí .
+*FAT:	a corderetas .
+*CHI:	sí .
+*CHI:	a corderetas . [+ IMI]
+*CHI:	a corderetas .
+*CHI:	mira .
+*CHI:	quiero subir me .
+*CHI:	xxx .
+*CHI:	ese [/] ese es .
+*CHI:	no puede .
+*CHI:	< es que > [/] es que se rompe .
+*CHI:	xxx .
+*CHI:	yo [/] yo quiero hacer 0 [*] .
+%err:	0 = O $SYN $LOS
+*CHI:	quiero hacer una nave+espacial .
+*CHI:	yo quiero hacer < una na@x > [/] una nave .
+*FAT:	todos los días una nave &=q eh@i ?
+*CHI:	yo quiero hacer una nave .
+*FAT:	podríamos hacer otra cosa .
+*CHI:	una nave .
+*FAT:	otra cosa .
+*CHI:	una nave .
+*FAT:	&=q una nave ? [+ ADS]
+*CHI:	sí .
+*CHI:	una nave .
+*FAT:	&=q una nave tú quieres ?
+*CHI:	una nave .
+*CHI:	yo quiero una nave .
+*CHI:	yo quiero una nave .
+*FAT:	todos los días .
+*CHI:	una nave .
+*FAT:	una nave , venga .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	uh@i .
+*FAT:	ya está .
+*FAT:	toma .
+%act:	le da dos piezas colocadas juntas
+*CHI:	eh@i .
+*FAT:	&=q más grande ?
+*CHI:	más grande . [+ IMI]
+*FAT:	ya está .
+%act:	le ha dado la vuelta a la pieza
+*FAT:	&=q más grande ?
+*CHI:	sí .
+*CHI:	más grande . [+ IMI]
+*CHI:	más grande .
+*FAT:	&=q más grande ya ?
+*FAT:	vamos a diseñar las nuevas naves del futuro .
+*FAT:	tuturu@o .
+%par:	canturrea
+*FAT:	mira una nave .
+*CHI:	eso [x 2] [/] eso .
+*FAT:	espera un momento .
+*FAT:	a ver si podemos hacer la de otra forma .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	(3)
+*CHI:	lo [*] fabrica ese señor es@x [/] esa nave .
+%err:	lo = la $MOR SUB $PREFIX
+*FAT:	a ver .
+*FAT:	espera un momento .
+*CHI:	lo [*] fabrica ese señor .
+*CHI:	xxx fabricar lo ese señor .
+*FAT:	lo fabrica el señor que hace los motores &=q no ?
+*CHI:	sí .
+*CHI:	toma .
+*FAT:	mira qué nave .
+*CHI:	el señor xxx verde . [+ NON]
+*FAT:	viernes vírgula virgen enano verde . [+ SNG]
+%exp:	kind of sorcery
+*CHI:	toma .
+*FAT:	espera [x 3] .
+*CHI:	espera [x 2] . [+ IMI]
+*FAT:	espera [x 2] . [+ SNG]
+*CHI:	espera [x 2] . [+ IMI]
+*FAT:	espera [x 2] . [+ SNG]
+*CHI:	espera [x 2] . [+ IMI]
+*FAT:	espera . [+ SNG]
+*CHI:	eso xxx . [+ NON]
+*FAT:	espera [x 3] , por+favor .
+*FAT:	paciencia , por+favor .
+*FAT:	por+favor , paciencia .
+*FAT:	paciencia , por+favor . [+ SNG]
+*FAT:	señoras y señores . [+ SNG]
+*FAT:	en el +... [+ SNG]
+*CHI:	++ culo tengo flores . [+ SNG]
+*FAT:	paciencia , por+favor . [+ SNG]
+*FAT:	señoras y señores . [+ SNG]
+*FAT:	en el +... [+ SNG]
+*FAT:	salud .
+%com:	se ha oído estornudar a MOT en otra habitación
+*CHI:	salud .
+*FAT:	xxx .
+*CHI:	no sube Mamá ?
+*FAT:	no sabemos .
+*CHI:	toma .
+*CHI:	xxx .
+*FAT:	déjame las piezas amarillas , Juan .
+*CHI:	toma .
+*FAT:	que le vamos a poner aquí dos patas amarillosas@f .
+*FAT:	trae .
+*CHI:	sí .
+*CHI:	esas amarillosas@f .
+*CHI:	&=q esas ?
+*FAT:	no .
+*FAT:	las otras .
+*CHI:	las otras . [+ IMI]
+*CHI:	toma .
+*FAT:	necesito más .
+*CHI:	&=q más ?
+*CHI:	toma .
+*FAT:	necesito más .
+*CHI:	toma .
+*FAT:	muy bien .
+*FAT:	gracias , xxx . [+ NON]
+*FAT:	mira ahora .
+*FAT:	oh@i .
+*FAT:	mira .
+%act:	hace como si volara el conjunto de piezas pero se le cae una parte de color amarillo
+*CHI:	oh@i , una pata .
+*FAT:	las patas amarillosas@f estas .
+*FAT:	mira .
+*FAT:	&=q eh@i ?
+*FAT:	&=q esta es la nave espacial grande que tú querías ?
+*CHI:	sí .
+*FAT:	pues aquí la tienes .
+*FAT:	para ti es .
+*FAT:	&=q y este es el inventor ?
+*FAT:	&=q el que lo fabrica ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q este es el que lo fabrica ?
+*CHI:	sí .
+*CHI:	es el que lo fábrica [*] .
+%err:	fábrica = fabrica $MOR $SUB $PHO
+*FAT:	&=q y cómo se llama ese señor ?
+*CHI:	Fábrico .
+*FAT:	0 .
+%par:	le da la risa
+*CHI:	Fábrico [x 2] Iglesia [x 2] .
+*CHI:	el que fabrica tu iglesia .
+*FAT:	ay@i madre .
+*FAT:	la primera esdrújula que dice y tiene que estar mal dicha .
+*FAT:	&=q el Señor Fábrico ?
+*CHI:	este [/] este [*] se pone ese señor así .
+%err:	este = 0 $SYN $ADD
+*CHI:	es que se pone ese señor así .
+*CHI:	se pone ese señor así porque [/] porque no funciona la nave+(es)pacia(l) esa .
+*CHI:	quiero una muy grande para montar al señor azul y al señor verde .
+*FAT:	es una nave+espacial impresionante &=q eh@i ?
+*CHI:	yo quiero una muy grande para poner esas escaleras y esas escaleras .
+*CHI:	< mira una mira > [/] mira una .
+*CHI:	tiene que ser muy grande para poner eso .
+*CHI:	las escaleras .
+*FAT:	&=q quieres poner las escaleras ?
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	trae .
+*FAT:	a ver .
+*CHI:	una muy grande .
+*FAT:	aquí la podemos poner .
+*FAT:	&=q a ver ?
+*FAT:	déjame .
+*FAT:	&=q a ver ?
+*CHI:	no [x 2] .
+*FAT:	vale , vaya .
+*CHI:	no .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	(3)
+*CHI:	esa [/] esa abajo .
+*CHI:	y después esta .
+*FAT:	&=q me dejas probar a poner la escalera ?
+*CHI:	< esa esa abajo > [/] esa abajo .
+*CHI:	y < esa aquí esa aquí esa aquí > [/] esa all@x [//] aquí .
+*FAT:	bueno .
+*FAT:	pues venga .
+*FAT:	pon la donde quieras .
+*CHI:	tú [x 2] [/] tú [*] saca las piezas .
+%err:	SVO = OVS $SYN $SUB
+*FAT:	si lo quitas se estropea .
+*FAT:	se desarma la nave .
+*CHI:	no .
+*CHI:	yo quiero destrozar la .
+*FAT:	ah@i , bueno .
+*FAT:	pues haz lo que quieras .
+*CHI:	destrozar xxx . [+ NON]
+*CHI:	quiero esa [//] una muy larga y muy grande .
+*CHI:	quiero una muy larga y muy grande y azul .
+*FAT:	&=q una escalera muy larga ?
+*FAT:	&=q una escalera muy larga muy grande y azul ?
+*CHI:	para poner la esa [x 4] muy larga .
+*FAT:	toma .
+*FAT:	más piezas azules .
+*CHI:	muy larga .
+*FAT:	toma .
+*FAT:	aquí tienes más piezas azules .
+*CHI:	una [/] una muy grande .
+*FAT:	cariño .
+*CHI:	una muy grande .
+*FAT:	si quieres una escalera azul sólo hay estas piezas azules .
+*FAT:	&=q comprendes ?
+*CHI:	no .
+*CHI:	esa .
+*FAT:	esas son grandes .
+*FAT:	esas no son pequeñas .
+*CHI:	esas grandes . [+ IMI]
+*FAT:	&=q las grandes también las quieres ?
+*CHI:	sí .
+*FAT:	pues hay que deshacer toda la nave entonces .
+*FAT:	pues oye .
+*FAT:	pues no me pidas que te haga naves &=q eh@i ?
+*CHI:	no .
+*FAT:	si luego las deshaces .
+*FAT:	toma .
+*FAT:	aquí tienes todas las piezas .
+*FAT:	haz lo que quieras .
+*CHI:	mira .
+*CHI:	voy a hacés [: hacer] [*] una nave para montar un señor muy [x 3] 0 [*] .
+%err:	haces = hacer $MOR $SUB $PHO ; 0 = O $SYN $LOS
+*CHI:	&=q me deja [*] una pieza de esa [*] ?
+%err:	deja = dejas $MOR $LOS $NFL 3s/2s ; esa = esas $MOR $LOS $AGA
+*CHI:	< es que > [/] es que no tiene esa escalera .
+*CHI:	esa .
+*CHI:	tengo que poner escaleras .
+*CHI:	así [x 3] y así .
+*CHI:	se cae .
+*CHI:	se cae mi pierna .
+%act:	está intentado construir la escalera azul sobre su pierna
+*CHI:	&=q qué haces ?
+*FAT:	pues mira .
+*FAT:	un zigzag .
+*CHI:	&=q un fiza [: zigzag] ? [+ IMI]
+*CHI:	&=q qué es eso ?
+*FAT:	un zigzag .
+*CHI:	&=q zi(g)za(g) ? [+ IMI]
+*FAT:	mira .
+*FAT:	zigzag@o [x 6] .
+%act:	mueve la mano como un péndulo
+*CHI:	&=q zi(g)za(g) ? [+ IMI]
+*CHI:	zi(g)za(g) . [+ IMI]
+*CHI:	quiero jugar 0 [*] zi(g)za(g) .
+%err:	0 = al $SYN $LOS
+*FAT:	venga .
+*FAT:	pon tú el siguiente aquí .
+*CHI:	zigzag@o [x 2] .
+*FAT:	pon el siguiente aquí .
+*CHI:	zigzag@o [x 2] .
+*FAT:	mira .
+*FAT:	el siguiente sería así .
+*FAT:	así .
+*FAT:	y luego encima iría este así .
+*CHI:	zigzag@o [x 4] .
+*FAT:	y el siguiente iría aquí .
+*FAT:	que va a hacer falta una pieza grande .
+*FAT:	da me una grande .
+*CHI:	&=q 0 [*] pieza grande ?
+%err:	0 = una $SYN $LOS
+*CHI:	esa .
+*FAT:	no .
+*FAT:	grande .
+*FAT:	no azul .
+*CHI:	&=q grande ? [+ IMI]
+*FAT:	amarilla o roja .
+*FAT:	pero tiene que ser grande .
+*CHI:	roja .
+*CHI:	roja [x 2] .
+*CHI:	toma .
+%act:	le da una pieza roja
+*FAT:	esa .
+*FAT:	muy bien .
+*FAT:	&=q ves [/] ves ?
+*FAT:	va esta así .
+*FAT:	y ahora este va a:sí .
+*CHI:	mira .
+*FAT:	&=q qué has hecho ?
+*FAT:	&=q una u@l ?
+*CHI:	no .
+*CHI:	una nave .
+*FAT:	&=q una nave ? [+ ADS]
+*CHI:	sí .
+*CHI:	una nave .
+*FAT:	mm@i .
+*CHI:	pa(ra) meter eso .
+*FAT:	con escaleras que es lo que tú querías .
+*CHI:	< así no > [/] así no es .
+*FAT:	una nave con escaleras .
+*CHI:	eso .
+*CHI:	&=q eso [*] qué es eso ?
+%err:	eso = 0 $SYN $ADD
+*CHI:	eso [/] eso lo voy a poner .
+*CHI:	&=q dónde lo voy a poner eso ?
+*FAT:	&=q y ahora a poner escaleras ?
+*FAT:	aquí .
+*FAT:	mira .
+*FAT:	la puedes poner así .
+*CHI:	así . [+ IMI]
+*FAT:	&=q te gusta así ?
+*FAT:	o la quieres poner aquí .
+*CHI:	aquí .
+*FAT:	mira .
+*FAT:	así .
+*CHI:	aquí [x 2] .
+*FAT:	mira .
+*FAT:	así .
+*CHI:	aquí .
+*FAT:	mira qué bien está ahí .
+*CHI:	aquí .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	(3)
+*FAT:	&=q no te gusta ahí ?
+*CHI:	sí .
+*CHI:	son de cemento .
+*FAT:	&=q son de cemento ?
+*CHI:	sí .
+*CHI:	son de cemento .
+*FAT:	qué barbaridad .
+*CHI:	por aquí suben los dedos .
+*CHI:	hacen clin@o [x 2] .
+*FAT:	&=q por aquí suben quiénes ?
+*CHI:	los dedos .
+*FAT:	&=q los dedos ? [+ ADS]
+*CHI:	clin@o .
+*CHI:	&=e mira !
+*CHI:	esta sí que la conoces .
+*FAT:	&=q sí que la conozco ?
+*CHI:	se hace así .
+*CHI:	&=q esta cómo se llama ?
+*FAT:	hombre .
+*FAT:	sí que lo conozco , sí .
+*FAT:	&=q cómo se llama ?
+*CHI:	&=q cómo se llama ? [+ IMI]
+*FAT:	&=q cómo se llama ? [+ ADS]
+*CHI:	Sisebuto .
+*FAT:	Sisebuto . [+ ADS]
+*CHI:	&=q y ese ?
+*FAT:	< cuánto tiempo > [/] cuánto tiempo sin ver te .
+*CHI:	&=q y ese ?
+*CHI:	&=q y ese ?
+*FAT:	&=q cómo se llama ese ?
+*CHI:	xxx .
+*FAT:	&=q cómo se llama ese ?
+*CHI:	ese , Leonio .
+*FAT:	Leonio .
+*FAT:	pero bueno .
+*FAT:	ya veo que tienes a Sisebuto y a Leonio &=q eh@i ?
+*CHI:	mira .
+*FAT:	como en los viejos tiempos .
+*CHI:	voy a volar eso .
+%act:	coge un conjunto de piezas muy grande
+*FAT:	eso cómo va a volar .
+*FAT:	madre+mía .
+*CHI:	madre+mía . [+ IMI]
+*CHI:	eso cómo va a volar . [+ IMI]
+*FAT:	pero si es un mazacote .
+*CHI:	si es 0 [*] mazacote . [+ IMI]
+%err:	0 = un $SYN $LOS
+*FAT:	abstracto .
+*CHI:	estasto [: abstracto] . [+ IMI]
+*FAT:	eh@i , cuidado .
+*CHI:	ay@i que se +/.
+*FAT:	vaya .
+*CHI:	voy a volar 0 [*] .
+%err:	0 = O $SYN $LOS
+*FAT:	parece un dragón geométrico .
+*CHI:	ahora vola [*] el dragón .
+%err:	vola = vuela $MOR $SUB $REG
+*CHI:	xxx .
+*FAT:	esto no vuela ni aunque le pongamos un motor a propulsión .
+*CHI:	hay que poner 0 [*] un motor a pilsión [: propulsión] .
+%err:	0 = le $MOR $LOS $SUFFIX
+*FAT:	ni aunque se lo pongamos , amigo mío , volará .
+*FAT:	porque es un armatoste .
+*FAT:	un mamotreto .
+*CHI:	< un un a@x > [/] un a(r)matoste . [+ IMI]
+*CHI:	un mamot(r)eto . [+ IMI]
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	pero mueve la cola este dragón geométrico .
+*CHI:	mueve la cola . [+ IMI]
+*FAT:	y ahora mira cómo vuela .
+*CHI:	++ listos+ya . [+ SNG]
+*FAT:	0 .
+%act:	lo levanta un centímetro y lo vuelve a bajar
+*CHI:	no .
+*CHI:	mucho .
+%act:	levanta un brazo
+*CHI:	mucho .
+*FAT:	no puede volar más .
+*FAT:	es pequeñito el vuelo que tiene .
+*FAT:	mira .
+*FAT:	ya verás .
+*FAT:	se pone aquí y vuela hasta aquí .
+*FAT:	mira .
+*FAT:	&=q qué pasa ?
+*FAT:	hay gente que vuela poco y gente que vuela mucho .
+*FAT:	este vuela poco .
+*CHI:	vuela poco . [+ IMI]
+*FAT:	hay que asumir lo .
+*CHI:	< se se > [/] se pone la cabeza así .
+*CHI:	mira .
+*CHI:	pone la cabeza así .
+*CHI:	xxx también . [+ NON]
+*FAT:	a lo mejor podría llamar a tu amigo Fábrico .
+*FAT:	y a lo mejor se lo ocurre alguna idea (.) para que vuele un poco más este dragón geométrico .
+*CHI:	ese señor .
+*CHI:	ese señor .
+*FAT:	&=q ese es Fábrico ?
+*CHI:	dragón .
+*CHI:	echa fuego .
+*CHI:	eh@i xxx . [+ NON]
+*CHI:	se quema .
+*FAT:	claro .
+*FAT:	si lo pones delante de la boca y le dices dragón@q .
+*FAT:	+" echa fuego .
+*FAT:	pues el dragón echa fuego y lo quema sin querer .
+*CHI:	sí .
+*CHI:	toma .
+*CHI:	si lo pongo delante echa fuego .
+*FAT:	claro .
+*FAT:	por eso se pone en el lado y dice dragón@q .
+*FAT:	+" echa fuego .
+*FAT:	y ahora ya .
+*FAT:	ffs@o .
+%act:	toca el pecho de Juan con la mano
+*CHI:	no .
+*FAT:	ffs@o .
+*CHI:	malo .
+%act:	le da un manotazo en la mano a FAT y se rompe el dragón
+*FAT:	eh@i .
+*FAT:	pero bueno .
+*CHI:	xxx .
+*FAT:	pero si es un dragón bueno .
+*FAT:	pero si es un dragón geométrico .
+*FAT:	los dragones geométricos lo único que son un poco más complejos .
+*FAT:	pero nada más .
+*CHI:	ese .
+*CHI:	me enfado [?] . [+ NON]
+*FAT:	eh@i .
+*FAT:	&=q qué haces ?
+*CHI:	quiero un dragón muy malo .
+*FAT:	&=q quieres hacer un dragón malo ?
+*CHI:	sí .
+*FAT:	o+sea que deshacemos también este &=q no ?
+*CHI:	ese [x 3] .
+*FAT:	pero lo haces tú el dragón .
+*FAT:	&=q a ver cómo lo haces ?
+*CHI:	tú [/] tú haz lo .
+*FAT:	no .
+*FAT:	yo ya estoy cansado de hacer y deshacer cosas .
+*FAT:	digamos que subimos aquí para que juegues tú .
+*FAT:	no para que juegue yo .
+*CHI:	Mamá sube y hace un dragón (.) malo .
+@Situation:	1 FAT y Juan juegan con un cajón pintado por fuera como si fuera un coche ; (2) FAT le cuenta una historia a Juan ; (3) Juan y FAT juegan con las piezas
+@Time Start:	10:30
+@Situation:	(3)
+*FAT:	0 .
+%act:	busca en una caja
+*CHI:	&=q aquí qué hay ?
+*CHI:	más piezas .
+*FAT:	había alguna más , sí .
+*CHI:	entonces hago un cohete .
+*CHI:	quiero un cohete .
+*FAT:	mira .
+*FAT:	ahí tienes uno amarillo .
+*CHI:	&=q aquí tengo uno amarillo ?
+*FAT:	sí .
+*FAT:	cógelo .
+*CHI:	no .
+*CHI:	tú cóge [*] lo .
+%err:	SVO = VOS $SYN $SUB
+*FAT:	no .
+*FAT:	tú cógelo . [+ ADS]
+*FAT:	mandarín .
+*FAT:	que eres un chino+mandarín .
+*CHI:	eres [*] un chino+mandarín . [+ IMI]
+*FAT:	sí .
+*FAT:	eres un chino+mandarín .
+*FAT:	o un pajarito mandón .
+*CHI:	no .
+*CHI:	no soy 0 [*] .
+%err:	0 = O $SYN $LOS
+*FAT:	sí eres , sí .
+*CHI:	no soy .
+*FAT:	mira .
+*FAT:	ya verás < como dices > [//] como [/] como hablas en mandarín .
+*FAT:	di mandarina .
+*CHI:	mandarina . [+ IMI]
+*FAT:	&=q ves cómo hablas en mandarín ?
+*CHI:	sí .
+*FAT:	tú eres un chino+mandarín de la mandarina .
+*CHI:	mandarín de la mandarina . [+ IMI]
+*CHI:	mira .
+*CHI:	toma ya .
+*FAT:	voy a ver qué hora es .
+*FAT:	porque a lo mejor hay que ir se a la Glorietifolia .
+%exp:	Glorietifolia = nombre ficiticio que no transcribo
+*FAT:	oye .
+*FAT:	tenemos que preparar nos ya .
+*CHI:	con eso .
+%act:	se refiere a las piezas Lego que tiene en la mano
+*FAT:	con eso a la Glorietifolia creo que no [/] no va a ser buena idea &=q eh@i ?
+*FAT:	&=q sabes por qué ?
+*CHI:	sí .
+*FAT:	porque eso se nos va a perder o se nos va a romper .
+*FAT:	o hace ruido ahí en medio de la sesión .
+*FAT:	vamos a vestir nos para ir a la Glorieti .
+*CHI:	no .
+*CHI:	no 0 [*] quiero vestir para [/] para (l)a Glorieti . [+ CLIMB]
+%err:	0 = me $MOR $LOS $CLMB
+*FAT:	oye .
+*FAT:	&=q sabes que la bruja Glorietifolia es muy amiga de los papás ?
+*CHI:	no .
+*FAT:	&=q no lo sabes ?
+*FAT:	y cuenta unos cuentos +...
+@End

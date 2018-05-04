@@ -1,0 +1,149 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	JAA JavierApesteguía Target_Child , SER Sergio Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|JAA|3;1.01||||Target_Child|||
+@ID:	spa|fernaguado|SER|2;10.28||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	27-NOV-1997
+@Location:	Pamplona , Navarra , Spain
+@Situation:	JAA y SER juegan con el barco pirata
+*JAA:	aquí +/.
+%mor:	adv|aquí=here +/. 
+*INV:	ajá !
+%mor:	co|ajá=hah ! 
+*JAA:	+, así !
+%mor:	adv|así=thus ! 
+%com:	están montando el barco
+*SER:	la otra ?
+%mor:	det:art|el&FEM&SG=the det:indef|otro-FEM=other ? 
+%com:	pregunta por la otra bala del cañón
+*JAA:	aquí .
+%mor:	adv|aquí=here . 
+%com:	busca por el barco
+*JAA:	no .
+%mor:	adv|no=no . 
+*JAA:	aquí [/] la otra está aquí ?
+%mor:	det:art|el&FEM&SG=the det:indef|otro-FEM=other v|esta-3S&PRES=be adv|aquí=here 
+	? 
+*SER:	aquí ?
+%mor:	adv|aquí=here ? 
+*JAA:	ves !
+%mor:	co|ves=see ! 
+*JAA:	eh (.) todo [/] sube todo .
+%mor:	co|eh v|subi-3S&PRES=go_up det:indef|todo-MASC=all . 
+*JAA:	sube que sube .
+%mor:	v|subi-3S&PRES=go_up prep|que=than v|subi-3S&PRES=go_up . 
+*SER:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*SER:	espera que lo meto todo .
+%mor:	v|espera-3S&PRES=wait prep|que=than pro:per:1|lo&masc=him v|mete-1S&PRES=put 
+	det:indef|todo-MASC=all . 
+*SER:	espera que lo entro .
+%mor:	v|espera-3S&PRES=wait prep|que=than pro:per:1|lo&masc=him v|entra-1S&PRES=come_in 
+	. 
+*SER:	espera (.) para que no se mojen (.) sabes ?
+%mor:	v|espera-3S&PRES=wait prep|para=for prep|que=than adv|no=no pro:per|se=itself 
+	v|moja-3P&SUB&PRES=moisten co|sabes=you_know ? 
+*SER:	lo cojo para que no se moje .
+%mor:	pro:per:1|lo&masc=him adj|cojo-MASC=crippled prep|para=for prep|que=than 
+	adv|no=no pro:per|se=itself v|moja-13S&SUB&PRES=moisten . 
+%com:	mete al vigía en el camarote
+*JAA:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+*INV:	muy bien (.) y no sube nadie arriba ?
+%mor:	adv|muy=very adv|bien=well coord|y=and adv|no=no v|subi-3S&PRES=go_up 
+	pro:per|nadie=nobody adv|arriba=above ? 
+*JAA:	0 [=! negando] .
+*SER:	no .
+%mor:	adv|no=no . 
+*INV:	no sube nadie arriba (.) no ?
+%mor:	adv|no=no v|subi-3S&PRES=go_up pro:per|nadie=nobody adv|arriba=above adv|no=no 
+	? 
+*INV:	vaya (.) yo pensaba que sí .
+%mor:	co|vaya=come_on pro:per|yo=I v|pensa-13S&PAS=think prep|que=than co|sí=yes 
+	. 
+*INV:	un pirata o dos .
+%mor:	det:art|un&masc=one n|pirata&masc=pirate v|oí-1S&PRET=hear det:num|dos=two 
+	. 
+*INV:	qué ha pasado ?
+%mor:	pro:int|qué=what co|ha part|pasa-PPART&MASC=pass ? 
+*JAA:	nada .
+%mor:	pro:indef|nada=nothing . 
+*SER:	ay (.) que se va el barco !
+%mor:	co|ay=ay prep|que=than pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the 
+	n|barco-MASC=boat ! 
+*JAA:	yo .
+%mor:	pro:per|yo=I . 
+*JAA:	ahora yo é(s)te [*] .
+%mor:	adv|ahora=now pro:per|yo=I pro:dem|éste=this_one . 
+*JAA:	ahora <doy yo a é(s)te [*]> [/] doy a é(s)te [*] .
+%mor:	adv|ahora=now v|da-1S&PRES=give prep|a=to pro:dem|éste=this_one . 
+*SER:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*JAA:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*JAA:	é(s)te [*] mira !
+%mor:	pro:dem|éste=this_one co|mira=look ! 
+*JAA:	xxx .
+*INV:	si no cabe .
+%mor:	conj|si=if adv|no=no v|cabe-3S&PRES=fit . 
+%com:	Javier pone tres muñecos en el puesto del vigía mientras Sergio mira eldibujo del barco para colocarlo igual
+*JAA:	sí [/] sí .
+%mor:	co|sí=yes . 
+*INV:	sí que cabe ?
+%mor:	adv|sí=yes prep|que=than v|cabe-3S&PRES=fit ? 
+*JAA:	sí .
+%mor:	co|sí=yes . 
+*INV:	se va a caer .
+%mor:	pro:per|se=itself v|i-3S&PRES=go prep|a=to v|cae-INF=fall . 
+*JAA:	no .
+%mor:	adv|no=no . 
+*JAA:	aquí (.) ála !
+%mor:	adv|aquí=here co|ála ! 
+*SER:	éste va aquí .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go adv|aquí=here . 
+*SER:	toma [/] toma !
+%mor:	v|toma-3S&PRES=take ! 
+%com:	le pega golpes al cañón para meter la bala a presión
+*SER:	oy (.) que se me cae el barco !
+%mor:	co|oy prep|que=than pro:per|se=itself pro:per|me=me v|cae-3S&PRES=fall 
+	det:art|el&MASC&SG=the n|barco-MASC=boat ! 
+*SER:	lo saco ?
+%mor:	pro:per:1|lo&masc=him v|saca-1S&PRES=bring_out ? 
+*SER:	ahora esos .
+%mor:	adv|ahora=now det:dem|ese-MASC-PL=that . 
+*SER:	mira éste aquí !
+%mor:	co|mira=look pro:dem|éste=this_one adv|aquí=here ! 
+%com:	ahora es Javier el que mira el dibujo
+*SER:	ah (.) mira qué hay !
+%mor:	co|ah co|mira=look pro:int|qué=what v|habe-3S&PRES&SPEC=have ! 
+*SER:	Javier mira éste .
+%mor:	n:prop|Javier co|mira=look pro:dem|éste=this_one . 
+*SER:	entra !
+%mor:	v|entra-3S&PRES=come_in ! 
+*SER:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*SER:	espera !
+%mor:	v|espera-3S&PRES=wait ! 
+*SER:	aquí .
+%mor:	adv|aquí=here . 
+*SER:	espera (.) verás .
+%mor:	v|espera-3S&PRES=wait v|ve-2S&FUT=see . 
+*SER:	mejor cerra(r) [*] !
+%mor:	adj|mejor=better v|cerra-INF=close ! 
+%com:	cada uno juega por su lado sin hacerse caso
+*SER:	oye se me escapa !
+%mor:	co|oye=listen pro:per|se=itself pro:per|me=me v|escapa-3S&PRES=escape 
+	! 
+%com:	se le caen las cosas
+*JAA:	me escapa .
+%mor:	pro:per|me=me v|escapa-3S&PRES=escape . 
+*SER:	ese estaba en la [*] agua (.) éste .
+%mor:	det:dem|ese=that v|esta-13S&PAS=be prep|en=in det:art|el&FEM&SG=the n|agua&fem=water 
+	pro:dem|éste=this_one . 
+*SER:	ya ?
+%mor:	adv|ya=already ? 
+*JAA:	ay (.) no va !
+%mor:	co|ay=ay co|no=no v|i-3S&PRES=go ! 
+@End

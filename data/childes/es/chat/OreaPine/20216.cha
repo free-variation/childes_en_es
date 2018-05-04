@@ -1,0 +1,895 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;2.16|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	23-OCT-2001
+@Location:	Madrid
+@Situation:	1 FAT y Juan juegan con el teatrito de títeres ; (2) MOT y Juan juegan a recordar un cuento
+@Time Start:	19:00
+@Situation:	1
+*FAT:	&=q sabes o no sabes ?
+*CHI:	no .
+*FAT:	ven aquí , anda .
+*CHI:	no sabo [*] .
+%err:	sabo = sé $MOR $ADD $REG
+*FAT:	&=q no sabes ?
+*FAT:	ven aquí .
+*CHI:	no sabo [*] .
+%err:	sabo = sé $MOR $ADD $REG
+*FAT:	venga .
+*FAT:	vamos a poner la marioneta .
+*FAT:	vamos .
+*CHI:	vamo(s) a poner la marioneta . [+ IMI]
+*FAT:	&=q sabes poner la marioneta ?
+*CHI:	sí .
+*CHI:	< no s@x > [/] no sé .
+*FAT:	&=q sabes o no sabes ?
+*CHI:	es@x [/] este .
+*FAT:	&=q eh@i , Juan ?
+*CHI:	no .
+*FAT:	&=q no qué ?
+*CHI:	no sé .
+*FAT:	&=q sabes o no sabes ?
+*CHI:	no .
+*FAT:	&=q no qué ?
+*FAT:	&=q no +..?
+*CHI:	no sabes [*] .
+%err:	sabes = sé $MOR $ADD $NFL 2s/1s
+%com:	GEM
+*FAT:	&=q sabes o no sabes ? [+ COR]
+*CHI:	no sabo [*] .
+%err:	sabo = sé $MOR $LOS $REG
+%com:	GEM
+*FAT:	&=q no sabo@c ? [+ ADS]
+*CHI:	no .
+*FAT:	bueno , mira ?
+*FAT:	yo te voy a ayudar .
+*FAT:	pon el dedito .
+*FAT:	así .
+*FAT:	a ver .
+*FAT:	vamos a poner un títere .
+*FAT:	vamos a poner el teatrito aquí .
+*FAT:	así .
+*FAT:	mira .
+*FAT:	así para que no se caiga .
+*FAT:	&=q te pones detrás ?
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	&=q vas a hacer marionetas ?
+*CHI:	sí .
+*CHI:	hola .
+%act:	se asoma por el teatrito de títeres
+*FAT:	hola .
+*FAT:	&=q yo me siento aquí ?
+%act:	coloca una silla para hacer de expectador
+*CHI:	sí .
+*FAT:	&=q para ver las marionetas ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	hola .
+*FAT:	hola .
+*FAT:	&=q quién es esa marioneta ?
+*CHI:	ve(r)de .
+*FAT:	&=q pero cómo se llama ?
+*CHI:	payaso ese .
+*FAT:	&=q es el payaso ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	es Payasete .
+*FAT:	&=q es el Payasete ?
+*CHI:	&=q e(s)te ?
+*FAT:	&=q y ese quién es ?
+*CHI:	el señor .
+*FAT:	&=q es el señor +..?
+*CHI:	sí .
+*FAT:	&=q qué señor ?
+*FAT:	&=q el señor +..?
+*FAT:	que tiene una pluma en el sombrero .
+*FAT:	mira .
+*FAT:	&=q es el señor +..?
+*CHI:	se 0 [*] come .
+%err:	0 = la $MOR $LOS $PREFIX
+*FAT:	&=q se come la pluma el payaso ?
+*CHI:	no .
+*FAT:	pero +//.
+*CHI:	ahora [/] ahora no se (l)o come .
+*FAT:	&=q no se lo come ? [+ ADS]
+*CHI:	hola .
+*FAT:	hola .
+*FAT:	&=q qué dice el payaso ?
+*FAT:	&=q a ver qué dice ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué dice el payaso ?
+*CHI:	hola .
+*FAT:	hola .
+*FAT:	&=q ha ido a la guardería el payaso hoy ?
+*CHI:	no .
+*FAT:	&=q no ha ido a la guardería ?
+*FAT:	&=q por qué no ha ido ?
+*FAT:	uy@i .
+*FAT:	&=q se va a la guardería ?
+*CHI:	0 .
+%act:	se sale del teatrito y enseña la marioneta por fuera
+*FAT:	&=q pero mira quién viene aquí ?
+*FAT:	&=q viene el payaso ?
+*FAT:	&=q sí ?
+*FAT:	&=q quién viene aquí ?
+*FAT:	&=q quién viene ?
+*FAT:	&=q qué va a hacer aquí ?
+*FAT:	&=q qué va a hacer ?
+*FAT:	xxx un beso . [+ NON]
+%par:	susurra
+*CHI:	0 .
+%act:	toca la cara de FAT con la marioneta
+*FAT:	&=e ah@i !
+*FAT:	&=q me da un beso el payaso ?
+*CHI:	&=e bien !
+*FAT:	&=e bien !
+*CHI:	me a [*] gusta el teatro .
+%err:	a = $SYN $ADD
+*FAT:	&=q te gusta el teatro ? [+ ADS]
+*CHI:	sí .
+*FAT:	&=q el teatro de marionetas te gusta ?
+*CHI:	sí .
+*FAT:	&=q otro día otro ?
+*CHI:	otro . [+ IMI]
+*FAT:	&=q quieres [/] quieres hacer otro ahora ?
+*FAT:	mira .
+*FAT:	aquí una marioneta grande .
+*FAT:	&=q quieres coger el lobo ?
+*CHI:	ese [x 2] y ese .
+*CHI:	ese [x 2] y ese .
+*CHI:	ese [x 2] y ese .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q cuál quieres que te ponga ?
+*FAT:	&=q te pongo el lobo ?
+*CHI:	ese [x 2] .
+*FAT:	pero bueno .
+*FAT:	&=q to@x [/] todas esas ?
+*CHI:	< todas esas > [/] todas esas . [+ IMI]
+*FAT:	&=q < cuál quieres que te ponga > [/] cuál quieres que te ponga ?
+*CHI:	eses [*] y eses [*] .
+%err:	eses = esas $MOR $ADD $AGA
+*CHI:	eses [*] y eses [*] .
+%err:	eses = esas $MOR $ADD $AGA
+*FAT:	a ver .
+*FAT:	trae .
+*FAT:	la princesa .
+*FAT:	aquí .
+*CHI:	&=q este [x 2] ?
+*FAT:	que no te cabe , Juan , en el meñique .
+*FAT:	a ver .
+*FAT:	uy@i .
+*FAT:	no te rasques , Juan < no te rasques > [/] .
+*FAT:	a ver .
+*FAT:	a ver .
+*FAT:	no te rasques , cariño .
+*FAT:	&=q vale ?
+*CHI:	me pica algo .
+*FAT:	&=q te pica algo ?
+*CHI:	sí .
+*FAT:	claro .
+*FAT:	no .
+*FAT:	pero no te rasques .
+*FAT:	si te rascas te pica más .
+*FAT:	mira [x 3] .
+*FAT:	&=q cuántos tienes ya ?
+*FAT:	&=q cuántas marionetas tienes en los dedos ?
+*FAT:	&=e uh@i !
+*FAT:	ya no caben más .
+*CHI:	yo esa .
+*FAT:	esta Papá .
+*FAT:	hola .
+*CHI:	&=e no !
+*CHI:	&=e aquí !
+%act:	señala el teatrito
+*FAT:	ah@i .
+*FAT:	&=q ahí detrás ?
+*CHI:	0 .
+%act:	se coloca detrás del teatrito
+*FAT:	hola .
+%act:	también desde detrás del teatrito
+*CHI:	no .
+*FAT:	&=q los dos aquí ?
+*CHI:	sí .
+*FAT:	es que no quepo .
+*CHI:	hola .
+*FAT:	hola .
+*CHI:	hola .
+*FAT:	&=q que son amigos todos ?
+*CHI:	hola .
+*FAT:	&=q qué hacen ?
+*CHI:	hola .
+*FAT:	&=q qué hacen ?
+*FAT:	&=q se van a bañar ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	mira .
+*FAT:	así .
+*FAT:	mira .
+*FAT:	aquí .
+*FAT:	+" ah@i , que viene un tiburón .
+%par:	cambia la voz
+@Situation:	1 FAT y Juan juegan con el teatrito de títeres ; (2) MOT y Juan juegan a recordar un cuento
+@Time Start:	19:00
+@Situation:	1
+*CHI:	+" ay@i , que viene un tiburón . [+ IMI]
+*FAT:	+" &=e vámo nos .
+%par:	cambia la voz
+*FAT:	socorro@q .
+%par:	cambia la voz
+*CHI:	+" &=e vámo nos . [+ IMI]
+*FAT:	socorro@q . [+ IMI]
+*FAT:	&=e un tiburón !
+*FAT:	&=q qué hacemos con el tiburón ?
+*FAT:	&=q qué hacemos ?
+*CHI:	lo [/] lo bañamos .
+*FAT:	&=q lo bañamos ?
+*FAT:	+" báña te , tiburón .
+*FAT:	dí selo .
+*CHI:	+" báña te . [+ IMI]
+*CHI:	vamos@q .
+*CHI:	xxx .
+*CHI:	tiburón . [+ IMI]
+*CHI:	tiburón .
+*CHI:	bañar [*] .
+%err:	bañar = FIN $MOR $SUB $ROOT
+*CHI:	tiburón .
+*FAT:	a ver .
+*FAT:	es que no te he oído .
+*FAT:	&=q cómo le has dicho ?
+*FAT:	&=q tiburón +..?
+*CHI:	malo .
+*FAT:	ay@i .
+*FAT:	&=q malo le has dicho ?
+*FAT:	no .
+*FAT:	pero no .
+*FAT:	has dicho “tiburón , vamos a bañar” .
+*FAT:	&=q le has dicho eso ?
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	dí selo otra vez .
+*FAT:	&=e tiburón !
+*FAT:	+" vamos a bañar +//.
+*CHI:	&=e malo !
+*FAT:	pero no es malo .
+*FAT:	mira .
+*FAT:	hola@q .
+*FAT:	+" no soy malo .
+*FAT:	+" soy un tiburón .
+*CHI:	&=e malo !
+*CHI:	no .
+*CHI:	no .
+*FAT:	es bueno .
+*FAT:	+" no me llames malo .
+*FAT:	oh@i .
+%par:	como si lloriqueara
+*FAT:	&=q le llamas malo ?
+*CHI:	no .
+*FAT:	+" pobre tiburón .
+*FAT:	pobre@q .
+*FAT:	ah@i .
+%par:	como si lloriqueara
+*FAT:	+" pobre tiburón .
+*CHI:	el tiburón .
+*CHI:	se ha xxx . [+ NON]
+*FAT:	es un tiburón bueno .
+*FAT:	mira .
+*FAT:	se duerme .
+*CHI:	< no te du@x no > [//] no se duerme .
+*FAT:	ahora tiene hambre .
+*FAT:	mm@i .
+*FAT:	+" &=q qué me podría comer ?
+*FAT:	ah@i .
+*FAT:	+" la mariposa de Juan .
+*FAT:	ñam@o [x 6] .
+*CHI:	no .
+*FAT:	&=q no ?
+*CHI:	el lobo .
+*FAT:	&=q se come un árbol ?
+*CHI:	el árbol .
+*FAT:	&=q un globo se come ?
+*CHI:	&=e < el lobo > [/] el lobo !
+*FAT:	&=q el árbol ?
+*FAT:	&=q sí ?
+*FAT:	&=q dónde está el árbol ?
+*CHI:	ese .
+*FAT:	eso son las flores .
+*FAT:	pero cómo se va a comer la rosa tan bonitas que tenemos .
+*FAT:	+" < quiero comer > [/] quiero comer .
+*FAT:	+" me puedo comer la orejita de Juan .
+*CHI:	&=e no !
+*CHI:	no .
+*FAT:	&=q entonces qué se come ?
+*CHI:	xxx .
+*FAT:	&=q el dinosaurio ?
+*CHI:	no .
+*CHI:	no .
+*CHI:	&=e el (dino)saurio no se 0 [*] come !
+%err:	0 = lo $MOR $LOS $PREFIX
+*FAT:	&=q la tetera ?
+*CHI:	sí .
+*FAT:	&=q la tetera ?
+*FAT:	abrimos la +//.
+*CHI:	la tetera no .
+*FAT:	&=q la tetera no ?
+*FAT:	&=q entonces qué come ?
+*FAT:	da le algo de comer .
+*FAT:	+" < quiero comer > [/] quiero comer .
+*CHI:	no .
+*FAT:	uah@i .
+%par:	como si llorara
+*FAT:	pobre tiburón .
+*FAT:	quiere comer .
+*FAT:	uah@i .
+%par:	como si llorara
+*FAT:	pobre tiburón .
+*FAT:	uah@i .
+*FAT:	quiere comer .
+*FAT:	pobre@x [//] uah@i .
+*FAT:	pobrecito .
+*FAT:	que quiere comer .
+*FAT:	&=q qué ?
+*CHI:	yo .
+*FAT:	&=q le damos tu barrigocha@f ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	ay@i , Juan .
+*FAT:	+" muchas+gracias , tiburón .
+*FAT:	ah@i .
+*FAT:	&=e un besito le ha dado a la tetera !
+*FAT:	oh@i .
+*CHI:	0 [*] come ese .
+%err:	0 = se $MOR $LOS $PREFIX
+%act:	deja caer el dinosaurio sobre el globo y se explota
+*FAT:	&=e uy@i !
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q qué ha pasado ?
+*CHI:	se ha e(x)plotado el globo .
+*CHI:	ahora el rosa .
+*FAT:	&=q se ha explotado el globo ? [+ ADS]
+*CHI:	ahora un globo rosa .
+*CHI:	se ha e(x)plotado el globo .
+*CHI:	oh [x 3] .
+*FAT:	venga .
+*FAT:	vamos a hacer otro .
+*CHI:	vamo(s) a hacer otro . [+ IMI]
+*CHI:	ot(r)o [x 3] globo .
+*FAT:	no .
+*FAT:	otro globo no .
+*FAT:	otro cuento de [/] de marionetas .
+*FAT:	&=q vale ?
+*CHI:	< un cuento > [//] ot(r)o cuento de marionetas . [+ IMI]
+*FAT:	sí .
+*FAT:	&=q cuál quieres hacer ?
+*CHI:	venga [x 2] .
+*FAT:	&=q una con el lobo ?
+*CHI:	con (l)os (dino)saurios .
+*FAT:	&=q con el dinosaurio también ?
+*CHI:	hola .
+*FAT:	&=q a dónde va el dinosaurio ?
+*FAT:	hola , dinosaurio .
+*FAT:	hola .
+*FAT:	&=q quieres llevar me a caballito ?
+*CHI:	no .
+*FAT:	&=q quieres jugar conmigo ?
+*CHI:	no .
+*FAT:	&=q quieres bailar un tango ?
+*CHI:	sí .
+*FAT:	0 .
+%par:	le da la risa
+*FAT:	&=q quieres bailar un tango ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	pranpanpanpan@o .
+%act:	taratea un tango moviendo la marioneta
+*FAT:	&=e bien: !
+*FAT:	&=q no aplaudes ?
+*FAT:	&=q y ahora Juan va a cantar una canción ?
+*CHI:	sí .
+*FAT:	&=q para que bailen ?
+*FAT:	&=q a ver qué cantas ?
+*CHI:	no .
+*FAT:	&=q no ?
+*FAT:	&=q no cantas ?
+*CHI:	no .
+*FAT:	&=q no quieres cantar ?
+@Situation:	1 FAT y Juan juegan con el teatrito de títeres ; (2) MOT y Juan juegan a recordar un cuento
+@Time Start:	19:00
+@Situation:	1
+*FAT:	venga .
+*FAT:	pues cuénta me .
+*FAT:	&=q qué has comido hoy ?
+*FAT:	ah@i .
+%act:	se esconden detrás del teatrito y corren las corinas porque MOT está entrando en la casa (se oye abrir la puerta de la calle)
+*MOT:	&=q quién hay por ahí ?
+*MOT:	&=e hola !
+*MOT:	titiritero .
+*MOT:	&=q qué haces ?
+*FAT:	di le a Mamá qué haces .
+*MOT:	&=q qué haces , Juan ?
+*FAT:	0 .
+%act:	abre las cortinas del teatrito , Juan y FAT están detrás
+*MOT:	&=q eh@i ?
+*MOT:	&=q qué haces , cacharrito ?
+*FAT:	di le a Mamá qué estamos haciendo .
+*MOT:	&=q eh@i ?
+*MOT:	habla .
+*MOT:	di algo .
+*MOT:	hola .
+*FAT:	se ha quedado mudo .
+*MOT:	hola .
+*FAT:	le ha comido la lengua el gato .
+*MOT:	&=q no me vas a dar un beso ?
+*FAT:	corre .
+*FAT:	vete a dar le un beso grande [x 2] a Mamá .
+*CHI:	no .
+*FAT:	&=q cómo ?
+*MOT:	ah@i .
+*MOT:	&=q no me das un beso ?
+*FAT:	&=q cómo ?
+*FAT:	no he escuchado bien lo que has dicho por aquí .
+*CHI:	hola [/] hola , lobo .
+*CHI:	hola , lobo .
+*MOT:	&=q < le doy > [/] le doy un beso al lobo ?
+%act:	se acerca a Juan por delante del teatrito (por el lado del público)
+*CHI:	0 .
+%act:	le da un beso a MOT
+*MOT:	hola , guapo .
+*FAT:	puede ser un virus &=q eh@i ?
+%add:	MOT
+*MOT:	&=q sí ?
+%add:	FAT
+*CHI:	hola , lobo .
+*MOT:	&=q cómo lo sabes ?
+%add:	FAT
+*CHI:	&=q quieres [x 5] a [*] bailar conmigo ?
+%err:	a = 0 $SYN $ADD $INFA
+*FAT:	quieres bailar conmigo . [+ COR]
+%par:	riéndose
+*MOT:	quieres bailar conmigo . [+ COR]
+*FAT:	bailan un tango .
+*FAT:	&=q a que sí ?
+*MOT:	&=q bailan ?
+*CHI:	bailan tango .
+*MOT:	&=q sí ?
+*CHI:	0 .
+%act:	se le cae una marioneta
+*FAT:	uy@i .
+*CHI:	&=e bien !
+*FAT:	&=e bien !
+*FAT:	&=q ya se ha acabado el tango ?
+*FAT:	&=e bien !
+*CHI:	sí .
+*MOT:	bravo .
+*CHI:	ahora ot(r)a canción .
+*CHI:	ahora a monta(r) .
+%act:	se le cae otra marioneta hacia el lado del público y se la devuelve MOT
+*CHI:	ay@i .
+*CHI:	se ha caído .
+*FAT:	&=q se ha caído ?
+*MOT:	voy por la montaña voy [x 3] [/] .
+%par:	cantando
+*MOT:	voy en mi caballo voy [x 3] [/] .
+%par:	cantando
+*CHI:	0 .
+%act:	se le cae una marioneta
+*MOT:	oh@i .
+*MOT:	se cayó .
+*FAT:	hola .
+*CHI:	&=q quieres montar ?
+*CHI:	aquí .
+*CHI:	uh@i .
+*FAT:	&=q monta ahí ?
+*MOT:	pero no ve .
+*FAT:	hola .
+*CHI:	aquí .
+*FAT:	hola .
+*CHI:	&=q aquí ?
+*CHI:	tengo mocos .
+*FAT:	&=q tienes mocos ?
+*MOT:	voy por algo para limpiar te .
+*FAT:	< yo tengo > [/] yo tengo aquí a mano .
+*MOT:	&=q sí ?
+*FAT:	a ver esos mocos .
+*FAT:	&=q qué estás haciendo , Juan ?
+*FAT:	&=q qué estás haciendo , cariño ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué haces ?
+*CHI:	< la cola > [/] la cola de los señores .
+%act:	ha colocado dos muñecos detrás de un dinosaurio
+*FAT:	&=q la cola y los señores están juntos ?
+*CHI:	< así no [x 3] > [/] así no .
+*FAT:	mm@i .
+*CHI:	yo así no .
+*CHI:	así .
+*FAT:	enséña selo a Mamá a ver qué es lo que estás haciendo .
+*CHI:	< así no > [/] así no es la cola de los señores .
+*FAT:	está haciendo la cola de los señores , Mother .
+*FAT:	mira .
+*CHI:	xxx .
+*CHI:	xxx .
+*FAT:	&=q nos vamos a ir a bañar ?
+*CHI:	no .
+*FAT:	&=q qué he oído ?
+*FAT:	ah@i .
+*FAT:	+" &=q Juan es un gorrino ?
+%par:	habla como si fuera la marioneta
+*FAT:	+" &=q no se quiere bañar ?
+*FAT:	pero bueno .
+*FAT:	me dejas sin marionetas .
+*FAT:	+" &=q Juan es un gorrinillo que no se quiere bañar ?
+*CHI:	mm@i .
+*FAT:	+" &=q un gorrinilo ?
+*FAT:	+" lo echaremos al cocido .
+*FAT:	+" como si fuera un garbancito .
+*FAT:	&=q qué ?
+*FAT:	&=q me vas a dar un besote ?
+*CHI:	yo quiero poner los [/] los señores 0 [*] rey .
+%err:	0 = < con el > $SYN $LOS
+*FAT:	&=q dónde quieres poner los señores ?
+*FAT:	eh@i .
+*FAT:	aquí .
+*FAT:	&=q en el dinosaurio ?
+*CHI:	sí .
+*CHI:	aquí .
+*FAT:	pero ahí no puedes .
+*FAT:	mira .
+*FAT:	porque se caen .
+*FAT:	ahí se caen .
+*FAT:	así .
+*FAT:	oy@i .
+*FAT:	&=q qué has hecho ?
+*CHI:	se ha caído .
+*FAT:	&=q cómo que se ha caído ?
+@Situation:	1 FAT y Juan juegan con el teatrito de títeres ; (2) MOT y Juan juegan a recordar un cuento
+@Time Start:	19:00
+@Situation:	1
+*FAT:	yo más bien diría que lo has tirado .
+*FAT:	&=q lo has tirado ?
+*CHI:	no .
+*FAT:	ay@i .
+*FAT:	&=q me engañas ?
+*CHI:	e(l) [/] e(l) rey se va .
+*FAT:	&=q el rey se va ? [+ ADS]
+*CHI:	e(l) rey se va con 0 [*] (dino)saurio .
+%err:	0 = el $SYN $LOS
+*CHI:	xxx .
+*FAT:	&=q el rey se va con el dinosaurio a dónde ?
+*FAT:	hijo+mío .
+*FAT:	es que estás todo el rato de espaldas .
+*FAT:	a ver .
+*FAT:	mira .
+*FAT:	ponlo aquí en la silla .
+*FAT:	ponlo aquí encima de la silla .
+*FAT:	aquí .
+*FAT:	eso es .
+*CHI:	ay@i .
+*CHI:	se ha caído .
+*FAT:	&=q se ha caído ? [+ ADS]
+*FAT:	no [x 2] .
+*FAT:	no seas cachiporro@f &=q eh@i ?
+*FAT:	no [x 2] .
+*FAT:	eso no me gusta nada .
+*FAT:	se estropea la silla .
+*FAT:	a ver si me voy a tener < que enfallar@x > [//] que enfadar hoy , eh@i ?
+*FAT:	&=q qué te estoy diciendo ?
+*FAT:	eh@i .
+*CHI:	&=e mala , silla !
+*FAT:	&=q cómo que mala silla ?
+*FAT:	mala silla no .
+*FAT:	la silla no es mala , no .
+*FAT:	la silla se porta bien .
+*CHI:	poi@o .
+%act:	hace como si un muñeco saltara sobre la silla
+*FAT:	&=q qué hace ?
+*FAT:	&=q salta ?
+*FAT:	mira .
+*FAT:	este también .
+*FAT:	mira .
+*FAT:	poin@o [x 3] .
+*FAT:	&=q quién viene ?
+*CHI:	&=q quié(n) hace un pis ?
+*FAT:	&=q quién viene ?
+*CHI:	&=q quién viene ? [+ IMI]
+*FAT:	&=q quién hace pis ha dicho ?
+%add:	MOT
+*CHI:	Mamá .
+*FAT:	&=q viene Mamá ?
+*CHI:	< yo quiero > [/] yo quiero un cuento de la rana Juana .
+*FAT:	&=q tú quieres el cuento de la rana Juana ?
+*CHI:	sí .
+*MOT:	&=q vas a por él ?
+*CHI:	< voy a por > [/] voy a por él .
+*MOT:	&=q dónde está ?
+*CHI:	xxx .
+*CHI:	no e(s)tá .
+*MOT:	se ha roto .
+*FAT:	&=q qué es eso ?
+*CHI:	se ha roto . [+ IMI]
+*FAT:	ah@i , el globo .
+*MOT:	ah@i , pero si es un globo .
+*CHI:	sí , un globo .
+*MOT:	creíamos que eran lo de las patas de la rana Juana .
+*CHI:	&=q no ?
+*MOT:	no está .
+*MOT:	está arriba .
+*CHI:	no está . [+ IMI]
+*FAT:	ven aquí , Juan .
+*MOT:	están arriba .
+*CHI:	yo quiero 0 [*] .
+%err:	0 = O SYN LOS
+*MOT:	&=q quieres que suba a por él ?
+*CHI:	sí .
+*MOT:	&=q subo a por él ?
+*MOT:	voy a por él .
+*MOT:	&=q vale ?
+*CHI:	xxx .
+*MOT:	a ver si lo encuentro .
+*FAT:	< no lo quites > [/] no lo quites , hombre .
+*CHI:	&=q qué es eso ?
+*FAT:	hombre .
+*FAT:	pues es la pajarita .
+*CHI:	la pajarita . [+ IMI]
+*CHI:	son los botones blancos .
+*FAT:	claro .
+*FAT:	botones blancos .
+*CHI:	son las manitas .
+*FAT:	las manitas , sí .
+*CHI:	< y son > [//] eso es la otro [*] manita . [+ NON]
+%err:	otro = otra $MOR $SUB $AGA
+*FAT:	la otra manita . [+ COR]
+*CHI:	eso e(s) 0 [*] gorro .
+%err:	0 = el $SYN $LOS
+*FAT:	sí .
+*CHI:	y sólo cab [*] ese gorro .
+%err:	cab = cabe $MOR $LOS $NFL 0/3s:NP
+*FAT:	sí .
+*CHI:	eso [/] eso 0 [*] la corona .
+*CHI:	coro@x [//] eso e(s) la cabeza .
+*FAT:	la corona y la cabeza .
+*FAT:	sí .
+*CHI:	eso [/] eso e(s) el gorro ot(r)a vez .
+*FAT:	&=q a ver qué gorro ?
+*FAT:	creo que es una gorra mejor &=q no ?
+*CHI:	una gorra . [+ IMI]
+*MOT:	mira .
+*FAT:	una gorra de plato .
+*CHI:	una gorra de plato . [+ IMI]
+*FAT:	mira que < me está dicien@x> [//] me está enseñando +//.
+%add:	MOT
+*MOT:	este es +/.
+@Situation:	2
+*CHI:	&=e e(s)te !
+*MOT:	&=q y qué dice ?
+*CHI:	tú no .
+*FAT:	siénta lo aquí < siénta lo > [/] , anda .
+*MOT:	&=q qué dices ?
+*CHI:	xxx una xxx . [+ NON]
+*MOT:	soy una +...
+*CHI:	xxx .
+*MOT:	una [/] soy una +...
+*CHI:	xxx .
+*MOT:	no .
+*MOT:	&=q qué es esto ?
+%act:	le muestra un libro muy pequeño
+*MOT:	soy una +...
+*CHI:	++ rana .
+*MOT:	verde +...
+*CHI:	xxx .
+*MOT:	verde y a@x +...
+*CHI:	++ marilla@x .
+*MOT:	que en una +...
+*CHI:	++ cha(r)ca pasó la yiya [: vida] . [+ NON]
+*MOT:	la vida .
+*MOT:	muy bien .
+*CHI:	la vida .
+*MOT:	&=q y ahora ?
+*CHI:	0 [*] mete al agua y se seca .
+%err:	0 = se $MOR $LOS $PREFIX
+*MOT:	muy bien .
+*MOT:	la piel se me seca .
+*MOT:	y me voy al agua .
+*MOT:	y me tiro de cabeza .
+*MOT:	muy bien .
+*MOT:	lo has dicho todo perfecto .
+*MOT:	de pequeña +...
+*MOT:	de pequeña fui +...
+*CHI:	++ un (rena)cuajo .
+*MOT:	un renacuajo .
+*MOT:	&=q y ahora +..?
+*CHI:	xxx .
+*MOT:	ahora soy +...
+*CHI:	abajo .
+*MOT:	sí , muy bien .
+*MOT:	soy rana +...
+*CHI:	++ arriba .
+*MOT:	soy rana de arriba +...
+*CHI:	abajo .
+*FAT:	abajo , muy bien .
+@Situation:	1 FAT y Juan juegan con el teatrito de títeres ; (2) MOT y Juan juegan a recordar un cuento
+@Time Start:	19:00
+@Situation:	2
+*MOT:	si un +...
+*CHI:	++ beso .
+*MOT:	me das .
+*CHI:	en p(rínc)ipe .
+*MOT:	a lo mejor me convierto +...
+*CHI:	en un (prín)cipe .
+*MOT:	&=q de qué color ?
+*CHI:	verde .
+*MOT:	azul .
+*FAT:	y colorín colorado +...
+*MOT:	este cuento se ha acabado .
+*MOT:	&=q otra vez ?
+*FAT:	&=e bien !
+*FAT:	&=e pero qué bien nos lo ha contado Juan !
+*MOT:	venga .
+*MOT:	que ahora se lo va a saber mejor Juan ya .
+*MOT:	venga .
+*MOT:	vuelvo a poner todo y ahora lo sabes tú solito .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	&=q soy ?
+*MOT:	&=q qué soy ?
+*CHI:	la rana Juana .
+*MOT:	soy la rana Juana .
+*MOT:	&=q y qué dic [//] digo ?
+*MOT:	soy una +...
+*CHI:	0 .
+%act:	se rasca el hombro
+*FAT:	no te rasques , cariño .
+*FAT:	no te rasques .
+*MOT:	soy una rana (.) verde +...
+*CHI:	amarilla .
+*MOT:	y en una +...
+*CHI:	++ cha(r)ca pasó < la vid@x> [/] la vida .
+*MOT:	muy bien .
+*CHI:	< la vida > [/] la vida .
+*MOT:	la vida .
+*FAT:	la vida , sí .
+*CHI:	la vida .
+*MOT:	la vida .
+*CHI:	la vida .
+*MOT:	muy bien .
+*CHI:	la vida .
+*MOT:	&=q y ahora ?
+*CHI:	xxx .
+*FAT:	cuando la +...
+*CHI:	cuan@x [/] cuando se seca la piel < se met(i)ó > [//] se 0 [*] metido de cabeza .
+%err:	0 = ha $SYN $LOS $AUXH
+*MOT:	&=q dónde ?
+*CHI:	el [*] agua .
+%err:	el = al $SYN $LOS
+*MOT:	al agua . [+ COR]
+*FAT:	&=e muy bien !
+*MOT:	&=q y ahora ?
+*CHI:	xxx .
+*MOT:	de pequeña +...
+*CHI:	++ abajo .
+*MOT:	no .
+*MOT:	de pequeña fui +...
+*CHI:	++ de a(rr)iba abajo .
+*MOT:	un renacuajo +...
+*MOT:	&=q y ahora soy +..?
+*CHI:	abajo y arriba .
+*MOT:	soy rana de arriba hasta abajo .
+*CHI:	hasta abajo .
+*CHI:	si me da un beso se [*] convierto 0 [*] un prí(n)cipe .
+%err:	se = me $MOR $SUB $PREFIX ; 0 = en $SYN $LOS
+*FAT:	&=e bien !
+*MOT:	&=q de color ?
+*CHI:	verde .
+*FAT:	< muy bien > [/] muy bien .
+*FAT:	oye .
+*FAT:	es el primer cuento que nos cuentas .
+*CHI:	&=e < ahora ot(r)o > [/] ahora ot(r)o !
+*FAT:	&=q ahora otro ?
+*CHI:	de arriba .
+*MOT:	ya no he traído más .
+*MOT:	como me has pedido sólo el de la rana Jana@x [//] Juana .
+*FAT:	a lo mejor lo que podemos hacer es ir nos a bañar y después ver un cuentecillo .
+*MOT:	vale .
+*MOT:	&=q sí ?
+*CHI:	no .
+*MOT:	&=q nos vamos a bañar ya ?
+*CHI:	&=e ot(r)o [x 2] !
+*FAT:	&=e otro [x 2] !
+*FAT:	&=q sí ?
+*FAT:	oh@i .
+*CHI:	&=e ot(r)o [x 3] !
+*MOT:	otro [x 2] .
+*CHI:	yo quiero ot(r)o .
+*FAT:	&=q sí ?
+*MOT:	ya no tengo más .
+*FAT:	&=q quieres otro ?
+*CHI:	sí .
+*CHI:	quiero más .
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	otro más .
+*FAT:	&=q otro más ?
+*CHI:	sí .
+*FAT:	&=q y cómo lo quieres ?
+*FAT:	&=q grande o pequeña ?
+*CHI:	g(r)ande .
+*MOT:	a ver .
+*MOT:	elige .
+*MOT:	&=q cuál quieres ?
+*FAT:	&=q gordo o delgado ?
+*MOT:	&=q cuál quieres ?
+*CHI:	grande delgado . [+ IMI]
+*MOT:	&=q pero cuál es el que tú quieres ?
+*MOT:	&=q uno para contar lo tú ?
+*CHI:	sí .
+*MOT:	pues uno de los pequeños tuyos .
+*MOT:	&=q el de la ardilla ?
+*MOT:	&=q el del pato ?
+*CHI:	no .
+*MOT:	&=q uno de Maisy ?
+*CHI:	no .
+*CHI:	uno de Maisy no quiero .
+*MOT:	pues < el de > [/] el del número uno .
+*MOT:	< el de > [/] a lo mejor quieres el de Dinky .
+*MOT:	< el de > [//] &=q cómo es ?
+%add:	FAT
+*FAT:	Pigüi .
+*MOT:	&=q Pigüi ?
+*CHI:	yo [x 2] quiero el de Pigüi .
+*MOT:	&=q el de Pigüi quieres ?
+*CHI:	sí .
+*MOT:	&=q que es el del cerdito que sabe hacer muchas cosas ?
+*FAT:	oye [x 2] .
+*MOT:	ese .
+*FAT:	&=q sabes que vas a tener un hermanito ?
+*FAT:	que nos hemos enterado hoy .
+*MOT:	ya no se va a llamar Julia .
+*MOT:	es un hermanito .
+*FAT:	&=q cómo se va a llamar ahora ?
+*CHI:	no .
+*FAT:	Julia no .
+*CHI:	Julia no . [+ IMI]
+*FAT:	no sabemos cómo se va a llamar .
+*CHI:	< se llama > [/] se llama niño el Julia .
+*FAT:	&=q se llama Alejandro ?
+*CHI:	no .
+*MOT:	&=q no te gusta Alejandro ?
+*CHI:	&=e no !
+*MOT:	&=q por qué ?
+*MOT:	&=q y Fernando ?
+*CHI:	Fernando no .
+*FAT:	&=q y Juan ?
+*FAT:	&=q te gusta Juan ?
+*FAT:	&=q sí ?
+*FAT:	&=q qué eres ?
+*FAT:	&=q un chinito ?
+*FAT:	&=q eres un chinito de la China ?
+*FAT:	ay@i .
+*FAT:	qué caras pones tan bonitas .
+*FAT:	no pongas muecas .
+*FAT:	no pongas muecas .
+*FAT:	no pongas muecas que estás feísimo .
+*CHI:	&=e ot(r)o [x 2] !
+*FAT:	venga .
+*FAT:	nos vamos a subir arriba y contamos otro arriba .
+*FAT:	&=q vale ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q sí ?
+*CHI:	&=e no !
+*CHI:	&=e ot(r)o !
+*FAT:	sí .
+*FAT:	&=q arriba contamos otro cuento ?
+*FAT:	&=q sí ?
+*CHI:	sí .
+%act:	se baja del sofa
+*FAT:	venga .
+*FAT:	&=q le decimos adiós a Javier ?
+*FAT:	di le adiós .
+*CHI:	adiós .
+@End

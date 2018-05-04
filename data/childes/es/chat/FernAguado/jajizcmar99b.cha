@@ -1,0 +1,632 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	JAJ JavierJimenez Target_Child , IZC Izaskuncolio Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|JAJ|2;11.20||||Target_Child|||
+@ID:	spa|fernaguado|IZC|2;10.06||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	02-MAR-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	JAJ e IZC juegan con el barco pirata
+*IZC:	los piratas .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*JAJ:	esto es un barco de piratas .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un&masc=one n|barco-MASC=boat 
+	prep|de=of n|pirata&masc-PL=pirate . 
+*JAJ:	ha traido un barco de piratas .
+%mor:	co|ha part|trae-PPART&MASC=carry det:art|un&masc=one n|barco-MASC=boat 
+	prep|de=of n|pirata&masc-PL=pirate . 
+*JAJ:	mira (.) esto cómo se llama ?
+%mor:	v|mira-3S&PRES=look det:dem|este-MASC=this pro:int|cómo=how pro:per|se=itself 
+	n|llama&fem=flame ? 
+%com:	señala el puesto del vigía
+*INV:	el puesto del vigía .
+%mor:	det:art|el&MASC&SG=the part|pone-PPART-MASC=put prep|de~det|el&MASC n|vigía&fem=lookout 
+	. 
+*JAJ:	el puesto del +...
+%mor:	det:art|el&MASC&SG=the part|pone-PPART-MASC=put prep|de~det|el&MASC +... 
+*INV:	++ del vigía .
+%mor:	prep|de~det|el&MASC n|vigía&fem=lookout . 
+*JAJ:	vigía .
+%mor:	n|vigía&fem=lookout . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*JAJ:	y eso es para hacer eso [/] eso los piratas .
+%mor:	coord|y=and pro:dem|eso=that_one v|se-3S&PRES=be prep|para=for v|hace-INF=do 
+	pro:dem|eso=that_one det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+%com:	gira el timón con la mano y tira a un pirata por las escaleras desde cubierta
+*JAJ:	eso [/] eso es el timón .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|timón&masc=helm 
+	. 
+*INV:	muy bien (.) pero siéntate en la silla (.) Javier .
+%mor:	adv|muy=very adv|bien=well conj|pero=but v|senta-2S&IMP~pro:clit|2S prep|en=in 
+	det:art|el&FEM&SG=the n|silla&fem=chair n:prop|Javier . 
+*JAJ:	a que esto es el timón ?
+%mor:	prep|a=to prep|que=than det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|timón&masc=helm ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*IZC:	esto .
+%mor:	det:dem|este-MASC=this . 
+*JAJ:	eso es un [/] un túnel .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|un&masc=one n|túnel&masc=tunnel 
+	. 
+%com:	el cañón
+*IZC:	un túnel .
+%mor:	det:art|un&masc=one n|túnel&masc=tunnel . 
+*JAJ:	qué túnel !
+%mor:	pro:int|qué=what n|túnel&masc=tunnel ! 
+*IZC:	una pelota !
+%mor:	det:art|un-FEM=one n|pelota&fem=ball ! 
+%com:	las encuentra en la bodega
+*IZC:	unas pelotas hay .
+%mor:	det:art|un-FEM-PL=one n|pelota&fem-PL=ball v|habe-3S&PRES&SPEC=have . 
+*JAJ:	oye (.) esto qué es ?
+%mor:	co|oye=listen det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*INV:	<el ancla> [<] .
+%mor:	det:art|el&MASC&SG=the n|ancla&fem=anchor . 
+*JAJ:	<cómo se llama esto> [>] ?
+%mor:	pro:int|cómo=how pro:per|se=itself n|llama&fem=flame det:dem|este-MASC=this 
+	? 
+*IZC:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+%com:	se le cae al suelo una pelota
+*INV:	se llama ancla .
+%mor:	pro:per|se=itself n|llama&fem=flame n|ancla&fem=anchor . 
+*JAJ:	ancla [//] ancle [*] .
+%mor:	v|ancla-13S&SUB&PRES=anchor . 
+*JAJ:	se llama ancle [*] .
+%mor:	pro:per|se=itself n|llama&fem=flame v|ancla-13S&SUB&PRES=anchor . 
+*INV:	pero siéntate (.) Javier .
+%mor:	conj|pero=but v|senta-2S&IMP~pro:clit|2S n:prop|Javier . 
+*INV:	ancla .
+%mor:	n|ancla&fem=anchor . 
+*JAJ:	<ahí va (.) esto qué es> [<] ?
+%mor:	adv|ahí=there v|i-3S&PRES=go det:dem|este-MASC=this pro:int|qué=what 
+	v|se-3S&PRES=be ? 
+%com:	coge un pirata
+*IZC:	<ha dicho mi mamá que vamos a jugar con el barco> [>] .
+%mor:	co|ha part|deci-PPART-MASC=say det:pos|mi=my n|mamá&fem=mommy prep|que=than 
+	co|vamos=go prep|a=to v|juga-INF=play prep|con=with det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*JAJ:	no [/] no [/] no me acuerdo cómo se llama esto .
+%mor:	adv|no=no pro:per|me=me n|acuerdo&masc=opinion co|cómo pro:per|se=itself 
+	n|llama&fem=flame det:dem|este-MASC=this . 
+*INV:	pirata .
+%mor:	n|pirata&masc=pirate . 
+*IZC:	pirata .
+%mor:	n|pirata&masc=pirate . 
+*JAJ:	vamos a montar aquí al pirata (.) <y va> [//] y a conducir !
+%mor:	co|vamos=go prep|a=to v|monta-INF=climb_on adv|aquí=here prep|a~det|el&MASC 
+	n|pirata&masc=pirate coord|y=and prep|a=to v|conduci-INF=drive ! 
+%com:	pone al pirata en la cubierta
+*JAJ:	pues (.) se ha caído .
+%mor:	co|pues=well pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*IZC:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+%com:	pone el cofre en cubierta también
+*JAJ:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*IZC:	la ha caído [*] .
+%mor:	det:art|el&FEM&SG=the co|ha part|cae-PPART&MASC=fall . 
+*IZC:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+%com:	señala las velas del barco
+*INV:	eso (.) las velas del barco .
+%mor:	pro:dem|eso=that_one det:art|el&FEM-PL=the n|vela&fem-PL=candle prep|de~det|el&MASC 
+	n|barco-MASC=boat . 
+*IZC:	las velas .
+%mor:	det:art|el&FEM-PL=the n|vela&fem-PL=candle . 
+*IZC:	qué ba(r)co [*] ?
+%mor:	pro:int|qué=what n|barco-MASC=boat ? 
+*IZC:	ya se cae .
+%mor:	adv|ya=already pro:per|se=itself v|cae-3S&PRES=fall . 
+%com:	juega con un muñeco que baja desde lo alto del mástil
+*IZC:	se hace por la mañana !
+%mor:	pro:per|se=itself v|hace-3S&PRES=do prep|por=for det:art|el&FEM&SG=the 
+	adv|mañana=tomorrow ! 
+*JAJ:	<hay dos> [/] hay dos (.) eh ?
+%mor:	v|habe-3S&PRES&SPEC=have det:num|dos=two co|eh ? 
+*JAJ:	el barco de piratas es muy grande para [/] para (.) los piratas .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	v|se-3S&PRES=be adv|muy=very adj|grande=big prep|para=for det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate . 
+*JAJ:	tiene dos pelotas .
+%mor:	v|tene-3S&PRES=have det:num|dos=two n|pelota&fem-PL=ball . 
+%com:	busca las pelotas para el cañón
+*JAJ:	a que sí ?
+%mor:	prep|a=to prep|que=than co|sí=yes ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*IZC:	dónde está Javier ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be n:prop|Javier ? 
+*INV:	trabajando .
+%mor:	v|trabaja-PROG=work . 
+*IZC:	está [/] está t(r)a(ba)jando [*] po(r)que [*] no ha veni(d)o .
+%mor:	v|esta-3S&PRES=be v|trabaja-PROG=work conj|porque=because adv|no=no co|ha 
+	part|veni-PPART&MASC=come . 
+*IZC:	eh (.) esto cómo se llama ?
+%mor:	co|eh det:dem|este-MASC=this pro:int|cómo=how pro:per|se=itself n|llama&fem=flame 
+	? 
+*INV:	a_ver (.) pregúntale a Javier que a lo mejor sabe él .
+%mor:	co|a_ver=see v|pregunta-2S&IMP~pro:clit|3S prep|a=to n:prop|Javier prep|que=than 
+	prep|a=to pro:per:1|lo&masc=him adj|mejor=better v|sabe-3S&PRES=know pro:per|él&masc=he 
+	. 
+*IZC:	esto cómo se llama ?
+%mor:	det:dem|este-MASC=this pro:int|cómo=how pro:per|se=itself n|llama&fem=flame 
+	? 
+*JAJ:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*JAJ:	no .
+%mor:	adv|no=no . 
+*IZC:	<no sabe> [<] .
+%mor:	adv|no=no v|sabe-3S&PRES=know . 
+*JAJ:	<un enanito> [>] [/] es un enanito .
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|enano-DIM-MASC=dwarf . 
+*IZC:	un (e)nanito [*] .
+%mor:	det:art|un&masc=one n|enano-DIM-MASC=dwarf . 
+*JAJ:	un enanito .
+%mor:	det:art|un&masc=one n|enano-DIM-MASC=dwarf . 
+*IZC:	un (e)nanito [*] .
+%mor:	det:art|un&masc=one n|enano-DIM-MASC=dwarf . 
+*JAJ:	un (e)nanito [=! imitando] .
+%mor:	det:art|un&masc=one n|enano-DIM-MASC=dwarf . 
+*IZC:	esto cómo funciona ?
+%mor:	det:dem|este-MASC=this co|cómo v|funciona-3S&PRES=function ? 
+%com:	el catalejo
+*JAJ:	ahí va (.) me la dejas ?
+%mor:	adv|ahí=there v|i-3S&PRES=go pro:per|me=me det:art|el&FEM&SG=the v|deja-2S&PRES=leave 
+	? 
+*IZC:	jugamos a +/.
+%mor:	v|juga-1P&PRES=play prep|a=to +/. 
+*INV:	al barco .
+%mor:	prep|a~det|el&MASC n|barco-MASC=boat . 
+*IZC:	+, jugamos a lo de las casitas ?
+%mor:	v|juga-1P&PRES=play prep|a=to pro:per:1|lo&masc=him prep|de=of det:art|el&FEM-PL=the 
+	n|casa-DIM-FEM-PL=house ? 
+*INV:	xxx .
+*JAJ:	es una pelota .
+%mor:	v|se-3S&PRES=be det:art|un-FEM=one n|pelota&fem=ball . 
+*INV:	ay (.) que se pierde la pelota .
+%mor:	co|ay=ay prep|que=than pro:per|se=itself v|perde-3S&PRES=lose det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*INV:	vamos a ponerla dentro .
+%mor:	co|vamos=go prep|a=to v|pone-INF~pro:clit|OBJ&FEM adv|dentro=inside . 
+%com:	la meto en la bodega
+*JAJ:	por ahí .
+%mor:	prep|por=for adv|ahí=there . 
+*IZC:	un barco que se va .
+%mor:	det:art|un&masc=one n|barco-MASC=boat prep|que=than pro:per|se=itself 
+	v|i-3S&PRES=go . 
+*INV:	cuidado que se cae .
+%mor:	n|cuidado&masc=care prep|que=than pro:per|se=itself v|cae-3S&PRES=fall 
+	. 
+*IZC:	xxx .
+*JAJ:	mira [/] mira lo que he encontrado .
+%mor:	co|mira=look pro:per:1|lo&masc=him prep|que=than co|he part|encontra-PPART&MASC=find 
+	. 
+%com:	una vela
+*IZC:	mira (.) así se hace así .
+%mor:	co|mira=look adv|así=thus pro:per|se=itself v|hace-3S&PRES=do adv|así=thus 
+	. 
+%com:	la quiere poner en el trampolín
+*JAJ:	no [/] no .
+%mor:	adv|no=no . 
+*JAJ:	aquí arriba .
+%mor:	adv|aquí=here adv|arriba=above . 
+*JAJ:	ahí aquí .
+%mor:	adv|ahí=there adv|aquí=here . 
+*IZC:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*JAJ:	como aquí junto al barco de piratas .
+%mor:	adv|como=like adv|aquí=here adj|junto-MASC=nearby prep|a~det|el&MASC 
+	n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate . 
+%com:	señala la otra vela que está puesta
+*IZC:	eh (.) se ha caído .
+%mor:	co|eh pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*JAJ:	va a entrar un barco .
+%mor:	v|i-3S&PRES=go prep|a=to v|entra-INF=come_in det:art|un&masc=one n|barco-MASC=boat 
+	. 
+*JAJ:	mira (.) otro barco .
+%mor:	co|mira=look pro:indef|otro=other n|barco-MASC=boat . 
+*JAJ:	éste es pequeñico .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adj|pequeño-DIM-MASC=small . 
+*JAJ:	éste es grande .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adj|grande=big . 
+*JAJ:	éste es muy grande .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adv|muy=very adj|grande=big . 
+*JAJ:	mira [/] mira que grande .
+%mor:	co|mira=look prep|que=than adj|grande=big . 
+*JAJ:	mira que xxx tiene .
+%mor:	co|mira=look prep|que=than v|tene-3S&PRES=have . 
+%com:	al agarrar la vela se le queda en la mano mientras yo me río
+*JAJ:	oh (.) que <se ha> [/] se ha roto !
+%mor:	co|oh=oh prep|que=than pro:per|se=itself co|ha part|rompe-PPART-MASC=break 
+	! 
+*INV:	lo pongo ?
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put ? 
+%com:	lo vuelvo a colocar
+*JAJ:	<se ha> [/] se ha solta(d)o (.) mira .
+%mor:	pro:per|se=itself co|ha part|solta-PPART&MASC=release co|mira=look . 
+%com:	la toca para ver si se cae
+*IZC:	ay (.) qué miedo !
+%mor:	co|ay=ay pro:int|qué=what n|miedo&masc=fear ! 
+%com:	la silla en las que están sentados los niños hacen ruido al rozar con las persianas de plástico
+*INV:	mira .
+%mor:	co|mira=look . 
+%com:	coloco un muñeco en el trampolín
+*JAJ:	ay (.) qué miedo !
+%mor:	co|ay=ay pro:int|qué=what n|miedo&masc=fear ! 
+*JAJ:	y quieren comer .
+%mor:	coord|y=and v|quere-3P&PRES=want v|come-INF=eat . 
+*JAJ:	me quiere comer un perro .
+%mor:	pro:per|me=me v|quere-3S&PRES=want v|come-INF=eat det:art|un&masc=one 
+	n|perro-MASC=dog . 
+*IZC:	a casa .
+%mor:	prep|a=to n|casa&fem=house . 
+%com:	mira la habitación de los piratas
+*INV:	un perro te quiere comer ?
+%mor:	det:art|un&masc=one n|perro-MASC=dog pro:per|te=you v|quere-3S&PRES=want 
+	v|come-INF=eat ? 
+*JAJ:	un perro .
+%mor:	det:art|un&masc=one n|perro-MASC=dog . 
+*IZC:	a casa .
+%mor:	prep|a=to n|casa&fem=house . 
+*IZC:	oh (.) viene un lobo .
+%mor:	co|oh=oh v|veni-3S&PRES=come det:art|un&masc=one n|lobo-MASC=wolf . 
+*JAJ:	vale .
+%mor:	co|vale=okay . 
+*IZC:	sí .
+%mor:	co|sí=yes . 
+*JAJ:	huy (.) que miedo !
+%mor:	co|huy=oh prep|que=than n|miedo&masc=fear ! 
+*IZC:	quién es ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be ? 
+*IZC:	otro .
+%mor:	pro:indef|otro=other . 
+*INV:	han llamado .
+%mor:	v|habe-3P&PRES=have part|llama-PPART&MASC=call . 
+*JAJ:	aquí se esconde .
+%mor:	adv|aquí=here pro:per|se=itself v|esconde-3S&PRES=hide . 
+%com:	mete un muñeco en la bodega
+*IZC:	ya está el otro .
+%mor:	adv|ya=already v|esta-3S&PRES=be det:art|el&MASC&SG=the pro:indef|otro=other 
+	. 
+%com:	mete un muñeco en la habitación
+*IZC:	oh (.) ese se ha caído .
+%mor:	co|oh=oh det:dem|ese=that pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	. 
+*JAJ:	se ha caído por la ventana .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|por=for det:art|el&FEM&SG=the 
+	n|ventana&fem=window . 
+*JAJ:	el timón (.) mira !
+%mor:	det:art|el&MASC&SG=the n|timón&masc=helm co|mira=look ! 
+%com:	lo gira
+*IZC:	se ha caído !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*JAJ:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*IZC:	xxx .
+*IZC:	xxx .
+*IZC:	huy (.) que me doy un coscorrón .
+%mor:	co|huy=oh prep|que=than pro:per|me=me v|da-1S&PRES=give det:art|un&masc=one 
+	n|coscorrón&masc=bump_head . 
+*JAJ:	huy (.) que miedo !
+%mor:	co|huy=oh prep|que=than n|miedo&masc=fear ! 
+%com:	juega con la persiana de plástico
+*INV:	huy (.) los piratas !
+%mor:	co|huy=oh det:art|el&MASC-PL=the n|pirata&masc-PL=pirate ! 
+*INV:	dónde están todos ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be det:indef|todo-MASC-PL=all ? 
+*INV:	están escondidos .
+%mor:	v|esta-3P&PRES=be part|esconde-PPART&MASC-PL=hide . 
+*INV:	los piratas están escondidos .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|esta-3P&PRES=be part|esconde-PPART&MASC-PL=hide 
+	. 
+*INV:	no sabéis dónde ?
+%mor:	adv|no=no v|sabe-2P&PRES=know pro:int|dónde=where ? 
+*JAJ:	qué [/] qué ?
+%mor:	pro:int|qué=what ? 
+*JAJ:	qué has dicho ?
+%mor:	pro:int|qué=what v|habe-2S&PRES=have part|deci-PPART-MASC=say ? 
+*INV:	que los piratas están escondidos .
+%mor:	prep|que=than det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|esta-3P&PRES=be 
+	part|esconde-PPART&MASC-PL=hide . 
+*INV:	dónde están los piratas ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	? 
+*IZC:	aquí !
+%mor:	adv|aquí=here ! 
+%com:	saca uno de la bodega
+*INV:	y dónde más ?
+%mor:	coord|y=and pro:int|dónde=where adv|más=more ? 
+*JAJ:	éste es Winny_de_Poo .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be n:prop|Winny_de_Poo . 
+*IZC:	adiós todos !
+%mor:	co|adiós=goodbye det:indef|todo-MASC-PL=all ! 
+%com:	coge un muñeco
+*IZC:	pues me voy !
+%mor:	co|pues=well pro:per|me=me v|i-1S&PRES=go ! 
+*IZC:	no están !
+%mor:	adv|no=no v|esta-3P&PRES=be ! 
+*IZC:	dónde están ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be ? 
+%com:	le pregunta al muñeco
+*IZC:	acuérdate !
+%mor:	v|acorda-2S&IMP~pro:clit|2S ! 
+*IZC:	dónde están ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be ? 
+*JAJ:	no están .
+%mor:	adv|no=no v|esta-3P&PRES=be . 
+*IZC:	eso para qué es ?
+%mor:	pro:dem|eso=that_one prep|para=for pro:int|qué=what v|se-3S&PRES=be ? 
+*JAJ:	<que se cae todo> [<] .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall det:indef|todo-MASC=all 
+	. 
+*IZC:	<para meterlos [/] los en la casita> [>] .
+%mor:	prep|para=for det:art|el&MASC-PL=the prep|en=in det:art|el&FEM&SG=the 
+	n|casa-DIM-FEM=house . 
+*INV:	después (.) Izaskun .
+%mor:	adv|después=after n:prop|Izaskun . 
+*IZC:	tapita [/] tapita .
+%mor:	n|tapa-DIM-FEM=cover . 
+%com:	cierra la puerta de la habitación de los piratas
+*JAJ:	ahora estaban en el otro .
+%mor:	adv|ahora=now v|esta-3P&PAS=be prep|en=in det:art|el&MASC&SG=the pro:indef|otro=other 
+	. 
+%com:	coge la barquita
+*IZC:	el ancla .
+%mor:	det:art|el&MASC&SG=the n|ancla&fem=anchor . 
+*JAJ:	<el ancla> [/] el ancla .
+%mor:	det:art|el&MASC&SG=the n|ancla&fem=anchor . 
+*JAJ:	eh (.) era el tambor .
+%mor:	co|eh v|se-13S&PAS=be det:art|el&MASC&SG=the n|tambor&masc=drum . 
+%com:	tira una vela
+*JAJ:	ahora ponlo aquí .
+%mor:	adv|ahora=now v|pone-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here . 
+*INV:	a_ver quién puede ponerlo .
+%mor:	co|a_ver=see pro:int|quién=who v|pode-3S&PRES=can v|pone-INF~pro:clit|OBJ&MASC 
+	. 
+%com:	la vela
+*JAJ:	<el hombre> [//] este es el hombre pa(ra) ver quién v(i)ene [*] .
+%mor:	v|esta-13S&SUB&PRES=be v|se-3S&PRES=be det:art|el&MASC&SG=the n|hombre&masc=man 
+	prep|para=for v|ve-INF=see pro:int|quién=who v|veni-3S&PRES=come . 
+%com:	señala el puesto del vigía
+*JAJ:	el xxx se cae .
+%mor:	det:art|el&MASC&SG=the pro:per|se=itself v|cae-3S&PRES=fall . 
+*JAJ:	en xxx los piratas van .
+%mor:	prep|en=in det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|i-3P&PRES=go 
+	. 
+*INV:	muy bien !
+%mor:	adv|muy=very adv|bien=well ! 
+*JAJ:	estoy llevando el barco hasta la +//.
+%mor:	v|esta-1S&PRES=be v|lleva-PROG=carry det:art|el&MASC&SG=the n|barco-MASC=boat 
+	prep|hasta=until det:art|el&FEM&SG=the +//. 
+%com:	se cae la vela que intenta colocar IZC
+*JAJ:	<se ha caído> [//] eh mira (.) se ha caído ahí .
+%mor:	co|eh co|mira=look pro:per|se=itself co|ha part|cae-PPART&MASC=fall adv|ahí=there 
+	. 
+%com:	señala el suelo
+*JAJ:	se ha caído al agüica .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC n|agua-DIM-FEM=water 
+	. 
+*INV:	pues habrá que cogerlo .
+%mor:	co|pues=well v|habe-3S&FUT=have prep|que=than v|coge-INF~pro:clit|OBJ&MASC 
+	. 
+*INV:	no se vaya a ahogar .
+%mor:	adv|no=no pro:per|se=itself co|vaya=come_on prep|a=to v|ahoga-INF=drown 
+	. 
+*INV:	quién lo coge ?
+%mor:	pro:int|quién=who pro:per:1|lo&masc=him v|coge-3S&PRES=take ? 
+*IZC:	yo !
+%mor:	pro:per|yo=I ! 
+%com:	se baja de la silla para cogerlo
+*JAJ:	se ha caído (.) eh ?
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall co|eh ? 
+*INV:	con cuidado (.) eh ?
+%mor:	prep|con=with n|cuidado&masc=care co|eh ? 
+*JAJ:	oye (.) y súbete a tu silla .
+%mor:	co|oye=listen coord|y=and v|subi-2S&IMP~pro:clit|2S prep|a=to det:pos|tu=your 
+	n|silla&fem=chair . 
+*JAJ:	los piratas están <bien escondidos aquí> [<] .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|esta-3P&PRES=be adv|bien=well 
+	part|esconde-PPART&MASC-PL=hide adv|aquí=here . 
+%com:	los mete en el barco
+*IZC:	los piratas [>] !
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate ! 
+*JAJ:	<tenemos ganas> [//] que queremos ver un cuento .
+%mor:	prep|que=than v|quere-1P&PRES=want v|ve-INF=see det:art|un&masc=one n|cuento&masc=story 
+	. 
+*INV:	pero no queréis jugar más con el barco ?
+%mor:	conj|pero=but adv|no=no v|quere-2P&PRES=want v|juga-INF=play adv|más=more 
+	prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat ? 
+*IZC:	no .
+%mor:	adv|no=no . 
+*IZC:	queremos [/] queremos a [*] ver la casita .
+%mor:	v|quere-1P&PRES=want prep|a=to v|ve-INF=see det:art|el&FEM&SG=the n|casa-DIM-FEM=house 
+	. 
+*JAJ:	se ha caido !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*INV:	a_ver qué se ha caído ?
+%mor:	co|a_ver=see pro:int|qué=what pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	? 
+*JAJ:	esto .
+%mor:	det:dem|este-MASC=this . 
+%com:	me da la vela
+*INV:	ah (.) lo ponemos (.) venga y ahora ?
+%mor:	co|ah pro:per:1|lo&masc=him v|pone-1P&PRES=put co|venga=come_on coord|y=and 
+	adv|ahora=now ? 
+*JAJ:	la xxx .
+%mor:	det:art|el&FEM&SG=the . 
+*INV:	qué es esto (.) a_ver [/] a_ver .
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this co|a_ver=see 
+	. 
+*INV:	aquí está .
+%mor:	adv|aquí=here v|esta-3S&PRES=be . 
+*INV:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+%com:	la mesa
+*IZC:	una mesita .
+%mor:	det:art|un-FEM=one n|mesa-DIM-FEM=table . 
+*INV:	lo [*] qué ?
+%mor:	pro:per:1|lo&masc=him pro:int|qué=what ? 
+*IZC:	una mesa .
+%mor:	det:art|un-FEM=one n|mesa&fem=table . 
+*INV:	una mesa !
+%mor:	det:art|un-FEM=one n|mesa&fem=table ! 
+*IZC:	una mesa .
+%mor:	det:art|un-FEM=one n|mesa&fem=table . 
+*INV:	y para qué son la mesas ?
+%mor:	coord|y=and prep|para=for pro:int|qué=what v|se-3P&PRES=be det:art|el&FEM&SG=the 
+	n|mesa&fem-PL=table ? 
+*IZC:	para comer .
+%mor:	prep|para=for v|come-INF=eat . 
+*INV:	<pues venga qué les ponemos de comer> [<] ?
+%mor:	co|pues=well co|venga=come_on pro:int|qué=what pro:per|le-PL=them v|pone-1P&PRES=put 
+	prep|de=of v|come-INF=eat ? 
+*JAJ:	<esto es para respinan [: respiran] [*]> [>] .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|respira-3P&PRES=breathe 
+	. 
+%com:	el catalejo
+*JAJ:	esto es para respinan [: respiran] [*] .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|respira-3P&PRES=breathe 
+	. 
+*IZC:	uhm (.) esto .
+%mor:	co|uhm det:dem|este-MASC=this . 
+*JAJ:	esto es para respinan [: respiran] [*] .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|respira-3P&PRES=breathe 
+	. 
+%com:	se mete el ancla a la boca
+*INV:	para respirar ?
+%mor:	prep|para=for v|respira-INF=breathe ? 
+*JAJ:	sí .
+%mor:	co|sí=yes . 
+*IZC:	la comida aquí .
+%mor:	det:art|el&FEM&SG=the n|comida&fem=food adv|aquí=here . 
+%com:	en la mesa
+*INV:	y qué ponemos (.) a_ver de primero ?
+%mor:	coord|y=and pro:int|qué=what v|pone-1P&PRES=put co|a_ver=see prep|de=of 
+	adv|primero=first ? 
+*IZC:	de p(r)imero [*] qué ?
+%mor:	prep|de=of adv|primero=first pro:int|qué=what ? 
+*IZC:	<las patatas aquí> [//] aquí están las patatas para comer .
+%mor:	adv|aquí=here v|esta-3P&PRES=be det:art|el&FEM-PL=the n|patata&fem-PL=potato 
+	prep|para=for v|come-INF=eat . 
+%com:	hace como si pusiera algo encima de la mesita
+*INV:	las patatas ?
+%mor:	det:art|el&FEM-PL=the n|patata&fem-PL=potato ? 
+*IZC:	sí .
+%mor:	co|sí=yes . 
+*INV:	y qué más comemos ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more v|come-1P&PRES=eat ? 
+*INV:	a_ver Javier (.) qué ponemos para comer ?
+%mor:	co|a_ver=see n:prop|Javier pro:int|qué=what v|pone-1P&PRES=put prep|para=for 
+	v|come-INF=eat ? 
+%com:	JAJ está dando golpes a la persiana despistado
+*JAJ:	no [/] no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	<qué se te ocurr(e)> [//] que te gusta a ti comer ?
+%mor:	prep|que=than pro:per|te=you v|gusta-3S&PRES=like prep|a=to pro:per|ti=you 
+	v|come-INF=eat ? 
+*JAJ:	lentejas .
+%mor:	n|lenteja&fem-PL=lentil . 
+*INV:	vale .
+%mor:	co|vale=okay . 
+*INV:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ? 
+*INV:	patatas y lentejas (.) y qué más ?
+%mor:	n|patata&fem-PL=potato coord|y=and n|lenteja&fem-PL=lentil coord|y=and 
+	pro:int|qué=what adv|más=more ? 
+*JAJ:	la ternera y lentejas +...
+%mor:	det:art|el&FEM&SG=the n|ternero-FEM=lamb coord|y=and n|lenteja&fem-PL=lentil 
+	+... 
+*INV:	ála (.) qué bien !
+%mor:	co|ála pro:int|qué=what adv|bien=well ! 
+*JAJ:	+, lo que más me gusta .
+%mor:	pro:per:1|lo&masc=him prep|que=than adv|más=more pro:per|me=me v|gusta-3S&PRES=like 
+	. 
+*JAJ:	pues van a comer esto .
+%mor:	co|pues=well v|i-3P&PRES=go prep|a=to v|come-INF=eat det:dem|este-MASC=this 
+	. 
+*INV:	eso no se come Javier .
+%mor:	pro:dem|eso=that_one adv|no=no pro:per|se=itself v|come-3S&PRES=eat n:prop|Javier 
+	. 
+%com:	muerde el ancla
+*JAJ:	lo estoy comiendo .
+%mor:	pro:per:1|lo&masc=him v|esta-1S&PRES=be v|come-PROG=eat . 
+*JAJ:	esto si se +...
+%mor:	det:dem|este-MASC=this conj|si=if pro:per|se=itself +... 
+*JAJ:	que viene los pequeñicos (.) eh ?
+%mor:	prep|que=than v|veni-3S&PRES=come det:art|el&MASC-PL=the adj|pequeño-DIM-MASC-PL=small 
+	co|eh ? 
+*IZC:	a callar el que sea !
+%mor:	prep|a=to v|calla-INF=silence det:art|el&MASC&SG=the prep|que=than v|se-13S&SUB&PRES=be 
+	! 
+%com:	mirando a la persiana de la ventana
+*IZC:	a callar !
+%mor:	prep|a=to v|calla-INF=silence ! 
+*IZC:	aquí viene .
+%mor:	adv|aquí=here v|veni-3S&PRES=come . 
+*JAJ:	aquí viene !
+%mor:	adv|aquí=here v|veni-3S&PRES=come ! 
+*IZC:	a que no se come eso ?
+%mor:	prep|a=to prep|que=than adv|no=no pro:per|se=itself v|come-3S&PRES=eat 
+	pro:dem|eso=that_one ? 
+%com:	un muñeco
+*JAJ:	eso es para respirar .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be prep|para=for v|respira-INF=breathe 
+	. 
+*INV:	no [/] no se come .
+%mor:	adv|no=no pro:per|se=itself v|come-3S&PRES=eat . 
+*JAJ:	se ha caído !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*IZC:	la ha caído [*] po(r)que [*] sí +...
+%mor:	det:art|el&FEM&SG=the co|ha part|cae-PPART&MASC=fall conj|porque=because 
+	co|sí=yes +... 
+*JAJ:	cógelo .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&MASC . 
+*JAJ:	cóge el barco .
+%mor:	v|coge-2S&IMP=take det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*JAJ:	es el barco de piratas .
+%mor:	v|se-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	. 
+*IZC:	de piratas !
+%mor:	prep|de=of n|pirata&masc-PL=pirate ! 
+*IZC:	vamos a sacar esto .
+%mor:	co|vamos=go prep|a=to v|saca-INF=bring_out det:dem|este-MASC=this . 
+*IZC:	esto se sopla así .
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|sopla-3S&PRES=blow adv|así=thus 
+	. 
+%com:	sopla por el telescopio
+*JAJ:	está 0 [*] la silla de mayores .
+%mor:	v|esta-3S&PRES=be det:art|el&FEM&SG=the n|silla&fem=chair prep|de=of adj|mayor-PL=elder 
+	. 
+*JAJ:	me voy a sentar como los mayores .
+%mor:	pro:per|me=me v|i-1S&PRES=go prep|a=to v|senta-INF=sit adv|como=like det:art|el&MASC-PL=the 
+	adj|mayor-PL=elder . 
+%com:	se sienta bien en la silla
+*JAJ:	ánda (.) y <esto qué es> [//] esto [/] esto qué es ?
+%mor:	v|anda-2S&IMP=walk coord|y=and det:dem|este-MASC=this pro:int|qué=what 
+	v|se-3S&PRES=be ? 
+*INV:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	qué es ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*IZC:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*JAJ:	no se qué es .
+%mor:	adv|no=no pro:per|se=itself pro:int|qué=what v|se-3S&PRES=be . 
+*IZC:	quiero jugar a las casitas .
+%mor:	v|quere-1S&PRES=want v|juga-INF=play prep|a=to det:art|el&FEM-PL=the n|casa-DIM-FEM-PL=house 
+	. 
+*IZC:	<por_qué t(i)enes [*] unas cintas> [/] por_qué t(i)enes [*] unas cintas ?
+%mor:	pro:int|por_qué=why v|tene-2S&PRES=have det:art|un-FEM-PL=one n|cinta&fem-PL=ribbon 
+	? 
+*INV:	para grabar .
+%mor:	prep|para=for v|graba-INF=engrave . 
+*IZC:	y por_qué ?
+%mor:	coord|y=and pro:int|por_qué=why ? 
+*INV:	porque me gusta .
+%mor:	conj|porque=because pro:per|me=me v|gusta-3S&PRES=like . 
+@End

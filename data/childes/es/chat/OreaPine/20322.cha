@@ -1,0 +1,386 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;3.22|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	27-NOV-2001
+@Location:	Madrid
+@Situation:	1 Juan y FAT juegan en la habitación de Juan con los muñequitos y los barcos
+@Time Start:	19:00
+@Situation:	1
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué haces con la barca ?
+*CHI:	0 [*] navegando .
+%err:	0 = estoy $SYN $LOS $AUXE
+*FAT:	&=q estás navegando ?
+*CHI:	este es el mar .
+%act:	coloca la bar ca sobr el alfombra que tiene tonos azules
+*FAT:	&=q ese es el mar ?
+*FAT:	&=q y dónde está la tierra ?
+*FAT:	&=q aquí ?
+*CHI:	aquí . [+ IMI]
+%act:	señala la otra alfombra
+*FAT:	aquí está la tierra .
+*FAT:	&=q tú estás en el mar ?
+*FAT:	pues súbe te en la barquita .
+*FAT:	mira .
+*FAT:	esta es tu barca .
+%act:	le coloca una bandeja
+*FAT:	&=q aquí te subes tú ?
+*CHI:	sí .
+*FAT:	&=q estás en el mar tú ?
+*FAT:	venga .
+*FAT:	siéntate .
+*FAT:	hala@i qué bien .
+*FAT:	&=q estás en el mar tú ?
+*CHI:	sí .
+*CHI:	no .
+*CHI:	está [*] en < la barca > [/] la barca .
+%err:	está = estoy $MOR $SUB $NFL 3s/1s
+%act:	después intenta alcanzar algo de una estantería
+*CHI:	xxx barca . [+ NON]
+*FAT:	&=q qué vas a hacer ?
+*FAT:	&=q vas a coger otra cosa ?
+*CHI:	esto [/] esto no 0 [*] puedo coger . [+ CLIMB]
+%err:	0 = lo $MOR $LOS $CLMB
+*FAT:	&=q quieres que te lo dé ?
+*CHI:	esto .
+*FAT:	&=q qué es esto ?
+*CHI:	esto 0 [*] el barco .
+%err:	0 = es $SYN $LOS
+*FAT:	el barco y la barca .
+*FAT:	&=q dónde lo vas a dejar ?
+*CHI:	en el barco .
+%act:	lo deja sobre la alfombra azul
+*FAT:	cuidado .
+*CHI:	lo voy a dejar aquí ahora .
+*CHI:	navegando .
+*CHI:	su ba(r)ca xxx . [+ NON]
+*FAT:	&=q qué pasa ?
+*CHI:	quiero enganchar a 0 [*] barca 0 [*] .
+%err:	0 = la $SYN $LOS ; 0 = O $SYN $LOS
+%act:	tiene un cordón en la mano
+*CHI:	< a la barca > [/] a la barca quiero enganchar la barca .
+*CHI:	quiero enganchar a la barca 0 [*] .
+%err:	0 = O $SYN $LOS
+*FAT:	&=q < quieres enganchar la barca > [/] quieres enganchar la barca ?
+*CHI:	sí .
+*FAT:	pero la [/] la barca se engancha detrás &=q no ?
+*CHI:	detrás . [+ IMI]
+*FAT:	delante va el barco .
+*CHI:	se engancha detrás . [+ IMI]
+*FAT:	mira .
+*FAT:	y aquí la barca .
+*CHI:	detrás .
+*FAT:	a:quí .
+*FAT:	mira .
+*FAT:	así .
+*FAT:	ya está .
+*FAT:	así bien .
+*CHI:	sí .
+*CHI:	y yo le tiro 0 [*] detrás .
+%err:	0 = de $SYN $LOS
+*FAT:	&=q y tú tiras ?
+*CHI:	0 .
+%act:	remolca el barco y la barca tirando del cordón , sale de la habitación y vuelve a entrar
+*FAT:	&=q dónde vas ?
+*CHI:	este es el mar .
+*FAT:	&=q ese es el mar ?
+*CHI:	hay mucha [*] olas .
+%err:	mucha = muchas $MOR $LOS $AGA
+*FAT:	&=q hay muchas olas ? [+ COR] [+ COR]
+*CHI:	sí .
+*FAT:	&=q y qué más hay ?
+*CHI:	&=e cuidado !
+*FAT:	cuidado . [+ ADS]
+*CHI:	cuidado , las olas .
+*FAT:	las olas . [+ ADS]
+*CHI:	xxx olas . [+ NON]
+*CHI:	cuidado .
+*CHI:	eh@i .
+*CHI:	que viene [*] una [*] olas .
+%err:	viene = vienen $MOR $LOS $NFL 3s/3p:NP ; una = unas $MOR $LOS $AGA
+*CHI:	xxx barcas . [+ NON]
+*CHI:	yo tiro .
+*FAT:	vaya lío tienes .
+*CHI:	mira qué lío .
+*CHI:	mira qué lío .
+*CHI:	mira .
+*FAT:	&=q te ayudo ?
+*CHI:	mira .
+*FAT:	a ver .
+*FAT:	ahora .
+*CHI:	0 .
+%act:	vuelve a remolcar la barca
+*FAT:	hala@i qué bien .
+*CHI:	me falta [*] unos señores aquí .
+%err:	falta = faltan $MOR $LOS $NFL 3s/3p:NP
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	a ver .
+*FAT:	mira a ver si hay señores aquí .
+*FAT:	mira .
+*FAT:	ahí hay señores .
+*CHI:	mira [x 2] .
+*CHI:	< e(s) igu@x > [/] .
+*CHI:	< este señor > [/] este señor e(s) igual .
+*CHI:	como [/] como el del ordenador .
+*FAT:	&=q como el del ordenador ?
+*CHI:	igual .
+*FAT:	&=q se parece a Gus o qué ?
+*FAT:	&=q eh@i ?
+*CHI:	se parece a Gus . [+ IMI]
+*FAT:	&=q sí ?
+*CHI:	no se parece a Gus .
+*CHI:	e(s) el Ba(r)buchis@f .
+*FAT:	es el Barbuchis@f . [+ ADS]
+*FAT:	no me engañes .
+*FAT:	&=q < qué vas a > [/] qué vas a hacer ?
+*FAT:	&=q le vas a montar en la barca ?
+*CHI:	le falta un señor al ba(r)buchis@f .
+*CHI:	en la barca xxx ba(r)buchis@f . [+ NON]
+*FAT:	mira .
+*FAT:	ahí los puedes dejar .
+*FAT:	así no te molestan .
+@Situation:	1 Juan y FAT juegan en la habitación de Juan con los muñequitos y los barcos
+@Time Start:	19:00
+@Situation:	1
+*CHI:	< no hay > [/] no hay .
+%act:	mira dentro de una caja
+*CHI:	< lo busco lo busco > [/] lo busco .
+%act:	saca juguetes de una caja
+*FAT:	con cuidado , Juan .
+*CHI:	mira .
+*CHI:	ya he buscado [*] un señor .
+%err:	buscado = encontrado $SYN $SUB
+*CHI:	he buscado [*] un señor .
+%err:	buscado = encontrado $SYN $SUB
+*FAT:	&=q has encontrado un señor ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q que va a ir con el Barbuchis@f en la barquita ?
+*CHI:	que va 0 [*] la barca de vacaciones .
+%err:	0 = en $SYN $LOS
+*FAT:	&=q < se van de vacaciones > [/] ?
+*CHI:	xxx .
+*FAT:	&=q se van de vacaciones ?
+*FAT:	&=q a dónde van de vacaciones , Juan ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q a dónde van de vacaciones ?
+*CHI:	aquí .
+*FAT:	&=q ahí van de vacaciones ?
+*CHI:	donde el mar .
+*MOT:	esto estará seco ya .
+%add:	FAT
+*FAT:	no .
+%add:	MOT
+*FAT:	< déjalo déjalo > [/] déjalo .
+%add:	MOT
+*FAT:	lo acabo de poner .
+%add:	MOT
+*MOT:	o+sea que no +/.
+*FAT:	déjalo .
+*FAT:	falta un poquito .
+*CHI:	ya [/] < ya ha llegado > [/] ya ha [*] llegado los señores .
+%err:	ha = han $MOR $LOS $NFL PREX3s/PREX3p:NP
+*FAT:	&=q < ya han lle@x > [/] ya han llegado los señores de vacaciones ? [+ COR]
+*CHI:	ya han llegado . [+ IMI]
+*CHI:	un poquito más .
+*FAT:	&=q les falta un poquito todavía ?
+*CHI:	falta un poquito todavía . [+ IMI]
+*CHI:	< la barca no va aquí > [/] la barca no va aquí .
+*FAT:	&=q ah@i , no ?
+*FAT:	&=q dónde va la barca ?
+*CHI:	aquí [/] aquí va .
+*CHI:	delante .
+*FAT:	&=q va delante ?
+*FAT:	&=q y cómo la vas a enganchar delante ?
+*CHI:	< lo engancho lo engancho lo engancho > [//] lo engancha Papá .
+*FAT:	&=q ah@i , lo engancho yo ?
+*CHI:	detrás [*] .
+%err:	detrás = delante $SYN $SUB
+%exp:	señala la parte delantera de la barca (tiene forma de yate)
+*FAT:	&=q detrás o delante ?
+*CHI:	aquí .
+*FAT:	&=q ahí delante ?
+*CHI:	aquí delante .
+*FAT:	o+sea , que delante va la barca .
+*CHI:	sí .
+*CHI:	la [/] la barca . [+ IMI]
+*CHI:	&=q dó(nd)e está el Barbuchis@f ?
+*FAT:	lo has tirado tú .
+*CHI:	no .
+*CHI:	se ha caído .
+*FAT:	&=q cómo que se ha caído ?
+*FAT:	mira .
+*FAT:	ya está la barca delante .
+*CHI:	no [x 2] .
+*FAT:	&=q no quieres que vaya delante ?
+*CHI:	no .
+*FAT:	&=q cómo quieres ?
+*FAT:	&=q delante o detrás ?
+*CHI:	aquí [/] aquí delante .
+*CHI:	ah@i .
+*CHI:	mira .
+*FAT:	< a ver > [/] a ver .
+*FAT:	pues si va delante tendremos que enganchar la a:sí .
+*CHI:	se (l)e quita .
+*FAT:	&=q así ?
+*FAT:	y la barca lleva al barco .
+*FAT:	&=q te parece ?
+*CHI:	sí .
+*FAT:	&=q no te gusta más de la otra forma ?
+*CHI:	no .
+*FAT:	el barco llevando la barca .
+*CHI:	< los señores el Barbuchis@f tira > [//] el Barbuchis@f tira [/] tira 0 [*] aquí .
+%err:	0 = de $SYN $LOS
+*FAT:	&=q cómo que el Barbuchis@f tira ?
+*FAT:	&=q tira de ahí ? [+ COR]
+*CHI:	sí [x 2] .
+*CHI:	lo [?] intento [?] . [+ NON]
+%act:	lo intenta colocar
+*CHI:	no [/] no puedo .
+*FAT:	&=q no puedes ?
+*CHI:	no .
+*FAT:	venga .
+*FAT:	yo te ayudo .
+*FAT:	&=q qué es lo que quieres hacer ?
+*CHI:	poner 0 [*] aquí enganchado .
+%err:	0 = lo $MOR $LOS $SUFFIX ; $VALIDROOT
+*CHI:	para tirar lo .
+*FAT:	a ver .
+*FAT:	&=q poner ahí enganchado para tirar lo ? [+ ADS]
+*CHI:	sí .
+*FAT:	a ver .
+*FAT:	&=q lo quieres poner aquí ?
+*CHI:	para separar lo .
+*FAT:	es que no sé si se puede , Juan .
+*CHI:	sí se puede .
+*FAT:	&=q sí se puede ? [+ ADS]
+*CHI:	sí .
+*CHI:	sí se puede .
+*FAT:	mira a ver .
+*CHI:	xxx de pie . [+ NON]
+*FAT:	mira .
+*FAT:	aquí se queda colgando .
+*FAT:	&=q así ?
+*CHI:	sí .
+*FAT:	pero si tiras se suelta .
+*FAT:	así que hay que hacer lo con cuidado .
+*FAT:	&=q vale ?
+*CHI:	no .
+*FAT:	&=q no ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	&=q sí o no ?
+*CHI:	sí .
+*FAT:	bueno .
+*FAT:	ahí está el Barbuchis@f colgado .
+@Situation:	1 Juan y FAT juegan en la habitación de Juan con los muñequitos y los barcos
+@Time Start:	19:00
+@Situation:	1
+*CHI:	&=q de dónde tiro ?
+*FAT:	&=q de dónde tiras ?
+*FAT:	pues < tendrás que tirar de > [//] la barca tendrá que tirar ?
+*FAT:	tú sabrás .
+*FAT:	si coges los dos cablecitos para poner cosas pues no puedes tirar .
+*CHI:	mira .
+*FAT:	< así te > [/] así te gusta más .
+*FAT:	a mí no me gusta más así .
+*CHI:	mira .
+*CHI:	se ha enganchado [*] .
+%err:	enganchado = soltado $SYN $LOS
+*FAT:	se ha soltado . [+ COR]
+*CHI:	se ha soltado . [+ IMI]
+*FAT:	a ver .
+*CHI:	hay que quitar lo esto .
+*FAT:	no , hombre .
+*FAT:	no se puede quitar esa cuerda .
+*FAT:	es que esto no es para tirar , Juan .
+*FAT:	esto es para anclar el barco .
+*FAT:	el barco tira con este ganchito de atrás .
+*FAT:	mira .
+*FAT:	con este se tira muy bien .
+*FAT:	y si quieres que lo hagamos al revés .
+*FAT:	que sea (.) la barca la que tira del barco .
+*FAT:	pues lo podemos hacer así .
+*FAT:	mira .
+*FAT:	la barca se engancha del barco con su ganchito .
+*FAT:	< a ver > [/] a ver .
+%par:	susurra
+*CHI:	sí se puede .
+*FAT:	xxx .
+*FAT:	&=e uh@i !
+*CHI:	&=e uh@i !
+*FAT:	pero bueno .
+*CHI:	xxx .
+*FAT:	se ha soltado .
+*CHI:	se pone aquí .
+*FAT:	pero quién le ha dado permiso a este gancho para soltar se .
+*CHI:	se pone aquí .
+*FAT:	&=q se pone ahí ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*CHI:	como tira (.) el Barbuchis@f .
+*CHI:	< tira tira > [/] tira .
+*CHI:	hace [*] un nudo .
+%err:	hace = haz $MOR $ADD $REG
+*FAT:	< a ver > [/] a ver .
+*FAT:	que estoy montando un lío .
+*FAT:	a ver .
+*FAT:	a ver .
+*CHI:	&=e eh@i [x 2] , señor !
+*CHI:	oy@i .
+*CHI:	voy 0 [*] por el señor .
+%err:	0 = a $SYN $LOS
+*FAT:	&=q vas a por un señor ? [+ COR]
+*CHI:	eh@i .
+*CHI:	soy [x 2] [/] soy < el que > [/] el que más barbas que [*] tengo .
+%err:	que = 0 $SYN $LOS
+*FAT:	es el que tiene +//.
+*CHI:	eh@i , tú .
+*CHI:	eh@i .
+*CHI:	no .
+*CHI:	me ha [*] caído .
+%err:	ha = he $MOR $SUB $NFL
+%exp:	como si se cayera uno de los muñecos
+*CHI:	ahora te recojo yo .
+*CHI:	ahora yo 0 [*] (r)ecojo .
+%err:	0 = te $MOR $LOS $PREFIX
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	así .
+*FAT:	la barca pequeña lleva a la grande .
+*CHI:	no .
+*FAT:	&=q así no ?
+*CHI:	no [x 3] .
+*CHI:	así .
+*CHI:	así no . [+ IMI]
+*CHI:	< es que es que así > [/] es que es [x 4] así .
+*CHI:	como delante .
+*CHI:	así .
+*CHI:	así .
+*CHI:	así 0 [*] engancho .
+%err:	0 = lo $MOR $LOS $PREFIX
+*CHI:	así [x 2] [/] así se va .
+*CHI:	ay@i .
+*CHI:	que me caigo .
+%act:	se ha escurrido
+*FAT:	&=q que te caes ?
+*CHI:	0 .
+%act:	coloca los muñecos en la barca en silencio
+*FAT:	&=q qué hacen los señores ?
+*CHI:	0 .
+%act:	se pone de pie , se está haciendo pis encima
+*FAT:	&=e ay@i !
+*FAT:	&=q qué ha pasado , Juan ?
+*FAT:	&=q qué ha pasado , cariño ?
+*FAT:	&=q qué ha pasado ?
+*CHI:	me he meado .
+*FAT:	vaya .
+*FAT:	bueno .
+*FAT:	no pasa nada .
+@End

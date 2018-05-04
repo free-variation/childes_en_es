@@ -1,0 +1,589 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|||||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	12-AUG-2001
+@Location:	Madrid
+@Situation:	1 Por la noche , MOT le da la cena a Juan en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	xxx .
+%act:	se distrae mirando hacia un lado
+*MOT:	eh@i , Juan .
+*MOT:	míra me .
+*MOT:	oye , Juan .
+*MOT:	oye .
+*MOT:	escúcha me .
+*MOT:	< ven aquí > [/] ven aquí .
+*CHI:	&=e que no !
+*MOT:	&=q qué quieres hacer ?
+*CHI:	xxx .
+*MOT:	&=q dónde vas ?
+*CHI:	xxx .
+*MOT:	a ver qué quieres hacer .
+*MOT:	no te veo .
+*CHI:	0 [*] co(r)tando el césped .
+%err:	0 = está $SYN $LOS $AUXE
+*MOT:	&=q quién está cortando el césped ? [+ COR]
+*CHI:	un señor .
+*MOT:	&=q sí ?
+*MOT:	pero ahora no .
+*MOT:	por la mañana .
+*CHI:	sí .
+*CHI:	po(r) (l)a ma(ñ)ana . [+ IMI]
+*MOT:	claro .
+*MOT:	es por la mañana .
+*MOT:	venga , Juan .
+*MOT:	&=q quieres un po@x [//] cachito más de salchicha ?
+*CHI:	&=e no !
+*MOT:	ah@i .
+%par:	como sorprendida
+*MOT:	&=q cómo que no ?
+*MOT:	&=q no quieres más ?
+*MOT:	a ver .
+*MOT:	que yo te vea .
+*CHI:	xxx .
+*CHI:	&=e Papá !
+%act:	mira hacia el interior de la casa
+*MOT:	Papá viene ahora .
+*CHI:	no .
+*CHI:	Mamá .
+*MOT:	venga .
+*MOT:	oye .
+*MOT:	< vamos a > [//] .
+*MOT:	ven .
+*MOT:	y luego vamos a pintar cosas .
+*MOT:	&=q quieres ?
+*MOT:	&=q vamos a pintar ?
+*MOT:	pero tienes que terminar te por lo menos una salchicha .
+*MOT:	&=q vale ?
+*MOT:	oye , Juan .
+*FAT:	tengo un plato de una papilla preparado en el microondas .
+%com:	desde dentro de la casa
+*CHI:	&=e hola !
+*MOT:	no le hagas mucha &=q eh@i ?
+*CHI:	hola [x 2] .
+*MOT:	no tiene hambre .
+*CHI:	hola .
+*FAT:	está preparada .
+*FAT:	no hay mucha .
+*CHI:	0 [*] papilla .
+%err:	0 = la $SYN $LOS
+*MOT:	sí .
+*MOT:	ahora te la trae Papá .
+*MOT:	da te la vuelta .
+*FAT:	&=q te la preparo ya ?
+*MOT:	da te la vuelta .
+*CHI:	no [x 2] .
+%act:	da golpecitos con un juguete en la mano de MOT
+*MOT:	sí , amiguito .
+*MOT:	oye , Juan .
+*FAT:	oye , Juan .
+*MOT:	vale .
+*FAT:	vale .
+*FAT:	siéntate bien .
+*FAT:	venga .
+*CHI:	quiero papilla .
+*FAT:	voy a preparar la papilla .
+*FAT:	vete comiendo esa salchicha .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*MOT:	claro .
+*FAT:	siéntate bien .
+*MOT:	venga .
+*MOT:	termína la .
+*FAT:	siéntate bien .
+*CHI:	0 .
+%act:	come
+*MOT:	si te gusta mucho la salchicha .
+*MOT:	&=q no ?
+*MOT:	&=q no te gusta la salchicha ?
+*CHI:	mm@i .
+%par:	afirma ; mueve la cabeza
+*MOT:	&=q es lo que más te gusta en el mundo ?
+*CHI:	mm@i .
+%par:	afirma ; mueve la cabeza
+*MOT:	&=q sí ?
+*MOT:	oye .
+*MOT:	&=q dónde has estado hoy ?
+*MOT:	&=q dónde has ido hoy ?
+*CHI:	0 [*] tomar [*] helados .
+%err:	0 = a $SYN $LOS ; tomar = fin $MOR $SUB $ROOT
+*MOT:	&=q a tomar helados ? [+ COR]
+*MOT:	todavía no hemos ido a tomar helados .
+*CHI:	sí .
+*MOT:	&=q dónde hemos estado ?
+*MOT:	&=q de dónde hemos venido ahora mismo ?
+*CHI:	&=e del mar !
+*MOT:	&=q del mar ?
+*CHI:	ha [*] ido al mar .
+%err:	ha = he $MOR $SUB $NFL PREX3s/PREX1s
+*MOT:	&=q y qué has hecho allí ?
+*CHI:	xxx arena . [+ NON]
+*MOT:	había arena , sí .
+*MOT:	&=q y qué has hecho ?
+*MOT:	&=q castillos de arena ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*MOT:	&=q y qué más has hecho ?
+*CHI:	ha [*] dormido bien .
+%err:	ha = he $MOR $SUB $NFL PREX3s/PREX1s
+*MOT:	has dormido bien .
+*MOT:	claro que sí .
+*MOT:	una siesta impresionante .
+*MOT:	&=q < qué te ha hecho > [/] qué te ha hecho Papá ?
+*MOT:	&=q qué te ha hecho Papá para que duermas la siesta ?
+*MOT:	&=q una +..?
+*MOT:	&=q una cabañita ?
+*CHI:	u(n)a cabañita . [+ IMI]
+*MOT:	&=q te ha hecho Papá una cabañita para que duermas la siesta ?
+*MOT:	&=q sí ?
+*CHI:	sí .
+*MOT:	&=q y has dormido bien ?
+*MOT:	&=q o no ?
+*CHI:	tiene [/] tiene pipos .
+*MOT:	&=q qué tiene ?
+*CHI:	tiene pipos .
+%act:	se acerca a la buca unos lápices que tiene en la mano
+*MOT:	no [x 2] tiene pipos , cariño .
+*MOT:	no te comas el lápiz .
+*CHI:	tiene [*] caca .
+%err:	tiene = tengo $MOR $SUB $NFL 3s/1s
+%act:	se toca el calconcillo
+*MOT:	&=q tienes caca , cielo ?
+%act:	le mira
+*MOT:	&=q quieres hacer caca ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*MOT:	pues ahora vamos a hacer caca .
+*FAT:	ya llevo el orinal .
+*MOT:	mira .
+*MOT:	viene Papá con el orinal ahora mismo .
+*MOT:	&=q vale ?
+*CHI:	hola [x 5] .
+%act:	mira hacia el interior de la casa
+*MOT:	ven .
+*MOT:	que vamos a poner el orinal aquí arriba .
+*CHI:	hola .
+*MOT:	verás .
+*MOT:	ahí arriba en la silla .
+*MOT:	&=q vale ?
+*MOT:	que te vas a sentar en la silla .
+%com:	hay un corte
+*MOT:	&=q mañana dónde vamos a ir ?
+*MOT:	&=q vamos a ir otra vez a la playa ?
+*MOT:	&=q y te vas a dormir otra vez mucho ?
+*MOT:	&=q sí ?
+*MOT:	&=q y qué más vas a hacer ?
+*CHI:	xxx arena . [+ NON]
+*MOT:	&=q cómo ?
+*CHI:	xxx .
+*MOT:	&=q castillos de arena también ?
+*FAT:	a coger piedras .
+*MOT:	ah@i .
+*MOT:	&=q pescas piedras con Papá ?
+*CHI:	a coger piedras 0 [*] Papá . [+ IMI]
+%err:	0 = con $SYN $LOS
+*MOT:	con Papá coges piedras . [+ COR]
+*MOT:	&=q y qué llevas detrás ?
+*MOT:	&=q qué te pone Papá aquí detrás ?
+*CHI:	xxx .
+*MOT:	la burbuja .
+*MOT:	&=q para qué ?
+*CHI:	hacía [/] hacía cemento .
+*MOT:	&=q hacía ?
+*CHI:	hacía cemento .
+*MOT:	&=q cemento [x 2] ?
+*MOT:	no .
+*MOT:	&=q la burbuja te la pone Papá para qué ?
+*MOT:	para que puedas +...
+*CHI:	++ dormir .
+*MOT:	nadar .
+*CHI:	dormir .
+*MOT:	&=q dormir ?
+*MOT:	la burbuja no te la pones para dormir .
+*FAT:	0 .
+%act:	trae la papilla y la deja sobre la mesa
+*MOT:	mira .
+*MOT:	papillota .
+*MOT:	&=q nos tomamos la papilla ?
+*MOT:	&=q dejamos la salchicha ?
+@Situation:	1 Por la noche , MOT le da la cena a Juan en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	xxx cuchara . [+ NON]
+%act:	coge la cuchara y la mete en la papilla
+*MOT:	tú una .
+*MOT:	vale .
+*MOT:	uy@i .
+*MOT:	&=q qué ha pasado ?
+*CHI:	ca(li)ente .
+%act:	MOT le ha dado la papilla y el apuesto un gesto de desagrado
+*MOT:	ay@i .
+*MOT:	perdona .
+*MOT:	&=q está caliente ?
+*MOT:	&=q seguro ?
+%act:	lo prueba
+*MOT:	un poquito , sí .
+*MOT:	mm@i .
+%par:	como si le gustara
+*MOT:	qué buena .
+%act:	está batiendo la papilla con la cuchara para que se enfríe
+*CHI:	0 .
+%act:	también remueve la papilla
+*MOT:	&=q qué hacemos ?
+*MOT:	&=q qué estamos haciendo ?
+*CHI:	calie(n)te .
+*MOT:	&=q está caliente ?
+*MOT:	&=q hacemos así para que se enfríe ?
+*MOT:	así no , Juan .
+*MOT:	así [x 2] .
+*MOT:	se mueve un poquito para que se enfríe .
+*MOT:	&=q vale ?
+*MOT:	&=q qué haces ?
+*MOT:	&=q qué haces , Juan ?
+*MOT:	oye .
+*MOT:	yo quiero que me cuentes una historia .
+*CHI:	xxx castillo xxx . [+ NON]
+*MOT:	&=q cómo ?
+*CHI:	xxx .
+*CHI:	me ha [*] manchado [/] manchado .
+%err:	ha = he $MOR $SUB $NFL PREX3s/PREX1s
+%act:	le enseña a MOT el dedo manchado de papilla
+*MOT:	uh@i .
+*MOT:	&=q se ha manchado Juan ?
+*CHI:	0 .
+%par:	se ríe
+*CHI:	me 0 [*] manchado 0 [*] papilla .
+%err:	0 = he $SYN $LOS $AUXH ; 0 = de $SYN $LOS
+*CHI:	xxx .
+*MOT:	espera [x 2] que voy a por una servilleta .
+%act:	se mete en la casa y Juan se queda solo en la terraza
+*CHI:	xxx piedras . [+ NON]
+%act:	está jugando con los lápices y habla hacia el interior de la casa
+*MOT:	oye .
+%add:	FAT
+*MOT:	no lo veo .
+%add:	FAT
+*MOT:	a ver , Juan .
+%act:	entra en la terraza y se sienta junto a Juan
+*MOT:	&=q cuál era el dedito que estaba manchado ?
+*MOT:	&=q este ?
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	cuénta me una historia .
+*CHI:	xxx .
+%com:	dice cosas sin sentido
+*MOT:	me he perdido un poco &=q eh@i ?
+*MOT:	me he perdido un poco con tu historia .
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	cuénta me una que sea un poquito más clara .
+*MOT:	porque esa no me he enterado mucho .
+*MOT:	a ver .
+*MOT:	&=q de qué iba ?
+*CHI:	xxx .
+%com:	vuelve a decir cosas sin sentido
+*MOT:	mequico@x .
+%par:	imita lo que dice Juan
+*MOT:	eso no lo entiendo .
+*MOT:	&=q qué es eso ?
+*MOT:	a ver , Juan .
+*CHI:	xxx .
+%act:	mira hacia la calle porque se oye ladrar un perro
+*MOT:	ah@i .
+%par:	como sorprendida
+*MOT:	qué suena .
+*CHI:	&=e un perro !
+*MOT:	un perro .
+*CHI:	tonto .
+*MOT:	&=q qué hace el perro ?
+*CHI:	es mucho [*] feo .
+%err:	mucho = muy $SYN $SUB
+*MOT:	&=q es mucho +..?
+*CHI:	< se va > [/] se va a dormir .
+*MOT:	&=q se va a dormir el perro , cariño ?
+*MOT:	&=q sí ?
+*MOT:	&=q y dónde se va a dormir ?
+*CHI:	allí a 0 [*] calle .
+%err:	0 = la $SYN $LOS
+*MOT:	&=q ahí a la calle ?
+*CHI:	0 [*] dormido a [*] coche .
+%err:	0 = está $SYN $LOS $AUXH ; a = < en el > $SYN $SUB
+*MOT:	&=q dormido en el coche ? [+ COR]
+*CHI:	sí .
+*MOT:	a ver .
+*MOT:	&=q pero dónde duerme ?
+*MOT:	&=q en la calle o en el coche ?
+*CHI:	0 [*] calle no .
+%err:	0 = < en la > $SYN $LOS
+*MOT:	&=q en la calle no ?
+*CHI:	0 [*] el coche .
+%err:	0 = en $SYN $LOS
+*MOT:	&=q en la calle no , en el coche ? [+ COR]
+*MOT:	ah@i .
+*MOT:	mira .
+*MOT:	creo que suena otro por aquí dentro .
+@Situation:	1 Por la noche , MOT le da la cena a Juan en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	xxx .
+%par:	tartamudea
+%act:	se ha quedado como pensativo intentando decir algo
+*MOT:	&=q cómo ?
+*CHI:	do(r)mido [//] (es)tá [*] dormido [*] todos .
+%err:	está = están $MOR $LOS $NFL 3s/3p:NP ; dormido = dormidos $MOR $LOS $AGA
+*MOT:	&=q están dormidos todos ? [+ COR]
+*MOT:	&=q sí ?
+*MOT:	&=q están dormidos todos los perros ?
+*CHI:	(dor)mi(d)os los perros . [+ IMI]
+*MOT:	los perros .
+*MOT:	&=q qué más ?
+*CHI:	0 [*] luces .
+%err:	0 = las $SYN $LOS
+*MOT:	&=q las luces ? [+ COR]
+*MOT:	&=q también se duermen las luces ?
+*CHI:	sí .
+*MOT:	&=q y quién más ?
+*CHI:	0 [*] coches .
+%err:	0 = los $SYN $LOS
+*MOT:	los coches .
+*MOT:	&=q qué más ?
+*CHI:	(l)as señoras .
+*MOT:	las señoras .
+*MOT:	&=q qué más ?
+*CHI:	(l)os árboles .
+*MOT:	los árboles .
+*MOT:	&=q quién más se duerme ?
+*CHI:	xxx .
+*MOT:	&=q los +..?
+*CHI:	++ señor [*] .
+%err:	señor = señores $MOR $LOS $AGA
+*MOT:	el señor . [+ COR]
+*MOT:	&=q quién más ?
+*CHI:	xxx .
+*MOT:	&=q quién ?
+*MOT:	&=q quién se duerme ?
+*CHI:	el coche .
+*MOT:	el coche .
+*MOT:	&=q y quién más ?
+*CHI:	0 [*] helicó(p)tero .
+%err:	0 = el $SYN $LOS
+*MOT:	&=q el +..?
+*CHI:	helicó(p)tero .
+*MOT:	&=q el helicóptero también se duerme ?
+*CHI:	sí .
+*MOT:	&=q y quién más ?
+*CHI:	0 [*] señores .
+%err:	0 = los $SYN $LOS
+*MOT:	los señores .
+*MOT:	&=q quién más ?
+*CHI:	0 [*] señoras .
+%err:	0 = las $SYN $LOS
+*MOT:	las señoras .
+*MOT:	&=q y quién más ?
+*CHI:	los perros .
+*MOT:	los perros .
+*CHI:	el [*] luces .
+%err:	el = las $MOR $SUB $AGA
+*MOT:	las luces . [+ COR]
+*CHI:	el ot(r)o perro .
+*MOT:	el otro perro . [+ ADS]
+%par:	riéndose
+*MOT:	&=q quién más ?
+*CHI:	0 [*] o@x [//] árboles .
+%err:	0 = los $SYN $LOS
+*MOT:	los árboles . [+ COR]
+*MOT:	&=q quién más ?
+*CHI:	e(l) balón .
+*MOT:	el balón . [+ ADS]
+*MOT:	muy bien .
+*MOT:	&=q y quién más ?
+*MOT:	&=q quién más , Juan , se duerme ?
+*CHI:	0 [*] señores .
+%err:	0 = los $SYN $LOS
+*MOT:	los señores . [+ COR]
+*MOT:	ya los has dicho los señores .
+*MOT:	unas cuantas veces .
+*MOT:	deben de estar ya dormidísimos .
+*MOT:	&=q quién más ?
+*CHI:	0 [*] señoras .
+%err:	0 = las $SYN $LOS
+*MOT:	también las señoras las has dicho .
+*MOT:	ya están seguramente que en el séptimo sueño .
+%exp:	el séptimo sueño = the seventh dream (deep asleep)
+*MOT:	&=q y ahora que hacemos con toda esa gente dormida ?
+*MOT:	a ver .
+*CHI:	xxx coches pasa . [+ NON]
+*MOT:	los coches pasan .
+*MOT:	entonces los coches si pasan no están dormidos &=q no ?
+*MOT:	&=q a ver cómo va eso ?
+*CHI:	xxx .
+%par:	susurra
+*MOT:	xxx .
+%par:	también susurra
+*CHI:	0 .
+%act:	sopla la comida de la cuchara
+*MOT:	&=e oye !
+*MOT:	pero amiguito .
+*MOT:	&=q qué haces con la última cucharada ?
+*CHI:	ama(r)illo [/] .
+*MOT:	&=q dónde ?
+*CHI:	ama(r)illo ahí .
+%act:	señala hacia la calle
+*MOT:	&=q amarilla la luz ?
+*MOT:	&=q y aquella luz de allí cómo está ahora ?
+*CHI:	xxx .
+*MOT:	no .
+*MOT:	&=q aquella de allí cómo está ?
+*MOT:	aquella de allí a lo lejos del semáforo .
+*MOT:	la del semáforo .
+*MOT:	mira .
+*MOT:	allí .
+*MOT:	acaba de cambiar .
+*MOT:	mira ahora cómo está .
+*MOT:	está (.) verde .
+*CHI:	xxx azul . [+ NON]
+*CHI:	verde . [+ IMI]
+*MOT:	&=q y ahora ?
+*MOT:	ah@i .
+%par:	como sorprendida
+*MOT:	amarilla y ahora roja .
+*MOT:	&=q a que sí ?
+*CHI:	amarilla roja . [+ IMI]
+*CHI:	amarilla roja . [+ IMI]
+*CHI:	azul .
+*MOT:	azul no se pone nunca .
+@Situation:	1 Por la noche , MOT le da la cena a Juan en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	amarillo .
+*MOT:	amarilla .
+*CHI:	amarilla . [+ IMI]
+*CHI:	amarillo [x 3] . [+ IMI]
+%par:	alegre
+*MOT:	y rojo .
+*MOT:	&=q cantamos una canción , Juan ?
+*CHI:	no .
+*MOT:	&=q no quieres cantar la de Susanita ?
+*CHI:	xxx .
+*MOT:	&=q eh@i ?
+*CHI:	(l)as cometas .
+*MOT:	&=q las cometas ?
+*CHI:	la cometa .
+*MOT:	&=q la del cometa ?
+*MOT:	yo no sé ninguna canción del cometa .
+*MOT:	pero sí me sé una de Susanita .
+*MOT:	&=q la cantamos ?
+*CHI:	no .
+*MOT:	&=q no ?
+*MOT:	pues vale .
+*MOT:	pues cuénta me una cosa .
+*MOT:	venga va .
+*CHI:	0 .
+%act:	juega con los lápices que tiene en la mano
+*MOT:	&=q qué haces ?
+*CHI:	0 [*] cortando [/] cortando [*] .
+%err:	0 = estoy $SYN $LOS $AUXE ; cortando = corto $MOR $SUB $NF
+*MOT:	&=q cómo ?
+*CHI:	< cortando césped no > [/] 0[*] cortando césped no .
+%err:	0 = estoy $SYN $LOS $AUXE
+*CHI:	quie(r)o sali(r) .
+*MOT:	&=q ya has terminado ?
+*MOT:	espera [x 2] un poco .
+*MOT:	espera un poquito , por+favor .
+*MOT:	un momento .
+%act:	se levanta de la silla
+*MOT:	un momentito .
+%act:	parece que está intentando apagar la cámara
+%com:	hay un corte
+*CHI:	sa(l)chicha [x 3] .
+%act:	ha cogido la salchicha con la mano y la está mordisqueando muy alegre
+*MOT:	&=q y ahora te vas a comer la salchicha , Juan ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*MOT:	pero hombre .
+*MOT:	ay@i .
+*MOT:	déjame cortár tela &=q no ?
+*MOT:	< a ver aver > [/] a ver .
+*MOT:	a ver , amiguito .
+%act:	le quita la salchicha de la mano y se la limpia con una servilleta
+*CHI:	0 .
+%act:	escupe la comida
+*MOT:	&=q qué es lo que pasa ?
+*MOT:	&=q que no la quieres ?
+*MOT:	&=q por qué la coges si no la quieres ?
+*MOT:	&=q te parto un trocito ?
+*MOT:	&=q sí ?
+*CHI:	xxx .
+%com:	dice cosas sin sentido
+*CHI:	verás .
+*MOT:	toma .
+%act:	le ha partido un trozo de salchicha y se lo ofrece con el tenedor
+*CHI:	0 .
+%act:	lo mastica y lo escupe
+*MOT:	&=q qué haces ?
+*MOT:	vale , Juan .
+*MOT:	pues si no quieres más lo dejamos .
+*MOT:	&=q vale ?
+*MOT:	y además ya te has comido la papilla .
+*CHI:	verás .
+%act:	se da la vuelta sobre la silla
+*MOT:	&=q dónde vas ?
+*CHI:	verás .
+*MOT:	oye .
+*MOT:	mira para acá .
+*MOT:	míra me , Juan .
+*CHI:	xxx agua . [+ NON]
+*MOT:	&=q quieres agua ?
+*MOT:	&=q sí ?
+*MOT:	&=q quieres agua ?
+*MOT:	espera que voy a por ella .
+*CHI:	xxx cuchara xxx . [+ NON]
+*MOT:	toma .
+*CHI:	la cuchara meter [*] .
+%err:	meter = meto $MOR $SUB $ROOT
+*MOT:	&=q dónde ?
+*MOT:	&=q una cuchara meter dónde ? [+ ADS]
+*CHI:	en el agua .
+*MOT:	&=q en el agua ?
+*MOT:	no se meten cucharas en el agua .
+*MOT:	&=q tú has visto a Mamá o a Papá tomar agua con cuchara ?
+*CHI:	no .
+*MOT:	pues entonces tú tampoco .
+*MOT:	venga .
+*MOT:	bébe te el agua .
+*CHI:	< quiere conmigo nena > [/] quiere conmigo 0 [*] nena .
+%err:	0 = la $SYN $LOS
+*MOT:	venga bebe .
+*CHI:	< quiere conmigo quiere conmigo > [/] quiere conmigo 0 [*] nena . 
+%err:	0 = la $SYN $LOS
+*MOT:	&=q quieres contigo una niña ?
+*MOT:	&=q eso me dices ?
+*CHI:	sí .
+*MOT:	&=q que quieres contigo una niña ?
+*MOT:	&=q una amiguita ?
+*CHI:	xxx también . [+ NON]
+*MOT:	&=q qué ?
+*CHI:	xxx juntos . [+ NON]
+*MOT:	juntos@q pero no entiendo lo otro , Juan .
+*CHI:	a los dos juntos .
+*MOT:	&=q los dos juntos ?
+*CHI:	un beso .
+*MOT:	&=q un beso ?
+*CHI:	un beso 0 [*] a dormir .
+*MOT:	&=q un beso y a dormir a los dos ? [+ COR]
+*CHI:	a los dos . [+ IMI]
+*MOT:	o a Juan sólo .
+*CHI:	a Juan no .
+*CHI:	(l)a nena un beso 0 [*] a (d)ormi(r) .
+*MOT:	&=q a la nena un beso y a dormir ? [+ COR]
+*CHI:	sí .
+*MOT:	&=q sí ?
+*CHI:	sí .
+*MOT:	&=q pero qué nena es esa ?
+@End

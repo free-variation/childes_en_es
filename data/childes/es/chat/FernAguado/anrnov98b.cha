@@ -1,0 +1,362 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ANR Andrea Target_Child , AIN Ainhoa Sister , INV Marta Investigator
+@ID:	spa|fernaguado|ANR|3;6.09||||Target_Child|||
+@ID:	spa|fernaguado|AIN|5;3.08||||Sister|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	11-NOV-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ANR y AIN juegan con el barco
+*ANR:	qué no funciona esta pelota ?
+%mor:	pro:int|qué=what adv|no=no v|funciona-3S&PRES=function det:dem|este-FEM=this 
+	n|pelota&fem=ball ? 
+*AIN:	cuál pelota ?
+%mor:	pro:int|cuál=which n|pelota&fem=ball ? 
+*AIN:	pero sí funciona Andrea !
+%mor:	conj|pero=but co|sí=yes v|funciona-3S&PRES=function n:prop|Andrea ! 
+*AIN:	lo pongo así .
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put adv|así=thus . 
+%com:	pone la bala en el cañón
+*AIN:	hago esto y +...
+%mor:	v|hace-1S&PRES=do det:dem|este-MASC=this coord|y=and +... 
+%com:	dispara
+*AIN:	has visto cómo funciona ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress co|cómo v|funciona-3S&PRES=function 
+	? 
+*AIN:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*AIN:	el capitán Garfio dónde está ?
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio pro:int|dónde=where 
+	v|esta-3S&PRES=be ? 
+*ANR:	aquí (.) Garfio .
+%mor:	adv|aquí=here n:prop|Garfio . 
+%com:	pone un pirata encima del barco
+*ANR:	0 [= cantando] .
+*ANR:	un xxx (.) Garfio de Garfio .
+%mor:	det:art|un&masc=one n:prop|Garfio prep|de=of n:prop|Garfio . 
+*AIN:	Andrea esto qué es ?
+%mor:	n:prop|Andrea det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be 
+	? 
+%com:	el cofre
+*ANR:	es una cosa de dinero .
+%mor:	v|se-3S&PRES=be det:art|un-FEM=one n|cosa&fem=thing prep|de=of n|dinero&masc=coin 
+	. 
+*AIN:	una cosa de dinero (.) pero te pregunto qué es ?
+%mor:	det:art|un-FEM=one n|cosa&fem=thing prep|de=of n|dinero&masc=coin conj|pero=but 
+	pro:per|te=you v|pregunta-1S&PRES=ask pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*ANR:	es una cosa pero no te +...
+%mor:	v|se-3S&PRES=be det:art|un-FEM=one n|cosa&fem=thing conj|pero=but adv|no=no 
+	pro:per|te=you +... 
+*AIN:	pero Andrea cuál es la cárcel ?
+%mor:	conj|pero=but n:prop|Andrea pro:int|cuál=which v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|cárcel&fem=jail ? 
+*ANR:	pues ésta !
+%mor:	co|pues=well pro:dem|éste-FEM=this_one ! 
+*AIN:	no (.) porque aquí tiran bolas .
+%mor:	co|no=no conj|porque=because adv|aquí=here v|tira-3P&PRES=throw n|bola&fem-PL=ball 
+	. 
+*AIN:	ésta ?
+%mor:	pro:dem|éste-FEM=this_one ? 
+*ANR:	sí .
+%mor:	co|sí=yes . 
+*ANR:	ésta era la cárcel .
+%mor:	pro:dem|éste-FEM=this_one v|se-13S&PAS=be det:art|el&FEM&SG=the n|cárcel&fem=jail 
+	. 
+*ANR:	ves (.) mira cómo era .
+%mor:	co|ves=see co|mira=look co|cómo v|se-13S&PAS=be . 
+*AIN:	<y dónde> [/] y dónde se ponía la mesa ?
+%mor:	coord|y=and pro:int|dónde=where pro:per|se=itself v|pone-13S&PAS=put 
+	det:art|el&FEM&SG=the n|mesa&fem=table ? 
+*AIN:	pero Andrea esto qué es ?
+%mor:	conj|pero=but n:prop|Andrea det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*AIN:	Andrea esto qué es ?
+%mor:	n:prop|Andrea det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be 
+	? 
+%com:	el trampolín del barco
+*ANR:	una cosa .
+%mor:	det:art|un-FEM=one n|cosa&fem=thing . 
+*AIN:	la metes ?
+%mor:	det:art|el&FEM&SG=the v|mete-2S&PRES=put ? 
+*AIN:	al capitán ?
+%mor:	prep|a~det|el&MASC n|capitán&masc=captain ? 
+*AIN:	al capitán no hay que meter .
+%mor:	prep|a~det|el&MASC n|capitán&masc=captain co|no=no v|habe-3S&PRES&SPEC=have 
+	prep|que=than v|mete-INF=put . 
+*AIN:	el que se meta +...
+%mor:	det:art|el&MASC&SG=the prep|que=than pro:per|se=itself n|meta&fem=boundary 
+	+... 
+*ANR:	y esto dónde se apone [*] ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself 
+	v|apone-3S&PRES ? 
+*ANR:	Ainhoa (.) y éstos ?
+%mor:	n:prop|Ainhoa coord|y=and pro:dem|éste-MASC-PL=this_one ? 
+%com:	pone unas redes y pregunta si se ponen o no las otras
+*INV:	también .
+%mor:	adv|también=also . 
+*ANR:	y por_qué no están bajos ?
+%mor:	coord|y=and pro:int|por_qué=why adv|no=no v|esta-3P&PRES=be adj|bajo-MASC-PL=low 
+	? 
+%com:	le quedan colgando y no consigue engancharlas a la barandilla de cubierta
+*INV:	y ahora lo demás hay que poner .
+%mor:	coord|y=and adv|ahora=now pro:per:1|lo&masc=him adj|demás=remaining v|habe-3S&PRES&SPEC=have 
+	prep|que=than v|pone-INF=put . 
+*ANR:	esto ahora ?
+%mor:	det:dem|este-MASC=this adv|ahora=now ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*ANR:	<mira (.) ya lo he ponido [*]> [<] .
+%mor:	co|mira=look adv|ya=already pro:per:1|lo&masc=him co|he part|pone-PPART&MASC=put 
+	. 
+%com:	una vela
+*AIN:	<pero puedes dejarlo así> [>] .
+%mor:	conj|pero=but v|pode-2S&PRES=can v|deja-INF~pro:clit|OBJ&MASC adv|así=thus 
+	. 
+*AIN:	mira como puedes dejarlo .
+%mor:	co|mira=look adv|como=like v|pode-2S&PRES=can v|deja-INF~pro:clit|OBJ&MASC 
+	. 
+%com:	coge el dibujo para colocarlo mejor
+*ANR:	ya he ponido [*] éstos .
+%mor:	adv|ya=already co|he part|pone-PPART&MASC=put pro:dem|éste-MASC-PL=this_one 
+	. 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*ANR:	y éstos como Pipi .
+%mor:	coord|y=and pro:dem|éste-MASC-PL=this_one adv|como=like n:prop|Pipi . 
+%com:	coloca el puesto del vigía
+*ANR:	éstos .
+%mor:	pro:dem|éste-MASC-PL=this_one . 
+*AIN:	así .
+%mor:	adv|así=thus . 
+*ANR:	esto como Pipi .
+%mor:	det:dem|este-MASC=this adv|como=like n:prop|Pipi . 
+*ANR:	yo tengo la pelí(cula) de Pepi [*] .
+%mor:	pro:per|yo=I v|tene-1S&PRES=have det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of n:prop|Pepi . 
+*AIN:	de Pepi ?
+%mor:	prep|de=of n:prop|Pepi ? 
+*ANR:	de Pipi .
+%mor:	prep|de=of n:prop|Pipi . 
+*AIN:	de Pipi .
+%mor:	prep|de=of n:prop|Pipi . 
+*ANR:	Pepi no .
+%mor:	n:prop|Pepi co|no=no . 
+*AIN:	y cantan en inglés (.) pero hablan en [/] en eusquera .
+%mor:	coord|y=and v|canta-3P&PRES=sing prep|en=in n|inglés&masc=English conj|pero=but 
+	v|habla-3P&PRES=speak prep|en=in n|eusquera&masc=basque . 
+*AIN:	en ikastola hablan en eusquera (.) y cuando voy a contar un cuento (.) pues [/] pues ahí tienen un gigante .
+%mor:	prep|en=in n|ikastola&fem=Basque_school v|habla-3P&PRES=speak prep|en=in 
+	n|eusquera&masc=basque coord|y=and conj|cuando=when v|i-1S&PRES=go prep|a=to 
+	v|conta-INF=count_tell det:art|un&masc=one n|cuento&masc=story co|pues=well 
+	adv|ahí=there v|tene-3P&PRES=have det:art|un&masc=one n|gigante&masc=giant 
+	. 
+*AIN:	sí .
+%mor:	co|sí=yes . 
+*ANR:	éste como tiene un gancho (.) pues éste es Garfio !
+%mor:	pro:dem|éste=this_one adv|como=like v|tene-3S&PRES=have det:art|un&masc=one 
+	n|gancho&masc=hook co|pues=well pro:dem|éste=this_one v|se-3S&PRES=be 
+	n:prop|Garfio ! 
+*AIN:	Andrea dónde la mesa ?
+%mor:	n:prop|Andrea pro:int|dónde=where det:art|el&FEM&SG=the n|mesa&fem=table 
+	? 
+*AIN:	oye Andrea pero dónde ?
+%mor:	co|oye=listen n:prop|Andrea conj|pero=but pro:int|dónde=where ? 
+*ANR:	ésta mesa dónde es ?
+%mor:	pro:dem|éste-FEM=this_one n|mesa&fem=table pro:int|dónde=where v|se-3S&PRES=be 
+	? 
+*INV:	dónde quieres ponerla (.) a_ver ?
+%mor:	pro:int|dónde=where v|quere-2S&PRES=want v|pone-INF~pro:clit|OBJ&FEM 
+	co|a_ver=see ? 
+*AIN:	yo la quería poner aquí .
+%mor:	pro:per|yo=I det:art|el&FEM&SG=the v|quere-13S&PAS=want v|pone-INF=put 
+	adv|aquí=here . 
+*ANR:	aquí .
+%mor:	adv|aquí=here . 
+*AIN:	aquí .
+%mor:	adv|aquí=here . 
+*AIN:	esto era la cárcel .
+%mor:	det:dem|este-MASC=this v|se-13S&PAS=be det:art|el&FEM&SG=the n|cárcel&fem=jail 
+	. 
+*ANR:	pues porque si alguno se porta mal (.) pues lo metíamos a la cárcel .
+%mor:	co|pues=well conj|porque=because conj|si=if det:indef|algún-MASC=some 
+	pro:per|se=itself v|porta-3S&PRES=behave n|mal&masc=harm co|pues=well pro:per:1|lo&masc=him 
+	v|mete-1P&PAS=put prep|a=to det:art|el&FEM&SG=the n|cárcel&fem=jail . 
+*AIN:	eh (.) <si tiene> [//] porque es que si no si tiene +/.
+%mor:	co|eh conj|porque=because v|se-3S&PRES=be prep|que=than conj|si=if adv|no=no 
+	conj|si=if v|tene-3S&PRES=have +/. 
+*ANR:	porque tiene más cosas .
+%mor:	conj|porque=because v|tene-3S&PRES=have adv|más=more n|cosa&fem-PL=thing 
+	. 
+*AIN:	sí .
+%mor:	co|sí=yes . 
+*AIN:	bueno para éste no (.) porque si están en la cárcel ya son malos .
+%mor:	co|bueno=good prep|para=for pro:dem|éste=this_one adv|no=no conj|porque=because 
+	conj|si=if v|esta-3P&PRES=be prep|en=in det:art|el&FEM&SG=the n|cárcel&fem=jail 
+	adv|ya=already v|se-3P&PRES=be n|malo&masc-PL=devil . 
+*AIN:	y ya no tiene que xxx (.) y no puede ser aquí .
+%mor:	coord|y=and adv|ya=already adv|no=no v|tene-3S&PRES=have prep|que=than 
+	coord|y=and adv|no=no v|pode-3S&PRES=can n|ser&masc=being adv|aquí=here 
+	. 
+*ANR:	y esto para qué es ?
+%mor:	coord|y=and det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*AIN:	xxx .
+%com:	jugando con las pelotas
+*AIN:	sabes qué ?
+%mor:	co|sabes=you_know pro:int|qué=what ? 
+*AIN:	xxx .
+*ANR:	la pelota (.) la pelota que se va !
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball det:art|el&FEM&SG=the n|pelota&fem=ball 
+	prep|que=than pro:per|se=itself v|i-3S&PRES=go ! 
+%com:	se le escapa
+*ANR:	pues ayer cuando apagaron la luz en mi cama pues había una araña .
+%mor:	co|pues=well adv|ayer=yesterday conj|cuando=when v|apaga-3P&PRET=extinguish 
+	det:art|el&FEM&SG=the n|luz&fem=light prep|en=in det:pos|mi=my n|cama&fem=bed 
+	co|pues=well v|habe-13S&PAS=have det:art|un-FEM=one n|araña&fem=spider 
+	. 
+*ANR:	sí .
+%mor:	co|sí=yes . 
+*AIN:	está mirando .
+%mor:	v|esta-3S&PRES=be v|mira-PROG=look . 
+%com:	un pirata por el catalejo
+*AIN:	pero qué pasa ?
+%mor:	conj|pero=but pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*AIN:	pero qué pasa capitán ?
+%mor:	conj|pero=but pro:int|qué=what v|pasa-3S&PRES=pass n|capitán&masc=captain 
+	? 
+*AIN:	por_qué no ves ?
+%mor:	pro:int|por_qué=why adv|no=no co|ves=see ? 
+*AIN:	se choca +...
+%mor:	pro:per|se=itself v|choca-3S&PRES=collide +... 
+*AIN:	se choca con lo que +...
+%mor:	pro:per|se=itself v|choca-3S&PRES=collide prep|con=with pro:per:1|lo&masc=him 
+	prep|que=than +... 
+*AIN:	el capitán se choca con +...
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain pro:per|se=itself v|choca-3S&PRES=collide 
+	prep|con=with +... 
+*ANR:	mira un pirata !
+%mor:	co|mira=look det:art|un&masc=one n|pirata&masc=pirate ! 
+*ANR:	muy bien (.) Ainhoa lo has tira(d)o !
+%mor:	adv|muy=very adv|bien=well n:prop|Ainhoa pro:per:1|lo&masc=him v|habe-2S&PRES=have 
+	part|tira-PPART&MASC=throw ! 
+%com:	a AIN se le vence el barco hacia un lado
+*ANR:	ven .
+%mor:	co|ven=come . 
+*ANR:	a la cárcel les llevo .
+%mor:	prep|a=to det:art|el&FEM&SG=the n|cárcel&fem=jail pro:per|le-PL=them 
+	v|lleva-1S&PRES=carry . 
+*AIN:	hola capitán .
+%mor:	co|hola=hi n|capitán&masc=captain . 
+*ANR:	el gris a la cárcel porque se ha porta(d)o mal .
+%mor:	det:art|el&MASC&SG=the adj|gris=grey prep|a=to det:art|el&FEM&SG=the n|cárcel&fem=jail 
+	conj|porque=because pro:per|se=itself co|ha part|porta-PPART&MASC=behave 
+	adv|mal=badly . 
+*AIN:	xxx .
+*AIN:	ay (.) tu cabeza .
+%mor:	co|ay=ay det:pos|tu=your n|cabeza&fem=head . 
+*ANR:	el pirata en la cárcel !
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate prep|en=in det:art|el&FEM&SG=the 
+	n|cárcel&fem=jail ! 
+*ANR:	el mío está en la cárcel .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine v|esta-3S&PRES=be prep|en=in 
+	det:art|el&FEM&SG=the n|cárcel&fem=jail . 
+*ANR:	sí (.) eh (.) porque se ha portado mal (.) pues a la cárcel !
+%mor:	co|sí=yes co|eh conj|porque=because pro:per|se=itself co|ha part|porta-PPART&MASC=behave 
+	n|mal&masc=harm co|pues=well prep|a=to det:art|el&FEM&SG=the n|cárcel&fem=jail 
+	! 
+*AIN:	luego va el capitán Garfio .
+%mor:	adv|luego=afterwards v|i-3S&PRES=go det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio . 
+*AIN:	que el cocodrilo que le rompe (.) los pantalones .
+%mor:	prep|que=than det:art|el&MASC&SG=the n|cocodrilo&masc=crocodile prep|que=than 
+	pro:per|le=him v|rompe-3S&PRES=break det:art|el&MASC-PL=the n|pantalón&masc-PL=pants 
+	. 
+*AIN:	y el abrigo (.) se lo come .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|abrigo&masc=overcoat pro:per|se=itself 
+	pro:per:1|lo&masc=him v|come-3S&PRES=eat . 
+*ANR:	eh (.) mira .
+%mor:	co|eh co|mira=look . 
+*AIN:	se lo come (.) el abrigo .
+%mor:	pro:per|se=itself pro:per:1|lo&masc=him v|come-3S&PRES=eat det:art|el&MASC&SG=the 
+	n|abrigo&masc=overcoat . 
+*ANR:	pues mira !
+%mor:	co|pues=well co|mira=look ! 
+*AIN:	qué ?
+%mor:	pro:int|qué=what ? 
+*ANR:	mi pelota es .
+%mor:	det:pos|mi=my n|pelota&fem=ball v|se-3S&PRES=be . 
+*AIN:	dónde has deja(d)o la bolita ?
+%mor:	pro:int|dónde=where v|habe-2S&PRES=have part|deja-PPART&MASC=leave det:art|el&FEM&SG=the 
+	n|bola-DIM-FEM=ball ? 
+*AIN:	ah (.) por aquí está la bolita .
+%mor:	co|ah prep|por=for adv|aquí=here v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|bola-DIM-FEM=ball . 
+*ANR:	Ainhoa que lo acabo de poner y lo tiras .
+%mor:	n:prop|Ainhoa prep|que=than pro:per:1|lo&masc=him v|acaba-1S&PRES=finish 
+	prep|de=of v|pone-INF=put coord|y=and pro:per:1|lo&masc=him v|tira-2S&PRES=throw 
+	. 
+*ANR:	ves (.) lo tiras (.) y acabo de poner .
+%mor:	co|ves=see pro:per:1|lo&masc=him v|tira-2S&PRES=throw coord|y=and v|acaba-1S&PRES=finish 
+	prep|de=of v|pone-INF=put . 
+%com:	las velas del barco
+*AIN:	así no (.) Andrea .
+%mor:	adv|así=thus adv|no=no n:prop|Andrea . 
+*AIN:	así no estaba .
+%mor:	adv|así=thus adv|no=no v|esta-13S&PAS=be . 
+*ANR:	da igual .
+%mor:	v|da-3S&PRES=give co|igual=equal . 
+*ANR:	yo lo coloco así .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him v|coloca-1S&PRES=place adv|así=thus 
+	. 
+*ANR:	a_ver cómo es .
+%mor:	co|a_ver=see co|cómo v|se-3S&PRES=be . 
+*ANR:	voy a_ver cómo es .
+%mor:	v|i-1S&PRES=go co|a_ver=see co|cómo v|se-3S&PRES=be . 
+*AIN:	xxx .
+*AIN:	y esto para qué es ?
+%mor:	coord|y=and det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+%com:	el ancla
+*AIN:	para qué es ?
+%mor:	prep|para=for pro:int|qué=what v|se-3S&PRES=be ? 
+*ANR:	mira el mío .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+%com:	el pirata
+*ANR:	el mío .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine . 
+*ANR:	el vaso ?
+%mor:	det:art|el&MASC&SG=the n|vaso&masc=vase ? 
+*ANR:	aquí .
+%mor:	adv|aquí=here . 
+*ANR:	mira el mío pues se mete aquí .
+%mor:	co|mira=look det:art|el&MASC&SG=the pro:pos|mío-MASC=mine co|pues=well 
+	pro:per|se=itself v|mete-3S&PRES=put adv|aquí=here . 
+*ANR:	mira (.) aquí se mete el mío .
+%mor:	co|mira=look adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put det:art|el&MASC&SG=the 
+	pro:pos|mío-MASC=mine . 
+*AIN:	la bola .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball . 
+*AIN:	sabes qué ?
+%mor:	co|sabes=you_know pro:int|qué=what ? 
+*AIN:	sabes de mi clase cuál el más mayor ?
+%mor:	co|sabes=you_know prep|de=of det:pos|mi=my n|clase&fem=rank pro:int|cuál=which 
+	det:art|el&MASC&SG=the adv|más=more adj|mayor=elder ? 
+*AIN:	<el Asier> [//] Asier .
+%mor:	n:prop|Asier . 
+*AIN:	y cuando +//.
+%mor:	coord|y=and conj|cuando=when +//. 
+*AIN:	es chico .
+%mor:	v|se-3S&PRES=be n|chico-MASC=child . 
+*AIN:	y [/] juega al fútbol [*] y gana él .
+%mor:	v|juga-3S&PRES=play prep|a~det|el&MASC n|fútbol&masc=soccer coord|y=and 
+	n|gana&fem=feeling pro:per|él&masc=he . 
+*INV:	jolín .
+%mor:	co|jolín=jeeze . 
+*AIN:	siempre .
+%mor:	adv|siempre=always . 
+*AIN:	ála (.) qué se mueve .
+%mor:	co|ála pro:int|qué=what pro:per|se=itself v|move-3S&PRES=move . 
+%com:	la cabeza y brazos del pirata
+@End

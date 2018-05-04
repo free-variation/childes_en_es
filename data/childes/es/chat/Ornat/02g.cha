@@ -1,0 +1,270 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , MAD Mother , PAD Father
+@ID:	spa|ornat|CHI|1;7.||||Target_Child|||
+@ID:	spa|ornat|MAD|||||Mother|||
+@ID:	spa|ornat|PAD|||||Father|||
+@Media:	02g, video
+@Comment:	DV Tape is maria02
+@Tape Location:	Z-1;08-094
+@Situation:	María en el salón , de repente se queda mirando al perro.
+*PAD:	0 [% juega con María] María . 1_7600
+%mor:	n:prop|María . 
+*CHI:	quita guauguau . 7600_8880
+%mor:	v|quita-3S&PRES=remove n|guauguau&masc=dog . 
+*CHI:	ay , mi Papá ! 8880_12063
+%mor:	co|ay=ay cm|cm det:pos|mi=my n:prop|Papá ! 
+*CHI:	0 [% se abraza a Papá] &=rie . 12063_14923
+*PAD:	www [= habla con Mamá] . 14923_22420
+*CHI:	Papá no ! 22420_24046
+%mor:	n:prop|Papá co|no=no ! 
+*MAD:	quita el perro de ahí , es un pesa(d)o . 24046_26988
+%mor:	v|quita-3S&PRES=remove det:art|el&MASC&SG=the n|perro-MASC=dog prep|de=of 
+	adv|ahí=there cm|cm v|se-3S&PRES=be det:art|un&masc=one part|pesa-PPART&MASC=weigh 
+	. 
+*PAD:	quita , quita guauguau , por_favor [% el perro se va] . 26988_30020
+%mor:	v|quita-3S&PRES=remove cm|cm v|quita-3S&PRES=remove n|guauguau&masc=dog 
+	cm|cm co|por_favor=please . 
+*CHI:	(y)a (es)tá , guauguau ! 30020_32571
+%mor:	adv|ya=already v|esta-3S&PRES=be cm|cm n|guauguau&masc=dog ! 
+*MAD:	ya está , ya se ha ido . 32571_33938
+%mor:	adv|ya=already v|esta-3S&PRES=be cm|cm adv|ya=already pro:per|se=itself 
+	co|ha part|i-PPART-MASC=go . 
+*CHI:	a(d)ió(s) , guauguau . 33938_35588
+%mor:	co|adiós=goodbye cm|cm n|guauguau&masc=dog . 
+@Tape Location:	Z-1;08-095
+@Situation:	María está sentada en el suelo , está jugando.
+*CHI:	Papá no . 35588_38525
+%mor:	n:prop|Papá co|no=no . 
+*PAD:	xxx me gustaría xxx aquí en las cámaras de la televisión española . 38525_47518
+%mor:	pro:per|me=me v|gusta-13S&COND=like adv|aquí=here prep|en=in det:art|el&FEM-PL=the 
+	n|cámara&fem-PL=chamber prep|de=of det:art|el&FEM&SG=the n|televisión&fem=television 
+	n|español-FEM=Spanish . 
+*PAD:	verdad hija ? 47518_49005
+%mor:	co|verdad=right co:voc|hija=child ? 
+*CHI:	ve [= ven] , Mamá [% dando palmaditas en el suelo] . 49005_52211
+%mor:	co|ve=see cm|cm n:prop|Mamá . 
+*MAD:	dónde María ? 52211_53263
+%mor:	pro:int|dónde=where n:prop|María ? 
+*CHI:	aquí . 53263_53805
+%mor:	adv|aquí=here . 
+*MAD:	dónde ? 53805_55028
+%mor:	pro:int|dónde=where ? 
+*CHI:	aquí . 55028_55946
+%mor:	adv|aquí=here . 
+*MAD:	aquí Mamá también ? 55946_57070
+%mor:	adv|aquí=here n:prop|Mamá adv|también=also ? 
+*MAD:	anda ! 57070_57640
+%mor:	co|anda=come_on ! 
+*MAD:	y el mando a distancia del video debajo del sillón ? 57640_59870
+%mor:	coord|y=and det:art|el&MASC&SG=the n|mando&masc=command prep|a=to n|distancia&fem=distance 
+	prep|de~det|el&MASC pfx|video adv|debajo=below prep|de~det|el&MASC n|sillón&masc=armchair 
+	? 
+*PAD:	eso no es el mando . 59870_60971
+%mor:	pro:dem|eso=that_one adv|no=no v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|mando&masc=command . 
+*MAD:	cómo que no ? 60971_61900
+%mor:	co|cómo prep|que=than adv|no=no ? 
+*PAD:	ah , sí . 61900_62298
+%mor:	co|ah cm|cm co|sí=yes . 
+*PAD:	lo habrá guardado ella . 62298_63518
+%mor:	pro:per:1|lo&masc=him v|habe-3S&FUT=have part|guarda-PPART&MASC=guard 
+	pro:per|ello-FEM=he . 
+*CHI:	Mamá , aquí 0 [% señalando al suelo] . 63518_67190
+%mor:	n:prop|Mamá cm|cm adv|aquí=here . 
+*MAD:	xxx . 67190_68615
+*CHI:	(Ma)má aquí , aquí 0 [% señalando al suelo] . 68615_70551
+%mor:	n:prop|Mamá adv|aquí=here cm|cm adv|aquí=here . 
+*MAD:	dónde ? 70551_71385
+%mor:	pro:int|dónde=where ? 
+*CHI:	aquí . 71385_73030
+%mor:	adv|aquí=here . 
+*MAD:	0 [% se sienta en el suelo al lado de María] así ? 73030_74095
+%mor:	adv|así=thus ? 
+*CHI:	así ! 74095_74851
+%mor:	adv|así=thus ! 
+*CHI:	(Ma)má , así no . 74851_78178
+%mor:	n:prop|Mamá cm|cm adv|así=thus adv|no=no . 
+*CHI:	Papá así , así . 78178_82261
+%mor:	n:prop|Papá adv|así=thus cm|cm adv|así=thus . 
+%com:	señalando al suelo
+*PAD:	hija , tú vas a dirigir la maniobra siempre ? 82261_84495
+%mor:	co:voc|hija=child cm|cm pro:per|tú=you v|i-2S&PRES=go prep|a=to v|dirigi-INF=address 
+	det:art|el&FEM&SG=the n|maniobra&fem=operation adv|siempre=always ? 
+*CHI:	Papá , aquí . 84495_87088
+%mor:	n:prop|Papá cm|cm adv|aquí=here . 
+*PAD:	pero es que no me da la cámara . 87088_89576
+%mor:	conj|pero=but v|se-3S&PRES=be prep|que=than adv|no=no pro:per|me=me v|da-3S&PRES=give 
+	det:art|el&FEM&SG=the n|cámara&fem=chamber . 
+*PAD:	comprendes ? 89576_90848
+%mor:	v|comprende-2S&PRES=comprehend ? 
+*CHI:	así , Papá ! 90848_92286
+%mor:	adv|así=thus cm|cm n:prop|Papá ! 
+*MAD:	así , Papá . 92286_93575
+%mor:	adv|así=thus cm|cm n:prop|Papá . 
+*MAD:	ya estamos todos aquí , a qué sí ? 93575_96671
+%mor:	adv|ya=already v|esta-1P&PRES=be det:indef|todo-MASC-PL=all adv|aquí=here 
+	cm|cm prep|a=to pro:int|qué=what co|sí=yes ? 
+*CHI:	aquí nene . 96671_98441
+%mor:	adv|aquí=here co:voc|nene=baby . 
+%com:	se levanta y señala su sitio
+*MAD:	aquí el nene , Mamá , y ahí Papá y ahí el guauguau . 98441_100760
+%mor:	adv|aquí=here det:art|el&MASC&SG=the n|nene&masc=child cm|cm n:prop|Mamá 
+	cm|cm coord|y=and adv|ahí=there n:prop|Papá coord|y=and adv|ahí=there 
+	det:art|el&MASC&SG=the n|guauguau&masc=dog . 
+@Tape Location:	Z-1;08-096
+@Situation:	María sentada en el suelo y mamá a su lado.
+*MAD:	oye , María . 100760_104991
+%mor:	co|oye=listen cm|cm n:prop|María . 
+*CHI:	eh ? 104991_105415
+%mor:	co|eh ? 
+*MAD:	tú eres una nena . 105415_106230
+%mor:	pro:per|tú=you v|se-2S&PRES=be det:art|un-FEM=one n|nena&fem=baby . 
+*CHI:	Nene ! 106230_107061
+%mor:	n:prop|Nene ! 
+*MAD:	Nena . 107061_107805
+%mor:	n:prop|Nena . 
+*CHI:	xxx (.) Papá ! 107805_109541
+%mor:	n:prop|Papá ! 
+*CHI:	xxx Mamá ! 109541_112580
+%mor:	n:prop|Mamá ! 
+%com:	cogiendo el bolso de su madre
+*MAD:	0 [% María le da el bolso] nada , hija , gracias , gracias . 112580_114731
+%mor:	pro:indef|nada=nothing cm|cm co:voc|hija=child cm|cm n|gracia&fem-PL=grace 
+	cm|cm n|gracia&fem-PL=grace . 
+*CHI:	ay ! 114731_116446
+%mor:	co|ay=ay ! 
+*CHI:	xxx Mamá , e(s)te má(s) ? 116446_119628
+%mor:	n:prop|Mamá cm|cm det:dem|este=this adv|más=more ? 
+*CHI:	e(s)te má(s) ? 119628_120626
+%mor:	det:dem|este=this adv|más=more ? 
+*MAD:	no hay más , claro solo tengo uno . 120626_122138
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more cm|cm co|claro=obvious 
+	adj|solo-MASC=alone v|tene-1S&PRES=have det:art|un-MASC=one . 
+*CHI:	ot(r)o ! 122138_123593
+%mor:	pro:indef|otro=other ! 
+*PAD:	hija a ti no es aburrido pararte un poco mira . 123593_131441
+%mor:	co:voc|hija=child prep|a=to pro:per|ti=you adv|no=no v|se-3S&PRES=be part|aburri-PPART&MASC=bore 
+	v|para-INF~pro:clit|2S det:art|un&masc=one adv|poco=few co|mira=look . 
+*MAD:	xxx . 131441_133726
+*CHI:	eh ? 133726_134311
+%mor:	co|eh ? 
+%com:	coge cu cubito que tiene un asa
+*CHI:	el agua . 134311_140518
+%mor:	det:art|el&MASC&SG=the n|agua&fem=water . 
+*MAD:	déjalo ahí , mi vida . 140518_141850
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC adv|ahí=there cm|cm det:pos|mi=my co:voc|vida=life 
+	. 
+*CHI:	eh ? 141850_142413
+%mor:	co|eh ? 
+*MAD:	déjalo ahí . 142413_143278
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC adv|ahí=there . 
+*CHI:	eh ? 143278_143853
+%mor:	co|eh ? 
+*CHI:	aquí (es)tá . 143853_145695
+%mor:	adv|aquí=here v|esta-3S&PRES=be . 
+@Tape Location:	Z-1;08-097
+@Situation:	María en el salón.Va a sentarse junto a su madre y la pisa.
+*MAD:	ay , me enganches en la mano qué pisotón me has dado , María !145695_151216
+%mor:	co|ay=ay cm|cm pro:per|me=me v|engancha-2S&SUB&PRES=hook prep|en=in det:art|el&FEM&SG=the 
+	n|mano&fem=hand pro:int|qué=what n|pisoteo&masc-AUG=trampling pro:per|me=me 
+	v|habe-2S&PRES=have part|da-PPART&MASC=give cm|cm n:prop|María ! 
+*PAD:	María , se nos está acabando la cinta , dános unos besos ? 151216_153588
+%mor:	n:prop|María cm|cm pro:per|se=itself pro:per|nos=us v|esta-3S&PRES=be 
+	v|acaba-PROG=finish det:art|el&FEM&SG=the n|cinta&fem=ribbon cm|cm v|da-2S&IMP~pro:clit|1P 
+	det:art|un-MASC-PL=one n|beso&masc-PL=kiss ? 
+*CHI:	&=silencio . 153588_155308
+*PAD:	quieres decir algo de despedida ? 155308_157326
+%mor:	v|quere-2S&PRES=want v|deci-INF=say pro:dem|algo=something prep|de=of 
+	part|despedi-PPART&FEM=dismiss ? 
+*PAD:	María , quieres decir algo para decir adiós ? 157326_162518
+%mor:	n:prop|María cm|cm v|quere-2S&PRES=want v|deci-INF=say pro:dem|algo=something 
+	prep|para=for v|deci-INF=say co|adiós=goodbye ? 
+*MAD:	diles adiós . 162518_163576
+%mor:	v|da-1S&PRET~pro:clit|3P co|adiós=goodbye . 
+*CHI:	a(d)ió(s) , Papá . 163576_164991
+%mor:	co|adiós=goodbye cm|cm n:prop|Papá . 
+*PAD:	adiós hija . 164991_166048
+%mor:	co|adiós=goodbye co:voc|hija=child . 
+*MAD:	adiós nenes . 166048_166706
+%mor:	co|adiós=goodbye n|nene&masc-PL=child . 
+*CHI:	a(d)ió(s) [= adiós] nenes ! 166706_168196
+%mor:	co|adiós=goodbye n|nene&masc-PL=child ! 
+*MAD:	que lo paséis muy bien . 168196_169246
+%mor:	prep|que=than pro:per:1|lo&masc=him v|pasa-2P&SUB&PRES=pass adv|muy=very 
+	adv|bien=well . 
+*CHI:	eh [% sorprendida] ? 169246_170293
+%mor:	co|eh ? 
+*PAD:	&=rie que lo paséis bien ! 170293_173655
+%mor:	prep|que=than pro:per:1|lo&masc=him v|pasa-2P&SUB&PRES=pass adv|bien=well 
+	! 
+*CHI:	eh ? 173655_175023
+%mor:	co|eh ? 
+*PAD:	que lo paséis bien ! 175023_176570
+%mor:	prep|que=than pro:per:1|lo&masc=him v|pasa-2P&SUB&PRES=pass adv|bien=well 
+	! 
+*CHI:	eh ? 176570_177410
+%mor:	co|eh ? 
+*PAD:	oye va a tomarte un pelo tu padre , eh ? 177410_179846
+%mor:	co|oye=listen v|i-3S&PRES=go prep|a=to v|toma-INF~pro:clit|2S det:art|un&masc=one 
+	n|pelo&masc=hair det:pos|tu=your n|padre&masc=father cm|cm co|eh ? 
+*MAD:	que no repite . 179846_181340
+%mor:	prep|que=than adv|no=no v|repeti-3S&PRES=repeat . 
+*PAD:	xxx tu padre tú ? 181340_183016
+%mor:	det:pos|tu=your n|padre&masc=father pro:per|tú=you ? 
+*MAD:	dile a Papá . 183016_184416
+%mor:	v|da-1S&PRET~pro:clit|3S prep|a=to n:prop|Papá . 
+*PAD:	María que lo paséis bien . 184416_187438
+%mor:	n:prop|María prep|que=than pro:per:1|lo&masc=him v|pasa-2P&SUB&PRES=pass 
+	adv|bien=well . 
+*MAD:	dile qué_tal estáis bien . 187438_189103
+%mor:	v|da-1S&PRET~pro:clit|3S co|qué_tal=how_are_you v|esta-2P&PRES=be adv|bien=well 
+	. 
+*MAD:	cómo están los nenes ? 189103_191843
+%mor:	co|cómo v|esta-3P&PRES=be det:art|el&MASC-PL=the n|nene&masc-PL=child 
+	? 
+*MAD:	bien , verdad ? 191843_193448
+%mor:	adv|bien=well cm|cm co|verdad=right ? 
+*PAD:	bueno María , eres antipática . 193448_198876
+%mor:	co|bueno=good n:prop|María cm|cm v|se-2S&PRES=be adj|antipático-FEM=disagreeable 
+	. 
+@Tape Location:	Z-1;08-098
+@Situation:	María sentada en el suelo.Juega haciendo que come con su cucharita.
+*CHI:	0 [% se levanta] a bibi@c [= el muñeco] ! 198876_202671
+%mor:	prep|a=to chi|bibi ! 
+*CHI:	0 [% coge un muñeco] a bibis@c [= los muñecos] , Mamá a pes [: pies] [*] . 202671_211943
+%mor:	prep|a=to chi|bibis cm|cm n:prop|Mamá prep|a=to n|pie&masc-PL=foot . 
+*MAD:	si no me vuelvas a pisar . 211943_213391
+%mor:	conj|si=if adv|no=no pro:per|me=me v|volve-2S&SUB&PRES=turn prep|a=to 
+	v|pisa-INF=press . 
+*CHI:	no . 213391_213846
+%mor:	adv|no=no . 
+*MAD:	no verdad ? 213846_214630
+%mor:	co|no=no co|verdad=right ? 
+*CHI:	no (e)stá bibis@c [= muñecos] ? 214630_217793
+%mor:	adv|no=no v|esta-3S&PRES=be chi|bibis ? 
+*CHI:	no (e)stá . 217793_219673
+%mor:	adv|no=no v|esta-3S&PRES=be . 
+*CHI:	bibi@c [= muñeco] aquí . 219673_220795
+%mor:	chi|bibi adv|aquí=here . 
+*CHI:	bibi@c [= muñeco] aquí . 220795_222986
+%mor:	chi|bibi adv|aquí=here . 
+*CHI:	ay ! 222986_225123
+%mor:	co|ay=ay ! 
+*MAD:	está de pie el bibi@c [= muñeco] , mira . 225123_228121
+%mor:	v|esta-3S&PRES=be prep|de=of n|pie&masc=foot det:art|el&MASC&SG=the chi|bibi 
+	cm|cm co|mira=look . 
+*MAD:	el bibi@c [= muñeco] así , mira . 228121_230856
+%mor:	det:art|el&MASC&SG=the chi|bibi adv|así=thus cm|cm co|mira=look . 
+*CHI:	así , no . 230856_233385
+%mor:	adv|así=thus cm|cm co|no=no . 
+*MAD:	así . 233385_234311
+%mor:	adv|así=thus . 
+*MAD:	oy , de pie ! 234311_237051
+%mor:	co|oy cm|cm prep|de=of n|pie&masc=foot ! 
+*CHI:	así , así . 237051_238928
+%mor:	adv|así=thus cm|cm adv|así=thus . 
+*MAD:	a dormir el bibi@c [= muñeco] ? 238928_241583
+%mor:	prep|a=to v|dormi-INF=sleep det:art|el&MASC&SG=the chi|bibi ? 
+@End

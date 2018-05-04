@@ -1,0 +1,498 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	INA Iñaki Target_Child , ALX Alex Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|INA|3;11.05||||Target_Child|||
+@ID:	spa|fernaguado|ALX|3;11.15||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	17-MAR-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	INA y ALX juegan con el barco pirata
+*INA:	mira (.) la cárcel .
+%mor:	co|mira=look det:art|el&FEM&SG=the n|cárcel&fem=jail . 
+%com:	la bodega
+*ALX:	se pone aquí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+%com:	la bandera
+*ALX:	ay (.) no llega .
+%mor:	co|ay=ay co|no=no v|llega-3S&PRES=arrive . 
+*ALX:	a_ver así .
+%mor:	co|a_ver=see adv|así=thus . 
+*ALX:	se cayó .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall . 
+*INA:	se cayó !
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall ! 
+*INA:	vuélvela a poner .
+%mor:	v|volve-2S&IMP~pro:clit|OBJ&FEM prep|a=to v|pone-INF=put . 
+*ALX:	a_ver (.) se cayó al agua .
+%mor:	co|a_ver=see pro:per|se=itself v|cae-3S&PRET=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*ALX:	se cayó y se metió .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall coord|y=and pro:per|se=itself v|mete-3S&PRET=put 
+	. 
+%com:	engancha la bandera en el mástil
+*INA:	se ha metido .
+%mor:	pro:per|se=itself co|ha adj|metido-MASC=lodged . 
+*ALX:	<se ha metido> [/] se ha metido el ancla .
+%mor:	pro:per|se=itself co|ha adj|metido-MASC=lodged det:art|el&MASC&SG=the 
+	n|ancla&fem=anchor . 
+*INA:	se ha metido el ancla .
+%mor:	pro:per|se=itself co|ha adj|metido-MASC=lodged det:art|el&MASC&SG=the 
+	n|ancla&fem=anchor . 
+*ALX:	ay (.) se cayó al agua .
+%mor:	co|ay=ay pro:per|se=itself v|cae-3S&PRET=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*ALX:	otra vez ?
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn ? 
+*INA:	que me caigo .
+%mor:	prep|que=than pro:per|me=me v|cae-1S&PRES=fall . 
+%com:	un muñeco
+*ALX:	<que me caigo> [/] que me caigo del [*] agua .
+%mor:	prep|que=than pro:per|me=me v|cae-1S&PRES=fall prep|de~det|el&MASC n|agua&fem=water 
+	. 
+*INA:	no te tires .
+%mor:	adv|no=no pro:per|te=you v|tira-2S&SUB&PRES=throw . 
+*ALX:	la bandera ?
+%mor:	det:art|el&FEM&SG=the n|bandera&fem=banner ? 
+*INA:	ahí .
+%mor:	adv|ahí=there . 
+*INA:	a_ver (.) Alex !
+%mor:	co|a_ver=see n:prop|Alex ! 
+*ALX:	qué ?
+%mor:	pro:int|qué=what ? 
+*INA:	la pongo yo ?
+%mor:	det:art|el&FEM&SG=the v|pone-1S&PRES=put pro:per|yo=I ? 
+*ALX:	como se cae (.) a_ver .
+%mor:	adv|como=like pro:per|se=itself v|cae-3S&PRES=fall co|a_ver=see . 
+*ALX:	se cayó al agua .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*ALX:	meteré aquí .
+%mor:	v|mete-1S&FUT=put adv|aquí=here . 
+%com:	en el camarote
+*ALX:	los malos hay que meterlos aquí (.) mira (.) eh ?
+%mor:	det:art|el&MASC-PL=the n|malo&masc-PL=devil v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|mete-INF~pro:clit|OBJ&MASC&PL adv|aquí=here co|mira=look co|eh ? 
+*ALX:	abre !
+%mor:	v|abri-3S&PRES=open ! 
+*ALX:	lo ab(r)o [*] .
+%mor:	pro:per:1|lo&masc=him v|abri-1S&PRES=open . 
+*ALX:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*INA:	malo [/] malo que te quedes por malo (.) ála .
+%mor:	adj|malo-MASC=bad prep|que=than pro:per|te=you v|queda-2S&SUB&PRES=stay 
+	prep|por=for n|malo&masc=devil co|ála . 
+*ALX:	otra vez se ha salido .
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn pro:per|se=itself co|ha part|sali-PPART&MASC=leave 
+	. 
+*ALX:	oh (.) barco pirata .
+%mor:	co|oh=oh n|barco-MASC=boat n|pirata&masc=pirate . 
+*ALX:	se cae al agua .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*ALX:	se cayó al agua (.) ven .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall prep|a~det|el&MASC n|agua&fem=water 
+	co|ven=come . 
+%com:	intentan poner las velas
+*INA:	y cómo se mete ?
+%mor:	coord|y=and pro:int|cómo=how pro:per|se=itself v|mete-3S&PRES=put ? 
+*ALX:	está roto .
+%mor:	v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*INA:	éste <está roto> [/] está roto .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INA:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*INV:	porque otro niño lo rompió pero no pasa nada .
+%mor:	conj|porque=because pro:indef|otro=other co:voc|niño=child pro:per:1|lo&masc=him 
+	v|rompe-3S&PRET=break conj|pero=but adv|no=no v|pasa-3S&PRES=pass pro:indef|nada=nothing 
+	. 
+*INV:	no se pone y ya está .
+%mor:	adv|no=no pro:per|se=itself v|pone-3S&PRES=put coord|y=and adv|ya=already 
+	v|esta-3S&PRES=be . 
+*INA:	y no lo ponemos ?
+%mor:	coord|y=and adv|no=no pro:per:1|lo&masc=him v|pone-1P&PRES=put ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	si no podéis no .
+%mor:	conj|si=if adv|no=no v|pode-2P&PRES=can co|no=no . 
+*INA:	vale pues no ponemos .
+%mor:	co|vale=okay co|pues=well adv|no=no v|pone-1P&PRES=put . 
+*INA:	oh (.) ya se ha abrido [*] .
+%mor:	co|oh=oh adv|ya=already pro:per|se=itself co|ha part|abri-PPART&MASC=open 
+	. 
+*ALX:	oh (.) se cayó al agua .
+%mor:	co|oh=oh pro:per|se=itself v|cae-3S&PRET=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+%com:	un pirata
+*INA:	el barco se queda aquí .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|queda-3S&PRES=stay 
+	adv|aquí=here . 
+*INA:	<el tesoro> [//] aquí está el tesoro !
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	! 
+*INA:	vamos a buscar el tesoro .
+%mor:	co|vamos=go prep|a=to v|busca-INF=search det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	. 
+*ALX:	aquí está !
+%mor:	adv|aquí=here v|esta-3S&PRES=be ! 
+*INA:	aquí está (.) el tesoro !
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	! 
+*ALX:	el capitán Garfio !
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio ! 
+*INA:	la bola !
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball ! 
+*INA:	he escondido el tesoro !
+%mor:	co|he part|esconde-PPART&MASC=hide det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	! 
+*INA:	quién ?
+%mor:	pro:int|quién=who ? 
+*INA:	yo .
+%mor:	pro:per|yo=I . 
+%com:	coge la bola
+*INA:	que se hunde el barco .
+%mor:	prep|que=than pro:per|se=itself v|hundi-3S&PRES=sink det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*ALX:	que se cae !
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall ! 
+*ALX:	no !
+%mor:	adv|no=no ! 
+*ALX:	sabes qué le pasaba ?
+%mor:	co|sabes=you_know pro:int|qué=what pro:per|le=him v|pasa-13S&PAS=pass 
+	? 
+*ALX:	que se estaba rompiendo +...
+%mor:	prep|que=than pro:per|se=itself v|esta-13S&PAS=be v|rompe-PROG=break +... 
+*INA:	sí .
+%mor:	co|sí=yes . 
+*ALX:	+, o qué ?
+%mor:	coord|o=or pro:int|qué=what ? 
+*INA:	que se estaba cayendo .
+%mor:	prep|que=than pro:per|se=itself v|esta-13S&PAS=be v|cae-PROG=fall . 
+*INA:	ay (.) que no .
+%mor:	co|ay=ay prep|que=than adv|no=no . 
+*ALX:	a_ver (.) la han regresa(d)o .
+%mor:	co|a_ver=see det:art|el&FEM&SG=the v|habe-3P&PRES=have part|regresa-PPART&MASC=return 
+	. 
+*INA:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	dispara el cañón
+*ALX:	y luego conduce [//] el capitán Garfio (.) conduce .
+%mor:	coord|y=and adv|luego=afterwards det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio v|conduci-3S&PRES=drive . 
+*ALX:	ála (.) aquí los malos .
+%mor:	co|ála adv|aquí=here det:art|el&MASC-PL=the n|malo&masc-PL=devil . 
+%com:	en el camarote
+*ALX:	y hay un señor malo .
+%mor:	coord|y=and v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|señor&masc=sir 
+	adj|malo-MASC=bad . 
+*ALX:	mira tiene la pata de palo .
+%mor:	co|mira=look v|tene-3S&PRES=have det:art|el&FEM&SG=the n|pata&fem=animal_foot 
+	prep|de=of n|palo&masc=stick . 
+*ALX:	es muy malo .
+%mor:	v|se-3S&PRES=be adv|muy=very adj|malo-MASC=bad . 
+*ALX:	malos .
+%mor:	n|malo&masc-PL=devil . 
+*ALX:	el capitán Garfio conduce .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio v|conduci-3S&PRES=drive 
+	. 
+%com:	canta
+*INA:	cerramos la puerta .
+%mor:	v|cerra-1P&PRES=close det:art|el&FEM&SG=the n|puerta&fem=door . 
+*INA:	nos vamos de paseo .
+%mor:	pro:per|nos=us co|vamos=go prep|de=of n|paseo&masc=walk . 
+%com:	canta
+*ALX:	Garfio venga aquí otro malo .
+%mor:	n:prop|Garfio co|venga=come_on adv|aquí=here pro:indef|otro=other adj|malo-MASC=bad 
+	. 
+%com:	mirando el dibujo
+*INA:	ahí dos malos .
+%mor:	adv|ahí=there det:num|dos=two n|malo&masc-PL=devil . 
+*INA:	aquí hay dos malos y aquí dos malos .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:num|dos=two n|malo&masc-PL=devil 
+	coord|y=and adv|aquí=here det:num|dos=two n|malo&masc-PL=devil . 
+*ALX:	para que no pellizquen toma a la jaula .
+%mor:	prep|para=for prep|que=than adv|no=no v|pellizca-3P&SUB&PRES=pinch v|toma-3S&PRES=take 
+	prep|a=to det:art|el&FEM&SG=the n|jaula&fem=cage . 
+*ALX:	ves ?
+%mor:	co|ves=see ? 
+*ALX:	me he confundido .
+%mor:	pro:per|me=me co|he part|confundi-PPART&MASC=confound . 
+%com:	los mete a la bodega
+*ALX:	los meto aquí .
+%mor:	det:art|el&MASC-PL=the v|mete-1S&PRES=put adv|aquí=here . 
+*INA:	<los malos> [//] a_ver a los malos también .
+%mor:	co|a_ver=see prep|a=to det:art|el&MASC-PL=the n|malo&masc-PL=devil adv|también=also 
+	. 
+*INA:	los piratas .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*INA:	hay un malo aquí (.) venga .
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|malo&masc=devil adv|aquí=here 
+	co|venga=come_on . 
+*ALX:	oh (.) venga coge el tesoro .
+%mor:	co|oh=oh co|venga=come_on v|coge-3S&PRES=take det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	. 
+*ALX:	aquí los ponemos .
+%mor:	adv|aquí=here det:art|el&MASC-PL=the v|pone-1P&PRES=put . 
+*INA:	aquí .
+%mor:	adv|aquí=here . 
+*ALX:	oh (.) se ha caído una vela .
+%mor:	co|oh=oh pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|un-FEM=one 
+	n|vela&fem=candle . 
+*INA:	una vela ?
+%mor:	det:art|un-FEM=one n|vela&fem=candle ? 
+*ALX:	venga (.) encerrado ahí .
+%mor:	co|venga=come_on part|encerra-PPART&MASC=enclose adv|ahí=there . 
+*ALX:	ahora mira tiene un cuchillo en la boca .
+%mor:	adv|ahora=now co|mira=look v|tene-3S&PRES=have det:art|un&masc=one n|cuchillo&masc=knife 
+	prep|en=in det:art|el&FEM&SG=the n|boca&fem=mouth . 
+*ALX:	que miedo .
+%mor:	prep|que=than n|miedo&masc=fear . 
+*ALX:	aquí .
+%mor:	adv|aquí=here . 
+*ALX:	<ahí no> [/] ahí no .
+%mor:	adv|ahí=there adv|no=no . 
+%com:	dice que meta el muñeco a la bodega y no al camarote
+*ALX:	aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*ALX:	ahí no .
+%mor:	adv|ahí=there adv|no=no . 
+*ALX:	aquí que te está esperando .
+%mor:	adv|aquí=here prep|que=than pro:per|te=you v|esta-3S&PRES=be v|espera-PROG=wait 
+	. 
+*ALX:	ála (.) xxx .
+%mor:	co|ála . 
+*INA:	qué ?
+%mor:	pro:int|qué=what ? 
+*ALX:	los xxx [<] .
+%mor:	det:art|el&MASC-PL=the . 
+*INA:	<y esto> [>] .
+%mor:	coord|y=and det:dem|este-MASC=this . 
+%com:	pone la vela
+*INA:	se pone aquí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here . 
+*INA:	se cayó .
+%mor:	pro:per|se=itself v|cae-3S&PRET=fall . 
+*INA:	el portal cambió .
+%mor:	det:art|el&MASC&SG=the n|portal&masc=entrance v|cambia-3S&PRET=change 
+	. 
+*ALX:	nos falta esta barca .
+%mor:	pro:per|nos=us v|falta-3S&PRES=be_lacking det:dem|este-FEM=this n|barco-FEM=boat 
+	. 
+*ALX:	oh (.) se va a hundir el barco .
+%mor:	co|oh=oh pro:per|se=itself v|i-3S&PRES=go prep|a=to v|hundi-INF=sink det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*INA:	oh (.) Alex [/] Alex (.) no .
+%mor:	co|oh=oh n:prop|Alex adv|no=no . 
+*ALX:	oye [/] oye quieres que te enseñe a manejar <hacia allí> [/] hacia allí ?
+%mor:	co|oye=listen v|quere-2S&PRES=want prep|que=than pro:per|te=you v|enseña-13S&SUB&PRES=teach 
+	prep|a=to v|maneja-INF=drive prep|hacia=towards adv|allí=there ? 
+%com:	mueve el barco
+*INA:	mira !
+%mor:	co|mira=look ! 
+%com:	Alex dispara
+*ALX:	se ha ido hasta allá .
+%mor:	pro:per|se=itself co|ha part|i-PPART-MASC=go prep|hasta=until adv|allá=there 
+	. 
+*ALX:	ya la cojo .
+%mor:	adv|ya=already det:art|el&FEM&SG=the adj|cojo-MASC=crippled . 
+%com:	la pelota
+*ALX:	ya lo sujeté .
+%mor:	adv|ya=already pro:per:1|lo&masc=him v|sujeta-1S&PRET=subject . 
+*INA:	cómo se hace esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do det:dem|este-MASC=this 
+	? 
+%com:	coge la barca pequeña
+*ALX:	voy a tirar .
+%mor:	v|i-1S&PRES=go prep|a=to v|tira-INF=throw . 
+*INA:	ahora (.) Alex .
+%mor:	adv|ahora=now n:prop|Alex . 
+%com:	diparan el cañón
+*INA:	voy a cogerla .
+%mor:	v|i-1S&PRES=go prep|a=to v|coge-INF~pro:clit|OBJ&FEM . 
+*INA:	que no llego .
+%mor:	prep|que=than adv|no=no v|llega-1S&PRES=arrive . 
+%com:	a la bola
+*INA:	Alex toma .
+%mor:	n:prop|Alex v|toma-3S&PRES=take . 
+%com:	la pelota
+*INA:	ahí va .
+%mor:	adv|ahí=there v|i-3S&PRES=go . 
+*ALX:	vale .
+%mor:	co|vale=okay . 
+*INA:	dispara Alex .
+%mor:	v|dispara-3S&PRES=shoot n:prop|Alex . 
+*INA:	estás disparando tú mucho rato .
+%mor:	v|esta-2S&PRES=be v|dispara-PROG=shoot pro:per|tú=you adv|mucho=much 
+	n|rato-MASC=rat . 
+*ALX:	he metido la bola .
+%mor:	co|he adj|metido-MASC=lodged det:art|el&FEM&SG=the n|bola&fem=ball . 
+*ALX:	a_ver (.) espera .
+%mor:	co|a_ver=see v|espera-3S&PRES=wait . 
+*INA:	se metió debajo de ahí .
+%mor:	pro:per|se=itself v|mete-3S&PRET=put adv|debajo=below prep|de=of adv|ahí=there 
+	. 
+*INA:	la pelota a mi madre .
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball prep|a=to det:pos|mi=my n|madre&fem=mother 
+	. 
+%com:	quiere que la lance hacia ella
+*ALX:	una dos y tres .
+%mor:	det:art|un-FEM=one det:num|dos=two coord|y=and det:num|tres=three . 
+%com:	dispara
+*INA:	casi [/] casi no (.) venga .
+%mor:	adv|casi=almost adv|no=no co|venga=come_on . 
+*ALX:	así (.) otra vez ?
+%mor:	adv|así=thus det:indef|otro-FEM=other n|vez&fem=turn ? 
+*ALX:	le he toca(d)o .
+%mor:	pro:per|le=him co|he part|toca-PPART&MASC=touch . 
+*ALX:	casi se hunde el barco (.) venga .
+%mor:	adv|casi=almost pro:per|se=itself v|hundi-3S&PRES=sink det:art|el&MASC&SG=the 
+	n|barco-MASC=boat co|venga=come_on . 
+*INA:	voy .
+%mor:	v|i-1S&PRES=go . 
+%com:	trae la pelota
+*INA:	<que me caigo> [/] que me caigo .
+%mor:	prep|que=than pro:per|me=me v|cae-1S&PRES=fall . 
+*ALX:	le dió el barco .
+%mor:	pro:per|le=him v|da-3S&PRET=give det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*INA:	qué ?
+%mor:	pro:int|qué=what ? 
+*ALX:	le dió al barco .
+%mor:	pro:per|le=him v|da-3S&PRET=give prep|a~det|el&MASC n|barco-MASC=boat 
+	. 
+*INA:	preparado .
+%mor:	part|prepara-PPART&MASC=prepare . 
+*ALX:	mira (.) no ves ?
+%mor:	co|mira=look co|no=no co|ves=see ? 
+*INA:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*ALX:	otra vez se chocó .
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn pro:per|se=itself v|choca-3S&PRET=collide 
+	. 
+%com:	continuamente dispara ALX el cañón e INA recoge la pelota
+*ALX:	has visto que lejos va la pelota ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress prep|que=than adv|lejos=far 
+	v|i-3S&PRES=go det:art|el&FEM&SG=the n|pelota&fem=ball ? 
+*INA:	ay !
+%mor:	co|ay=ay ! 
+*ALX:	aquí se metía .
+%mor:	adv|aquí=here pro:per|se=itself v|mete-13S&PAS=put . 
+*ALX:	ahora me toca a mi .
+%mor:	adv|ahora=now pro:per|me=me v|toca-3S&PRES=touch prep|a=to det:pos|mi=my 
+	. 
+%com:	recoger la pelota
+*ALX:	ahora me toca a mi .
+%mor:	adv|ahora=now pro:per|me=me v|toca-3S&PRES=touch prep|a=to det:pos|mi=my 
+	. 
+*INA:	vale .
+%mor:	co|vale=okay . 
+%com:	ALX recoge e INA dispara el cañón
+*ALX:	a_ver .
+%mor:	co|a_ver=see . 
+*INA:	qué haces ?
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ? 
+%com:	dispara
+*ALX:	ya .
+%mor:	adv|ya=already . 
+*ALX:	vamos a_ver que se te va .
+%mor:	co|vamos=go co|a_ver=see prep|que=than pro:per|se=itself pro:per|te=you 
+	v|i-3S&PRES=go . 
+*ALX:	ya .
+%mor:	adv|ya=already . 
+*INA:	una dos y tres .
+%mor:	det:art|un-FEM=one det:num|dos=two coord|y=and det:num|tres=three . 
+*INA:	se metió ahí .
+%mor:	pro:per|se=itself v|mete-3S&PRET=put adv|ahí=there . 
+*INA:	una dos y tres .
+%mor:	det:art|un-FEM=one det:num|dos=two coord|y=and det:num|tres=three . 
+*ALX:	ahora fuerte para que le salga y le llegue hasta allí .
+%mor:	adv|ahora=now adj|fuerte=strong prep|para=for prep|que=than pro:per|le=him 
+	v|sali-13S&SUB&PRES=leave coord|y=and pro:per|le=him v|llega-13S&SUB&PRES=arrive 
+	prep|hasta=until adv|allí=there . 
+*ALX:	así .
+%mor:	adv|así=thus . 
+*INA:	casi se me escapa .
+%mor:	adv|casi=almost pro:per|se=itself pro:per|me=me v|escapa-3S&PRES=escape 
+	. 
+*ALX:	ya .
+%mor:	adv|ya=already . 
+*INA:	es que no va !
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no v|i-3S&PRES=go ! 
+*INA:	uno dos tres cuatro cinco seis .
+%mor:	det:art|un-MASC=one det:num|dos=two det:num|tres=three det:num|cuatro=four 
+	det:num|cinco=five det:num|seis=six . 
+*ALX:	ya .
+%mor:	adv|ya=already . 
+*ALX:	oh (.) otra que se me escapa .
+%mor:	co|oh=oh det:indef|otro-FEM=other prep|que=than pro:per|se=itself pro:per|me=me 
+	v|escapa-3S&PRES=escape . 
+*INA:	cómo se ve ?
+%mor:	pro:int|cómo=how pro:per|se=itself co|ve=see ? 
+*INA:	estás sacando ?
+%mor:	v|esta-2S&PRES=be v|saca-PROG=bring_out ? 
+%com:	una foto
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INA:	eh (.) Alex está arrancando .
+%mor:	co|eh n:prop|Alex v|esta-3S&PRES=be v|arranca-PROG=snatch . 
+*ALX:	otra !
+%mor:	det:indef|otro-FEM=other ! 
+*INA:	eh (.) Alex <que se va> [/] que se va a romper <el barco pirata> [/] el barco pirata .
+%mor:	co|eh n:prop|Alex prep|que=than pro:per|se=itself v|i-3S&PRES=go prep|a=to 
+	v|rompe-INF=break det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate 
+	. 
+*ALX:	oye mira tira así a mis brazos .
+%mor:	co|oye=listen co|mira=look v|tira-3S&PRES=throw adv|así=thus prep|a=to 
+	det:pos|mi-PL=my n|brazo&masc-PL=arm . 
+*ALX:	<que se va> [//] <el barco que se va> [//] que se va el barco .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*ALX:	a que se va ?
+%mor:	prep|a=to prep|que=than pro:per|se=itself v|i-3S&PRES=go ? 
+*ALX:	éste barco es muy fino .
+%mor:	pro:dem|éste=this_one n|barco-MASC=boat v|se-3S&PRES=be adv|muy=very 
+	adj|fino-MASC=fine . 
+*INA:	el barco aquí !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat adv|aquí=here ! 
+*ALX:	el barco se va .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|i-3S&PRES=go 
+	. 
+*INA:	a_ver .
+%mor:	co|a_ver=see . 
+*ALX:	que se va .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go . 
+%com:	muevan el barco y cantan
+*ALX:	espera (.) a_ver .
+%mor:	v|espera-3S&PRES=wait co|a_ver=see . 
+*INA:	ya .
+%mor:	adv|ya=already . 
+*ALX:	ya llego .
+%mor:	adv|ya=already v|llega-1S&PRES=arrive . 
+*ALX:	aún da una vuelta más .
+%mor:	adv|aún=notwithstanding v|da-3S&PRES=give det:art|un-FEM=one n|vuelta&fem=turn 
+	adv|más=more . 
+*INA:	y la barca pirata (.) qué ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|barco-FEM=boat n|pirata&masc=pirate 
+	pro:int|qué=what ? 
+*ALX:	ahora se bajan a [/] a [/] <a esta barca> [/] a esta barca .
+%mor:	adv|ahora=now pro:per|se=itself v|baja-3P&PRES=come_down prep|a=to det:dem|este-FEM=this 
+	n|barco-FEM=boat . 
+*INA:	claro (.) se saca esto .
+%mor:	co|claro=obvious pro:per|se=itself v|saca-3S&PRES=bring_out det:dem|este-MASC=this 
+	. 
+*INA:	esto para disparar para ahora .
+%mor:	det:dem|este-MASC=this prep|para=for v|dispara-INF=shoot prep|para=for 
+	adv|ahora=now . 
+*ALX:	venga (.) vamos a disparar .
+%mor:	co|venga=come_on co|vamos=go prep|a=to v|dispara-INF=shoot . 
+*INA:	claro .
+%mor:	co|claro=obvious . 
+*INA:	ya está xxx .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*ALX:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*ALX:	está arrancando .
+%mor:	v|esta-3S&PRES=be v|arranca-PROG=snatch . 
+@End

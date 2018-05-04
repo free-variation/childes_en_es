@@ -1,0 +1,831 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;3.14|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	21-JAN-2001
+@Location:	Madrid
+@Situation:	1 Por la mañana FAT le lee un libro de Pinocho a Lucía , MOT habla aveces con FAT desde la cocina , (2) FAT y Lucía juegan con el rompecabezas , MOT habla aveces con FAT desde la cocina
+*MOT:	venga .
+%add:	FAT .
+*MOT:	pues una paella de [/] mixta .
+%add:	FAT .
+*MOT:	&=q o cómo ?
+%add:	FAT .
+*FAT:	sí .
+%add:	MOT .
+*MOT:	&=q pero qué es mixta ?
+%add:	FAT .
+*FAT:	ellos te lo preguntan .
+%add:	MOT .
+*CHI:	&=e toma !
+%act:	mostrándole el libro a FAT
+*MOT:	&=q de pollo nada más ?
+%add:	FAT .
+*FAT:	no .
+%add:	MOT .
+*FAT:	con judías me parece y +...
+%add:	MOT .
+*FAT:	&=q qué ?
+*CHI:	toma .
+%act:	empuja un poco el libro hacia FAT
+*FAT:	a ver .
+*FAT:	&=q qué pasa ?
+*CHI:	toma .
+%par:	susurra
+*FAT:	&=q cómo lo empezamos , Lucía ?
+*CHI:	no sé .
+%par:	susurra
+*FAT:	a ver .
+*CHI:	aquí .
+*CHI:	no .
+%par:	lloriquea
+*FAT:	era una de esas frías noches de finales de invierno .
+%com:	lee un cuento
+*FAT:	aquí .
+%act:	señala dando unos golpecitos con el dedo sobre el libro
+*FAT:	en las que la nieve aún hace su aparición y el viento helado del norte (.) y helado cala hasta los huesos .
+*FAT:	ah@i .
+*FAT:	prr@i .
+%par:	como si hiciera mucho frío
+*FAT:	&=e qué frío !
+*CHI:	0 .
+%par:	se ríe
+*FAT:	mira Pepito_Grillo .
+*CHI:	mi(r)a P(ep)ito_G(r)i(ll)o . [+ IMI]
+*CHI:	qué f(r)ío . [+ IMI]
+*CHI:	P(ep)ito_G(r)i(ll)o .
+*FAT:	&=q y qué hace Pepito +...
+*CHI:	xxx gor(r)o < po(r) (l)a > [//] por (l)a cabeza . [+ NON]
+*CHI:	(Pep)ito_G(r)i(ll)o .
+%act:	se señala la cabeza
+*FAT:	&=q qué tiene en la cabeza ?
+*CHI:	< un f > [//] .
+*CHI:	un gor(r)o afol+blu [: azul blue@s ] .
+*FAT:	&=q un gorro azul blue ?
+*CHI:	mi(r)a .
+*CHI:	mi(r)a xxx . [+ NON]
+%act:	se pone de pie sobre la silla
+*FAT:	&=q y qué más ?
+*FAT:	oy@i .
+*FAT:	&=q esto qué son ?
+*CHI:	mi(r)a .
+%act:	de pie sobre la silla con las manos apoyadas en la mesa
+*FAT:	uy@i .
+*FAT:	&=q qué haces ahí arriba , Lucía ?
+*CHI:	&=e ah@i !
+*FAT:	a ver .
+*FAT:	&=q y este ?
+*CHI:	este e(s) Minocho [: Pinocho] .
+%act:	señala en el libro
+%exp:	Pinocho ; Spanish name for Pinocchio
+*CHI:	Epeto [: Gepetto] .
+*CHI:	relojes .
+*FAT:	&=q relojes ?
+*CHI:	sí .
+*CHI:	relojes .
+*FAT:	&=q y qué está haciendo el Gepetto ?
+*CHI:	(l)a cara de Pinocho .
+*FAT:	&=q la cara de Pinocho ?
+*CHI:	sí .
+*CHI:	a ver .
+%act:	se distrae del libro y coge el roempezabezas que tiene al lado , sobre la mesa también
+*CHI:	mi(r)a .
+@Situation:	2
+*CHI:	e(s)te pu(z)le yo .
+%com:	FALTA VERBO
+*CHI:	ay@i .
+*CHI:	se ha abie(r)to .
+%com:	en realidad se ha caído una pieza , y no parece que se haya abierto nada
+*CHI:	0 [*] cojo yo .
+%err:	0 = lo $MOR $LOS $PREFIX
+%act:	se baja de la silla y desaparece debajo de la mesa
+*CHI:	xxx .
+*MOT:	&=q a qué hora digo , Father ?
+%add:	FAT
+*FAT:	para las dos y media o tres menos cuarto .
+%add:	MOT
+*FAT:	ellos te dirán .
+%add:	MOT
+*MOT:	cómo que me dirán .
+%add:	FAT
+*FAT:	sí .
+%add:	MOT
+*FAT:	porque no pueden entregar todas a la vez .
+%add:	MOT
+*CHI:	(l)a colita .
+%act:	ha cogido dos piezas del rompecabezas y las está intentando unir
+*FAT:	muy bien , Lucía .
+*MOT:	si me dicen entre las dos y las tres y media , las tres y media , &=q no ?
+%add:	FAT
+*FAT:	sí .
+%add:	MOT
+*FAT:	preferible .
+%add:	MOT
+*CHI:	ahora a ver .
+%act:	se coloca ante el montón de piezas , buscando alguna con la mirada
+*MOT:	&=q qué te iba a decir que +..?
+%add:	FAT
+*CHI:	mira .
+*CHI:	&=q el caballo ? [+ NON]
+*MOT:	xxx .
+%add:	FAT
+*FAT:	sí .
+%add:	MOT
+*CHI:	&=q y el caballo ?
+*MOT:	&=q dónde está ?
+*CHI:	no e(s)tá .
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	lo estoy viendo yo .
+*CHI:	&=e aquí e(s)tá el caballo !
+*CHI:	&=e mira la colita del caballo !
+%act:	coge una pieza en intenta conectarla con las otras
+*CHI:	sí e(s) el caballo .
+*CHI:	sí e(s) el caballo .
+*CHI:	este sí cabe .
+*CHI:	&=q este sí cabe ?
+*FAT:	&=q ese sí cabe ?
+*FAT:	a ver .
+*FAT:	&=q dónde ?
+*CHI:	no cabe .
+%act:	deja la pieza que había cogido y busca otra en el montón
+*FAT:	no cabe ese .
+*MOT:	&=q para cuántas personas ?
+%add:	FAT
+*MOT:	para dos , cuatro , cinco &=q no ?
+%add:	FAT
+*CHI:	así .
+%act:	tiene dos piezas en la mano y está intentando ver si coinciden
+*FAT:	yo creo que sí .
+%add:	MOT
+*MOT:	o+sea que la pondrán para seis .
+%add:	FAT
+*CHI:	&=q < aquí sa@x > [//] aquí cabe ?
+*FAT:	no .
+*FAT:	bueno .
+*FAT:	sí cabe .
+*FAT:	pero no es ahí , Lucía .
+*MOT:	o+sea que entre seis y cuatro seis , &=q no ?
+%add:	FAT
+*FAT:	sí , Mother .
+%add:	MOT
+*FAT:	&=q pero por qué no les dices cinco ?
+%add:	MOT
+*MOT:	hombre , &=q por que no sé si hay de ese número ?
+%add:	FAT
+*FAT:	pues di le que la quieres para cinco .
+%add:	MOT
+*MOT:	sí .
+%add:	FAT
+*MOT:	ya lo sé , Father .
+%add:	FAT
+*CHI:	0 .
+%act:	se le cae otra pieza y se baja de la silla a por ella
+*FAT:	sí .
+%add:	MOT
+*FAT:	sí es , Mother .
+%add:	MOT
+*FAT:	sí hay para cinco .
+%add:	MOT
+*MOT:	vale .
+%add:	FAT
+*MOT:	oye .
+%add:	FAT
+*FAT:	qué: ?
+%add:	MOT
+*MOT:	&=q tú no te sabes el teléfono , verdad ?
+%add:	FAT
+*FAT:	no .
+%add:	MOT
+*CHI:	&=q xxx cerdito ? [+ NON]
+*FAT:	&=q a ver ?
+*CHI:	&=q xxx cerdito ? [+ NON]
+%act:	encaja otra pieza
+*FAT:	&=e muy bien , Lucía !
+*CHI:	mira el caballo .
+*FAT:	sí .
+*FAT:	el caballo y el +...
+*CHI:	0 .
+%com:	no contesta
+*CHI:	e(s)te no cabe .
+*FAT:	&=q ese no cabe ?
+*CHI:	no .
+*FAT:	vaya .
+*FAT:	a ver .
+*FAT:	otro .
+*FAT:	ahora la oveja .
+*CHI:	no .
+*CHI:	no xxx . [+ NON]
+*CHI:	aquí e(s)tá .
+*CHI:	(l)a colita .
+%act:	coge rápidamente una pieza
+*CHI:	ay@i .
+*CHI:	(l)a colita de (l)a vaca .
+*CHI:	xxx .
+*FAT:	&=q cómo hace la vaca ?
+*CHI:	mu:@i .
+%par:	imita el sonido de la vaca y le da la tos
+@Situation:	1 FAT y Lucía juegan con el romepcabezas , MOT habla aveces con FAT desde la cocina
+*FAT:	uy@i .
+*FAT:	qué tos .
+%par:	susurrando
+*CHI:	mu:@i .
+%par:	vuelve a imitar el sonido de la vaca , ahora sin tos
+*CHI:	xxx .
+*FAT:	no .
+*FAT:	pero le falta aquí un trocito a la vaca .
+*FAT:	&=q dónde ésta ese trocito ?
+*CHI:	no está .
+*FAT:	sí .
+*FAT:	lo estoy viendo .
+%par:	canturrea
+*CHI:	aquí está .
+*FAT:	ese es del caballo .
+*FAT:	a ver .
+*CHI:	aquí está del caballo .
+*FAT:	venga .
+*CHI:	fa(l)ta una .
+*FAT:	&=q dónde está la que falta ?
+%act:	coloca otra pieza
+*FAT:	eso es .
+*FAT:	&=e muy bien , Lucía !
+*FAT:	oye .
+%add:	MOT
+*FAT:	pone genial las piezas ya &=q eh@i ?
+%add:	MOT
+%exp:	genial = great , excellent
+*MOT:	sí .
+%add:	FAT
+*CHI:	ya .
+*CHI:	&=q vale ?
+%act:	termina de colocarla y va a por otra pieza
+*FAT:	muy bien .
+*FAT:	ahora la oveja .
+*FAT:	&=q dónde está la oveja ?
+*CHI:	aquí e(s)tá la xxx . [+ NON]
+*CHI:	xxx .
+%act:	coge un apieza y la intenta encajar con las demás
+*CHI:	sí .
+*CHI:	< (l)a (ca)beza de (l)a oveja > [/] .
+*CHI:	así .
+*CHI:	< (l)a cabeza de la > [/] .
+*CHI:	así .
+*CHI:	la cabeza de la oveja .
+*FAT:	muy bien .
+*MOT:	www .
+%add:	teléfono
+%com:	está encargando la paella
+*CHI:	así .
+%par:	muy contenta
+*FAT:	&=q dónde está el cuerpo de la oveja ?
+*CHI:	a [//] .
+*CHI:	aquí está .
+*CHI:	aquí .
+*CHI:	del caballo .
+%par:	muy nerviosa
+*FAT:	&=q del caballo es ese ?
+*CHI:	sí .
+*FAT:	a ver .
+*CHI:	por aquí .
+%act:	encaja la pieza
+*CHI:	sí cabe .
+*FAT:	muy bien: .
+*FAT:	ese es el establo del caballo .
+*FAT:	venga .
+*FAT:	a ver .
+*CHI:	a ver . [+ IMI]
+%par:	susurra
+*FAT:	&=q qué má(s) ?
+*CHI:	&=q qué má(s) ? [+ IMI]
+*CHI:	e(l) quete [: cuerpo] de (l)a oveja . [+ IMI]
+%act:	coge rápidamente una pieza con las dos manos
+*FAT:	el cuerpo de la oveja .
+*FAT:	&=q cómo hace la oveja ?
+*CHI:	be:@i .
+%par:	imita el sonido de la oveja
+%act:	está intentando colocar la pieza
+*FAT:	no .
+*FAT:	ahí no .
+*CHI:	no .
+%act:	cambia de posición la ficha
+*FAT:	ahí sí .
+*CHI:	así .
+*CHI:	(l)a oveja .
+*CHI:	así .
+*CHI:	(l)a oveja .
+*CHI:	be:@i .
+%par:	vuelve a imitar el sonido de la oveja
+*CHI:	así hace .
+*CHI:	aquí [//] .
+*CHI:	aquí está .
+*CHI:	ot(r)o [*] 0 [*] (l)a vaca .
+%err:	otro = otra $MOR $SUB $AGA ; 0 = de $SYN $LOS
+%act:	coge otra pieza
+*FAT:	&=q otro de la vaca ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q otra pieza ? [+ COR]
+*CHI:	&=q e(s)ta por aquí ?
+%act:	intentando colocar una pieza
+*FAT:	no: .
+*CHI:	&=q por aquí ?
+%act:	ha girado la pieza
+*FAT:	no: .
+*CHI:	&=q por aquí ?
+%act:	ha vuelto a girar la pieza
+*FAT:	&=e sí !
+*MOT:	www .
+%add:	teléfono
+*CHI:	no cabe .
+%act:	está intentando encajar una pieza
+*CHI:	no cabe .
+*FAT:	sí .
+*CHI:	a ver .
+*FAT:	muy bien .
+*CHI:	así .
+*CHI:	m@i .
+%act:	se agacha a por la pieza que se le acaba de caer al suelo
+*CHI:	ay@i .
+*CHI:	xxx .
+*FAT:	que se cae .
+*FAT:	que se cae .
+*CHI:	que se cae . [+ IMI]
+*CHI:	el pu(z)le .
+%act:	ha cogido la pieza y empieza a colocarla
+*CHI:	por aquí .
+*CHI:	por aquí .
+%act:	ahora gira las que ya tiene colocadas
+*FAT:	no .
+*FAT:	si las tenías bien antes .
+*CHI:	por aquí .
+%act:	vuelve a girarlas
+*FAT:	no .
+*FAT:	esa no .
+*CHI:	0 .
+%act:	levanta las manos para que FAT toque el rompecabezas
+*FAT:	aquí .
+%act:	señala dónde debe ir la pieza
+*CHI:	por aquí .
+*CHI:	sí cabe .
+*FAT:	&=e muy bien !
+*CHI:	ot(r)a .
+*CHI:	xxx .
+%par:	susurra
+*CHI:	&=q y esa ?
+%act:	coge otra pieza .
+*FAT:	&=q ya está , Mother ?
+%add:	MOT
+*MOT:	sí .
+%add:	FAT
+*CHI:	este e(s) de (l)a oveja .
+*FAT:	&=q es de la oveja ?
+*CHI:	sí .
+*FAT:	a ver .
+*CHI:	ay@i .
+*CHI:	mira e(l) sedito [: cerdito] .
+%act:	se acgacha a por el cerdito que tenía completo , y que se ha caído de la mesa
+*CHI:	ay@i [x 4] .
+*FAT:	ay@i [x 3] que se ha caído el cerdito .
+*CHI:	ay@i .
+*CHI:	sedito [: cerdito] .
+*CHI:	a ve(r) .
+*CHI:	no te cayayas [*] .
+%err:	cayayas = caigas $MOR $SUB $REG
+%par:	le habla a las piezas del rompecabezas
+*FAT:	a ver , cerdito .
+*FAT:	no te caigas . [+ COR]
+*CHI:	no , sedito [: cerdito] .
+*CHI:	no te cayas [: caigas] . [+ IMI]
+*CHI:	xxx .
+*CHI:	a ve(r) .
+*CHI:	a ve(r) .
+*CHI:	e(s)te es de la vaca .
+%act:	coloca una pieza sobre la mesa , que ya está llena de piezas
+*FAT:	es que no se puede hacer todo a la vez , Lucía .
+*CHI:	xxx .
+*FAT:	a ver .
+*FAT:	quita el cerdito .
+*FAT:	venga .
+*FAT:	pon lo ahí .
+*FAT:	y así acabamos este .
+*CHI:	xxx con la arena . [+ NON]
+%par:	quizás cante
+%act:	desaparece de la imagen
+*CHI:	a ve(r) .
+*CHI:	pe@i [x 6] .
+%par:	canturrea
+*CHI:	(l)a luz .
+*CHI:	la luz .
+*CHI:	a ve(r) , ce(r)dito .
+*CHI:	&=q aquí e(s)tá el cerdito ?
+*CHI:	ah@i .
+%par:	alegre
+%act:	vuelve a aparecer en la imagen
+*FAT:	a ver .
+*FAT:	&=q cómo hace el cerdito ?
+*CHI:	así .
+*CHI:	oh@i .
+%par:	trata de imitar el sonido del cerdo , luegho abre la boca y se aproxima
+*FAT:	j@i .
+%par:	hace el sonido del cerdo y los dos se ríen
+*CHI:	vamos , ce(r)dito .
+*CHI:	xxx .
+*CHI:	por acá .
+*CHI:	por acá .
+*CHI:	por aquí .
+*CHI:	por aquí .
+*CHI:	no e(s)tá xxx . [+ NON]
+*CHI:	&=q vale ?
+*CHI:	así quieto .
+*CHI:	&=q vale ?
+*CHI:	no e(s)tá xxx . [+ NON]
+%par:	susurrando
+*CHI:	xxx .
+%par:	susurrando
+*CHI:	&=q vale ?
+%par:	susurrando
+*CHI:	xxx .
+%par:	susurrando
+@Situation:	FAT y Lucía juegan a que ella le prepara un café con leche y se lo da
+*CHI:	xxx !
+*FAT:	a ver .
+*FAT:	&=q me das un café+con+leche , Lu ?
+*CHI:	o: sí .
+%act:	está en el mueble de los cacharritos de juguete
+*CHI:	a ve(r) .
+%act:	saca un platito de juguete
+*CHI:	a ve(r) .
+*CHI:	toma .
+%act:	le da el platito a FAT
+*FAT:	aquí .
+*FAT:	&=q me lo pones aquí ?
+*CHI:	así .
+*CHI:	&=q vale ?
+%act:	vuelve al mueble de los juguetes
+*CHI:	xxx cuchara . [+ NON]
+%act:	trae la cucharilla
+*FAT:	uy@i .
+*FAT:	qué bien .
+*CHI:	así .
+*CHI:	y así .
+*CHI:	así .
+%act:	ha vuelto al mueble
+*CHI:	má(s) fácil .
+*CHI:	no .
+%act:	viene a la mesa donde está FAT
+*CHI:	xxx rica . [+ NON]
+*CHI:	xxx e(s)ta . [+ NON]
+*CHI:	xxx e(s)ta . [+ NON]
+*FAT:	la cuchara y el plato del mismo color .
+*CHI:	xxx .
+*CHI:	u(n) café .
+*CHI:	&=q vale ?
+*FAT:	vale .
+*CHI:	a ve(r) .
+*CHI:	te v(o)y a servir u(n) café .
+*CHI:	&=q vale ?
+%act:	se va otra vez hacia el mueble
+*FAT:	vale .
+*FAT:	me vas a servir un café .
+*FAT:	&=q vale ?
+*CHI:	vale .
+*CHI:	y ahora xxx . [+ NON]
+*CHI:	&=q vale ?
+*FAT:	vale .
+*CHI:	e(s)to e(s) el café .
+%act:	trae una jarra de barro
+*FAT:	uy@i .
+*FAT:	&=e qué bien !
+*FAT:	el café .
+*CHI:	a ve(r) .
+%act:	mira dentro de la jarra
+*FAT:	no pero me falta una taza .
+*CHI:	o: sí .
+%act:	ha vuelto a llevar la jara al mueble
+*CHI:	sí sabe rico .
+*CHI:	sí .
+*CHI:	< ahora s > [//] .
+*CHI:	ahora .
+*CHI:	a 0 [*] cuat(r)o .
+%err:	0 = las $SYN $LOS
+%act:	ha movido el relojito de la cocina de juguete
+*CHI:	a xxx . [+ NON]
+*FAT:	&=q estás colocando el reloj ?
+*CHI:	así .
+*CHI:	&=q vale ?
+*FAT:	&=q qué hora es esa ?
+*CHI:	a la(s) cuat(r)o de t(r)es .
+*FAT:	&=q las cuatro son ?
+*CHI:	sí .
+*CHI:	ahora en mi casita .
+%act:	se va corriendo hacia la caseta de juguete
+*FAT:	oye .
+*FAT:	&=q y la taza de mi café ?
+*CHI:	a ve(r) .
+*CHI:	ahora en la casita .
+*CHI:	&=q vale ?
+*FAT:	vale .
+*CHI:	tú y yo .
+%act:	se coloca en la puerta de la caseta
+*FAT:	&=q los dos ?
+*CHI:	sí .
+*FAT:	pero yo no quepo en la casita .
+*CHI:	sí quere [*] .
+%err:	quiere = quieres $MOR $LOS $NFL 3s/2s ; quere = quieres $MOR $LOS $REG
+%com:	&=q NO HA ENTENDIDO "QUEPO" ?
+*FAT:	no quepo .
+*FAT:	es una casa muy pequeñita para mí .
+*CHI:	no e(s) g(r)ande .
+*FAT:	&=q es grande ?
+*CHI:	no e(s) g(r)ande .
+*CHI:	es pe(qu)eñita .
+%act:	se mete dentro de la caseta
+*CHI:	ay@i .
+*FAT:	toc@o [x 2] .
+%par:	hace como si llamara a la puerta , aunque sigue sentado en la silla
+*CHI:	0 .
+%par:	se ríe
+*FAT:	&=q se puede ?
+*FAT:	&=q y Lucía ?
+*FAT:	&=q dónde está ?
+*FAT:	Mother .
+%par:	hace como si le hablara a MOT
+*FAT:	Lucía se ha escondido .
+%par:	hace como si le hablara a MOT
+*FAT:	no sé dónde está .
+%par:	hace como si le hablara a MOT
+*FAT:	&=q dónde está Lucía ?
+%par:	hace como si no le oyera Lucía
+*CHI:	xxx .
+%par:	susurra algo inaudible
+*FAT:	&=q dónde está Lucía ?
+%par:	susurra
+*FAT:	anda: .
+*FAT:	no sé dónde está Lucía .
+*FAT:	bueno .
+*FAT:	me iré a buscar la abajo .
+*FAT:	a ver si está abajo vistiéndo se .
+*FAT:	adiós .
+%act:	se le oye dar unos pasos como si saliera de la habitación , la cámara sigue enfocando a la casera , donde Lucia está dentro , callada
+*FAT:	Lucía .
+%act:	da unos golpecitos en la puerta de la habitación , como si llamara para entrar en ella
+*FAT:	&=q dónde está ?
+*FAT:	0 .
+%act:	sube la puerta de la casita de juguete
+*CHI:	0 .
+%par:	se ríe
+*FAT:	&=q estás aquí ?
+*CHI:	xxx (l)a ventana . [+ NON]
+*FAT:	&=q hay que cerrar la ventana ?
+*CHI:	sí .
+*FAT:	a ver cómo la cierras .
+%act:	se aparta un poco de la caseta
+*CHI:	no quero [*] .
+%err:	quero = quiero $MOR $LOS $REG
+%act:	tira ligeramente de dos cordones que culegan de la puerte , pero no puede cerrarla
+*FAT:	&=q no sabes cerrar la ventana ?
+*CHI:	no .
+*CHI:	tú .
+*FAT:	no .
+*FAT:	tú .
+*CHI:	no .
+*CHI:	tú .
+*FAT:	tú .
+*CHI:	&=e no !
+%par:	lloriquea
+*FAT:	a ver cómo cierras , Lucía .
+*CHI:	&=e no !
+%par:	lloriquea
+*FAT:	&=q no quieres cerrar la tú ?
+*CHI:	no .
+%act:	golpea en la pared de lona de la caseta
+*FAT:	a ver .
+*FAT:	&=q cómo se pide ?
+*CHI:	(f)avo(r) .
+*CHI:	&=q xxx (l)a ventana de (l)a cabaña xxx ? [+ NON]
+*FAT:	&=q a ver cómo ?
+*FAT:	otra vez .
+*CHI:	&=q o [//] .
+*CHI:	&=q de la cabaña me deja [*] , mam [//] Papá ?
+%err:	deja = dejas $MOR $LOS $NFL 3s/2s
+*CHI:	de la cabaña me deja [*] .
+*FAT:	&=q aquí ?
+%act:	deja caer la puerta de lona de la cabaña
+*CHI:	sí .
+*FAT:	bueno .
+*FAT:	adiós , Lu .
+%act:	se aleja
+*CHI:	adiós .
+%act:	se queda dentro de la caseta
+*CHI:	&=e Papi !
+*FAT:	&=q qué , Lu ?
+*CHI:	cu@i [x 2] .
+%exp:	cucu ; peek TO a TO booh
+*FAT:	0 .
+%par:	se ríe
+*CHI:	Mamá .
+*CHI:	Papá .
+%act:	se ve la cara de Lucía , llamando a sus padres por la ventana , que está hecha de lona blanca poco tupida , translúcida
+@Situation:	1 Lucía está dentro de la cabaña de juguete intentando hacer sonar el cassette , (2) Lucía se queda sola jugando con el rompecabezas
+*FAT:	&=q qué ?
+*CHI:	cu@i [x 2] .
+*FAT:	cu@i [x 2] .
+*CHI:	0 .
+%par:	se ríe
+*FAT:	Lucía .
+*FAT:	&=q sales aquí a jugar conmigo ?
+*FAT:	&=q eh@i ?
+*CHI:	xxx no . [+ NON]
+*CHI:	xxx aquí el cassette . [+ NON]
+*CHI:	e(s)to se para así .
+%act:	dentro de la caseta , por el ruido que se oye , parece que Lucía está metiendo y sacando cintas en su cassette
+*CHI:	así .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	así xxx . [+ NON]
+%act:	sigue dentro de la caseta , haciendo ruido con su cassette
+*FAT:	Lucía .
+*FAT:	&=q no sales ?
+*CHI:	no .
+*CHI:	xxx .
+*CHI:	xxx a do(r)mir . [+ NON]
+*CHI:	me v(o)y a do(r)mir .
+*CHI:	buenas noches .
+*CHI:	me 0 [*] a dormir [*] .
+%err:	0 = voy $SYN $LOS $AUX ; a = $SYN $ADD $INFA ; dormir = fin $MOR $SUB $ROOT
+*CHI:	&=q vale ?
+*CHI:	xxx .
+*FAT:	a despertar: .
+*FAT:	ya .
+*FAT:	venga .
+*FAT:	sal de ahí , Lucía .
+*CHI:	no .
+*FAT:	no quieres .
+*CHI:	no .
+*FAT:	bueno .
+*FAT:	pues nada .
+*FAT:	bueno , Lu .
+*FAT:	si no sales me voy .
+*FAT:	&=q vale ?
+*FAT:	adiós: .
+*FAT:	me voy .
+*CHI:	adiós .
+*FAT:	voy a recoger todo .
+%act:	coge la cámara y la coloca para que se vea a Lucía por la ventana de la cabaña de juguete
+*FAT:	&=q te vienes fuera ?
+*CHI:	no .
+*FAT:	&=q no te vienes ?
+*CHI:	no .
+*FAT:	anda .
+*FAT:	anda , Lu .
+*FAT:	Lucía .
+*FAT:	&=q qué estás haciendo ?
+*CHI:	0 .
+%par:	se ríe
+*FAT:	Lu .
+*FAT:	&=q qué tienes ?
+*FAT:	&=q tu cassette ahí dentro ?
+*CHI:	sí .
+%act:	se oye el rudio de meter cintas dentro del cassette
+*FAT:	&=q estás poniendo música ?
+*CHI:	o: sí .
+*FAT:	&=q qué música estás poniendo ?
+*CHI:	una de xxx .
+*CHI:	ahora por a [//] así .
+*CHI:	xxx (l)a de Cur(r)i_Cur(r)i a(d)ent(r)o . [+ NON]
+*FAT:	venga .
+*FAT:	pon la del Curri_Curri .
+*FAT:	con el Curri_Curri_Curri .
+%par:	canta
+*CHI:	&=e cálla te !
+*FAT:	ah@i .
+%par:	como sorprendido
+*FAT:	&=q me has dicho que me calle ?
+*CHI:	0 .
+%par:	sonríe
+*CHI:	xxx sí . [+ NON]
+*CHI:	(l)a música .
+*FAT:	a ver .
+*CHI:	así .
+*CHI:	eh@i .
+*FAT:	&=q no funciona ?
+*CHI:	no .
+*CHI:	sí .
+*CHI:	a(l) rojo red sí sona [*] .
+%err:	sona = suena $MOR $SUB $REG
+*CHI:	a(l) rojo red .
+*FAT:	&=q en el rojo red sí suena ? [+ COR]
+*CHI:	sí .
+*CHI:	si xxx . [+ NON]
+@Situation:	1 Lucía está dentro de la cabaña de juguete intentando hacer sonar el cassette , (2) Lucía se queda sola jugando con el rompecabezas
+*CHI:	xxx .
+*CHI:	xxx .
+%act:	sigue oyéndose como si manipulara el cassette dentro de la caseta de juguete
+*CHI:	&=e así a ver !
+*CHI:	así .
+*CHI:	a ver cómo xxx . [+ NON]
+*CHI:	xxx .
+*CHI:	sí sona [*] .
+%err:	sona = suena $MOR $SUB $REG
+*FAT:	no suena . [+ COR]
+*CHI:	&=e sí sona [*] !
+*FAT:	no .
+*FAT:	Lucía .
+*FAT:	no suena .
+%com:	realmente no suena el cassette
+*CHI:	sí sona [*] .
+*CHI:	a(l) rojo red@f sí sona [*] .
+%err:	sona = suena $MOR $SUB $REG
+%com:	GEM
+*FAT:	se dice suena . [+ COR]
+*CHI:	0 .
+%act:	se queda mirando seria hacia FAT
+*FAT:	no suena . [+ COR]
+*CHI:	sí sona [*] .
+%err:	sona = suena $MOR $SUB $REG
+%par:	seria
+*CHI:	sí sona .
+%com:	se detiene la grabación
+@Situation:	2
+*FAT:	0 .
+%act:	está colocando la cámara sobre la repisa para ver bien la situación
+*CHI:	ay@i .
+*CHI:	abeja .
+%act:	golpea con la palma de la mano sobre el rompecabezas
+*CHI:	qui(e)ta .
+%act:	parece que la está golpeando a la abeja para que no se mueva
+*CHI:	xxx .
+*CHI:	ot(r)a vez .
+*CHI:	míra lo [*] otra vez .
+%err:	lo = la $MOR $SUB $SUFFIX
+*CHI:	mira la abeja .
+*CHI:	ot(r)a vez .
+*CHI:	venga .
+*CHI:	a ve(r) .
+*CHI:	ah@i .
+*CHI:	ot(r)a vez .
+%act:	lo que hace es poner la mano y retirarla , haciendo , quizás , como si el rompecabezas de la abeja le picara en la mano
+*CHI:	nada .
+*CHI:	uy@i .
+*CHI:	ot(r)a vez .
+%act:	vuelve a golpear sobre el rompecabezas
+*CHI:	uy@i .
+*CHI:	e(l) xxx . [+ NON]
+*CHI:	ay@i .
+*CHI:	xxx .
+*CHI:	a ver .
+*CHI:	oh@i .
+%par:	está haciendo fuerza para intentar encajar una pieza
+*FAT:	&=q Mother ?
+%add:	MOT
+*CHI:	así .
+%act:	revuelve entre las piezas del rompezabezas y luego coge un bolígrafo que hay sobre la mesa
+*CHI:	tu@o [x 4] .
+%par:	canturrea
+*FAT:	uy@i , Lucía .
+*FAT:	el bolígrafo no .
+*FAT:	no , Lucía .
+*CHI:	0 .
+%act:	se está dibujando con una mano sobre la palma de la otra con el bolígrafo
+*FAT:	deja el bolígrafo de Papá .
+*FAT:	venga .
+*CHI:	ahora .
+*CHI:	&=q vale ?
+%act:	le pone la cubierta al bolígrafo (más bien parece un rotulador) y lo deja sobre la mesa
+*CHI:	así .
+%act:	vuelve a coger el bolígrafo
+*FAT:	no , Lucía .
+*FAT:	no te pintes .
+*FAT:	Lucía .
+*FAT:	no .
+*CHI:	0 .
+%act:	empieza a pintar sobre las piezas del rompecabezas
+*FAT:	Lucía .
+*FAT:	no pintes el puzle , hombre .
+*FAT:	trae .
+%act:	le intenta quitar el rotulador pero eslla esconde la mano
+*CHI:	ah@i .
+*FAT:	Lucía [x 3] .
+*FAT:	ah@i .
+%act:	consigue quitarle el rotulador
+*FAT:	ya está .
+*FAT:	no puedes pintar el puzle , Lucía .
+*FAT:	que se estropean los juguetes .
+*CHI:	xxx .
+%par:	susurra
+*CHI:	así .
+%act:	se h bajado de la silla y desparece de la imagen
+*CHI:	a ver .
+*CHI:	un perro .
+*CHI:	a ver .
+*CHI:	un perro .
+*CHI:	&=q y el puzle ?
+*CHI:	&=q y el perro ?
+*FAT:	a ver , Lucía .
+*FAT:	&=q me haces un café con leche ?
+*CHI:	&=e no !
+*CHI:	xxx .
+@End

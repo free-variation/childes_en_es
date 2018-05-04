@@ -1,0 +1,3237 @@
+@Font:	Courier:14:0
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Eve Target_Child, MOT Sue Mother, FAT David Father,
+	COL Colin Investigator, RIC Richard Investigator
+@ID:	eng|brown|CHI|1;9.|female|||Target_Child|||
+@ID:	eng|brown|MOT|||||Mother|||
+@ID:	eng|brown|FAT|||||Father|||
+@ID:	eng|brown|COL|||||Investigator|||
+@ID:	eng|brown|RIC|||||Investigator|||
+@Date:	31-DEC-1962
+@Time Duration:	11:00-12:00
+*MOT:	Eve (.) ‡ have you got the spoon ?
+%trn:	n:prop|Eve beg|beg  aux|have pro|you part|get&PERF det|the n|spoon ?
+%grt:	1|5|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	yep sugar . [+ RES]
+%trn:	co|yep n|sugar .
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes (.) ‡ the sugar .
+%trn:	co|yes beg|beg det|the n|sugar .
+%grt:	1|4|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	a cup .
+%trn:	det|a n|cup .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a cup ?
+%trn:	det|a n|cup ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	well (.) ‡ we'll get a cup in a minute +...
+%trn:	co|well beg|beg pro:sub|we~mod|will v|get det|a n|cup prep|in det|a
+	n|minute +...
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	0 .
+%act:	bangs knee
+*RIC:	did you hurt your knee again ?
+%trn:	mod|do&PAST pro|you v|hurt&ZERO pro:poss:det|your n|knee adv|again ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	sit down .
+*CHI:	kiss it .
+*FAT:	kiss it .
+%trn:	v|kiss pro|it .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	0 .
+%act:	spills juice
+*FAT:	you wipe it off the table (.) „ please .
+%trn:	pro|you v|wipe pro|it prep|off det|the n|table end|end co|please .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|8|ENDP 8|2|END
+	9|2|PUNCT
+*CHI:	you wipe off . [+ IMIT]
+%act:	showing cup to father
+%trn:	pro|you v|wipe adv|off .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	Mommy wipe xxx floor .
+%act:	showing cup to father
+%trn:	n:prop|Mommy v|wipe n|floor .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	grape juice all_gone .
+%trn:	n|grape n|juice adj|all_gone .
+*FAT:	yes .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mommy coffee . [+ RES]
+%trn:	n:prop|Mommy n|coffee .
+%grt:	1|2|TOP 2|0|INCROOT 3|2|PUNCT
+*MOT:	m:hm ‡ coffee for Fraser .
+%trn:	co|yes beg|beg n|coffee prep|for n:prop|Fraser .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	make it warm .
+%trn:	v|make pro|it adj|warm .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PRED 4|1|PUNCT
+*CHI:	warm do one +... [+ IMIT]
+%trn:	adj|warm v|do pro:indef|one +...
+*CHI:	one Mommy . [+ IMIT]
+%trn:	pro:indef|one n:prop|Mommy .
+*MOT:	do one for Mommy .
+%trn:	v|do pro:indef|one prep|for n:prop|Mommy .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mommy hot coffee one +...
+%trn:	n:prop|Mommy adj|hot n|coffee pro:indef|one +...
+*CHI:	more .
+%trn:	qn|more .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	more what ?
+%trn:	qn|more pro:wh|what ?
+%grt:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	put sugar in +...
+%trn:	v|put&ZERO n|sugar adv:loc|in +...
+%grt:	1|0|ROOT 2|1|OBJ 3|1|LOC 4|1|PUNCT
+*CHI:	Mommy (.) milk +...
+%trn:	n:prop|Mommy n|milk +...
+*CHI:	put sugar in +...
+%trn:	v|put&ZERO n|sugar adv:loc|in +...
+%grt:	1|0|ROOT 2|1|OBJ 3|1|LOC 4|1|PUNCT
+*CHI:	Fraser .
+%trn:	n:prop|Fraser .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no (.) ‡ Fraser'll put the sugar in his own coffee .
+%trn:	co|no beg|beg n:prop|Fraser~mod|will v|put&ZERO det|the n|sugar prep|in
+	pro:poss:det|his adj|own n|coffee .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|LOC
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT
+*CHI:	milk (.) Mommy xxx grape juice more .
+%trn:	n|milk n:prop|Mommy n|grape n|juice qn|more .
+*MOT:	you must be very careful and not spill this .
+%trn:	pro|you mod|must v:cop|be adv:int|very adj|careful coord|and neg|not
+	v|spill pro:dem|this .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|CONJ 7|8|NEG
+	8|6|COORD 9|8|OBJ 10|3|PUNCT
+*CHI:	&ha not spill this . [+ IMIT]
+%trn:	neg|not v|spill pro:dem|this .
+%grt:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you're not to spill this .
+%trn:	pro|you~v:cop|be&PRES neg|not inf|to v|spill pro:dem|this .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|INF 5|2|XPRED 6|5|OBJ 7|2|PUNCT
+*CHI:	not spill this . [+ IMIT]
+%trn:	neg|not v|spill pro:dem|this .
+%grt:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*COL:	(.) it's a long time since I've seen a coal fire +...
+%trn:	pro|it~v:cop|be&3S det|a adj|long n|time conj|since
+	pro:sub|I~aux|have part|see&PERF det|a n|coal n|fire +...
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|9|CPZR 7|9|SUBJ 8|9|AUX 9|2|CJCT 10|12|DET 11|12|MOD 12|9|OBJ 13|2|PUNCT
+*CHI:	I see fire .
+%trn:	pro:sub|I v|see n|fire .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	(.) what_about the heat ?
+%trn:	adv:wh|what_about det|the n|heat ?
+%grt:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*FAT:	(.) because the heat and the whole thing is out in the room +...
+%trn:	conj|because det|the n|heat coord|and det|the adj|whole n|thing
+	v:cop|be&3S prep|out prep|in det|the n|room +...
+%grt:	1|8|CPZR 2|3|DET 3|8|SUBJ 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD
+	8|0|ROOT 9|8|LOC 10|8|LOC 11|12|DET 12|10|POBJ 13|8|PUNCT
+*CHI:	heat right (.) right fire .
+%trn:	n|heat adv|right adv|right n|fire .
+*FAT:	heat right in the fire .
+%trn:	n|heat adv|right prep|in det|the n|fire .
+%grt:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*FAT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	give Eve paper .
+%trn:	v|give n:prop|Eve n|paper .
+%grt:	1|0|ROOT 2|3|OBJ2 3|1|OBJ 4|1|PUNCT
+*MOT:	your paper's on the table +...
+%trn:	pro:poss:det|your n|paper~v:cop|be&3S prep|on det|the n|table +...
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|LOC 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	baby Sarah sleeping .
+%trn:	n|baby n:prop|Sarah part|sleep-PROG .
+*MOT:	baby Sarah's waking up +...
+%trn:	n|baby n:prop|Sarah~aux|be&3S part|wake-PROG adv:loc|up +...
+%grt:	1|2|NAME 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	go write some a@l b@l c@l .
+%trn:	v|go v|write qn|some n:let|a n:let|b n:let|c .
+%grt:	1|2|SRL 2|0|ROOT 3|6|QUANT 4|6|ENUM 5|6|ENUM 6|2|OBJ 7|2|PUNCT
+*CHI:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	write a@l b@l c@l Papa .
+%trn:	v|write n:let|a n:let|b n:let|c n:prop|Papa .
+%grt:	1|0|ROOT 2|4|ENUM 3|4|ENUM 4|1|OBJ 5|1|VOC 6|1|PUNCT
+*MOT:	yes (.) ‡ with Papa .
+%trn:	co|yes beg|beg prep|with n:prop|Papa .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|3|POBJ 5|3|PUNCT
+*MOT:	what's this ?
+%trn:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	a@l b@l (.) c@l .
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	a@l b@l c@l .
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	a@l b@l c@l .
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	you do +... [+ IMIT]
+%act:	looking at Father's lettering
+%trn:	pro|you v|do +...
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	a@l b@l c@l . [+ IMIT]
+%act:	looking at Father's lettering
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*COL:	did you do that ?
+%trn:	mod|do&PAST pro|you v|do pro:dem|that ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*COL:	did you do that ?
+%trn:	mod|do&PAST pro|you v|do pro:dem|that ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah a@l (.) b@l (.) a@l b@l c@l . [+ RES]
+%trn:	co|yeah n:let|a n:let|b n:let|a n:let|b n:let|c .
+%grt:	1|6|COM 2|6|ENUM 3|6|ENUM 4|6|ENUM 5|6|ENUM 6|0|INCROOT 7|6|PUNCT
+*CHI:	a@l (.) b@l (.) c@l . [+ RES]
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*COL:	Eve (.) ‡ what's this ?
+%trn:	n:prop|Eve beg|beg pro:wh|what~v:cop|be&3S pro:dem|this ?
+%grt:	1|4|BEG 2|1|BEGP 3|4|PRED 4|0|ROOT 5|4|SUBJ 6|4|PUNCT
+*CHI:	a@l b@l c@l . [+ RES]
+%com:	any single letter is usually "ABC"
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*MOT:	a@l +...
+%trn:	n:let|a +...
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	b@l . [+ RES]
+%trn:	n:let|b .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	n@l +... [+ RES]
+%trn:	n:let|n +...
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	o@l . [+ RES]
+%trn:	n:let|o .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	wait a minute another one Fraser do it .
+%trn:	v|wait det|a n|minute qn|another pro:indef|one n:prop|Fraser v|do
+	pro|it .
+*COL:	okay ‡ what'll you write (.) „ Eve ?
+%trn:	co|okay beg|beg pro:wh|what~mod|will pro|you v|write end|end n:prop|Eve ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|ENDP 8|6|ENDP
+	9|6|PUNCT
+*CHI:	draw pencil xxx a pencil a@l (.) b@l (.) c@l . [+ RES]
+%trn:	v|draw n|pencil det|a n|pencil n:let|a n:let|b n:let|c .
+*COL:	that one's not doing much (.) „ is it (.) „ Eve ?
+%trn:	det|that pro:indef|one~v:cop|be&3S neg|not adj:part|do-PROG qn|much
+	end|end aux|be&3S pro|it end|end n:prop|Eve ?
+%grt:	1|2|DET 2|3|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|TAGP 8|5|TAG
+	9|8|SUBJ 10|11|ENDP 11|5|END 12|5|PUNCT
+*FAT:	it's a stylus .
+%trn:	pro|it~v:cop|be&3S det|a n|stylus .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	not good +...
+%trn:	neg|not adj|good +...
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	Eve .
+%trn:	n:prop|Eve .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	now +...
+%trn:	adv|now +...
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	now . [+ IMIT]
+%trn:	adv|now .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	you do something .
+%trn:	pro|you v|do pro:indef|something .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a@l b@l c@l .
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*COL:	what's that ?
+%trn:	pro:wh|what~v:cop|be&3S pro:dem|that ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	a@l b@l c@l there again . [+ RES]
+%act:	looking at a b@l
+%trn:	n:let|a n:let|b n:let|c adv:loc|there adv|again .
+@Tape Location:	110
+*COL:	again ?
+%trn:	adv|again ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	another one .
+%trn:	qn|another pro:indef|one .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*COL:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	you did another one .
+%trn:	pro|you v|do&PAST qn|another pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	<xxx out scissor(s)> [//] Eve out scissor(s) .
+%trn:	n:prop|Eve adv:loc|out n|scissors .
+*MOT:	yeah .
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay (.) ‡ what do we do now (.) then ?
+%trn:	co|okay beg|beg pro:wh|what mod|do pro:sub|we v|do adv|now
+	adv:tem|then ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT
+	8|6|JCT 9|6|PUNCT
+*CHI:	xxx write no . [+ IMIT]
+%com:	doesn't want Colin to write on another pad
+%trn:	v|write co|no .
+*CHI:	no . [+ IMIT]
+%com:	doesn't want Colin to write on another pad
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no (.) Fraser . [+ IMIT]
+%com:	doesn't want Colin to write on another pad
+%trn:	co|no n:prop|Fraser .
+*COL:	why not ?
+%trn:	adv:wh|why neg|not ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Eve write paper .
+%trn:	n:prop|Eve v|write n|paper .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Fraser no (.) Fraser .
+%trn:	n:prop|Fraser co|no n:prop|Fraser .
+*COL:	why not ?
+%trn:	adv:wh|why neg|not ?
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	Eve (.) ‡ what's Fraser doing ?
+%trn:	n:prop|Eve beg|beg pro:wh|what~aux|be&3S n:prop|Fraser part|do-PROG ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	doing Eve . [+ IMIT]
+%trn:	part|do-PROG n:prop|Eve .
+*FAT:	what's Fraser doing ?
+%trn:	pro:wh|what~aux|be&3S n:prop|Fraser part|do-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	draw lady .
+%trn:	v|draw n|lady .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*COL:	draw lady ?
+%trn:	v|draw n|lady ?
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	draw lady again draw my moo@o [/] moo@o here .
+%trn:	v|draw n|lady adv|again v|draw pro:poss:det|my on|moo adv:loc|here .
+*MOT:	oh (.) Old_Macdonald .
+%trn:	co|oh n:prop|Old_Macdonald .
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	old Donald .
+%trn:	adj|old n:prop|Donald .
+*MOT:	yeah .
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	draw old Donald .
+%trn:	v|draw adj|old n:prop|Donald .
+%grt:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+@Tape Location:	160
+*MOT:	what's an Old_Macdonald's farm .
+%trn:	pro:wh|what~v:cop|be&3S det|a n:prop|Old_Macdonald~poss|s n|farm .
+%grt:	1|2|PRED 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|SUBJ 7|2|PUNCT
+*CHI:	baa@o [/] baa@o here moo@o [/] moo@o here +...
+%trn:	on|baa adv:loc|here on|moo adv:loc|here +...
+*CHI:	Fraser .
+%trn:	n:prop|Fraser .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what_about Fraser ?
+%trn:	adv:wh|what_about n:prop|Fraser ?
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	him writing .
+%trn:	pro:obj|him part|write-PROG .
+*MOT:	he's writing (.) „ uhhuh .
+%trn:	pro:sub|he~aux|be&3S part|write-PROG end|end co|uhhuh .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*CHI:	Eve writing .
+%trn:	n:prop|Eve part|write-PROG .
+*MOT:	what are you writing ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|write-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	Eve writing a@l b@l c@l . [+ RES]
+%trn:	n:prop|Eve part|write-PROG n:let|a n:let|b n:let|c .
+*MOT:	you're writing a@l b@l c@l ?
+%trn:	pro|you~aux|be&PRES part|write-PROG n:let|a n:let|b n:let|c ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|ENUM 5|6|ENUM 6|3|OBJ 7|3|PUNCT
+*CHI:	again .
+%trn:	adv|again .
+*COL:	again ?
+%trn:	adv|again ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah another one . [+ RES]
+%trn:	co|yeah qn|another pro:indef|one .
+*COL:	another one ?
+%trn:	qn|another pro:indef|one ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*COL:	in a minute +...
+%trn:	prep|in det|a n|minute +...
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	look there [/] there .
+%sit:	baby cries .
+%trn:	v|look adv:loc|there .
+%grt:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	baby Sarah .
+%trn:	n|baby n:prop|Sarah .
+*MOT:	yes (.) ‡ that's baby Sarah .
+%trn:	co|yes beg|beg pro:dem|that~v:cop|be&3S n|baby n:prop|Sarah .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|NAME 6|4|PRED 7|4|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	she's hungry .
+%trn:	pro:sub|she~v:cop|be&3S adj|hungry .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it sounds like the television+set in the basement .
+%trn:	pro|it v|sound-3S prep|like det|the n|+n|television+n|set prep|in
+	det|the n|basement .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	<baby Sarah baby Sarah> [/] baby Sarah .
+%sit:	had started crying again
+%trn:	n|baby n:prop|Sarah .
+*COL:	what's baby Sarah doing ?
+%trn:	pro:wh|what~aux|be&3S n|baby n:prop|Sarah part|do-PROG ?
+%grt:	1|5|OBJ 2|5|AUX 3|4|NAME 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	(.) sleeping . [+ RES]
+%trn:	part|sleep-PROG .
+*MOT:	not now .
+%trn:	neg|not adv|now .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	baby Sarah sleeping .
+%trn:	n|baby n:prop|Sarah part|sleep-PROG .
+*MOT:	she's [//] well ‡ (.) she's crying (.) „ yes .
+%trn:	co|well beg|beg pro:sub|she~aux|be&3S part|cry-PROG end|end co|yes .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|ENDP 7|5|END 8|5|PUNCT
+*MOT:	she's not sleeping .
+%trn:	pro:sub|she~aux|be&3S neg|not part|sleep-PROG .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	crying . [+ IMIT]
+%trn:	part|cry-PROG .
+*MOT:	she's telling me that she's hungry .
+%trn:	pro:sub|she~aux|be&3S part|tell-PROG pro:obj|me rel|that
+	pro:sub|she~v:cop|be&3S adj|hungry .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CPZR 6|7|SUBJ 7|3|COMP 8|7|PRED 9|3|PUNCT
+*CHI:	look <another one> [/] another one .
+%trn:	co|look qn|another pro:indef|one .
+*COL:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	thank+you .
+%trn:	int|+int|thank+int|you .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	that you .
+%trn:	pro:dem|that pro|you .
+*CHI:	moo@o [/] moo@o .
+%trn:	on|moo .
+*COL:	moo@o [/] moo@o ?
+%trn:	on|moo ?
+*CHI:	there's a moo@o [/] moo@o .
+%trn:	adv:loc|there~v:cop|be&3S det|a on|moo .
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*COL:	there's a moo@o [/] moo@o ?
+%trn:	adv:loc|there~v:cop|be&3S det|a on|moo ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	there's a moo@o [/] moo@o .
+%trn:	adv:loc|there~v:cop|be&3S det|a on|moo .
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*MOT:	that's not a moo@o [/] moo@o .
+%trn:	pro:dem|that~v:cop|be&3S neg|not det|a on|moo .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*CHI:	<moo@o moo@o moo@o moo@o moo@o> [/] moo@o .
+%trn:	on|moo .
+*CHI:	Mammy xxx writing .
+%trn:	n:prop|Mammy part|write-PROG .
+*COL:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	writing . [+ RES]
+%trn:	part|write-PROG .
+*FAT:	who's crying ?
+%trn:	pro:wh|who~aux|be&3S part|cry-PROG ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	baby Sarah . [+ RES]
+%trn:	n|baby n:prop|Sarah .
+%grt:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes (.) ‡ I think baby Sarah's diaper +...
+%trn:	co|yes beg|beg pro:sub|I v|think n|baby n:prop|Sarah~poss|s n|diaper
+	+...
+*MOT:	put a dry diaper on baby Sarah's bottom .
+%trn:	v|put&ZERO det|a adj|dry n|diaper prep|on n|baby n:prop|Sarah~poss|s n|bottom .
+%grt:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|LOC 6|7|NAME 7|9|MOD 8|7|POSS
+	9|5|POBJ 10|1|PUNCT
+*CHI:	Mommy ?
+%trn:	n:prop|Mommy ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	put dry diaper baby Sarah bottom . [+ IMIT]
+%trn:	v|put&ZERO adj|dry n|diaper n|baby n:prop|Sarah n|bottom .
+*MOT:	yes (.) we are +...
+%trn:	co|yes pro:sub|we v:cop|be&PRES +...
+*MOT:	you write on the paper .
+%trn:	pro|you v|write prep|on det|the n|paper .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	only on the paper .
+%trn:	adv|only prep|on det|the n|paper .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*CHI:	only paper . [+ IMIT]
+%trn:	adv|only n|paper .
+*MOT:	right .
+%trn:	co|right .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	only paper . [+ IMIT]
+%trn:	adv|only n|paper .
+*CHI:	more [/] more ? [+ IMIT]
+%trn:	qn|more ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	not right now .
+%trn:	neg|not adv|right adv|now .
+%grt:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*COL:	in a minute .
+%trn:	prep|in det|a n|minute .
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	why don't you show Fraser horsie (.) „ Eve ?
+%exp:	big toy horse
+%trn:	adv:wh|why mod|do~neg|not pro|you v|show n:prop|Fraser n|horse-DIM
+	end|end n:prop|Eve ?
+%grt:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ2 7|5|OBJ 8|9|ENDP
+	9|5|END 10|5|PUNCT
+*COL:	is that your horse ?
+%trn:	v:cop|be&3S pro:dem|that pro:poss:det|your n|horse ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	(.) what do you do on your horse (.) „ eh ?
+%trn:	pro:wh|what mod|do pro|you v|do prep|on pro:poss:det|your n|horse
+	end|end int|eh ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|ENDP
+	9|4|END 10|4|PUNCT
+*CHI:	xxx ride horsie . [+ RES]
+%trn:	v|ride n|horse-DIM .
+*CHI:	Eve show Fraser horsie .
+%trn:	n:prop|Eve v|show n:prop|Fraser n|horse-DIM .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|2|PUNCT
+*COL:	whose pencil is this ?
+%trn:	det:wh|whose n|pencil v:cop|be&3S pro:dem|this ?
+%grt:	1|2|DET 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PUNCT
+*CHI:	Fraser pencil . [+ RES]
+%com:	appropriate
+%trn:	n:prop|Fraser n|pencil .
+*COL:	is this my pencil ?
+%trn:	v:cop|be&3S pro:dem|this pro:poss:det|my n|pencil ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	yeah . [+ RES]
+%com:	appropriate
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	is this your pencil ?
+%trn:	v:cop|be&3S pro:dem|this pro:poss:det|your n|pencil ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	yeah . [+ RES]
+%com:	inappropriate
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	whose pencil is that ?
+%trn:	det:wh|whose n|pencil v:cop|be&3S pro:dem|that ?
+%grt:	1|2|DET 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PUNCT
+*CHI:	Eve +... [+ RES]
+%com:	was Eve's pencil
+%trn:	n:prop|Eve +...
+*CHI:	Fraser +... [+ RES]
+%com:	was Eve's pencil
+%trn:	n:prop|Fraser +...
+*CHI:	Eve . [+ RES]
+%com:	was Eve's pencil
+%trn:	n:prop|Eve .
+*COL:	where's your pencil ?
+%trn:	adv:wh|where~v:cop|be&3S pro:poss:det|your n|pencil ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	0 .
+%act:	didn't seem to understand, looked around
+*COL:	where's my pencil ?
+%trn:	adv:wh|where~v:cop|be&3S pro:poss:det|my n|pencil ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	0 .
+%gpx:	pointed appropriately
+*CHI:	Eve laying down .
+%com:	Eve wants to lie down in small baby's basket
+%trn:	n:prop|Eve part|lay-PROG adv:loc|down .
+*CHI:	Eve laying down .
+%com:	Eve wants to lie down in small baby's basket
+%trn:	n:prop|Eve part|lay-PROG adv:loc|down .
+*CHI:	Mom cover Eve .
+%act:	lying down
+%com:	Eve wants to lie down in small baby's basket
+%trn:	n:prop|Mom v|cover n:prop|Eve .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you want me to cover you ?
+%trn:	pro|you v|want pro:obj|me inf|to v|cover pro|you ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|INF 5|2|XCOMP 6|5|OBJ 7|2|PUNCT
+*MOT:	alright +...
+%trn:	co|alright +...
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	is that a nice bed ?
+%trn:	v:cop|be&3S pro:dem|that det|a adj|nice n|bed ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|5|DET 4|5|MOD 5|1|PRED 6|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you go to sleep .
+%trn:	pro|you v|go inf|to v|sleep .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*CHI:	sleep . [+ IMIT]
+%act:	<aft> sits up
+%trn:	v|sleep .
+%grt:	1|0|ROOT 2|1|PUNCT
+*MOT:	I thought you were going to sleep .
+%trn:	pro:sub|I v|think&PAST pro|you aux|be&PAST part|go-PROG inf|to v|sleep .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|XCOMP 6|7|INF 7|5|XCOMP 8|2|PUNCT
+*MOT:	thought you were gonna go to sleep .
+%trn:	v|think&PAST pro|you aux|be&PAST part|go-PROG~inf|to v|go inf|to v|sleep .
+%grt:	1|0|ROOT 2|4|SUBJ 3|4|AUX 4|1|COMP 5|6|INF 6|4|XCOMP 7|8|INF 8|6|XCOMP 9|1|PUNCT
+*CHI:	thought going sleep . [+ IMIT]
+%trn:	v|think&PAST part|go-PROG v|sleep .
+*CHI:	byebye (.) Fraser . [+ IMIT]
+%trn:	co|byebye n:prop|Fraser .
+%grt:	1|0|INCROOT 2|1|VOC 3|1|PUNCT
+*COL:	byebye .
+%trn:	co|byebye .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	byebye (.) Papa .
+%trn:	co|byebye n:prop|Papa .
+%grt:	1|0|INCROOT 2|1|VOC 3|1|PUNCT
+*FAT:	byebye (.) Eve .
+%trn:	co|byebye n:prop|Eve .
+%grt:	1|0|INCROOT 2|1|VOC 3|1|PUNCT
+*CHI:	byebye .
+%trn:	co|byebye .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	byebye (.) Sarah baby a nice nap .
+%trn:	co|byebye n:prop|Sarah n|baby det|a adj|nice n|nap .
+*MOT:	okay (.) ‡ you have a nice nap .
+%trn:	co|okay beg|beg pro|you v|have det|a adj|nice n|nap .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	all done nap .
+%trn:	adv:int|all part|do&PERF n|nap .
+*FAT:	you're all done napping .
+%trn:	pro|you~aux|be&PRES adv:int|all part|do&PERF n:gerund|nap-PROG .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	night+night later .
+%trn:	int|+int|night+int|night adv|later .
+*MOT:	night+night later ?
+%trn:	int|+int|night+int|night adv|later ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	little tiny one .
+%com:	Mother had previously used "little tiny" to describe baby
+%trn:	adj|little adj|tiny pro:indef|one .
+*CHI:	little tiny one .
+%com:	Mother had previously used "little tiny" to describe baby
+%trn:	adj|little adj|tiny pro:indef|one .
+*CHI:	want Mommy Mom carry Eve .
+%com:	Mother had previously used "little tiny" to describe baby
+%trn:	v|want n:prop|Mommy n:prop|Mom v|carry n:prop|Eve .
+@Tape Location:	280
+*FAT:	carry Eve ?
+%trn:	v|carry n:prop|Eve ?
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	lie down and Papa will carry you .
+%trn:	v|lie adv:loc|down coord|and n:prop|Papa mod|will v|carry pro|you .
+%grt:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|6|SUBJ 5|6|AUX 6|3|COORD 7|6|OBJ
+	8|1|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	lay down .
+%trn:	v|lay adv:loc|down .
+%grt:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	okay ?
+%trn:	co|okay ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	again .
+%trn:	adv|again .
+*CHI:	a tiny one .
+%trn:	det|a adj|tiny pro:indef|one .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	a bowe(l) .
+%trn:	det|a n|bowel .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	are you having bowels ?
+%trn:	aux|be&PRES pro|you part|have-PROG n|bowel-PL ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	a bowe(l) . [+ RES]
+%trn:	det|a n|bowel .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	will we change your wet diaper ?
+%trn:	mod|will pro:sub|we v|change pro:poss:det|your adj|wet n|diaper ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	want Papa change her ?
+%trn:	v|want n:prop|Papa v|change pro:obj|her ?
+%grt:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	yep ‡ a bowel+move(ment) . [+ RES]
+%com:	"change her" probably rote-learned
+%trn:	co|yep beg|beg det|a n|+n|bowel+n|movement .
+%grt:	1|4|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	hmm ? [+ RES]
+%com:	"change her" probably rote-learned
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Papa change her . [+ RES]
+%com:	"change her" probably rote-learned
+%trn:	n:prop|Papa v|change pro:obj|her .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	Papa change her .
+%trn:	n:prop|Papa v|change pro:obj|her .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve laying down .
+%trn:	n:prop|Eve part|lay-PROG adv:loc|down .
+*FAT:	Eve's laying down .
+%trn:	n:prop|Eve~aux|be&3S part|lay-PROG adv:loc|down .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	xxx .
+*FAT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx Eve xxx have a bowel+move(ment) . [+ RES]
+%trn:	n:prop|Eve v|have det|a n|+n|bowel+n|movement .
+@Tape Location:	305
+*FAT:	yep .
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx buyer .
+%trn:	n|buy&dv-AGT .
+*FAT:	huh ?
+%trn:	co|huh ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	going buyer . [+ RES]
+%trn:	part|go-PROG n|buy&dv-AGT .
+*FAT:	you're going to buy her ?
+%trn:	pro|you~aux|be&PRES part|go-PROG inf|to v|buy pro:obj|her ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*FAT:	can I buy her ?
+%trn:	mod|can pro:sub|I v|buy pro:obj|her ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where're you going ?
+%trn:	adv:wh|where~aux|be&PRES pro|you part|go-PROG ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	Papa . [+ RES]
+%trn:	n:prop|Papa .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	with Papa ?
+%trn:	prep|with n:prop|Papa ?
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*RIC:	where ?
+%trn:	adv:wh|where ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a penny . [+ RES]
+%trn:	det|a n|penny .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	with a penny ?
+%trn:	prep|with det|a n|penny ?
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where's your penny ?
+%trn:	adv:wh|where~v:cop|be&3S pro:poss:det|your n|penny ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	fire . [+ RES]
+%trn:	n|fire .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	fire ?
+%trn:	n|fire ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	in fire . [+ RES]
+%trn:	prep|in n|fire .
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*FAT:	in the fire ?
+%trn:	prep|in det|the n|fire ?
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	a:h [?] (.) ‡ your penny's not in the fire .
+%trn:	co|ah beg|beg pro:poss:det|your n|penny~v:cop|be&3S neg|not prep|in
+	det|the n|fire .
+%grt:	1|5|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|LOC 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	xxx right here .
+%trn:	adv|right adv:loc|here .
+*FAT:	right there ?
+%trn:	adv|right adv:loc|there ?
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where ?
+%trn:	adv:wh|where ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	table . [+ RES]
+%trn:	n|table .
+%grt:	1|0|INCROOT 2|1|PUNCT
+@Tape Location:	315
+*FAT:	on the table ?
+%trn:	prep|on det|the n|table ?
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no [/] (.) no .
+%trn:	co|no  .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	your penny ?
+%trn:	pro:poss:det|your n|penny ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mama ? [+ RES]
+%trn:	n:prop|Mama ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Mama's upstairs feeding baby Sarah .
+%trn:	n:prop|Mama~aux|be&3S adv:loc|upstairs part|feed-PROG n|baby n:prop|Sarah .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|LOC 4|2|XJCT 5|6|NAME 6|4|OBJ 7|2|PUNCT
+*CHI:	Sarah . [+ IMIT]
+%trn:	n:prop|Sarah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	uhhuh (.) ‡ she'll be down in a minute .
+%trn:	co|uhhuh beg|beg pro:sub|she~mod|will v:cop|be prep|down prep|in det|a
+	n|minute .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|LOC 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	down a minute . [+ RES]
+%trn:	adv:loc|down det|a n|minute .
+*FAT:	right .
+%trn:	co|right .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you penny .
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	pro|you n|penny .
+*CHI:	you penny .
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	pro|you n|penny .
+*CHI:	Mama upstair(s) food baby Sarah .
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	n:prop|Mama adv:loc|upstairs n|food n|baby n:prop|Sarah .
+*CHI:	Mammy upstair(s) +...
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	n:prop|Mammy adv:loc|upstairs +...
+*CHI:	feed +...
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	v|feed +...
+*CHI:	oh write penny .
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	co|oh v|write n|penny .
+*CHI:	write penny .
+%com:	note delay in producing what previously might have been immediate imitation
+%trn:	v|write n|penny .
+*FAT:	there it is .
+%trn:	adv:loc|there pro|it v:cop|be&3S .
+%grt:	1|3|LOC 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	going byebye (.) Papa .
+%act:	she goes upstairs
+%trn:	part|go-PROG co|byebye n:prop|Papa .
+*CHI:	byebye (.) „ Papa .
+%act:	she goes upstairs
+%trn:	co|byebye end|end n:prop|Papa .
+%grt:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*CHI:	byebye (.) „ Fraser .
+%act:	she goes upstairs
+%trn:	co|byebye end|end n:prop|Fraser .
+%grt:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*CHI:	Eve see Mom baby Sarah .
+%act:	she goes upstairs
+%trn:	n:prop|Eve v|see n:prop|Mom n|baby n:prop|Sarah .
+*FAT:	why don't you come down here and see Fraser ?
+%trn:	adv:wh|why mod|do~neg|not pro|you v|come prep|down adv:loc|here
+	coord|and v|see n:prop|Fraser ?
+%grt:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|JCT 8|5|CONJ
+	9|8|COORD 10|9|OBJ 11|5|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Eve (.) ‡ come down here „ please +...
+%trn:	n:prop|Eve beg|beg v|come prep|down adv:loc|here end|end co|please +...
+%grt:	1|3|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|ENDP 7|3|END
+	8|3|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and move horsie .
+%trn:	coord|and v|move n|horse-DIM .
+%grt:	1|2|COORD 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	he's too near the fire .
+%trn:	pro:sub|he~v:cop|be&3S adv:int|too adj|near det|the n|fire .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|LOC 5|6|DET 6|4|POBJ 7|2|PUNCT
+*FAT:	he's going to get too hot .
+%trn:	pro:sub|he~aux|be&3S part|go-PROG inf|to v|get adv:int|too adj|hot .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|JCT 7|5|PRED 8|3|PUNCT
+*FAT:	come and move horsie .
+%trn:	v|come coord|and v|move n|horse-DIM .
+%grt:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+@Tape Location:	335
+*CHI:	come move horsie . [+ IMIT]
+%trn:	v|come v|move n|horse-DIM .
+%grt:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	yes +...
+%trn:	co|yes +...
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	please move him .
+%trn:	co|please v|move pro:obj|him .
+%grt:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	please move him . [+ IMIT]
+%trn:	co|please v|move pro:obj|him .
+%grt:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	thank+you .
+%trn:	int|+int|thank+int|you .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	please move him . [+ IMIT]
+%act:	moves horse towards fire
+%trn:	co|please v|move pro:obj|him .
+%grt:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	move him away from the fire .
+%trn:	v|move pro:obj|him adv|away prep|from det|the n|fire .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*FAT:	he's getting too warm .
+%trn:	pro:sub|he~aux|be&3S part|get-PROG adv:int|too adj|warm .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*FAT:	he's getting much too warm .
+%trn:	pro:sub|he~aux|be&3S part|get-PROG adv:int|much adv:int|too adj|warm .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|JCT 5|6|JCT 6|3|PRED 7|3|PUNCT
+*CHI:	much too warm . [+ IMIT]
+%act:	starts to go upstairs
+%trn:	adv:int|much adv:int|too adj|warm .
+%grt:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	Eve +...
+%act:	starts to go upstairs
+%trn:	n:prop|Eve +...
+*CHI:	<going night_bye@c> [//] Eve going byebye .
+%act:	starts to go upstairs
+%com:	<2> seems to be a combination of night+night and byebye
+%trn:	n:prop|Eve part|go-PROG co|byebye .
+*FAT:	did you feed dolly ?
+%trn:	mod|do&PAST pro|you v|feed n|doll-DIM ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you did ?
+%trn:	pro|you mod|do&PAST ?
+%grt:	1|2|SUBJ 2|0|AUX-ROOT 3|2|PUNCT
+*CHI:	byebye [/] byebye (.) Papa .
+%trn:	co|byebye n:prop|Papa .
+%grt:	1|0|INCROOT 2|1|VOC 3|1|PUNCT
+*FAT:	Eve ?
+%trn:	n:prop|Eve ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	would you come here and show Fraser your lion ?
+%trn:	mod|will&COND pro|you v|come adv:loc|here coord|and v|show
+	n:prop|Fraser pro:poss:det|your n|lion ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ2
+	8|9|DET 9|6|OBJ 10|3|PUNCT
+*FAT:	show him your lion and your turtle (.) „ please .
+%trn:	v|show pro:obj|him pro:poss:det|your n|lion coord|and
+	pro:poss:det|your n|turtle end|end co|please .
+%grt:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|9|ENDP  9|1|END 10|1|PUNCT
+*CHI:	show Fraser lion . [+ IMIT]
+%trn:	v|show n:prop|Fraser n|lion .
+%grt:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|1|PUNCT
+*COL:	that's a good idea .
+%trn:	pro:dem|that~v:cop|be&3S det|a adj|good n|idea .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	turtle .
+%trn:	n|turtle .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	that's a turtle (.) „ is it ?
+%trn:	pro:dem|that~v:cop|be&3S det|a n|turtle end|end v:cop|be&3S pro|it ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|TAGP 6|2|TAG 7|6|SUBJ
+	8|2|PUNCT
+*CHI:	lion .
+%trn:	n|lion .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	and what's the lion's name ?
+%trn:	coord|and pro:wh|what~v:cop|be&3S det|the n|lion~poss|s n|name ?
+%grt:	1|3|COORD 2|3|PRED 3|0|ROOT 4|7|DET 5|7|MOD 6|5|POSS 7|3|SUBJ
+	8|3|PUNCT
+*CHI:	xxx <turtle turtle> [/] turtle name Froggie . [+ RES]
+%trn:	n|turtle n|name n:prop|Froggie .
+@Tape Location:	360
+*FAT:	the turtle's name is Froggy ?
+%trn:	det|the n|turtle~poss|s n|name v:cop|be&3S n:prop|Froggy ?
+%grt:	1|4|DET 2|4|MOD 3|2|POSS 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	yep .
+%act:	<bef> picked up turtle
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<put him> [/] put him lion turtle name Froggy .
+%trn:	v|put&ZERO pro:obj|him n|lion n|turtle n|name n:prop|Froggy .
+*COL:	is the turtle's name Froggy ?
+%trn:	v:cop|be&3S det|the n|turtle~poss|s n|name n:prop|Froggy ?
+%grt:	1|0|ROOT 2|5|DET 3|5|MOD 4|3|POSS 5|1|SUBJ 6|1|PRED 7|1|PUNCT
+*CHI:	yeah lion (.) turtle (.) name Froggy turtle name Froggy .
+%trn:	co|yeah n|lion n|turtle n|name n:prop|Froggy n|turtle n|name
+	n:prop|Froggy .
+*FAT:	did you show Fraser your drum ?
+%trn:	mod|do&PAST pro|you v|show n:prop|Fraser pro:poss:det|your n|drum ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	Eve show [/] show Fraser [/] Fraser drum a <hammer hammer a hammer oh> [//] hammer .
+%trn:	n:prop|Eve v|show n:prop|Fraser n|drum det|a n|hammer .
+*FAT:	Eve (.) ‡ the other one is under the table .
+%trn:	n:prop|Eve beg|beg det|the qn|other pro:indef|one v:cop|be&3S
+	prep|under det|the n|table .
+%grt:	1|6|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|LOC 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	Fraser play .
+%trn:	n:prop|Fraser v|play .
+*COL:	oh (.) ‡ you want me to play ?
+%trn:	co|oh beg|beg pro|you v|want pro:obj|me inf|to v|play ?
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XCOMP
+	8|4|PUNCT
+*COL:	can you play ?
+%trn:	mod|can pro|you v|play ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	you play .
+%trn:	pro|you v|play .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*COL:	you show me how to do it .
+%trn:	pro|you v|show pro:obj|me adv:wh|how inf|to v|do pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|INF 6|2|XCOMP 7|6|OBJ 8|2|PUNCT
+*CHI:	Fraser +...
+%act:	<bef> beats drum
+%trn:	n:prop|Fraser +...
+*CHI:	Fraser +...
+%trn:	n:prop|Fraser +...
+*CHI:	Fraser +...
+%trn:	n:prop|Fraser +...
+*CHI:	Fraser no boot .
+%trn:	n:prop|Fraser qn|no n|boot .
+*COL:	a:h [?] (.) ‡ there's my boots .
+%trn:	co|ah beg|beg adv:loc|there~v:cop|be&3S pro:poss:det|my n|boot-PL .
+%grt:	1|4|BEG 2|1|BEGP 3|4|LOC 4|0|ROOT 5|6|DET 6|4|SUBJ 7|4|PUNCT
+*COL:	my boots are out there .
+%trn:	pro:poss:det|my n|boot-PL v:cop|be&PRES prep|out adv:loc|there .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|LOC 6|3|PUNCT
+*FAT:	in the hall .
+%trn:	prep|in det|the n|hall .
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	boot hall .
+%trn:	n|boot n|hall .
+*FAT:	whose boots are in the hall ?
+%trn:	det:wh|whose n|boot-PL v:cop|be&PRES prep|in det|the n|hall ?
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|LOC 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	Mama there Mama where's Mama boot ? [+ RES]
+%alt:	<4> where
+%trn:	n:prop|Mama adv:loc|there n:prop|Mama adv:wh|where~v:cop|be&3S
+	n:prop|Mama n|boot ?
+*FAT:	in the closet .
+%trn:	prep|in det|the n|closet .
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	trying to get drumstick
+*COL:	can you get it ?
+%trn:	mod|can pro|you v|get pro|it ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	Fraser get it .
+%trn:	n:prop|Fraser v|get pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	Papa'll get it .
+%trn:	n:prop|Papa~mod|will v|get pro|it .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<Fraser dudit@c> [/] Fraser dudit@c .
+%trn:	n:prop|Fraser chi|dudit .
+*FAT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	0 .
+%act:	plays drum
+*CHI:	again .
+%trn:	adv|again .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you .
+%trn:	pro|you .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	there .
+%trn:	adv:loc|there .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	do it again .
+%act:	handing Colin drumstick
+%trn:	v|do pro|it adv|again .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*COL:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	more sugar .
+%trn:	qn|more n|sugar .
+%grt:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*COL:	okay (.) ‡ I'll get more sugar .
+%trn:	co|okay beg|beg pro:sub|I~mod|will v|get qn|more n|sugar .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ
+	8|5|PUNCT
+*CHI:	0 .
+%act:	playing mouth-organ
+*COL:	what is that ?
+%trn:	pro:wh|what v:cop|be&3S pro:dem|that ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	dowf@c mouth ?
+%trn:	chi|dowf n|mouth ?
+*COL:	what is it ?
+%trn:	pro:wh|what v:cop|be&3S pro|it ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*COL:	what is this for ?
+%trn:	pro:wh|what v:cop|be&3S pro:dem|this prep|for ?
+%grt:	1|4|POBJ 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|2|PUNCT
+*CHI:	dowf@c +... [+ RES]
+%trn:	chi|dowf +...
+*CHI:	Eve go see . [+ RES]
+%trn:	n:prop|Eve v|go v|see .
+%grt:	1|2|SUBJ 2|3|SRL 3|0|ROOT 4|3|PUNCT
+*FAT:	where are you going ?
+%trn:	adv:wh|where aux|be&PRES pro|you part|go-PROG ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	Mama . [+ RES]
+%trn:	n:prop|Mama .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Mama'll be down in just a minute .
+%trn:	n:prop|Mama~mod|will v:cop|be prep|down prep|in adv:int|just det|a
+	n|minute .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|JCT 6|8|JCT 7|8|DET 8|5|POBJ 9|3|PUNCT
+*CHI:	ho [/] ho [/] horsie xxx see Papa .
+%trn:	n|horse-DIM v|see n:prop|Papa .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	the horsie's gonna see Papa ?
+%trn:	det|the n|horse-DIM~aux|be&3S part|go-PROG~inf|to v|see n:prop|Papa ?
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	horsie [//] horse +...
+%trn:	n|horse +...
+*CHI:	see Pa(pa) +...
+%trn:	v|see n:prop|Papa +...
+*CHI:	Papa .
+%trn:	n:prop|Papa .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	jump off the table .
+%sit:	on stairs
+%trn:	v|jump prep|off det|the n|table .
+%grt:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*FAT:	what are you gonna do ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|go-PROG~inf|to v|do ?
+%grt:	1|6|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	jump off table . [+ RES]
+%trn:	v|jump prep|off n|table .
+%grt:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FAT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	jump off the table .
+%trn:	v|jump prep|off det|the n|table .
+%grt:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	(.) jump off table downstair(s) .
+%trn:	v|jump prep|off n|table adv:loc|downstairs .
+*FAT:	(.) come here and jump off the table for Fraser .
+%trn:	v|come adv:loc|here coord|and v|jump prep|off det|the n|table
+	prep|for n:prop|Fraser .
+%grt:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|1|PUNCT
+*CHI:	no [/] no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	jump [/] Fraser jump off table .
+%trn:	n:prop|Fraser v|jump prep|off n|table .
+*COL:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	m:hm . [+ IMIT]
+%act:	<aft> jumps off table
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	whee (.) ‡ good jump .
+%trn:	co|whee beg|beg adj|good n|jump .
+%grt:	1|4|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	again .
+%trn:	adv|again .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	do it again .
+%trn:	v|do pro|it adv|again .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	move here .
+%trn:	v|move adv:loc|here .
+%grt:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	who's coming ?
+%trn:	pro:wh|who~aux|be&3S part|come-PROG ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	Mama . [+ RES]
+%trn:	n:prop|Mama .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	baby Sarah . [+ RES]
+%trn:	n|baby n:prop|Sarah .
+%grt:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*MOT:	would you like to have your lunch ?
+%trn:	mod|will&COND pro|you v|like inf|to v|have pro:poss:det|your n|lunch ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+@Tape Location:	500
+*MOT:	(.) having tapioca .
+%trn:	adj:part|have-PROG n|tapioca .
+*MOT:	you haven't had tapioca in a whole week .
+%trn:	pro|you aux|have~neg|not part|have&PERF n|tapioca prep|in det|a
+	adj|whole n|week .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD 9|6|POBJ 10|4|PUNCT
+*CHI:	tapioca whole week .
+%trn:	n|tapioca adj|whole n|week .
+*MOT:	in a whole week .
+%trn:	prep|in det|a adj|whole n|week .
+%grt:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*CHI:	baby Sarah sleeping .
+%trn:	n|baby n:prop|Sarah part|sleep-PROG .
+*CHI:	xxx holding baby Sarah .
+%trn:	part|hold-PROG n|baby n:prop|Sarah .
+*MOT:	you and Papa sit there and hold on to baby Sarah .
+%trn:	pro|you coord|and n:prop|Papa v|sit adv:loc|there coord|and v|hold
+	prep|on prep|to n|baby n:prop|Sarah .
+%grt:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD
+	8|7|JCT 9|7|JCT 10|11|NAME 11|9|POBJ 12|4|PUNCT
+*CHI:	(.) xxx stool .
+%trn:	n|stool .
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where is it ?
+%trn:	adv:wh|where v:cop|be&3S pro|it ?
+%grt:	1|2|LOC 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	where stool ?
+%trn:	adv:wh|where n|stool ?
+*MOT:	where is the stool ?
+%trn:	adv:wh|where v:cop|be&3S det|the n|stool ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*MOT:	what else would you like to have for your lunch ?
+%trn:	pro:wh|what post|else mod|will&COND pro|you v|like inf|to v|have
+	prep|for pro:poss:det|your n|lunch ?
+%grt:	1|7|OBJ 2|1|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	cheese . [+ RES]
+%trn:	n|cheese .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	cheese ?
+%trn:	n|cheese ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cheese sandwich . [+ RES]
+%trn:	n|cheese n|sandwich .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you'll have a cheese sandwich .
+%trn:	pro|you~mod|will v|have det|a n|cheese n|sandwich .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	no (.) Davy .
+%trn:	co|no n:prop|Davy .
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no (.) Davy . [+ RES]
+%trn:	co|no n:prop|Davy .
+*MOT:	no what Davy ?
+%trn:	qn|no pro:wh|what n:prop|Davy ?
+*MOT:	no what ?
+%trn:	qn|no pro:wh|what ?
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	Davy . [+ RES]
+%trn:	n:prop|Davy .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no what ?
+%trn:	qn|no pro:wh|what ?
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	Davy . [+ RES]
+%trn:	n:prop|Davy .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cheese sandwich whole week . [+ RES]
+%trn:	n|cheese n|sandwich adj|whole n|week .
+*MOT:	for a whole week .
+%trn:	prep|for det|a adj|whole n|week .
+%grt:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*MOT:	well (.) ‡ you had a cheese sandwich .
+%trn:	co|well beg|beg pro|you v|have&PAST det|a n|cheese n|sandwich .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MOT:	you haven't had tapioca for a whole week .
+%trn:	pro|you aux|have~neg|not part|have&PERF n|tapioca prep|for det|a adj|whole n|week .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD 9|6|POBJ 10|4|PUNCT
+*FAT:	no (.) ‡ she hasn't had a cheese sandwich either .
+%trn:	co|no beg|beg pro:sub|she aux|have&3S~neg|not part|have&PERF det|a
+	n|cheese n|sandwich adv|either .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|6|PUNCT
+*MOT:	do you want to eat a piece of cheese right now ?
+%trn:	mod|do pro|you v|want inf|to v|eat det|a n|piece prep|of n|cheese adv|right adv|now ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|11|JCT 11|5|JCT 12|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	let me wipe your fingers first +...
+%trn:	v|let&ZERO pro:obj|me v|wipe pro:poss:det|your n|finger-PL adv|first +...
+%grt:	1|0|ROOT 2|1|OBJ2 3|1|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|1|PUNCT
+*MOT:	cmon .
+%trn:	co|cmon .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a whole week .
+%trn:	det|a adj|whole n|week .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	for a whole week .
+%trn:	prep|for det|a adj|whole n|week .
+%grt:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is that ?
+%trn:	pro:wh|what v:cop|be&3S pro:dem|that ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	cheese sandwich . [+ RES]
+%trn:	n|cheese n|sandwich .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	that's not the cheese sandwich .
+%trn:	pro:dem|that~v:cop|be&3S neg|not det|the n|cheese n|sandwich .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+*MOT:	that's just the cheese .
+%trn:	pro:dem|that~v:cop|be&3S adv:int|just det|the n|cheese .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|2|PUNCT
+*CHI:	xxx cheese . [+ IMIT]
+%trn:	n|cheese .
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	just the cheese .
+%trn:	adv:int|just det|the n|cheese .
+%grt:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	xxx whole week .
+%trn:	adj|whole n|week .
+*MOT:	a whole week .
+%trn:	det|a adj|whole n|week .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	cheese sandwich (.) xxx that piece o(f) cheese .
+%trn:	n|cheese n|sandwich pro:dem|that n|piece prep|of n|cheese .
+*MOT:	you have_to let me wipe your fingers first and then Mommy'll give you a piece of cheese .
+%trn:	pro|you mod:aux|have_to v|let&ZERO pro:obj|me v|wipe
+	pro:poss:det|your n|finger-PL adv|first coord|and adv:tem|then
+	n:prop|Mommy~mod|will v|give pro|you det|a n|piece prep|of n|cheese .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|XCOMP 4|3|OBJ2 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|2|CONJ 10|9|JCT 11|13|SUBJ 12|13|MOD 13|9|COORD 14|13|OBJ2
+	15|16|DET 16|14|OBJ 17|16|NJCT 18|17|POBJ 19|13|PUNCT
+*MOT:	okay ?
+%trn:	co|okay ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+@Tape Location:	560
+*CHI:	no +...
+%trn:	co|no +...
+*CHI:	wipe finger .
+%trn:	v|wipe n|finger .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	but they're dirty .
+%trn:	conj|but pro:sub|they~v:cop|be&PRES adj|dirt&dn-Y .
+%grt:	1|0|CPZR 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	no [/] no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's my stool .
+%trn:	pro:dem|that~v:cop|be&3S pro:poss:det|my n|stool .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	you're sitting on my stool .
+%trn:	pro|you~aux|be&PRES part|sit-PROG prep|on pro:poss:det|my n|stool .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	Eve sit my stool .
+%trn:	n:prop|Eve v|sit pro:poss:det|my n|stool .
+*MOT:	you don't have a big stool .
+%trn:	pro|you mod|do~neg|not v|have det|a adj|big n|stool .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MOT:	you have a high+chair .
+%trn:	pro|you v|have det|a n|+adj|high+n|chair .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	<my stool my stool> [/] my stool .
+%trn:	pro:poss:det|my n|stool .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	high+chair .
+%trn:	n|+adj|high+n|chair .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you have a little stool .
+%trn:	pro|you v|have det|a adj|little n|stool .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	have little stool .
+%trn:	v|have adj|little n|stool .
+*MOT:	move your high+chair .
+%trn:	v|move pro:poss:det|your n|+adj|high+n|chair .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(be)cause that's my stool .
+%trn:	conj|because pro:dem|that~v:cop|be&3S pro:poss:det|my n|stool .
+%grt:	1|3|CPZR 2|3|SUBJ 3|0|ROOT 4|5|DET 6|3|PRED 7|3|PUNCT
+*CHI:	<that my stool> [/] that my stool .
+%trn:	pro:dem|that pro:poss:det|my n|stool .
+*MOT:	that's right .
+%trn:	pro:dem|that~v:cop|be&3S adj|right .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that's my stool .
+%trn:	pro:dem|that~v:cop|be&3S pro:poss:det|my n|stool .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	my stool .
+%trn:	pro:poss:det|my n|stool .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	move your high+chair .
+%trn:	v|move pro:poss:det|your n|+adj|high+n|chair .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	move high+chair .
+%com:	Mother says Eve doesn't have my/your distinction correct
+%trn:	v|move n|+adj|high+n|chair .
+*CHI:	that my [/] my high+chair .
+%com:	Mother says Eve doesn't have my/your distinction correct
+%trn:	pro:dem|that pro:poss:det|my n|+adj|high+n|chair .
+*MOT:	yes (.) ‡ that's your high+chair .
+%trn:	co|yes beg|beg pro:dem|that~v:cop|be&3S pro:poss:det|your
+	n|+adj|high+n|chair .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*CHI:	cold .
+%exp:	probably referring to washcloth
+%trn:	adj|cold .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	is it cold ?
+%trn:	v:cop|be&3S pro|it adj|cold ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|PUNCT
+*MOT:	it is .
+%trn:	pro|it v:cop|be&3S .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	I'm sorry about that .
+%trn:	pro:sub|I~v:cop|be&1S adj|sorry prep|about pro:dem|that .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	cheese sandwich .
+%trn:	n|cheese n|sandwich .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	there's a piece of cheese until the sandwich gets cool .
+%trn:	adv:loc|there~v:cop|be&3S det|a n|piece prep|of n|cheese conj|until
+	det|the n|sandwich v|get-3S adj|cool .
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|4|NJCT 6|5|POBJ 7|10|CPZR
+	8|9|DET 9|10|SUBJ 10|2|CJCT 11|10|PRED 12|2|PUNCT
+@Tape Location:	610
+*CHI:	the sandwich cool look .
+%act:	holding it up for Colin to look
+%trn:	det|the n|sandwich adj|cool co|look .
+*COL:	oh yes .
+%trn:	co|oh co|yes .
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	piece of cheese .
+%trn:	n|piece prep|of n|cheese .
+%grt:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	want Papa .
+%trn:	v|want n:prop|Papa .
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx Papa . [+ RES]
+%trn:	n:prop|Papa .
+*MOT:	Papa went upstairs .
+%trn:	n:prop|Papa v|go&PAST adv:loc|upstairs .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	baby Sarah .
+%sit:	baby crying
+%trn:	n|baby n:prop|Sarah .
+*MOT:	yes (.) ‡ baby Sarah's gonna take a nap .
+%trn:	co|yes beg|beg n|baby n:prop|Sarah~aux|be&3S part|go-PROG~inf|to
+	v|take det|a n|nap .
+%grt:	1|6|BEG 2|1|BEGP 3|4|NAME 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF
+	8|6|XCOMP 9|10|DET 10|8|OBJ 11|6|PUNCT
+*CHI:	baby Sarah take nap . [+ IMIT]
+%trn:	n|baby n:prop|Sarah v|take n|nap .
+*MOT:	she's gonna take a nap .
+%trn:	pro:sub|she~aux|be&3S part|go-PROG~inf|to v|take det|a n|nap .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	yes (.) ‡ in just a minute .
+%trn:	co|yes beg|beg prep|in adv:int|just det|a n|minute .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|6|JCT 5|6|DET 6|3|POBJ 7|3|PUNCT
+*CHI:	then wake up .
+%trn:	adv:tem|then v|wake adv:loc|up .
+%grt:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	then she'll wake up .
+%trn:	adv:tem|then pro:sub|she~mod|will v|wake adv:loc|up .
+%grt:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	would you like a carrot ?
+%trn:	mod|will&COND pro|you v|like det|a n|carrot ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no ?
+%trn:	co|no ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a piece of celery ?
+%trn:	det|a n|piece prep|of n|celery ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a olive ? [+ RES]
+%trn:	det|a n|olive ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what would you like ?
+%trn:	pro:wh|what mod|will&COND pro|you v|like ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	(.) breakfast . [+ RES]
+%trn:	n|breakfast .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	breakfast ?
+%trn:	n|breakfast ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you had breakfast +...
+%trn:	pro|you v|have&PAST n|breakfast +...
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	this is lunch now .
+%trn:	pro:dem|this v:cop|be&3S n|lunch adv|now .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*CHI:	who come .
+%act:	hears Father's footsteps
+%trn:	pro:wh|who v|come .
+*MOT:	here he comes .
+%trn:	adv:loc|here pro:sub|he v|come-3S .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	here come . [+ IMIT]
+%trn:	adv:loc|here v|come .
+*MOT:	here he comes .
+%trn:	adv:loc|here pro:sub|he v|come-3S .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	baby Sarah take nap .
+%trn:	n|baby n:prop|Sarah v|take n|nap .
+*MOT:	yeah (.) ‡ she's awake now +...
+%trn:	co|yeah beg|beg pro:sub|she~v:cop|be&3S v|awake adv|now +...
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|4|PUNCT
+*MOT:	she's watching you eat you .
+%trn:	pro:sub|she~aux|be&3S part|watch-PROG pro|you v|eat pro|you .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	baby [?] tape +...
+%trn:	n|baby n|tape +...
+*CHI:	tape+recorder +...
+%trn:	n|+n|tape+v|record&dv-AGT +...
+*CHI:	down +...
+%trn:	adv:loc|down +...
+*CHI:	floor .
+%trn:	n|floor .
+*MOT:	m:hm .
+%com:	end of session
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I missed the first word .
+%com:	end of session
+%trn:	pro:sub|I v|miss-PAST det|the adj|first n|word .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+@Date:	02-JAN-1963
+@Situation:	Eve is playing with large wooden beads. she sorts them by colors, although she often fails to use color names appropriately.
+*CHI:	orange one .
+%trn:	adj|orange pro:indef|one .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	that's right .
+%trn:	pro:dem|that~v:cop|be&3S adj|right .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	it is an orange one .
+%trn:	pro|it v:cop|be&3S det|a adj|orange pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	another one orange one .
+%trn:	qn|another pro:indef|one adj|orange pro:indef|one .
+*CHI:	another one .
+%trn:	qn|another pro:indef|one .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	what color is that one ?
+%trn:	pro:wh|what n|color v:cop|be&3S det|that pro:indef|one ?
+%grt:	1|2|MOD 2|3|PRED 3|0|ROOT 4|5|DET 5|3|SUBJ 6|3|PUNCT
+*CHI:	blue .
+%trn:	adj|blue .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	other one . [+ RES]
+%trn:	qn|other pro:indef|one .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	what one ?
+%trn:	det:wh|what pro:indef|one ?
+%grt:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	<another one> [/] another one . [+ RES]
+%trn:	qn|another pro:indef|one .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	another blue one .
+%trn:	qn|another adj|blue pro:indef|one .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	another blue one . [+ IMIT]
+%com:	actually a yellow one
+%trn:	qn|another adj|blue pro:indef|one .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	purple one .
+%com:	actually a yellow one
+%trn:	adj|purple pro:indef|one .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*COL:	is that a purple one ?
+%trn:	v:cop|be&3S pro:dem|that det|a adj|purple pro:indef|one ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|5|DET 4|5|MOD 5|1|PRED 6|1|PUNCT
+*CHI:	yeah .
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no (.) ‡ I don't think so .
+%trn:	co|no beg|beg pro:sub|I mod|do~neg|not v|think co|so .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*CHI:	it drop .
+%exp:	<bef> top dropped,
+%trn:	pro|it v|drop .
+*CHI:	im@c dat [: that] ?
+%trn:	chi|im pro:dem|that ?
+*CHI:	im@c dat [: that] ?
+%act:	holding up string
+%exp:	unclear meaning here
+%trn:	chi|im pro:dem|that ?
+*CHI:	im@c dat [: that] ?
+%act:	holding up string
+%exp:	unclear meaning here
+%trn:	chi|im pro:dem|that ?
+*MOT:	it's a string .
+%trn:	pro|it~v:cop|be&3S det|a n|string .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	a string . [+ IMIT]
+%trn:	det|a n|string .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	put the beads on the string .
+%trn:	v|put&ZERO det|the n|bead-PL prep|on det|the n|string .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|LOC 5|6|DET 6|4|POBJ 7|1|PUNCT
+*CHI:	im@c dat [: that] ?
+%trn:	chi|im pro:dem|that ?
+*MOT:	what is it ?
+%trn:	pro:wh|what v:cop|be&3S pro|it ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	other one . [+ RES]
+%trn:	qn|other pro:indef|one .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	another what ?
+%trn:	qn|another pro:wh|what ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	another string . [+ RES]
+%com:	m:hm .
+%trn:	qn|another n|string .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	Eve (.) ‡ can you put the beads on the string ?
+%trn:	n:prop|Eve beg|beg mod|can pro|you v|put&ZERO det|the n|bead-PL
+	prep|on det|the n|string ?
+%grt:	1|5|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|LOC
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	xxx grape juice .
+%trn:	n|grape n|juice .
+*MOT:	did we forget your grape juice ?
+%trn:	mod|do&PAST pro:sub|we v|forget pro:poss:det|your n|grape n|juice ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	can I have a string „ please ?
+%trn:	mod|can pro:sub|I v|have det|a n|string end|end co|please ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|ENDP 7|3|END 8|3|PUNCT
+*CHI:	string .
+%act:	holds up string
+%sit:	baby begins to cry
+%trn:	n|string .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baby Sarah wake up .
+%sit:	baby begins to cry
+%trn:	n|baby n:prop|Sarah v|wake adv:loc|up .
+*MOT:	yes (.) ‡ she is waking up .
+%trn:	co|yes beg|beg pro:sub|she aux|be&3S part|wake-PROG adv:loc|up .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*MOT:	she's hungry .
+%trn:	pro:sub|she~v:cop|be&3S adj|hungry .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	xxx Eve hab [: have] it .
+%com:	<2> probably "have"
+%trn:	n:prop|Eve v|have pro|it .
+*CHI:	Mom come right back .
+%trn:	n:prop|Mom v|come adv|right adv:loc|back .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*MOT:	I'll come right back ?
+%trn:	pro:sub|I~mod|will v|come adv|right adv:loc|back ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*MOT:	well (.) ‡ I'm not going away .
+%trn:	co|well beg|beg pro:sub|I~aux|be&1S neg|not part|go-PROG adv|away .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*CHI:	no going (a)way . [+ IMIT]
+%com:	no apparent reason for this, playing with phrase
+%trn:	co|no part|go-PROG adv|away .
+*CHI:	mercy gracious+mercy oh gracious+mercy toy <Eve toy Eve toy Eve toy> [/] Eve toy .
+%com:	no apparent reason for this, playing with phrase
+%trn:	int|mercy int|+int|gracious+int|mercy co|oh
+	int|+int|gracious+int|mercy n|toy n:prop|Eve n|toy .
+*CHI:	gracious+mercy .
+%com:	no apparent reason for this, playing with phrase
+%trn:	int|+int|gracious+int|mercy .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what're you doing ?
+%trn:	pro:wh|what~aux|be&PRES pro|you part|do-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	do running fast .
+%act:	<bef> running
+%trn:	v|do part|run-PROG adv|fast .
+*MOT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	you sound like a firetruck .
+%trn:	pro|you v|sound prep|like det|a n|+n|fire+n|truck .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*COL:	is that what you are ?
+%trn:	v:cop|be&3S pro:dem|that pro:wh|what pro|you v:cop|be&PRES ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*COL:	are you a firetruck ?
+%trn:	v:cop|be&PRES pro|you det|a n|+n|fire+n|truck ?
+%grt:	1|0|ROOT 2|4|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	yes . [+ RES]
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	where's the fire ?
+%trn:	adv:wh|where~v:cop|be&3S det|the n|fire ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	<firetruck firetruck> [/] firetruck . [+ RES]
+%trn:	n|+n|fire+n|truck .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	is that what you are ?
+%trn:	v:cop|be&3S pro:dem|that pro:wh|what pro|you v:cop|be&PRES ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*CHI:	yeah where fire ? [+ RES]
+%trn:	co|yeah adv:wh|where n|fire ?
+*FAT:	Eve (.) ‡ would you please bring me the ashtray from the windowsill ?
+%trn:	n:prop|Eve beg|beg mod|will&COND pro|you co|please v|bring pro:obj|me
+	det|the n|ashtray prep|from det|the n|+n|window+n|sill ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|AUX 4|6|SUBJ 5|6|COM 6|0|ROOT 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+*FAT:	the red one .
+%trn:	det|the adj|red pro:indef|one .
+%grt:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	brings it
+*FAT:	what are you doing ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|do-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx firetruck . [+ RES]
+%trn:	n|+n|fire+n|truck .
+*FAT:	Eve (.) ‡ can you put the beads on the string ?
+%trn:	n:prop|Eve beg|beg mod|can pro|you v|put&ZERO det|the n|bead-PL
+	prep|on det|the n|string ?
+%grt:	1|5|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|LOC
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	put orange one .
+%trn:	v|put&ZERO adj|orange pro:indef|one .
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	put only one .
+%trn:	v|put&ZERO qn|only det:num|one .
+%grt:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*CHI:	put only one . [+ IMIT]
+%trn:	v|put&ZERO qn|only pro:indef|one .
+%grt:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*FAT:	maybe it was orange .
+%trn:	adv|maybe pro|it v:cop|be&PAST&13S adj|orange .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*FAT:	I don't know .
+%trn:	pro:sub|I mod|do~neg|not v|know .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	put orange one .
+%trn:	v|put&ZERO adj|orange pro:indef|one .
+%grt:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	those are Papa's books .
+%trn:	pro:dem|those v:cop|be&PRES n:prop|Papa~poss|s n|book-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|PRED 6|2|PUNCT
+*MOT:	you mustn't touch .
+%trn:	pro|you mod|must~neg|not v|touch .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	book . [+ IMIT]
+%trn:	n|book .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that ?
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is that ?
+%trn:	pro:wh|what v:cop|be&3S pro:dem|that ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	Papa book . [+ RES]
+%trn:	n:prop|Papa n|book .
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	where Eve ?
+%trn:	adv:wh|where n:prop|Eve ?
+*MOT:	where is Eve ?
+%trn:	adv:wh|where v:cop|be&3S n:prop|Eve ?
+%grt:	1|2|LOC 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*MOT:	there she is .
+%trn:	adv:loc|there pro:sub|she v:cop|be&3S .
+%grt:	1|3|LOC 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	under .
+%trn:	adv:loc|under .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're under ?
+%trn:	pro|you~v:cop|be&PRES adv:loc|under ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	yes (.) ‡ you're under Papa's desk .
+%trn:	co|yes beg|beg pro|you~v:cop|be&PRES prep|under n:prop|Papa~poss|s
+	n|desk .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|LOC 6|8|MOD 7|6|POSS 8|5|POBJ
+	9|4|PUNCT
+*CHI:	where xxx ?
+%trn:	adv:wh|where ?
+*MOT:	yeah (.) ‡ where is Eve ?
+%trn:	co|yeah beg|beg adv:wh|where v:cop|be&3S n:prop|Eve ?
+%grt:	1|4|BEG 2|1|BEGP 3|4|LOC 4|0|ROOT 5|4|VOC 6|4|PUNCT
+*CHI:	Mama .
+%trn:	n:prop|Mama .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you jump in the livingroom ?
+%trn:	mod|can pro|you v|jump prep|in det|the n|+n|living+n|room ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay (.) jump in the livingroom .
+%trn:	co|okay v|jump prep|in det|the n|+n|living+n|room .
+%grt:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	forgot Eve pencil .
+%trn:	v|forget&PAST n:prop|Eve n|pencil .
+*MOT:	she forget her pencil .
+%add:	FAT
+%trn:	pro:sub|she v|forget pro:poss:det|her n|pencil .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	Mom get Eve pencil .
+%act:	running to mother .
+%trn:	n:prop|Mom v|get n:prop|Eve n|pencil .
+*MOT:	you ask Papa please (.) and he'll get you your pencil .
+%trn:	pro|you v|ask n:prop|Papa co|please coord|and pro:sub|he~mod|will
+	v|get pro|you pro:poss:det|your n|pencil .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|CONJ 6|8|SUBJ 7|8|AUX
+	8|5|COORD 9|8|OBJ2 10|11|DET 11|8|OBJ 12|2|PUNCT
+*CHI:	Papa get Eve pencil ?
+%trn:	n:prop|Papa v|get n:prop|Eve n|pencil ?
+*FAT:	what do you say ?
+%trn:	pro:wh|what mod|do pro|you v|say ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	again get Eve pencil ? [+ RES]
+%trn:	adv|again v|get n:prop|Eve n|pencil ?
+*FAT:	but what's the magic word ?
+%trn:	conj|but pro:wh|what~v:cop|be&3S det|the adj|magic n|word ?
+%grt:	1|3|CPZR 2|3|PRED 3|0|ROOT 4|6|DET 5|6|MOD 6|3|SUBJ 7|3|PUNCT
+*CHI:	please . [+ RES]
+%trn:	co|please .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	crayon [x 6] .
+%trn:	n|crayon .
+*MOT:	here (.) „ Eve .
+%trn:	adv:loc|here end|end n:prop|Eve .
+%grt:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*MOT:	here's a nice new page for you .
+%trn:	adv:loc|here~v:cop|be&3S det|a adj|nice adj|new n|page prep|for pro|you .
+%grt:	1|2|LOC 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|SUBJ 7|2|JCT 8|7|POBJ
+	9|2|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	you have one (.) and I'll have one .
+%trn:	pro|you v|have pro:indef|one coord|and pro:sub|I~mod|will v|have pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|7|SUBJ 6|7|AUX 7|4|COORD
+	8|7|OBJ 9|2|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	this is my one (.) and this is your one .
+%trn:	pro:dem|this v:cop|be&3S pro:poss:det|my pro:indef|one coord|and
+	pro:dem|this v:cop|be&3S pro:poss:det|your pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|CONJ 6|7|SUBJ 7|5|COORD
+	8|9|DET 9|7|PRED 10|2|PUNCT
+*CHI:	no .
+%com:	Eve says ABC in response to any single letter
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that write <a@l b@l c@l> [/] a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	pro:dem|that v|write n:let|a n:let|b n:let|c .
+*CHI:	that a@l b@l (.) c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	pro:dem|that n:let|a n:let|b n:let|c .
+*CHI:	my turn now .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	pro:poss:det|my n|turn adv|now .
+%grt:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*CHI:	that a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	pro:dem|that n:let|a n:let|b n:let|c .
+*CHI:	a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|ROOT 4|3|PUNCT
+*CHI:	a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*CHI:	that a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter . in response to d@l,
+%trn:	pro:dem|that n:let|a n:let|b n:let|c .
+*CHI:	that a@l b@l c@l .
+%sit:	as Colin writes the letter
+%com:	Eve says ABC in response to any single letter . in response to e@l,
+%trn:	pro:dem|that n:let|a n:let|b n:let|c .
+*CHI:	that a@l b@l d@l e@l f@l .
+%com:	Eve says ABC in response to any single letter . in response to f@l
+%trn:	pro:dem|that n:let|a n:let|b n:let|d n:let|e n:let|f .
+@Tape Location:	160
+*FAT:	what's that one ?
+%trn:	pro:wh|what~v:cop|be&3S det|that pro:indef|one ?
+%grt:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	b@l d@l e@l f@l . [+ RES]
+%com:	in response to f@l,
+%trn:	n:let|b n:let|d n:let|e n:let|f .
+%grt:	1|4|ENUM 2|4|ENUM 3|4|ENUM 4|0|INCROOT 5|4|PUNCT
+*CHI:	that a@l b@l c@l d@l e@l f@l . [+ RES]
+%com:	in response to f@l
+%trn:	pro:dem|that n:let|a n:let|b n:let|c n:let|d n:let|e n:let|f .
+*FAT:	Eve (.) ‡ g@l .
+%trn:	n:prop|Eve beg|beg n:let|g .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*CHI:	g@l . [+ IMIT]
+%trn:	n:let|g .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	b@l that b@l . [+ IMIT]
+%com:	in response to g@l
+%trn:	n:let|b pro:dem|that n:let|b .
+*FAT:	h@l .
+%trn:	n:let|h .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	h@l . [+ IMIT]
+%trn:	n:let|h .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	i@l .
+%trn:	n:let|i .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	i@l two .
+%com:	<2> in response to a@l
+%trn:	n:let|i det:num|two .
+*FAT:	a@l .
+%trn:	n:let|a .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a@l . [+ IMIT]
+%trn:	n:let|a .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	b@l .
+%trn:	n:let|b .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	b@l . [+ IMIT]
+%trn:	n:let|b .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	c@l .
+%trn:	n:let|c .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	o@l . [+ RES]
+%com:	in response to e@l
+%trn:	n:let|o .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	e@l .
+%trn:	n:let|e .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	e@l . [+ IMIT]
+%trn:	n:let|e .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	g@l .
+%trn:	n:let|g .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	d@l e@l f@l . [+ RES]
+%trn:	n:let|d n:let|e n:let|f .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*FAT:	f@l .
+%trn:	n:let|f .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	d@l e@l f@l . [+ IMIT]
+%trn:	n:let|d n:let|e n:let|f .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+@Tape Location:	185
+*FAT:	g@l h@l .
+%trn:	n:let|g n:let|h .
+%grt:	1|2|ENUM 2|0|INCROOT 3|2|PUNCT
+*CHI:	h@l . [+ IMIT]
+%trn:	n:let|h .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	i@l .
+%trn:	n:let|i .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	i@l . [+ IMIT]
+%com:	<2> to a@l
+%trn:	n:let|i .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	e@l . [+ IMIT]
+%trn:	n:let|e .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	o@l . [+ IMIT]
+%trn:	n:let|o .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	a@l .
+%trn:	n:let|a .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a@l . [+ IMIT]
+%trn:	n:let|a .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a@l b@l c@l .
+%trn:	n:let|a n:let|b n:let|c .
+%grt:	1|3|ENUM 2|3|ENUM 3|0|INCROOT 4|3|PUNCT
+*COL:	like that ?
+%trn:	prep|like pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	like that . [+ IMIT]
+%trn:	prep|like pro:dem|that .
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*COL:	like that .
+%trn:	prep|like pro:dem|that .
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	like that .
+%trn:	prep|like pro:dem|that .
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	a@l b@l c@l like that .
+%trn:	n:let|a n:let|b n:let|c prep|like pro:dem|that .
+*CHI:	a@l b@l c@l that .
+%trn:	n:let|a n:let|b n:let|c pro:dem|that .
+*CHI:	another one write here .
+%trn:	qn|another pro:indef|one v|write adv:loc|here .
+*CHI:	over here o@l +...
+%trn:	adv:loc|over adv:loc|here n:let|o +...
+*CHI:	e@l <here here> [/] here two beads .
+%trn:	n:let|e adv:loc|here det:num|two n|bead-PL .
+*FAT:	two ?
+%trn:	det:num|two ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	how many beads are there ?
+%trn:	adv:wh|how qn|many n|bead-PL v:cop|be&PRES adv:loc|there ?
+%grt:	1|4|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|LOC 6|4|PUNCT
+*CHI:	two bead . [+ RES]
+%trn:	det:num|two n|bead .
+%grt:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+@Tape Location:	205
+*FAT:	how many ?
+%trn:	adv:wh|how qn|many ?
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	how many ? [+ IMIT]
+%trn:	adv:wh|how qn|many ?
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	go count the beads .
+%trn:	v|go v|count det|the n|bead-PL .
+%grt:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve count a bead .
+%trn:	n:prop|Eve v|count det|a n|bead .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	one .
+%trn:	det:num|one .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	count one (.) two (.) three +...
+%trn:	v|count det:num|one det:num|two det:num|three +...
+*CHI:	count there again [/] again .
+%trn:	v|count adv:loc|there adv|again .
+*FAT:	again ?
+%trn:	adv|again ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yep .
+%sit:	lying on back on couch
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	another one .
+%sit:	lying on back on couch
+%trn:	qn|another pro:indef|one .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	no .
+%sit:	lying on back on couch
+%com:	in response to Father offering Eve her own sheet of paper
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve swimming .
+%sit:	lying on back on couch
+%trn:	n:prop|Eve part|swim-PROG .
+*FAT:	you're swimming ?
+%trn:	pro|you~aux|be&PRES part|swim-PROG ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	yeah I [?] swimming . [+ RES]
+%trn:	co|yeah pro:sub|I part|swim-PROG .
+*CHI:	tear .
+%act:	tore paper,
+%trn:	v|tear .
+*CHI:	Mommy fix it .
+%trn:	n:prop|Mommy v|fix pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mommy fix a paper .
+%act:	going to Mother
+%trn:	n:prop|Mommy v|fix det|a n|paper .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	will I fix the paper ?
+%trn:	mod|will pro:sub|I v|fix det|the n|paper ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	well (.) ‡ let me see .
+%trn:	co|well beg|beg  v|let&ZERO pro:obj|me v|see .
+%grt:	1|3|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*MOT:	no ‡ I don't think we can fix that paper .
+%trn:	co|no beg|beg pro:sub|I mod|do~neg|not v|think pro:sub|we mod|can
+	v|fix det|that n|paper .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|SUBJ
+	8|9|AUX  9|6|COMP 10|11|DET 11|9|OBJ 12|6|PUNCT
+*CHI:	it broken .
+%trn:	pro|it part|break&PERF .
+*MOT:	it's broken (.) „ yes .
+%trn:	pro|it~aux|be&3S part|break&PERF end|end co|yes .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|ENDP 5|2|END 6|2|PUNCT
+*MOT:	it'll still write .
+%trn:	pro|it~mod|will adv|still v|write .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	still write . [+ IMIT]
+%trn:	adv|still v|write .
+*CHI:	hi . [+ IMIT]
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+@Tape Location:	240
+*FAT:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	are you comfortable ?
+%trn:	v:cop|be&PRES pro|you adj|comfort&dv-ABLE ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|PUNCT
+*CHI:	yes Eve swimming . [+ RES]
+%trn:	co|yes n:prop|Eve part|swim-PROG .
+*COL:	where's the water ?
+%trn:	adv:wh|where~v:cop|be&3S det|the n|water ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*COL:	do you not need water to swim in ?
+%trn:	mod|do pro|you neg|not v|need n|water inf|to v|swim adv:loc|in ?
+%grt:	1|4|AUX 2|4|SUBJ 3|1|NEG 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XJCT 8|7|JCT
+	9|4|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	yeah .
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hi xxx write shoe .
+%trn:	co|hi v|write n|shoe .
+*COL:	no (.) ‡ I don't think it would be a good idea to write on your shoe
+	.
+%trn:	co|no beg|beg pro:sub|I mod|do~neg|not v|think pro|it mod|will&COND
+	v:cop|be det|a adj|good n|idea inf|to v|write prep|on
+	pro:poss:det|your n|shoe .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|12|DET 11|12|MOD 12|9|PRED 13|14|INF 14|9|XJCT 15|14|JCT
+	16|17|DET 17|14|POBJ 18|6|PUNCT
+*COL:	write on the paper .
+%trn:	v|write prep|on det|the n|paper .
+%grt:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	<I write> [//] Eve write paper .
+%trn:	n:prop|Eve v|write n|paper .
+*CHI:	gonna write the couch .
+%trn:	part|go-PROG~inf|to v|write det|the n|couch .
+*FAT:	no (.) ‡ we're not gonna write on the couch .
+%trn:	co|no beg|beg pro:sub|we~aux|be&PRES neg|not part|go-PROG~inf|to
+	v|write prep|on det|the n|couch .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|6|PUNCT
+*CHI:	write this couch .
+%trn:	v|write det|this n|couch .
+*FAT:	no (.) ‡ not on that couch either .
+%trn:	co|no beg|beg neg|not prep|on det|that n|couch adv|either .
+%grt:	1|4|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|6|DET 6|4|POBJ 7|4|JCT
+	8|4|PUNCT
+*FAT:	you [?] write only on the paper .
+%trn:	pro|you v|write adv|only prep|on det|the n|paper .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	(.) write (.) table .
+%trn:	v|write n|table .
+*FAT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve write floor .
+%trn:	n:prop|Eve v|write n|floor .
+*FAT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve write rocking+chair .
+%trn:	n:prop|Eve v|write n|+n|rocking+n|chair .
+*FAT:	no (.) ‡ not on the rocking+chair .
+%trn:	co|no beg|beg neg|not prep|on det|the n|+n|rocking+n|chair .
+%grt:	1|4|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|6|DET 6|4|POBJ 7|4|PUNCT
+*CHI:	<I write sto(ol)> [/] I write stool .
+%com:	<3> unclear meaning
+%trn:	pro:sub|I v|write n|stool .
+*FAT:	not on the stool .
+%trn:	neg|not prep|on det|the n|stool .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+@Tape Location:	270
+*CHI:	I write door .
+%trn:	pro:sub|I v|write n|door .
+*FAT:	not on the door .
+%trn:	neg|not prep|on det|the n|door .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*CHI:	I write study .
+%trn:	pro:sub|I v|write n|study .
+*FAT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I write study .
+%trn:	pro:sub|I v|write n|study .
+*FAT:	not on the study .
+%trn:	neg|not prep|on det|the n|study .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*FAT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve love crayon .
+%act:	cradling crayon in arm as Mother is doing
+%trn:	n:prop|Eve v|love n|crayon .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	with baby are you loving the crayon ?
+%trn:	prep|with n|baby aux|be&PRES pro|you part|love-PROG det|the n|crayon ?
+%grt:	1|5|JCT 2|1|POBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	oh (.) ‡ that's nice .
+%trn:	co|oh beg|beg pro:dem|that~v:cop|be&3S adj|nice .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	where crayon ?
+%trn:	adv:wh|where n|crayon ?
+*MOT:	where ?
+%trn:	adv:wh|where ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	where crayon ?
+%trn:	adv:wh|where n|crayon ?
+*CHI:	a pencil .
+%trn:	det|a n|pencil .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	you write pencil .
+%trn:	pro|you v|write n|pencil .
+*CHI:	you write a pencil .
+%trn:	pro|you v|write det|a n|pencil .
+*MOT:	you write with it .
+%trn:	pro|you v|write prep|with pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	my pencil .
+%trn:	pro:poss:det|my n|pencil .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you pencil .
+%trn:	pro|you n|pencil .
+*COL:	where's my pencil ?
+%gpx:	points correctly
+%trn:	adv:wh|where~v:cop|be&3S pro:poss:det|my n|pencil ?
+%grt:	1|2|LOC 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*COL:	whose pencil is that ?
+%trn:	det:wh|whose n|pencil v:cop|be&3S pro:dem|that ?
+%grt:	1|2|MOD 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PUNCT
+*CHI:	Eve pencil . [+ RES]
+%gpx:	points at own pencil
+%trn:	n:prop|Eve n|pencil .
+*COL:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve swimming .
+%trn:	n:prop|Eve part|swim-PROG .
+*FAT:	you're swimming ?
+%trn:	pro|you~aux|be&PRES part|swim-PROG ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx Eve swimming bath+tub .
+%trn:	n:prop|Eve part|swim-PROG n|+n|bath+n|tub .
+*MOT:	swimming in the bath+tub .
+%trn:	adj:part|swim-PROG prep|in det|the n|+n|bath+n|tub .
+%grt:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	but you're laying on the couch .
+%trn:	conj|but pro|you~aux|be&PRES part|lay-PROG prep|on det|the n|couch .
+%grt:	1|4|CPZR 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+@Tape Location:	305
+*CHI:	swimming .
+%trn:	part|swim-PROG .
+*MOT:	you're swimming on the couch ?
+%trn:	pro|you~aux|be&PRES part|swim-PROG prep|on det|the n|couch ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	you swim in the bath+tub .
+%trn:	pro|you v|swim prep|in det|the n|+n|bath+n|tub .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	Fraser help .
+%trn:	n:prop|Fraser v|help .
+*COL:	do you want me to help you ?
+%trn:	mod|do pro|you v|want pro:obj|me inf|to v|help pro|you ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+*CHI:	hurt knee .
+%trn:	v|hurt&ZERO n|knee .
+*MOT:	oh (.) ‡ you hurt your knee .
+%trn:	co|oh beg|beg pro|you v|hurt&ZERO pro:poss:det|your n|knee .
+%grt:	1|3|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx that ?
+%trn:	pro:dem|that ?
+*MOT:	that's a paper bag .
+%trn:	pro:dem|that~v:cop|be&3S det|a n|paper n|bag .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	what's in there ?
+%trn:	pro:wh|what~v:cop|be&3S prep|in adv:loc|there ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	xxx bag . [+ RES]
+%trn:	n|bag .
+*COL:	that's a bag .
+%trn:	pro:dem|that~v:cop|be&3S det|a n|bag .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*COL:	what's in it ?
+%trn:	pro:wh|what~v:cop|be&3S prep|in pro|it ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	letter . [+ RES]
+%trn:	n|letter .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	letter ?
+%trn:	n|letter ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	letter Eve [/] Eve write on it . [+ RES]
+%exp:	a piece of paper was in bag
+%trn:	n|letter n:prop|Eve v|write prep|on pro|it .
+*MOT:	here (.) ‡ you can write on it .
+%trn:	adv:loc|here beg|beg pro|you mod|can v|write prep|on pro|it .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	xxx pretty .
+%trn:	adj|pretty .
+*CHI:	another one .
+%trn:	qn|another pro:indef|one .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	what do you have on your finger ?
+%trn:	pro:wh|what mod|do pro|you v|have prep|on pro:poss:det|your n|finger ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	fire . [+ RES]
+%trn:	n|fire .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's ashes from the fireplace .
+%trn:	pro:dem|that~v:cop|be&3S n|ash-PL prep|from det|the n|+n|fire+n|place .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	bead .
+%act:	<bef> pours beads
+%trn:	n|bead .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	look at Eve .
+%trn:	v|look prep|at n:prop|Eve .
+%grt:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	what are you doing ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|do-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx riding . [+ RES]
+%trn:	part|ride-PROG .
+@Tape Location:	335
+*MOT:	you're riding ?
+%trn:	pro|you~aux|be&PRES part|ride-PROG ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	Eve [/] Eve ride tink(er)+toy .
+%exp:	<4> broom handle
+%trn:	n:prop|Eve v|ride n|+n|tinker+n|toy .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve ride tink@c xxx party yesterday .
+%trn:	n:prop|Eve v|ride chi|tink n|party adv:tem|yesterday .
+*MOT:	you went to a party yesterday ?
+%trn:	pro|you v|go&PAST prep|to det|a n|party adv:tem|yesterday ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|2|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you did ?
+%trn:	pro|you mod|do&PAST ?
+%grt:	1|2|SUBJ 2|0|AUX-ROOT 3|2|PUNCT
+*CHI:	party yesterday now .
+%trn:	n|party adv:tem|yesterday adv|now .
+*CHI:	a party +...
+%trn:	det|a n|party +...
+*CHI:	baby sneeze .
+%trn:	n|baby v|sneeze .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	she did sneeze (.) „ didn't she ?
+%trn:	pro:sub|she mod|do&PAST v|sneeze end|end mod|do&PAST~neg|not
+	pro:sub|she ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|TAGP 5|3|TAG 6|5|NEG 7|5|SUBJ 8|3|PUNCT
+*MOT:	lots_of sneezes .
+%trn:	qn|lots_of n|sneeze-PL .
+%grt:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx sneeze Eve +...
+%com:	after Eve pretended to sneeze
+%trn:	v|sneeze n:prop|Eve +...
+*CHI:	too .
+%com:	after Eve pretended to sneeze
+%trn:	post|too .
+*FAT:	yes (.) ‡ sneeze .
+%trn:	co|yes beg|beg n|sneeze .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*CHI:	no (.) Papa .
+%trn:	co|no n:prop|Papa .
+*FAT:	I've got you now .
+%par:	<bef> makes growling noise
+%trn:	pro:sub|I~aux|have part|get&PERF pro|you adv|now .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	won't you put your arm around my neck ?
+%trn:	mod|will~neg|not pro|you v|put&ZERO pro:poss:det|your n|arm
+	prep|around pro:poss:det|my n|neck ?
+%grt:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|LOC 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	no that ? [+ RES]
+%trn:	co|no pro:dem|that ?
+*MOT:	that's a string (.) from baby Sarah's blanket .
+%trn:	pro:dem|that~v:cop|be&3S det|a n|string prep|from n|baby
+	n:prop|Sarah~poss|s n|blanket .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|JCT 6|7|NAME 7|9|MOD 8|7|POSS
+	9|5|POBJ 10|2|PUNCT
+*MOT:	another one ?
+%trn:	qn|another pro:indef|one ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	no more +... [+ RES]
+%trn:	qn|no qn|more +...
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baby's hair .
+%trn:	n|baby~poss|s n|hair .
+%grt:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+*FAT:	you gonna sit down ?
+%trn:	pro|you part|go-PROG~inf|to v|sit adv:loc|down ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*FAT:	what are you doing ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|do-PROG ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@Tape Location:	360
+*CHI:	Fraser sit down .
+%trn:	n:prop|Fraser v|sit adv:loc|down .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	yes (.) ‡ Fraser's sitting down .
+%trn:	co|yes beg|beg n:prop|Fraser~aux|be&3S part|sit-PROG adv:loc|down .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*MOT:	who else is sitting down ?
+%trn:	pro:wh|who post|else aux|be&3S part|sit-PROG adv:loc|down ?
+%grt:	1|4|SUBJ 2|1|JCT 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	Papa . [+ RES]
+%trn:	n:prop|Papa .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yes .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Eve . [+ RES]
+%trn:	n:prop|Eve .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Mommy . [+ RES]
+%trn:	n:prop|Mommy .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah .
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Fraser there . [+ RES]
+%trn:	n:prop|Fraser adv:loc|there .
+*FAT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Eve . [+ RES]
+%trn:	n:prop|Eve .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	who else ?
+%trn:	pro:wh|who post|else ?
+%grt:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Fraser . [+ RES]
+%trn:	n:prop|Fraser .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*FAT:	is horsie sitting down ?
+%trn:	aux|be&3S n|horse-DIM part|sit-PROG adv:loc|down ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	no [//] yeah . [+ RES]
+%com:	horse standing up
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a [/] a [/] Eve go get (.) horsie . [+ RES]
+%com:	horse standing up
+%trn:	n:prop|Eve v|go v|get n|horse-DIM .
+%grt:	1|2|SUBJ 2|3|SRL 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	Becky . [+ RES]
+%act:	<aft> runs to get horse
+%com:	horse standing up
+%trn:	n:prop|Becky .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Becky ?
+%trn:	n:prop|Becky ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	want see Becky .
+%trn:	v|want v|see n:prop|Becky .
+*MOT:	we'll see Becky this afternoon .
+%trn:	pro:sub|we~mod|will v|see n:prop|Becky det|this n|afternoon .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|JCT 7|3|PUNCT
+*MOT:	Becky's busy right now .
+%trn:	n:prop|Becky~v:cop|be&3S adj|busy adv|right adv|now .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|JCT 5|2|JCT 6|2|PUNCT
+*MOT:	and Eve's busy .
+%trn:	coord|and n:prop|Eve~v:cop|be&3S adj|busy .
+%grt:	1|3|COORD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	Fraser busy .
+%trn:	n:prop|Fraser adj|busy .
+*MOT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he's busy .
+%trn:	pro:sub|he~v:cop|be&3S adj|busy .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what's he busy doing ?
+%trn:	pro:wh|what~aux|be&3S pro:sub|he adj|busy part|do-PROG ?
+%grt:	1|5|OBJ 2|0|ROOT 3|2|SUBJ 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*CHI:	xxx busy writing . [+ RES]
+%trn:	adj|busy part|write-PROG .
+*MOT:	busy writing .
+%trn:	adj|busy adj:part|write-PROG .
+%grt:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+*MOT:	yes (.) ‡ he is .
+%trn:	co|yes beg|beg pro:sub|he v:cop|be&3S .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where Eve pencil ?
+%trn:	adv:wh|where n:prop|Eve n|pencil ?
+*COL:	don't know .
+%trn:	mod|do~neg|not v|know .
+%grt:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*COL:	where did it go ?
+%trn:	adv:wh|where mod|do&PAST pro|it v|go ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where [//] di(d) where go ?
+%trn:	mod|do&PAST adv:wh|where v|go ?
+*CHI:	where di(d) Eve must [?] (.) find it .
+%trn:	adv:wh|where mod|do&PAST n:prop|Eve mod|must v|find pro|it .
+*MOT:	you must find it ?
+%trn:	pro|you mod|must v|find pro|it ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	(.) it's on the table (.) by the red leaves .
+%trn:	pro|it~v:cop|be&3S prep|on det|the n|table prep|by det|the adj|red n|leave-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|LOC 4|5|DET 5|3|POBJ 6|2|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*CHI:	that writing .
+%trn:	pro:dem|that part|write-PROG .
+*MOT:	no (.) ‡ on the table .
+%trn:	co|no beg|beg prep|on det|the n|table .
+%grt:	1|3|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|POBJ 6|3|PUNCT
+*CHI:	Eve writing table .
+%trn:	n:prop|Eve part|write-PROG n|table .
+*MOT:	no (.) ‡ on the paper you write .
+%trn:	co|no beg|beg prep|on det|the n|paper pro|you v|write .
+%grt:	1|7|BEG 2|1|BEGP 3|7|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	Fraser little <write (.) xxx writing> [/] writing door .
+%trn:	n:prop|Fraser adj|little part|write-PROG n|door .
+*MOT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	writing door .
+%trn:	part|write-PROG n|door .
+*FAT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	writing Fraser .
+%trn:	part|write-PROG n:prop|Fraser .
+*CHI:	write on paper .
+%trn:	v|write prep|on n|paper .
+%grt:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	right .
+%trn:	co|right .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you gonna put your paper on the box ?
+%trn:	pro|you part|go-PROG~inf|to v|put&ZERO pro:poss:det|your n|paper prep|on det|the n|box ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|LOC 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*CHI:	yep . [+ RES]
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx Fraser .
+%trn:	n:prop|Fraser .
+*MOT:	what ?
+%trn:	pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Fraser pencil . [+ RES]
+%trn:	n:prop|Fraser n|pencil .
+@Tape Location:	400
+*MOT:	Fraser needs his pencil .
+%trn:	n:prop|Fraser v|need-3S pro:poss:det|his n|pencil .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FAT:	byebye .
+%trn:	co|byebye .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx Papa ?
+%trn:	n:prop|Papa ?
+*MOT:	he's going to the basement .
+%trn:	pro:sub|he~aux|be&3S part|go-PROG prep|to det|the n|basement .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	he'll be right back .
+%trn:	pro:sub|he~mod|will v:cop|be adv|right adv:loc|back .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	other finger .
+%trn:	qn|other n|finger .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	other ?
+%trn:	qn|other ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	well (.) ‡ I have_to hold Sarah with this one or she'll fall down .
+%trn:	co|well beg|beg pro:sub|I mod:aux|have_to v|hold n:prop|Sarah prep|with
+	det|this pro:indef|one coord|or pro:sub|she~mod|will v|fall
+	adv:loc|down .
+%grt:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|CONJ 11|13|SUBJ 12|13|AUX 13|10|COORD 14|13|JCT
+	15|5|PUNCT
+*MOT:	you hold on to this one .
+%trn:	pro|you v|hold prep|on prep|to det|this pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*MOT:	you can ride horsie .
+%trn:	pro|you mod|can v|ride n|horse-DIM .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	that's more fun .
+%trn:	pro:dem|that~v:cop|be&3S qn|more n|fun .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*CHI:	more . [+ IMIT]
+%trn:	qn|more .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	dolly . [+ IMIT]
+%trn:	n|doll-DIM .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve take nap now . [+ IMIT]
+%trn:	n:prop|Eve v|take n|nap adv|now .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	you want to take a nap now ?
+%trn:	pro|you v|want inf|to v|take det|a n|nap adv|now ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|2|PUNCT
+*CHI:	yep . [+ RES]
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	after lunch .
+%trn:	prep|after n|lunch .
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	first we'll have some lunch and then you take a nap .
+%trn:	adv|first pro:sub|we~mod|will v|have qn|some n|lunch coord|and
+	adv:tem|then pro|you v|take det|a n|nap .
+%grt:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|7|COORD 5|6|QUANT 6|4|OBJ 7|0|ROOT
+	8|10|JCT 9|10|SUBJ 10|7|COORD 11|12|DET 12|10|OBJ 13|7|PUNCT
+*CHI:	no . [+ RES]
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	no xxx see Judy . [+ RES]
+%trn:	co|no v|see n:prop|Judy .
+*MOT:	you going to see Judy ?
+%trn:	pro|you part|go-PROG inf|to v|see n:prop|Judy ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	yeah Thursday . [+ RES]
+%trn:	co|yeah n:prop|Thursday .
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	on Thursday ?
+%trn:	prep|on n:prop|Thursday ?
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	no .
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are you doing to dolly ?
+%trn:	pro:wh|what aux|be&PRES pro|you part|do-PROG prep|to n|doll-DIM ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	you're squashing her .
+%trn:	pro|you~aux|be&PRES part|squash-PROG pro:obj|her .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you're squashing dolly .
+%trn:	pro|you~aux|be&PRES part|squash-PROG n|doll-DIM .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@Tape Location:	425
+*CHI:	squashing dolly . [+ IMIT]
+%trn:	part|squash-PROG n|doll-DIM .
+*CHI:	that ? [+ IMIT]
+%exp:	baby's clothes
+%trn:	pro:dem|that ?
+*MOT:	oh (.) ‡ those are just things .
+%trn:	co|oh beg|beg pro:dem|those v:cop|be&PRES adv:int|just n|thing-PL .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*MOT:	why don't you put one on dolly ?
+%trn:	adv:wh|why mod|do~neg|not pro|you v|put&ZERO pro:indef|one prep|on n|doll-DIM ?
+%grt:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|LOC 8|7|POBJ 9|5|PUNCT
+*CHI:	one dolly . [+ IMIT]
+%trn:	det:num|one n|doll-DIM .
+%grt:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	here's dolly's shirt .
+%trn:	adv:loc|here~v:cop|be&3S n|doll-DIM~poss|s n|shirt .
+%grt:	1|2|LOC 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|SUBJ 6|2|PUNCT
+*CHI:	dolly shirt . [+ IMIT]
+%trn:	n|doll-DIM n|shirt .
+*MOT:	uhhuh .
+%trn:	co|uhhuh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're noisy .
+%trn:	pro|you~v:cop|be&PRES adj|noisy .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're noisy (.) when you drink .
+%trn:	pro|you~v:cop|be&PRES adj|noisy conj|when pro|you v|drink .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|CPZR 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+*MOT:	wipe your mouth with the napkin .
+%trn:	v|wipe pro:poss:det|your n|mouth prep|with det|the n|napkin .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	Eve (.) ‡ wipe your mouth .
+%trn:	n:prop|Eve beg|beg v|wipe pro:poss:det|your n|mouth .
+%grt:	1|3|BEG 2|1|BEGP 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	grape juice .
+%trn:	n|grape n|juice .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes (.) ‡ grape juice .
+%trn:	co|yes beg|beg n|grape n|juice .
+%grt:	1|4|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	that Eve make Jim_jump .
+%com:	Jim is horse in book who jumps
+%trn:	pro:dem|that n:prop|Eve v|make n:prop|Jim_jump .
+*MOT:	you're making a Jim_jump ?
+%trn:	pro|you~aux|be&PRES part|make-PROG det|a n:prop|Jim_jump ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah ‡ Eve make a Jim_jump . [+ RES]
+%trn:	co|yeah beg|beg n:prop|Eve v|make det|a n:prop|Jim_jump .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	make a tower .
+%trn:	v|make det|a n|tower .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	make Jim_jump .
+%trn:	v|make n:prop|Jim_jump .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	make a tower .
+%trn:	v|make det|a n|tower .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	put a block on .
+%trn:	v|put&ZERO det|a n|block adv|on .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|LOC 5|1|PUNCT
+*MOT:	put another block on .
+%trn:	v|put&ZERO qn|another n|block adv|on .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|LOC 5|1|PUNCT
+*CHI:	tower big tower . [+ IMIT]
+%trn:	n|tower adj|big n|tower .
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	big tower .
+%trn:	adj|big n|tower .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@Tape Location:	455
+*CHI:	big tower have little tower . [+ IMIT]
+%trn:	adj|big n|tower v|have adj|little n|tower .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	little tower ?
+%trn:	adj|little n|tower ?
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	make other tower .
+%trn:	v|make qn|other n|tower .
+%grt:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx make lunch .
+%trn:	v|make n|lunch .
+*CHI:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hi .
+%trn:	co|hi .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you gonna make Eve grape juice ?
+%trn:	pro|you part|go-PROG~inf|to v|make n:prop|Eve n|grape n|juice ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ2 6|7|MOD 7|4|OBJ
+	8|2|PUNCT
+*MOT:	no (.) ‡ make Eve's soup .
+%trn:	co|no beg|beg v|make n:prop|Eve~poss|s n|soup .
+%grt:	1|3|BEG 2|1|BEGP 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|OBJ 7|3|PUNCT
+*CHI:	make Eve (.) soup . [+ IMIT]
+%trn:	v|make n:prop|Eve n|soup .
+%grt:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	I making Eve (.) soup . [+ IMIT]
+%trn:	pro:sub|I part|make-PROG n:prop|Eve n|soup .
+*CHI:	that ? [+ IMIT]
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	that's a reel .
+%trn:	pro:dem|that~v:cop|be&3S det|a n|reel .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	a reel . [+ IMIT]
+%trn:	det|a n|reel .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	reel . [+ IMIT]
+%trn:	n|reel .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	reel . [+ IMIT]
+%trn:	n|reel .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	reel . [+ IMIT]
+%trn:	n|reel .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	reel . [+ IMIT]
+%trn:	n|reel .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that my briefcase . [+ IMIT]
+%exp:	Fraser's briefcase
+%trn:	pro:dem|that pro:poss:det|my n|briefcase .
+*COL:	no (.) ‡ that's my briefcase .
+%trn:	co|no beg|beg pro:dem|that~v:cop|be&3S pro:poss:det|my n|briefcase .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*CHI:	that my briefcase . [+ IMIT]
+%trn:	pro:dem|that pro:poss:det|my n|briefcase .
+*COL:	is that your briefcase ?
+%trn:	v:cop|be&3S pro:dem|that pro:poss:det|your n|briefcase ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it is ?
+%trn:	pro|it v:cop|be&3S ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	your briefcase .
+%add:	herself
+%exp:	about one briefcase
+%trn:	pro:poss:det|your n|briefcase .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	that a xxx briefcase .
+%add:	herself
+%exp:	about one briefcase
+%trn:	pro:dem|that det|a n|briefcase .
+*CHI:	my briefcase .
+%add:	herself
+%exp:	about one briefcase
+%trn:	pro:poss:det|my n|briefcase .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	your briefcase that ?
+%add:	herself
+%exp:	about one briefcase
+%trn:	pro:poss:det|your n|briefcase pro:dem|that ?
+*CHI:	that ?
+%add:	herself
+%exp:	about one briefcase
+%trn:	pro:dem|that ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*COL:	that's a box (.) with a reel inside it .
+%trn:	pro:dem|that~v:cop|be&3S det|a n|box prep|with det|a n|reel prep|inside pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|2|PUNCT
+*CHI:	see .
+%trn:	co|see .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	see .
+%trn:	co|see .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	that go see .
+%trn:	pro:dem|that v|go v|see .
+@Tape Location:	495
+*COL:	if you want to sit on that (.) you can put the box on the other stool (.) and then you can sit there .
+%trn:	conj|if pro|you v|want inf|to v|sit prep|on pro:dem|that pro|you
+	mod|can v|put&ZERO det|the n|box prep|on det|the qn|other n|stool
+	coord|and adv:tem|then pro|you mod|can v|sit adv:loc|there .
+%grt:	1|3|CPZR 2|3|SUBJ 3|10|CJCT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|LOC
+	14|16|DET 15|16|MOD 16|13|POBJ 17|10|CONJ 18|21|JCT 19|21|SUBJ
+	20|21|AUX 21|17|COORD 22|21|JCT 23|10|PUNCT
+*CHI:	I sit +...
+%act:	running over to other stool
+%trn:	pro:sub|I v|sit +...
+*CHI:	that stool .
+%act:	running over to other stool
+%trn:	det|that n|stool .
+*COL:	that's a good idea .
+%trn:	pro:dem|that~v:cop|be&3S det|a adj|good n|idea .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	<that my> [/] that my [//] Mommy move a stool .
+%trn:	det|that n:prop|Mommy v|move det|a n|stool .
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that my can .
+%trn:	pro:dem|that pro:poss:det|my n|can .
+*MOT:	your can ?
+%trn:	pro:poss:det|your n|can ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	let me rinse it out (.) and it can be your can .
+%trn:	v|let&ZERO pro:obj|me v|rinse pro|it adv:loc|out coord|and pro|it
+	mod|can v:cop|be pro:poss:det|your n|can .
+%grt:	1|0|ROOT 2|1|OBJ2 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|CONJ 7|9|SUBJ
+	8|9|AUX 9|6|COORD 10|11|DET 11|9|PRED 12|1|PUNCT
+*CHI:	rinse it out . [+ IMIT]
+%trn:	v|rinse pro|it adv:loc|out .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	want drink . [+ IMIT]
+%trn:	v|want n|drink .
+*MOT:	drink of what ?
+%trn:	n|drink prep|of pro:wh|what ?
+%grt:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*CHI:	drink water . [+ IMIT]
+%trn:	v|drink n|water .
+*MOT:	you put some water in it .
+%trn:	pro|you v|put&ZERO qn|some n|water prep|in pro|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|LOC 6|5|POBJ 7|2|PUNCT
+*CHI:	I put xxx in .
+%trn:	pro:sub|I v|put&ZERO adv:loc|in .
+*CHI:	I put in .
+%trn:	pro:sub|I v|put&ZERO adv:loc|in .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|LOC 4|2|PUNCT
+*MOT:	you put it in .
+%trn:	pro|you v|put&ZERO pro|it adv:loc|in .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|LOC 5|2|PUNCT
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve put in .
+%trn:	n:prop|Eve v|put&ZERO adv:loc|in .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|LOC 4|2|PUNCT
+*CHI:	a [/] a [/] a piece celery .
+%trn:	det|a n|piece n|celery .
+*MOT:	a piece of celery ?
+%trn:	det|a n|piece prep|of n|celery ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	alright .
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	celery .
+%trn:	n|celery .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a piece of celery .
+%trn:	det|a n|piece prep|of n|celery .
+%grt:	1|2|DET 2|0|ROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CHI:	Fraser piece o(f) celery .
+%trn:	n:prop|Fraser n|piece prep|of n|celery .
+@Tape Location:	450
+*MOT:	no (.) ‡ I don't think Fraser wants a piece of celery .
+%trn:	co|no beg|beg pro:sub|I mod|do~neg|not v|think n:prop|Fraser v|want-3S
+	det|a n|piece prep|of n|celery .
+%grt:	1|6|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|6|PUNCT
+*MOT:	we'll just give Eve a piece of celery .
+%trn:	pro:sub|we~mod|will adv:int|just v|give n:prop|Eve det|a n|piece prep|of n|celery .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*MOT:	alright ?
+%trn:	co|alright ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	just Mam piece o(f) celery .
+%exp:	<2> meaning unclear
+%trn:	adv:int|just n:prop|Mam n|piece prep|of n|celery .
+*MOT:	just Eve .
+%trn:	adv:int|just n:prop|Eve .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	Mammy .
+%trn:	n:prop|Mammy .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Eve piece o(f) celery .
+%trn:	n:prop|Eve n|piece prep|of n|celery .
+*CHI:	xxx doing (.) Mommy ?
+%trn:	part|do-PROG n:prop|Mommy ?
+*MOT:	I'm shoving some pans around .
+%trn:	pro:sub|I~aux|be&1S part|shove-PROG qn|some n|pan-PL adv:loc|around .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	xxx Papa ?
+%trn:	n:prop|Papa ?
+*MOT:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx Papa . [+ RES]
+%trn:	n:prop|Papa .
+*MOT:	what_about Papa ?
+%trn:	adv:wh|what_about n:prop|Papa ?
+%grt:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	hmm ?
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<xxx Papa> [x 2] . [+ RES]
+%trn:	n:prop|Papa .
+*MOT:	I don't know what you're saying (.) „ sweetie .
+%trn:	pro:sub|I mod|do~neg|not v|know pro:wh|what pro|you~aux|be&PRES
+	part|say-PROG end|end co:voc|sweetie .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|OBJ 6|8|SUBJ 7|8|AUX 8|4|XCOMP
+	9|10|ENDP 10|4|END 11|4|PUNCT
+*CHI:	got mouthful .
+%trn:	part|get&PERF n|mouth-FULL .
+*MOT:	you have a mouthful ?
+%trn:	pro|you v|have det|a n|mouth-FULL ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	Eve (.) ‡ what are you doing ?
+%trn:	n:prop|Eve beg|beg pro:wh|what aux|be&PRES pro|you part|do-PROG ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	eating . [+ RES]
+%trn:	part|eat-PROG .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	eating ?
+%trn:	adj:part|eat-PROG ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	well (.) ‡ get out_of the sink .
+%trn:	co|well beg|beg v|get prep|out_of det|the n|sink .
+%grt:	1|3|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	please .
+%trn:	co|please .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hmm ? [+ RES]
+%trn:	co|hmm ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	please get out_of the sink .
+%trn:	co|please v|get prep|out_of det|the n|sink .
+%grt:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	huh ? [+ RES]
+%trn:	co|huh ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	for lunch we're going to have chips .
+%trn:	prep|for n|lunch pro:sub|we~aux|be&PRES part|go-PROG inf|to v|have n|chip-PL .
+%grt:	1|7|JCT 2|1|POBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*MOT:	you like that ?
+%trn:	pro|you v|like pro:dem|that ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@Tape Location:	540
+*CHI:	where Pap go ?
+%trn:	adv:wh|where n:prop|Pap v|go ?
+*MOT:	I can't understand you with your mouth full .
+%trn:	pro:sub|I mod|can~neg|not v|understand pro|you prep|with
+	pro:poss:det|your n|mouth adj|full .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|4|PUNCT
+*MOT:	chew it up (.) and tell me again .
+%trn:	v|chew pro|it adv:loc|up coord|and v|tell pro:obj|me adv|again .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|CONJ 5|4|COORD 6|5|OBJ 7|5|JCT 8|1|PUNCT
+*MOT:	Eve (.) ‡ what did you say ?
+%trn:	n:prop|Eve beg|beg pro:wh|what mod|do&PAST pro|you v|say ?
+%grt:	1|6|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	where Papa go ? [+ RES]
+%trn:	adv:wh|where n:prop|Papa v|go ?
+*MOT:	where did Papa go ?
+%trn:	adv:wh|where mod|do&PAST n:prop|Papa v|go ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	he went upstairs but he's back now .
+%trn:	pro:sub|he v|go&PAST adv:loc|upstairs conj|but
+	pro:sub|he~v:cop|be&3S adv:loc|back adv|now .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|6|SUBJ 6|4|COORD 7|6|PRED
+	8|6|JCT 9|2|PUNCT
+*CHI:	back now . [+ IMIT]
+%trn:	adv:loc|back adv|now .
+*MOT:	he came back .
+%trn:	pro:sub|he v|come&PAST adv:loc|back .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	Papa came back .
+%trn:	n:prop|Papa v|come&PAST adv:loc|back .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	what was that she said ?
+%trn:	pro:wh|what v:cop|be&PAST&13S pro:dem|that pro:sub|she v|say&PAST ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+*FAT:	Papa came back (.) „ I think .
+%trn:	n:prop|Papa v|come&PAST adv:loc|back end|end pro:sub|I v|think .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|TAGP 5|6|SUBJ 6|2|TAG 7|2|PUNCT
+*CHI:	Papa came back . [+ IMIT]
+%trn:	n:prop|Papa v|come&PAST adv:loc|back .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	what's that mess ?
+%trn:	pro:wh|what~v:cop|be&3S det|that n|mess ?
+%grt:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+*CHI:	&m . [+ RES]
+*MOT:	would you take that out_of your mouth ?
+%trn:	mod|will&COND pro|you v|take pro:dem|that prep|out_of pro:poss:det|your n|mouth ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	yep . [+ RES]
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	want another piece of celery ?
+%trn:	v|want qn|another n|piece prep|of n|celery ?
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*MOT:	xxx peel it first .
+%trn:	v|peel pro|it adv|first .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	xxx peel it first . [+ IMIT]
+%trn:	v|peel pro|it adv|first .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	xxx peel it first . [+ IMIT]
+%trn:	v|peel pro|it adv|first .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	Eve piece celery . [+ IMIT]
+%trn:	n:prop|Eve n|piece n|celery .
+*MOT:	m:hm .
+%trn:	co|yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	isn't it good ?
+%trn:	v:cop|be&3S~neg|not pro|it adj|good ?
+%grt:	1|0|ROOT 2|1|NEG 3|1|SUBJ 4|1|PRED 5|1|PUNCT
+*CHI:	yep . [+ RES]
+%trn:	co|yep .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's this ?
+%trn:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+%grt:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+*CHI:	that +... [+ RES]
+%trn:	pro:dem|that +...
+*CHI:	my stool . [+ RES]
+%trn:	pro:poss:det|my n|stool .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	on your stool ?
+%trn:	prep|on pro:poss:det|your n|stool ?
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	my stool . [+ RES]
+%trn:	pro:poss:det|my n|stool .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Tape Location:	615
+*MOT:	you're on my [!!] stool .
+%trn:	pro|you~v:cop|be&PRES prep|on pro:poss:det|my n|stool .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	you're sitting on my [!!] stool .
+%trn:	pro|you~aux|be&PRES part|sit-PROG prep|on pro:poss:det|my n|stool .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	you on my [!!] stool . [+ IMIT]
+%trn:	pro|you prep|on pro:poss:det|my n|stool .
+*MOT:	you're sitting on Momma's stool .
+%trn:	pro|you~aux|be&PRES part|sit-PROG prep|on n:prop|Momma~poss|s n|stool .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|5|POSS 7|4|POBJ 8|3|PUNCT
+*CHI:	more that ?
+%trn:	qn|more pro:dem|that ?
+*CHI:	Mommy (.) that ?
+%trn:	n:prop|Mommy pro:dem|that ?
+*MOT:	it's a pickle .
+%trn:	pro|it~v:cop|be&3S det|a n|pickle .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	do you want one ?
+%trn:	mod|do pro|you v|want pro:indef|one ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah . [+ RES]
+%trn:	co|yeah .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you may have one .
+%trn:	pro|you mod|may v|have pro:indef|one .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you may take one .
+%trn:	pro|you mod|may v|take pro:indef|one .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	a pickle .
+%trn:	det|a n|pickle .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	a pickle .
+%trn:	det|a n|pickle .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx take pickle .
+%trn:	v|take n|pickle .
+*COL:	yes (.) ‡ it's a pickle .
+%trn:	co|yes beg|beg pro|it~v:cop|be&3S det|a n|pickle .
+%grt:	1|4|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+@Tape Location:	650
+@End

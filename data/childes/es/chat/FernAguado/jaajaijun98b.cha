@@ -1,0 +1,379 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	JAA JavierApesteguía Target_Child , JAI Jaime Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|JAA|3;7.05||||Target_Child|||
+@ID:	spa|fernaguado|JAI|3;7.22||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	01-JUN-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	JAI y JAA juegan con el barco
+*JAA:	no hay piratas .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have n|pirata&masc-PL=pirate . 
+*INV:	búscalos .
+%mor:	v|busca-2S&IMP~pro:clit|OBJ&MASC&PL . 
+*INV:	yo creo que sí hay .
+%mor:	pro:per|yo=I v|cree-1S&PRES=believe prep|que=than adv|sí=yes v|habe-3S&PRES&SPEC=have 
+	. 
+*JAI:	yo veo que sí hay .
+%mor:	pro:per|yo=I v|ve-1S&PRES=see prep|que=than adv|sí=yes v|habe-3S&PRES&SPEC=have 
+	. 
+%com:	los coge de la habitación del capitán
+*JAA:	mira (.) pa(ra) jugar !
+%mor:	co|mira=look prep|para=for v|juga-INF=play ! 
+*INV:	claro .
+%mor:	co|claro=obvious . 
+*JAA:	mira [/] mira el barco de piratas .
+%mor:	co|mira=look det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	. 
+*JAI:	yo lo tengo !
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him v|tene-1S&PRES=have ! 
+*JAA:	mira una silla .
+%mor:	co|mira=look det:art|un-FEM=one n|silla&fem=chair . 
+*INV:	mira (.) a_ver qué más hay .
+%mor:	co|mira=look co|a_ver=see pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have 
+	. 
+*JAI:	<yo &es> [/] yo éste (.) sí y tú éste .
+%mor:	pro:per|yo=I pro:dem|éste=this_one co|sí=yes coord|y=and pro:per|tú=you 
+	pro:dem|éste=this_one . 
+%com:	reparte los muñecos
+*JAA:	cuál ?
+%mor:	pro:int|cuál=which ? 
+*JAI:	yo éste .
+%mor:	pro:per|yo=I pro:dem|éste=this_one . 
+*JAI:	salen por aquí .
+%mor:	v|sali-3P&PRES=leave prep|por=for adv|aquí=here . 
+%com:	los saca por la habitación
+*JAA:	yo éstos .
+%mor:	pro:per|yo=I pro:dem|éste-MASC-PL=this_one . 
+*JAI:	aquí está .
+%mor:	adv|aquí=here v|esta-3S&PRES=be . 
+*JAA:	el barco del pirata .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de~det|el&MASC n|pirata&masc=pirate 
+	. 
+*JAI:	mira el tesoro !
+%mor:	co|mira=look det:art|el&MASC&SG=the co:voc|tesoro=treasure ! 
+*JAI:	yo ésta bala .
+%mor:	pro:per|yo=I pro:dem|éste-FEM=this_one n|bala&fem=bullet . 
+*JAI:	yo ésta bala .
+%mor:	pro:per|yo=I pro:dem|éste-FEM=this_one n|bala&fem=bullet . 
+*JAA:	sí (.) muy bien .
+%mor:	co|sí=yes adv|muy=very adv|bien=well . 
+*JAA:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*JAI:	dónde se puede poner ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put 
+	? 
+%com:	la bala
+*JAI:	aquí se puede poner .
+%mor:	adv|aquí=here pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put . 
+%com:	en el cañón
+*JAA:	el barco de piratas !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	! 
+*JAI:	dónde ?
+%mor:	pro:int|dónde=where ? 
+%com:	no sabe dónde poner las velas
+*INV:	un poco más arriba .
+%mor:	det:art|un&masc=one adv|poco=few adv|más=more adv|arriba=above . 
+*JAA:	yo [/] yo voy a hase [: hace] [*] más que más .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to v|hace-3S&PRES=do adv|más=more 
+	prep|que=than adv|más=more . 
+*JAA:	voy a hase [: hace] [*] esto (.) el barco del pirata !
+%mor:	v|i-1S&PRES=go prep|a=to v|hace-3S&PRES=do det:dem|este-MASC=this det:art|el&MASC&SG=the 
+	n|barco-MASC=boat prep|de~det|el&MASC n|pirata&masc=pirate ! 
+*JAI:	no !
+%mor:	adv|no=no ! 
+%com:	se pelean por el cañón
+*JAA:	que yo también quiero !
+%mor:	prep|que=than pro:per|yo=I adv|también=also v|quere-1S&PRES=want ! 
+%com:	disparan el cañón
+*JAA:	oh (.) el barco de piratas !
+%mor:	co|oh=oh det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	! 
+%com:	casi se cae al disparar el cañón
+*JAA:	el barco del piratas .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de~det|el&MASC n|pirata&masc-PL=pirate 
+	. 
+*JAA:	yo soy esto !
+%mor:	pro:per|yo=I v|se-1S&PRES=be det:dem|este-MASC=this ! 
+*JAA:	la espada (.) pion^pion@o !
+%mor:	det:art|el&FEM&SG=the n|espada&fem=sword on|pionpion ! 
+*JAI:	allá voy !
+%mor:	adv|allá=there v|i-1S&PRES=go ! 
+*JAA:	yo voy a ser esto (.) así .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to n|ser&masc=being det:dem|este-MASC=this 
+	adv|así=thus . 
+*JAA:	ahora <yo voy a jugar> [/] yo voy a jugar a casas ?
+%mor:	adv|ahora=now pro:per|yo=I v|i-1S&PRES=go prep|a=to v|juga-INF=play prep|a=to 
+	n|casa&fem-PL=house ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	hoy con el barco (.) vale (.) y con Jaime que es tu amigo .
+%mor:	adv|hoy=today prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat co|vale=okay 
+	coord|y=and prep|con=with n:prop|Jaime prep|que=than v|se-3S&PRES=be det:pos|tu=your 
+	n|amigo-MASC=friend . 
+*JAA:	pero también con las casas ?
+%mor:	conj|pero=but adv|también=also prep|con=with det:art|el&FEM-PL=the n|casa&fem-PL=house 
+	? 
+*INV:	sí (.) pero después .
+%mor:	co|sí=yes conj|pero=but adv|después=after . 
+*INV:	ahora con el barco (.) vale ?
+%mor:	adv|ahora=now prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat co|vale=okay 
+	? 
+*JAA:	un rato .
+%mor:	det:art|un&masc=one n|rato-MASC=rat . 
+*JAA:	voy a hase [: hace] [*] esto .
+%mor:	v|i-1S&PRES=go prep|a=to v|hace-3S&PRES=do det:dem|este-MASC=this . 
+*JAA:	mira (.) Jaime !
+%mor:	co|mira=look n:prop|Jaime ! 
+%com:	coloca muñecos en el barco
+*JAI:	a la lancha !
+%mor:	prep|a=to det:art|el&FEM&SG=the n|lancha&fem=launch ! 
+*JAA:	aquí hay +/.
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have +/. 
+*JAA:	qué haces ?
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ? 
+*JAI:	para subir (.) mira .
+%mor:	prep|para=for v|subi-INF=go_up co|mira=look . 
+%com:	juega con el ancla
+*JAA:	yo voy aquí .
+%mor:	pro:per|yo=I v|i-1S&PRES=go adv|aquí=here . 
+*JAA:	yo éste .
+%mor:	pro:per|yo=I pro:dem|éste=this_one . 
+*JAI:	eh (.) que ese era el mío .
+%mor:	co|eh prep|que=than det:dem|ese=that v|se-13S&PAS=be det:art|el&MASC&SG=the 
+	pro:pos|mío-MASC=mine . 
+*JAA:	ála (.) pero lo he cogido .
+%mor:	co|ála conj|pero=but pro:per:1|lo&masc=him co|he part|coge-PPART&MASC=take 
+	. 
+*JAI:	pero era el mío .
+%mor:	conj|pero=but v|se-13S&PAS=be det:art|el&MASC&SG=the pro:pos|mío-MASC=mine 
+	. 
+*INV:	pero no os peleéis (.) verdad ?
+%mor:	conj|pero=but adv|no=no pro:per|os=you v|pelea-2P&SUB&PRES=fight co|verdad=right 
+	? 
+*INV:	que hay muchos piratas .
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have det:indef|mucho-MASC-PL=many n|pirata&masc-PL=pirate 
+	. 
+*JAA:	mira la espada .
+%mor:	co|mira=look det:art|el&FEM&SG=the n|espada&fem=sword . 
+*JAI:	tu éste y yo la espada .
+%mor:	det:pos|tu=your pro:dem|éste=this_one coord|y=and pro:per|yo=I det:art|el&FEM&SG=the 
+	n|espada&fem=sword . 
+%com:	le da otro muñeco y se queda con el que querían los dos
+*JAA:	vale (.) la espada !
+%mor:	co|vale=okay det:art|el&FEM&SG=the n|espada&fem=sword ! 
+*JAI:	dos para +/.
+%mor:	det:num|dos=two prep|para=for +/. 
+*JAA:	la espada !
+%mor:	det:art|el&FEM&SG=the n|espada&fem=sword ! 
+*JAI:	yo éstos dos .
+%mor:	pro:per|yo=I pro:dem|éste-MASC-PL=this_one det:num|dos=two . 
+*JAI:	el tesoro !
+%mor:	det:art|el&MASC&SG=the co:voc|tesoro=treasure ! 
+*JAI:	éste cuál es ?
+%mor:	pro:dem|éste=this_one pro:int|cuál=which v|se-3S&PRES=be ? 
+*JAI:	el mío ?
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine ? 
+*JAA:	bajar .
+%mor:	v|baja-INF=come_down . 
+*JAA:	yo soy más fuerte !
+%mor:	pro:per|yo=I v|se-1S&PRES=be adv|más=more adj|fuerte=strong ! 
+*JAI:	<y yo> [/] y yo !
+%mor:	coord|y=and pro:per|yo=I ! 
+*JAA:	yo voy aquí !
+%mor:	pro:per|yo=I v|i-1S&PRES=go adv|aquí=here ! 
+*JAI:	y yo voy aquí agarrando !
+%mor:	coord|y=and pro:per|yo=I v|i-1S&PRES=go adv|aquí=here v|agarra-PROG=grasp 
+	! 
+*JAA:	pues yo también quiero aquí !
+%mor:	co|pues=well pro:per|yo=I adv|también=also v|quere-1S&PRES=want adv|aquí=here 
+	! 
+*JAA:	ah (.) que me voy chicos !
+%mor:	co|ah prep|que=than pro:per|me=me v|i-1S&PRES=go adj|chico-MASC-PL=small 
+	! 
+%com:	mueve el barco
+*JAA:	<me voy> [/] me voy !
+%mor:	pro:per|me=me v|i-1S&PRES=go ! 
+*JAA:	el barco de piratas !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of n|pirata&masc-PL=pirate 
+	! 
+*JAI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	coge un muñeco del suelo
+*JAA:	<me voy> [/] <me voy> [/] me voy !
+%mor:	pro:per|me=me v|i-1S&PRES=go ! 
+*INV:	pero por ahí no .
+%mor:	conj|pero=but prep|por=for adv|ahí=there adv|no=no . 
+*INV:	traedlo para aquí el barco .
+%mor:	v|trae-2P&IMP~pro:clit|OBJ&MASC prep|para=for adv|aquí=here det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*JAA:	ahora yo con éste .
+%mor:	adv|ahora=now pro:per|yo=I prep|con=with pro:dem|éste=this_one . 
+%com:	coge un pirata del suelo
+*JAA:	yo ahora con éste (.) vale ?
+%mor:	pro:per|yo=I adv|ahora=now prep|con=with pro:dem|éste=this_one co|vale=okay 
+	? 
+*JAI:	ya está (.) listo !
+%mor:	adv|ya=already v|esta-3S&PRES=be adj|listo-MASC=ready ! 
+*JAI:	estoy a la orden !
+%mor:	v|esta-1S&PRES=be prep|a=to det:art|el&FEM&SG=the n|orden&masc=order ! 
+*JAI:	ahí !
+%mor:	adv|ahí=there ! 
+*JAI:	xxx !
+*JAI:	ven(id) [*] chicos !
+%mor:	v|veni-2P&IMP=come adj|chico-MASC-PL=small ! 
+*JAI:	ya está libre !
+%mor:	adv|ya=already v|esta-3S&PRES=be adj|libre=free ! 
+*JAI:	allá voy !
+%mor:	adv|allá=there v|i-1S&PRES=go ! 
+*JAA:	cómo se hace éste barco ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do pro:dem|éste=this_one 
+	n|barco-MASC=boat ? 
+%com:	se dirige a mi para intentar cargar el arpón
+*JAA:	cómo se hace esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do det:dem|este-MASC=this 
+	? 
+*INV:	mira (.) ven aquí .
+%mor:	co|mira=look co|ven=come adv|aquí=here . 
+*JAA:	oh (.) mira !
+%mor:	co|oh=oh co|mira=look ! 
+%com:	se le enreda la cuerda en la bata
+*INV:	que se te engancha .
+%mor:	prep|que=than pro:per|se=itself pro:per|te=you v|engancha-3S&PRES=hook 
+	. 
+*INV:	mira (.) se pone esto aquí y se hace así .
+%mor:	co|mira=look pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	adv|aquí=here coord|y=and pro:per|se=itself v|hace-3S&PRES=do adv|así=thus 
+	. 
+*INV:	has visto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress ? 
+*INV:	te ha gustado ?
+%mor:	pro:per|te=you co|ha part|gusta-PPART&MASC=like ? 
+*JAA:	0 [=! asintiendo] .
+*JAA:	ahora yo !
+%mor:	adv|ahora=now pro:per|yo=I ! 
+*INV:	toma (.) muy bien .
+%mor:	v|toma-3S&PRES=take adv|muy=very adv|bien=well . 
+*INV:	a_ver cómo se pone .
+%mor:	co|a_ver=see pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put . 
+*INV:	ya sabes ?
+%mor:	adv|ya=already co|sabes=you_know ? 
+*JAA:	0 [=! asintiendo] .
+*JAA:	qué casi no puedo !
+%mor:	pro:int|qué=what adv|casi=almost adv|no=no v|pode-1S&PRES=can ! 
+*JAA:	los piratas ?
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate ? 
+*JAI:	los piratas están aquí .
+%mor:	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|esta-3P&PRES=be adv|aquí=here 
+	. 
+*JAA:	ahora cambiamos .
+%mor:	adv|ahora=now v|cambia-1P&PRES=change . 
+%com:	de muñecos
+*JAA:	sí .
+%mor:	co|sí=yes . 
+*JAI:	ahora cambiamos .
+%mor:	adv|ahora=now v|cambia-1P&PRES=change . 
+*JAI:	no .
+%mor:	adv|no=no . 
+*JAI:	toma éste .
+%mor:	v|toma-3S&PRES=take pro:dem|éste=this_one . 
+*JAI:	yo éstos dos .
+%mor:	pro:per|yo=I pro:dem|éste-MASC-PL=this_one det:num|dos=two . 
+*JAI:	tú éste .
+%mor:	pro:per|tú=you pro:dem|éste=this_one . 
+*JAA:	cambiamos .
+%mor:	v|cambia-1P&PRES=change . 
+*JAI:	cambiamos de sitio .
+%mor:	v|cambia-1P&PRES=change prep|de=of n|sitio&masc=place . 
+*JAA:	tú éstos .
+%mor:	pro:per|tú=you pro:dem|éste-MASC-PL=this_one . 
+%com:	piratas
+*JAA:	así y yo con éste .
+%mor:	adv|así=thus coord|y=and pro:per|yo=I prep|con=with pro:dem|éste=this_one 
+	. 
+*JAA:	esto es para ver .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|ve-INF=see . 
+%com:	el catalejo
+*JAA:	<se ha caído> [/] <se ha caido> [/] se ha caido .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+%com:	el barco
+*JAA:	cómo es ?
+%mor:	co|cómo v|se-3S&PRES=be ? 
+*JAI:	aquí (.) mira .
+%mor:	adv|aquí=here co|mira=look . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*JAA:	éste es para ver .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be prep|para=for v|ve-INF=see . 
+*INV:	muy bien (.) sí [/] sí .
+%mor:	adv|muy=very adv|bien=well co|sí=yes . 
+*JAA:	vamos a jugar !
+%mor:	co|vamos=go prep|a=to v|juga-INF=play ! 
+*JAI:	el pata palo .
+%mor:	det:art|el&MASC&SG=the n|pata&fem=animal_foot n|palo&masc=stick . 
+*INV:	pero Jaime (.) tráete el barco más ahí que sino os vais a dar con la mesa .
+%mor:	conj|pero=but n:prop|Jaime v|trae-2S&IMP~pro:clit|2S det:art|el&MASC&SG=the 
+	n|barco-MASC=boat adv|más=more adv|ahí=there prep|que=than conj|sino=except 
+	pro:per|os=you v|i-2P&PRES=go prep|a=to v|da-INF=give prep|con=with det:art|el&FEM&SG=the 
+	n|mesa&fem=table . 
+%com:	lo acercan
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*JAA:	tiene ruedas ?
+%mor:	v|tene-3S&PRES=have n|rueda&fem-PL=wheel ? 
+*INV:	sí (.) claro .
+%mor:	co|sí=yes co|claro=obvious . 
+*JAA:	<ahora a comer> [/] ahora a comer .
+%mor:	adv|ahora=now prep|a=to v|come-INF=eat . 
+*JAA:	aquí hay una silla .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|silla&fem=chair 
+	. 
+*JAI:	pero éstos no querían comer .
+%mor:	conj|pero=but pro:dem|éste-MASC-PL=this_one adv|no=no v|quere-3P&PAS=want 
+	v|come-INF=eat . 
+*JAA:	sí .
+%mor:	co|sí=yes . 
+*JAA:	sí querían .
+%mor:	adv|sí=yes v|quere-3P&PAS=want . 
+*JAI:	no .
+%mor:	adv|no=no . 
+*JAI:	<éstos dos> [//] éstos tres no .
+%mor:	pro:dem|éste-MASC-PL=this_one det:num|tres=three co|no=no . 
+*JAA:	sí querían .
+%mor:	adv|sí=yes v|quere-3P&PAS=want . 
+*JAI:	<querían luchar> [/] querían luchar .
+%mor:	v|quere-3P&PAS=want v|lucha-INF=fight . 
+*JAA:	pues yo también lucho .
+%mor:	co|pues=well pro:per|yo=I adv|también=also v|lucha-1S&PRES=fight . 
+*JAI:	pues venga !
+%mor:	co|pues=well co|venga=come_on ! 
+*JAI:	al ataque !
+%mor:	prep|a~det|el&MASC v|ataca-13S&SUB&PRES=attack ! 
+*JAA:	a luchar .
+%mor:	prep|a=to v|lucha-INF=fight . 
+*JAA:	al ataque !
+%mor:	prep|a~det|el&MASC v|ataca-13S&SUB&PRES=attack ! 
+*JAA:	y éste no tiene espada .
+%mor:	coord|y=and pro:dem|éste=this_one adv|no=no v|tene-3S&PRES=have n|espada&fem=sword 
+	. 
+*JAA:	no tiene .
+%mor:	adv|no=no v|tene-3S&PRES=have . 
+*JAI:	éste sí .
+%mor:	pro:dem|éste=this_one co|sí=yes . 
+*JAA:	oye tú !
+%mor:	co|oye=listen pro:per|tú=you ! 
+*JAI:	qué ?
+%mor:	pro:int|qué=what ? 
+*JAI:	eh (.) se ha caído !
+%mor:	co|eh pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*JAA:	se ha caído al mar !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC n|mar&fem=sea 
+	! 
+*JAI:	sí (.) venga !
+%mor:	co|sí=yes co|venga=come_on ! 
+*JAI:	me voy en ésta .
+%mor:	pro:per|me=me v|i-1S&PRES=go prep|en=in pro:dem|éste-FEM=this_one . 
+%com:	en la barca
+@End

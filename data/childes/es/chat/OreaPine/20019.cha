@@ -1,0 +1,501 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;0.19|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	24-AUG-2001
+@Location:	Madrid
+@Situation:	1 Por la noche , Juan juega con FAT y MOT con las piezas de tipo Lego en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	xxx .
+*FAT:	&=q qué haces , Juan ?
+*CHI:	0 [*] t(r)abajando .
+%err:	0 = estoy $SYN $LOS $AUXE
+*FAT:	&=q trabajando ?
+%par:	se ríe
+*CHI:	sí .
+*FAT:	venga .
+*FAT:	vete de ahí con las piezas que vamos a jugar con los aviones .
+*FAT:	venga .
+*CHI:	a jugar 0 [*] aviones . [+ IMI]
+%err:	0 = con $SYN $LOS
+*FAT:	vamos a hacer ahí aviones .
+*FAT:	vamos .
+*CHI:	aviones . [+ IMI]
+*FAT:	&=q sí ?
+*CHI:	xxx .
+*FAT:	< sienta te > [/] siéntate .
+*FAT:	epa@i .
+%act:	le sienta sobre el suelo
+*FAT:	vamos a hacer los aviones aquí .
+*CHI:	hace(r) aviones . [+ IMI]
+*FAT:	verás .
+*FAT:	&=q quién los hace ?
+*CHI:	Papá .
+*CHI:	cuat(r)o cinco séis .
+*CHI:	cuat(r)o cinco séis .
+*FAT:	cuatro cinco séis .
+*CHI:	cuat(r)o cinco séis .
+*FAT:	&=q qué estás contando piezas ?
+*CHI:	contando piezas . [+ IMI]
+*CHI:	0 [*] haciendo una torre mu(y) [/] mu(y) bonita .
+%err:	0 = estoy $SYN $LOS $AUXE
+*FAT:	&=q estás haciendo una torre muy bonita ?
+%par:	se ríe
+*CHI:	sí .
+*CHI:	da mela .
+*FAT:	toma .
+*CHI:	xxx .
+*CHI:	un t(r)a(c)to(r) .
+*FAT:	&=q un tractor ?
+*CHI:	< (toda)vía no (toda)vía no > [/] (toda)vía no .
+*FAT:	todavía no . [+ ADS]
+*FAT:	&=q qué le falta al tractor ?
+*CHI:	pue(r)ta [?] . [+ NON]
+*CHI:	mira < u(n) ba(r)co > [/] un ba(r)co .
+*FAT:	&=q un barco has hecho ?
+*CHI:	no .
+*CHI:	parece un t(r)acto(r) .
+*FAT:	&=q parece un tractor ? [+ ADS]
+*CHI:	< un t(r)actor > [//] ot(r)o t(r)actor .
+*CHI:	mira el t(r)acto(r) .
+*CHI:	mira e(s)to .
+*CHI:	ot(r)o t(r)acto(r) xxx . [+ NON]
+*CHI:	xxx .
+*CHI:	uy@i < qué ha hecho > [/] qué [*] ha [*] hecho < un barco velero > [/] un barco velero .
+%err:	qué = 0 $SYN $ADD ; ha = he $MOR $SUB $NFL PREX3s/PREX1s
+*FAT:	&=q un barco velero has hecho ?
+*CHI:	ahí [x 2] .
+*CHI:	mira .
+*CHI:	< e(s)te barco > [/] e(s)te barco < se llama > [/] se llama Carolina .
+*FAT:	&=q este barco se llama Carolina ? [+ ADS]
+*FAT:	pero bueno , Juan .
+%par:	riendose sorprendido
+*CHI:	xxx .
+*FAT:	&=q cómo ?
+*CHI:	xxx .
+*CHI:	0 [*] ha [*] hecho mal .
+%err:	0 = lo $MOR $LOS $PREFIX ; ha = he $MOR $SUB $NFL PREX3s/PREX1s
+*CHI:	0 [*] ha hecho mal .
+*FAT:	&=q quién ha hecho mal ? [+ COR]
+*CHI:	Juan .
+*FAT:	&=q por qué ?
+*FAT:	&=q por qué has hecho mal ?
+*FAT:	no .
+*FAT:	está muy bien hecho el barco .
+*FAT:	es muy bonito .
+*CHI:	bonito . [+ IMI]
+*FAT:	es bonito .
+*CHI:	xxx .
+*FAT:	así que este barco se llama Carolina .
+*FAT:	&=q sí ?
+*FAT:	&=q y cómo navega el barco ?
+*FAT:	&=q a ver cómo navega ?
+*CHI:	sí .
+*CHI:	xxx .
+*CHI:	parece una ambu(l)ancia .
+*FAT:	&=q parece una ambulancia ? [+ ADS]
+*CHI:	sí .
+*FAT:	&=q este es el barco Carolina ?
+*FAT:	&=q así , eh@i ?
+%act:	coge el barco que ha hecho Juan
+*CHI:	sí .
+*FAT:	&=q a ver cómo navega ?
+*CHI:	< se ha > [/] se ha roto 0 [*] avión .
+%err:	0 = el $SYN $LOS
+*FAT:	&=q se ha roto el avión ? [+ COR]
+*FAT:	&=q dónde pongo la pieza ?
+*CHI:	aquí .
+*FAT:	&=q aquí ?
+*FAT:	mira el barco .
+*FAT:	mira .
+*CHI:	barco velero .
+*FAT:	un barco velero .
+*CHI:	dá melo .
+*FAT:	toma .
+*FAT:	tóma lo .
+*CHI:	uh@o .
+%act:	choca el barco contra el avion
+*CHI:	chocan .
+*FAT:	&=q chocan un barco y un avión ?
+*FAT:	a ver .
+*FAT:	&=q por dónde va el avión ?
+*CHI:	ahí .
+%act:	levanta el avión
+*FAT:	por el aire .
+*FAT:	eso es .
+*FAT:	por arriba .
+*FAT:	&=q y el barco por dónde va ?
+*CHI:	0 .
+%act:	levanta también el barco
+*FAT:	&=q por el aire también ?
+*FAT:	no .
+*FAT:	&=q el barco por dónde va , Juan ?
+*CHI:	0 .
+%act:	mueve el barco haciendo círculos
+*FAT:	por el agua .
+*MOT:	entonces el barco va por el agua y el avion va por el aire .
+*FAT:	así .
+%act:	se lo muestra
+*CHI:	así . [+ IMI]
+*FAT:	el barco por abajo .
+*FAT:	y el avión por arriba .
+*CHI:	mm@o .
+*CHI:	póne [*] lo ahí .
+%err:	pone = pon $MOR $ADD $REG
+*FAT:	&=q quieres que lo ponga ahí ?
+*CHI:	no .
+*FAT:	&=q has visto que ha dicho pone lo ?
+%add:	cámara
+*CHI:	xxx .
+*FAT:	&=q cómo [x 3] ?
+*CHI:	así xxx . [+ NON]
+*CHI:	así grande .
+*FAT:	&=q así de grande ?
+*CHI:	así de grande . [+ IMI]
+*CHI:	ahí .
+*FAT:	&=q ahí arriba ?
+*CHI:	abí@x [/] allí [/] allí 0 [*] el s(u)elo .
+*FAT:	&=q aquí en el suelo ?
+*FAT:	a ver .
+*FAT:	me estás volviendo loco , cariño .
+*CHI:	allí arriba .
+*FAT:	&=q arriba quién ?
+*CHI:	arriba Juan .
+*FAT:	arriba Juan . [+ ADS]
+*FAT:	&=q el avión ?
+*CHI:	el avión . [+ IMI]
+*FAT:	y abajo Chindasvinto en el barco .
+%exp:	Chindasvinto = Goth king of Navarra in the seventh century , a funny name , in any case
+*FAT:	&=q vale ?
+*FAT:	venga .
+*FAT:	abajo Chindasvinto .
+*FAT:	y arriba el avión .
+*FAT:	Chindasvinto en el barco Carolina .
+*FAT:	y Juan en el avión .
+*CHI:	< el ba(r)co > [/] el ba(r)co mejor .
+*FAT:	el barco mejor quieres tener , Juan .
+*CHI:	toma .
+*CHI:	Juan , Carolina y 0 [*] patos .
+%err:	0 = los or unos $SYN $LOS
+*CHI:	parece [*] patos .
+%err:	parece = parecen $MOR $LOS $NFL 3s/3p
+*FAT:	&=q parece un pato (.) < el bar@x > [/] el avión ?
+*CHI:	sí .
+*FAT:	&=q y el barco qué parece ?
+@Situation:	1 Por la noche , Juan juega con FAT y MOT con las piezas de tipo Lego en la terraza
+@Situation:	1
+@Time Start:	21:00
+*CHI:	azoa [: parece] [?] un muñeco . [+ NON]
+*FAT:	&=q parece un muñeco ?
+*CHI:	no .
+*FAT:	no .
+*FAT:	&=q qué parece ?
+*CHI:	0 [*] pa@x [/] parece una [*] Carolina .
+%err:	0 = se $MOR $LOS $PREFIX ; una = 0 $SYN $ADD
+*FAT:	&=q parece a Carolina ? [+ COR]
+%par:	riéndose
+*FAT:	&=q sí ?
+*CHI:	parece Papá 0 [*] Mamá .
+%err:	0 = y $SYN $LOS
+*FAT:	&=q < parece Papa y Mamá > [//] Papá y Mamá se parecen al barco velero ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	esto que no conste en acta &=q eh@i ?
+*CHI:	xxx ahí . [+ NON]
+*FAT:	pero +//.
+*CHI:	póne [*] la ahí .
+%err:	pone = pon $MOR $ADD $REG
+*CHI:	xxx abajo . [+ NON]
+*MOT:	0 .
+%par:	se ríe de la situación
+*FAT:	Mother se está riendo .
+*FAT:	no te rías .
+*CHI:	no te rías . [+ IMI]
+*FAT:	no te rías .
+*FAT:	dí selo a Mamá .
+*FAT:	di le que estamos trabajando , hombre .
+*CHI:	0 [*] trabajando . [+ IMI]
+%err:	0 = estamos $SYN $LOS
+*FAT:	hombre .
+*CHI:	hom(br)e . [+ IMI]
+*FAT:	mira qué bonito el mástil (.) que le he puesto a Carolina .
+*CHI:	se ha roto .
+*FAT:	&=q qué se ha roto , cariño ?
+*CHI:	se ha roto 0 [*] avión .
+%err:	0 = el $SYN $LOS
+*FAT:	vaya , hombre .
+*FAT:	&=q se ha roto el avión ? [+ COR]
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	pues vaya arquitecto tenemos de aviones .
+*CHI:	se ha roto .
+*FAT:	&=q lo arregla Papá ?
+*CHI:	parece un he(li)cóptero .
+*FAT:	&=q parece un helicóptero ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	este avión es multiusos .
+*FAT:	toma .
+*CHI:	0 .
+%act:	se le cae el avión que le acaba de dar FAT
+*FAT:	ya sabes cómo romper lo bien &=q eh@i ?
+*CHI:	xxx patos . [+ NON]
+*CHI:	xxx patos . [+ NON]
+*FAT:	&=q qué dices ?
+*CHI:	< así no así no > [/] así no , Papá .
+*FAT:	&=q no te gusta , Juan ?
+*CHI:	no .
+*FAT:	si es muy bonito .
+*CHI:	así .
+*CHI:	parece un barco velero .
+*FAT:	&=q parece un barco velero ? [+ ADS]
+*CHI:	ahí [x 2] .
+*CHI:	xxx .
+*FAT:	&=q y no te gusta cómo lo había dejado yo ?
+%com:	IPFX
+*CHI:	por ahí no .
+*CHI:	por ahí .
+*CHI:	sí quiero el barco ahí .
+*CHI:	ahí [/] pone [*] lo ahí .
+%err:	pone = pon $MOR $ADD $REG
+*FAT:	mira .
+*FAT:	fu@o .
+*FAT:	&=q lo pongo ahí ?
+*CHI:	sí .
+*CHI:	< ahí no > [/] ahí no .
+*CHI:	abajo .
+*FAT:	a ver , Juan .
+*FAT:	&=q y por qué no lo pones tú ?
+*CHI:	abajo .
+*CHI:	< abajo arriba > [/] abajo 0 [*] arriba .
+%err:	0 = y $SYN $LOS
+*CHI:	así [x 3] .
+*CHI:	falta un xxx arriba . [+ NON]
+*CHI:	falta xxx también . [+ NON]
+*CHI:	falta una pieza grande .
+*CHI:	aquí no .
+*CHI:	xxx .
+%act:	se rasca la cabeza
+*FAT:	&=q tienes arena ?
+*CHI:	abajo .
+*FAT:	&=q eh@i ?
+*FAT:	&=q tienes arena en la cabeza ?
+*CHI:	0 [*] pica .
+%err:	0 = me $MOR $LOS $PREFIX
+*FAT:	&=q te pica la cabeza ?
+*CHI:	sí .
+*FAT:	tienes arena a lo mejor de la playa .
+*FAT:	pues te he lavado la cabeza .
+*FAT:	no tienes .
+*FAT:	&=q eh@i , cariño ?
+*FAT:	toma [x 2] .
+*CHI:	toma . [+ IMI]
+*CHI:	< póne lo > [/] póne [*] lo ahí .
+%err:	pone = pon $MOR $ADD $REG
+*FAT:	0 .
+%act:	lo coloca
+*CHI:	ahí .
+*CHI:	uh@i .
+%act:	levanta el barco
+*CHI:	&=e mira !
+%act:	hace como si navegara
+*FAT:	&=e cómo navega el barco Carolina !
+*FAT:	&=e cuidado con las olas !
+*CHI:	cuidado 0 [*] (l)as olas . [+ IMI]
+%err:	0 = con $SYN $LOS
+*FAT:	qué bien navega ese barco &=q eh@i ?
+*CHI:	ot(r)o [x 3] ba(r)co .
+*FAT:	pero bueno .
+*FAT:	es que ese barco navega muy bien .
+*FAT:	te ha salido muy bien &=q eh@i ?
+*CHI:	ot(r)a vez .
+@Situation:	1 Por la noche , Juan juega con FAT y MOT con las piezas de tipo Lego en la terraza
+@Situation:	1
+@Time Start:	21:00
+*FAT:	&=q otra ola ?
+*FAT:	&=q sí ?
+*FAT:	siu@o .
+%act:	mueve los brazos haciendo como si una ola le cayera a Juan
+*CHI:	ot(r)o barco .
+*FAT:	&=q quieres que hagamos otro barco ?
+*FAT:	&=q sí ?
+*CHI:	grande .
+*FAT:	&=q otro barco grande ?
+*CHI:	ot(r)o ba(r)co g(r)ande . [+ IMI]
+*FAT:	venga .
+*FAT:	va a hacer Papá un barco grande .
+*CHI:	0 .
+%par:	se ríe muy contento
+*FAT:	es que me comía a este niño yo .
+*FAT:	me lo comía con patatas fritas .
+*CHI:	ot(r)o [x 5] .
+*CHI:	tenía [/] tenía 0 [*] t(r)actor ve(r)de .
+%err:	0 = un $SYN $LOS
+*CHI:	tenía un t(r)acto(r) ve(r)de .
+*CHI:	tenía un t(r)acto(r) ve(r)de debajo .
+*CHI:	tenía un t(r)acto(r) ve(r)de .
+*FAT:	&=q el barco tenía un tractor verde debajo ?
+*CHI:	sí .
+*FAT:	pero cómo va a ser eso .
+*CHI:	debajo [/] ahí [x 3] debajo .
+%act:	señala la parte de debajo del barco
+*CHI:	el agujero .
+*FAT:	un barco velero .
+%act:	ha terminado el baro y se lo muestra a Juan
+*CHI:	un [x 2] barco velero . [+ IMI]
+*CHI:	&=e 0 [*] chocan !
+%err:	0 = se $MOR $LOS $PREFIX
+%act:	choca un barco con el otro
+*FAT:	este barco se llama Argos .
+*CHI:	A(r)gos . [+ IMI]
+*FAT:	&=q sabes por qué se llama Argos ?
+*FAT:	porque aquí tiene una cabeza y unos ojos .
+%act:	le señala
+*CHI:	sojos@x . [+ IMI]
+*FAT:	sí .
+*FAT:	y sabe mucho .
+*CHI:	sabe mucho . [+ IMI]
+*FAT:	&=q sabes quién [/] quién cond@x [//] +//?
+*CHI:	xxx olas . [+ NON]
+*FAT:	&=q vienen olas ?
+*FAT:	ss@o .
+%act:	mueve los brazos haciendo como si una ola le cayera a Juan
+*FAT:	qué bien navegan los barcos &=q eh@i ?
+*FAT:	Argos y Calorina .
+*FAT:	&=q yo este ?
+*FAT:	&=q cuidado con las olas ?
+*FAT:	como Juan hoy en la playa eh@i con su barquita .
+*FAT:	&=q cómo hacía ?
+*FAT:	qué bien &=q eh@i ?
+*CHI:	así .
+%act:	se le cae "el aparejo" al barco de piezas de tipo Lego que tiene Juan en la mano
+*CHI:	ay@i .
+*FAT:	que se rompe .
+*CHI:	< se rompe > [/] se rompe . [+ IMI]
+*CHI:	xxx .
+%act:	lo vuelve a montar
+*CHI:	mira .
+%act:	lo levanta una vez montado
+*CHI:	era Juan .
+%act:	está a punto de caerse hacia atrás
+*FAT:	&=q te caes ?
+*CHI:	uh@i .
+*FAT:	que viene una ola grande [x 2] .
+*FAT:	uf@o .
+*FAT:	otra .
+*FAT:	uf@o .
+*CHI:	uf@o .
+*FAT:	otra .
+*FAT:	uf@o .
+*CHI:	uf@o .
+*FAT:	&=e cuidado !
+*CHI:	&=e cuidado ! [+ IMI]
+*FAT:	&=e marineros , cuidado !
+*CHI:	marineros . [+ IMI]
+*CHI:	marineros . [+ IMI]
+*CHI:	cuidado , miraneros [: marineros] . [+ IMI]
+*CHI:	cuidado , marinoros [: marineros] . [+ IMI]
+*CHI:	te caes .
+%act:	se le ha caido una pieza del barco
+*CHI:	te cae [*] , barco sí .
+%err:	cae = caes $MOR $LOS $NFL 3s/2s
+*FAT:	&=q te caes , barco ? [+ ADS]
+*FAT:	&=q se cae el barco < se cae > [/] ?
+*CHI:	se ha roto .
+*FAT:	&=q se ha roto ? [+ ADS]
+*FAT:	&=q se ha roto ? [+ ADS]
+*CHI:	está pa(r)tido .
+*FAT:	pero hombre .
+*CHI:	está ro(m)pido [*] .
+%err:	rompido = roto $MOR $ADD $REG
+*FAT:	pues no le dejes al barco que se rompa &=q no ?
+*CHI:	se cae .
+*CHI:	se rompe .
+*CHI:	se rompe .
+*FAT:	no le dejes al barco que se rompa , Juan .
+*CHI:	u(n) barco velero como e(s)te .
+*CHI:	e(s)tá rompido [*] .
+%err:	rompido = roto $MOR $ADD $REG
+*CHI:	rompido [*] .
+%err:	rompido = roto $MOR $ADD $REG
+*FAT:	pero bueno .
+*FAT:	este barco si que me está saliendo pero bonito [x 2] &=q eh@i ?
+*CHI:	bonito [x 2] . [+ IMI]
+*FAT:	mira [x 2] .
+*CHI:	&=e qué grande !
+*FAT:	qué grande .
+*FAT:	&=q cómo lo llamamos a este ?
+*CHI:	Popó .
+*FAT:	&=q Popó ?
+*FAT:	&=q y porqué no le llamamos Paula a este barco ?
+*CHI:	Paula . [+ IMI]
+*FAT:	&=q a que sí ?
+*FAT:	como tu amiguita de la playa .
+*FAT:	&=q sí [x 2] ?
+@Situation:	1 Por la noche , Juan juega con FAT y MOT con las piezas de tipo Lego en la terraza
+@Situation:	1
+@Time Start:	21:00
+*FAT:	hala@i .
+*FAT:	ese barco es muy grande &=q eh@i ?
+*FAT:	&=q a que sí ?
+*CHI:	mira .
+*CHI:	xxx una ola . [+ NON]
+*FAT:	viene una ola .
+*CHI:	grande .
+*FAT:	grande . [+ ADS]
+*CHI:	xxx .
+*FAT:	ten cuidado que se cae .
+*CHI:	se cae . [+ IMI]
+*FAT:	se cae . [+ ADS]
+*CHI:	ay@i .
+*CHI:	debajo [x 3] .
+*CHI:	0 [*] 0 [*] partido [x 4] .
+%err:	0 = se $MOR $LOS $PREFIX; 0 = ha $SYN $LOS $AUXH
+*FAT:	ss@o .
+*FAT:	que viene una ola .
+*CHI:	viene una ola . [+ IMI]
+*CHI:	uh@i < pa(r)tido e(s)tá pa(r)tido pat@x > [/] e(s)tá pa(r)tido .
+*FAT:	&=q se ha partido ?
+*FAT:	yo creo que tenemos que cambiar le el nombre &=q eh@i ?
+*FAT:	le vamos a quitar Carolina y le vamos a llamar Titanic porque se hunde mucho ese barco .
+*CHI:	xxx .
+*CHI:	< se llama se llama se > [/] se llama Papá .
+*FAT:	&=q el barco que se hunde se llama Papá ?
+*CHI:	sí .
+*FAT:	pobre Papá (.) que se hunde .
+*CHI:	se hunde .
+*FAT:	pero Papá sale otra vez &=q verdad ?
+*FAT:	cuando va < a pescar > [/] a pescar basura en el mar .
+*CHI:	a pe(s)ca(r) basura 0 [*] el mar . [+ IMI]
+%err:	0 = en $SYN $LOS
+*FAT:	oye , Juan .
+*FAT:	&=q no quieres que cenemos ?
+*CHI:	0 .
+%par:	mueve la cabeza ; no
+*FAT:	ha hecho Mamá una tortilla de patatas que se lo estará cayendo la baba a Javier cuando lo oiga .
+%com:	acertó
+*FAT:	&=q eh@i ?
+*FAT:	&=q quieres que cenemos ?
+*FAT:	mm@i .
+*FAT:	qué bien huele .
+*FAT:	con su punto de cebolla .
+*CHI:	xxx cebola . [+ NON]
+*FAT:	con aceite de oliva .
+*FAT:	mm@i .
+%par:	como si le gustara
+*FAT:	con patatas del huerto del abuelo .
+*FAT:	mm@i .
+%par:	como si le gustara
+*FAT:	di le adiós a Javi .
+*FAT:	di adiós .
+*CHI:	adiós [/] adiós , Javi .
+*FAT:	di buenas+noches .
+*CHI:	noches . [+ IMI]
+*FAT:	voy a cenar .
+*CHI:	voy a senar [: cenar] . [+ IMI]
+@End

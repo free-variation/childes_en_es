@@ -1,0 +1,313 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	AST AsierT Target_Child , DAN Daniel Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|AST|2;11.18||||Target_Child|||
+@ID:	spa|fernaguado|DAN|3;1.19||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	08-MAY-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	AST y DAN juegan con el barco
+*INV:	habrá que ponerlo (.) no ?
+%mor:	v|habe-3S&FUT=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC co|no=no 
+	? 
+*AST:	esto se +/.
+%mor:	det:dem|este-MASC=this pro:per|se=itself +/. 
+*DAN:	estaba pisando esto y lo va a romper .
+%mor:	v|esta-13S&PAS=be v|pisa-PROG=press det:dem|este-MASC=this coord|y=and 
+	pro:per:1|lo&masc=him v|i-3S&PRES=go prep|a=to v|rompe-INF=break . 
+*INV:	lo va a romper ?
+%mor:	pro:per:1|lo&masc=him v|i-3S&PRES=go prep|a=to v|rompe-INF=break ? 
+*AST:	0 [=! asintiendo] .
+*AST:	esto es aquí .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here . 
+*DAN:	esto no se rompe .
+%mor:	det:dem|este-MASC=this adv|no=no pro:per|se=itself v|rompe-3S&PRES=break 
+	. 
+*DAN:	luego [/] luego [/] luego no lo haría el pirata porque está escondido .
+%mor:	adv|luego=afterwards adv|no=no pro:per:1|lo&masc=him v|hace-13S&COND=do 
+	det:art|el&MASC&SG=the n|pirata&masc=pirate conj|porque=because v|esta-3S&PRES=be 
+	part|esconde-PPART&MASC=hide . 
+*DAN:	está escondido .
+%mor:	v|esta-3S&PRES=be part|esconde-PPART&MASC=hide . 
+*DAN:	luego (.) pum !
+%mor:	adv|luego=afterwards n|pum&masc=bang ! 
+%com:	en silencio miran el dibujo e intentan imitarlo
+*INV:	qué es eso Asier ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one n:prop|Asier ? 
+*INV:	esa bandera dónde se pone ?
+%mor:	det:dem|ese-FEM=that n|bandera&fem=banner pro:int|dónde=where pro:per|se=itself 
+	v|pone-3S&PRES=put ? 
+*INV:	oye Asier y ese pirata que tienes en el barco allá abajo dónde va ?
+%mor:	co|oye=listen n:prop|Asier coord|y=and det:dem|ese=that n|pirata&masc=pirate 
+	prep|que=than v|tene-2S&PRES=have prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat 
+	adv|allá=there adv|abajo=below pro:int|dónde=where v|i-3S&PRES=go ? 
+*INV:	oye habéis descubierto un cañón que hay en el barco ?
+%mor:	co|oye=listen v|habe-2P&PRES=have part|descubri-PPART-MASC=open det:art|un&masc=one 
+	n|cañón&masc=cannon prep|que=than v|habe-3S&PRES&SPEC=have prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat ? 
+*INV:	dónde está el cañón (.) Daniel ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	n:prop|Daniel ? 
+*INV:	un cañón del barco que dispara bolas .
+%mor:	det:art|un&masc=one n|cañón&masc=cannon prep|de~det|el&MASC n|barco-MASC=boat 
+	prep|que=than v|dispara-3S&PRES=shoot n|bola&fem-PL=ball . 
+*AST:	aquí .
+%mor:	adv|aquí=here . 
+%com:	señala un mástil
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	se ha escondido .
+%mor:	pro:per|se=itself co|ha part|esconde-PPART&MASC=hide . 
+*INV:	veis el pirata que tiene un gorro verde ?
+%mor:	v|ve-2P&PRES=see det:art|el&MASC&SG=the n|pirata&masc=pirate prep|que=than 
+	v|tene-3S&PRES=have det:art|un&masc=one n|gorro-MASC=cap adj|verde=green 
+	? 
+*INV:	veis el pirata que está en el barco ?
+%mor:	v|ve-2P&PRES=see det:art|el&MASC&SG=the n|pirata&masc=pirate prep|que=than 
+	v|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat ? 
+%com:	lo señalan
+*INV:	pues ahí abajo se abre una compuerta donde hay un cañón (.) mirad .
+%mor:	co|pues=well adv|ahí=there adv|abajo=below pro:per|se=itself v|abri-3S&PRES=open 
+	det:art|un-FEM=one n|compuerta&fem=floodgate pro:rel|donde=where v|habe-3S&PRES&SPEC=have 
+	det:art|un&masc=one n|cañón&masc=cannon v|mira-2P&IMP=look . 
+%com:	se lo enseño .
+*INV:	dame una pelota .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|un-FEM=one n|pelota&fem=ball . 
+*INV:	Asier (.) dame una pelota .
+%mor:	n:prop|Asier v|da-2S&IMP~pro:clit|1S det:art|un-FEM=one n|pelota&fem=ball 
+	. 
+*INV:	dame esa pelota .
+%mor:	v|da-2S&IMP~pro:clit|1S det:dem|ese-FEM=that n|pelota&fem=ball . 
+*AST:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+*INV:	esa .
+%mor:	det:dem|ese-FEM=that . 
+%com:	disparo el cañón
+*AST:	que diver(tido) !
+%mor:	prep|que=than adj|divertido-MASC=fun ! 
+*AST:	ay (.) qué lejos !
+%mor:	co|ay=ay pro:int|qué=what adv|lejos=far ! 
+*INV:	tienes que ir a cogerla .
+%mor:	v|tene-2S&PRES=have prep|que=than v|i-INF=go prep|a=to v|coge-INF~pro:clit|OBJ&FEM 
+	. 
+*DAN:	éste ha roto la pared .
+%mor:	pro:dem|éste=this_one co|ha part|rompe-PPART-MASC=break det:art|el&FEM&SG=the 
+	n|pared&fem=wall . 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*AST:	sí .
+%mor:	co|sí=yes . 
+*AST:	esto lo voy a poner .
+%mor:	det:dem|este-MASC=this pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to 
+	v|pone-INF=put . 
+*DAN:	está en mi barco .
+%mor:	v|esta-3S&PRES=be prep|en=in det:pos|mi=my n|barco-MASC=boat . 
+*DAN:	que están arriba .
+%mor:	prep|que=than v|esta-3P&PRES=be adv|arriba=above . 
+*DAN:	que el barco es muy grande .
+%mor:	prep|que=than det:art|el&MASC&SG=the n|barco-MASC=boat v|se-3S&PRES=be 
+	adv|muy=very adj|grande=big . 
+*DAN:	que tiene escaleras .
+%mor:	prep|que=than v|tene-3S&PRES=have n|escalera&fem-PL=staircase . 
+*AST:	a_ver (.) si tiro esto así .
+%mor:	co|a_ver=see conj|si=if n|tiro&masc=toss det:dem|este-MASC=this adv|así=thus 
+	. 
+*AST:	que aquí hay un señor .
+%mor:	prep|que=than adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un&masc=one 
+	co:voc|señor=sir . 
+*AST:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*AST:	voy a encontrar +...
+%mor:	v|i-1S&PRES=go prep|a=to v|encontra-INF=find +... 
+*AST:	que aquí tiro yo .
+%mor:	prep|que=than adv|aquí=here n|tiro&masc=toss pro:per|yo=I . 
+*DAN:	que tabla .
+%mor:	prep|que=than n|tabla&fem=plank . 
+*AST:	no puedo esto .
+%mor:	adv|no=no v|pode-1S&PRES=can det:dem|este-MASC=this . 
+*AST:	cómo se hace .
+%mor:	pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do . 
+*AST:	tiene que ser así .
+%mor:	v|tene-3S&PRES=have prep|que=than n|ser&masc=being adv|así=thus . 
+*AST:	así .
+%mor:	adv|así=thus . 
+*AST:	no tira ese .
+%mor:	adv|no=no v|tira-3S&PRES=throw det:dem|ese=that . 
+%com:	dispara
+*AST:	la bola .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball . 
+*AST:	coscorrón .
+%mor:	n|coscorrón&masc=bump_head . 
+*INV:	coscorrón ?
+%mor:	n|coscorrón&masc=bump_head ? 
+*AST:	sí .
+%mor:	co|sí=yes . 
+*INV:	cuidado .
+%mor:	co|cuidado=careful . 
+*INV:	te has hecho daño ?
+%mor:	pro:per|te=you v|habe-2S&PRES=have n|hecho&masc=action n|daño&masc=damage 
+	? 
+*AST:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	te has hecho daño ?
+%mor:	pro:per|te=you v|habe-2S&PRES=have n|hecho&masc=action n|daño&masc=damage 
+	? 
+*AST:	yo aquí .
+%mor:	pro:per|yo=I adv|aquí=here . 
+%com:	se coloca al otro lado del barco
+*DAN:	éste se ha caído aquí .
+%mor:	pro:dem|éste=this_one pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	adv|aquí=here . 
+*AST:	cuando ha subido al barco se ha caído aquí en el agujero .
+%mor:	conj|cuando=when co|ha part|subi-PPART&MASC=go_up prep|a~det|el&MASC n|barco-MASC=boat 
+	pro:per|se=itself co|ha part|cae-PPART&MASC=fall adv|aquí=here prep|en=in 
+	det:art|el&MASC&SG=the n|agujero&masc=hole . 
+*AST:	<a ver> [/] a_ver cómo se sube aquí ?
+%mor:	co|a_ver=see pro:int|cómo=how pro:per|se=itself v|subi-3S&PRES=go_up 
+	adv|aquí=here ? 
+*AST:	y se cae ?
+%mor:	coord|y=and pro:per|se=itself v|cae-3S&PRES=fall ? 
+*DAN:	cuando no podía subir al barco que estaba muy dura se cayó con xxx .
+%mor:	conj|cuando=when adv|no=no v|pode-13S&PAS=can v|subi-INF=go_up prep|a~det|el&MASC 
+	n|barco-MASC=boat prep|que=than v|esta-13S&PAS=be adv|muy=very adj|duro-FEM=hard 
+	pro:per|se=itself v|cae-3S&PRET=fall prep|con=with . 
+*AST:	pues éste se cae .
+%mor:	co|pues=well pro:dem|éste=this_one pro:per|se=itself v|cae-3S&PRES=fall 
+	. 
+*DAN:	se serraba [*] y no podía salir .
+%mor:	pro:per|se=itself v|serra-13S&PAS=saw coord|y=and adv|no=no v|pode-13S&PAS=can 
+	v|sali-INF=leave . 
+*DAN:	no .
+%mor:	adv|no=no . 
+*DAN:	éste está aquí .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be adv|aquí=here . 
+%com:	la barca
+*AST:	eh (.) pues el grande aquí ?
+%mor:	co|eh co|pues=well det:art|el&MASC&SG=the adj|grande=big adv|aquí=here 
+	? 
+%com:	el barco
+*DAN:	no .
+%mor:	adv|no=no . 
+*AST:	no se sale !
+%mor:	adv|no=no pro:per|se=itself v|sali-3S&PRES=leave ! 
+*AST:	yo no puedo .
+%mor:	pro:per|yo=I adv|no=no v|pode-1S&PRES=can . 
+*DAN:	éste sí podía .
+%mor:	pro:dem|éste=this_one co|sí=yes v|pode-13S&PAS=can . 
+*AST:	qué ?
+%mor:	pro:int|qué=what ? 
+*DAN:	+^ porque tenía dos xxx .
+%mor:	conj|porque=because v|tene-13S&PAS=have det:num|dos=two . 
+*DAN:	y éste también podía .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also v|pode-13S&PAS=can 
+	. 
+*DAN:	y éste aquí .
+%mor:	coord|y=and pro:dem|éste=this_one adv|aquí=here . 
+*AST:	huy !
+%mor:	co|huy=oh ! 
+*DAN:	y ahora le avisa a éstos .
+%mor:	coord|y=and adv|ahora=now pro:per|le=him v|avisa-3S&PRES=inform prep|a=to 
+	pro:dem|éste-MASC-PL=this_one . 
+*AST:	bien !
+%mor:	adv|bien=well ! 
+%com:	dispara
+*AST:	<Daniel (.) ya verás> [<] !
+%mor:	n:prop|Daniel adv|ya=already v|ve-2S&FUT=see ! 
+*DAN:	xxx [>] .
+%com:	no se le entiende porque la voz de AST le tapa
+*AST:	mira (.) se dispara .
+%mor:	co|mira=look pro:per|se=itself v|dispara-3S&PRES=shoot . 
+*DAN:	con la puerta se ha da(d)o .
+%mor:	prep|con=with det:art|el&FEM&SG=the n|puerta&fem=door pro:per|se=itself 
+	co|ha part|da-PPART&MASC=give . 
+*DAN:	se ha da(d)o con la puerta .
+%mor:	pro:per|se=itself co|ha part|da-PPART&MASC=give prep|con=with det:art|el&FEM&SG=the 
+	n|puerta&fem=door . 
+*AST:	qué ?
+%mor:	pro:int|qué=what ? 
+*DAN:	que se ha da(d)o con la puerta .
+%mor:	prep|que=than pro:per|se=itself co|ha part|da-PPART&MASC=give prep|con=with 
+	det:art|el&FEM&SG=the n|puerta&fem=door . 
+*AST:	quién le ha da(d)o ?
+%mor:	pro:int|quién=who pro:per|le=him co|ha part|da-PPART&MASC=give ? 
+*AST:	mira qué lejos (.) eh ?
+%mor:	co|mira=look pro:int|qué=what adv|lejos=far co|eh ? 
+*AST:	la mesa .
+%mor:	det:art|el&FEM&SG=the n|mesa&fem=table . 
+%com:	el barco choca con la mesa
+*AST:	se ha caído aquí (.) hacia la mesa y la mano (.) mira !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall adv|aquí=here prep|hacia=towards 
+	det:art|el&FEM&SG=the n|mesa&fem=table coord|y=and det:art|el&FEM&SG=the 
+	n|mano&fem=hand co|mira=look ! 
+*DAN:	éste no estaba en el barco porque era muy malo .
+%mor:	pro:dem|éste=this_one adv|no=no v|esta-13S&PAS=be prep|en=in det:art|el&MASC&SG=the 
+	n|barco-MASC=boat conj|porque=because v|se-13S&PAS=be adv|muy=very adj|malo-MASC=bad 
+	. 
+*DAN:	éste no estaba en el barco porque era muy malo .
+%mor:	pro:dem|éste=this_one adv|no=no v|esta-13S&PAS=be prep|en=in det:art|el&MASC&SG=the 
+	n|barco-MASC=boat conj|porque=because v|se-13S&PAS=be adv|muy=very adj|malo-MASC=bad 
+	. 
+*AST:	he dado aquí !
+%mor:	co|he part|da-PPART&MASC=give adv|aquí=here ! 
+*DAN:	mira qué hemos hecho ?
+%mor:	co|mira=look pro:int|qué=what v|habe-1P&PRES=have n|hecho&masc=action 
+	? 
+%com:	señala los dibujos que están colgados por la clase
+*AST:	el qué ?
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ? 
+*DAN:	mira qué hemos hecho ?
+%mor:	co|mira=look pro:int|qué=what v|habe-1P&PRES=have n|hecho&masc=action 
+	? 
+*DAN:	mira qué hemos hecho ?
+%mor:	co|mira=look pro:int|qué=what v|habe-1P&PRES=have n|hecho&masc=action 
+	? 
+*DAN:	esto le daba en el agua .
+%mor:	det:dem|este-MASC=this pro:per|le=him v|da-13S&PAS=give prep|en=in det:art|el&MASC&SG=the 
+	n|agua&fem=water . 
+*DAN:	esto le daba .
+%mor:	det:dem|este-MASC=this pro:per|le=him v|da-13S&PAS=give . 
+*AST:	he busca(d)o [*] esto .
+%mor:	co|he part|busca-PPART&MASC=search det:dem|este-MASC=this . 
+%com:	el cofre
+*DAN:	porque esto era muy duro .
+%mor:	conj|porque=because det:dem|este-MASC=this v|se-13S&PAS=be adv|muy=very 
+	adj|duro-MASC=hard . 
+*DAN:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*AST:	un cajón .
+%mor:	det:art|un&masc=one n|caja-AUG=box . 
+*AST:	un cofre .
+%mor:	det:art|un&masc=one n|cofre&masc=coffer . 
+*DAN:	pero no se abre .
+%mor:	conj|pero=but adv|no=no pro:per|se=itself v|abri-3S&PRES=open . 
+*AST:	no .
+%mor:	adv|no=no . 
+*AST:	está serra(d)o [*] .
+%mor:	v|esta-3S&PRES=be part|serra-PPART&MASC=saw . 
+*DAN:	mira (.) esto tapaba al barco .
+%mor:	co|mira=look det:dem|este-MASC=this v|tapa-13S&PAS=cover prep|a~det|el&MASC 
+	n|barco-MASC=boat . 
+*AST:	qué ?
+%mor:	pro:int|qué=what ? 
+*DAN:	y ahora se soltó .
+%mor:	coord|y=and adv|ahora=now pro:per|se=itself v|solta-3S&PRET=release . 
+%com:	tira el ancla
+*DAN:	+^ que tapaba el barco .
+%mor:	prep|que=than v|tapa-13S&PAS=cover det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*DAN:	y lo tiró y luego se soltó (.) mira .
+%mor:	coord|y=and pro:per:1|lo&masc=him v|tira-3S&PRET=throw coord|y=and adv|luego=afterwards 
+	pro:per|se=itself v|solta-3S&PRET=release co|mira=look . 
+%com:	tira el ancla
+*DAN:	da vueltas .
+%mor:	v|da-3S&PRES=give n|vuelta&fem-PL=turn . 
+*AST:	y mira yo lo que hago (.) ya verás .
+%mor:	coord|y=and co|mira=look pro:per|yo=I pro:per:1|lo&masc=him prep|que=than 
+	v|hace-1S&PRES=do adv|ya=already v|ve-2S&FUT=see . 
+%com:	dispara el cañón
+*DAN:	se ha da(d)o .
+%mor:	pro:per|se=itself co|ha part|da-PPART&MASC=give . 
+*AST:	0 [=! riendo] .
+*DAN:	0 [=! riendo] .
+@End

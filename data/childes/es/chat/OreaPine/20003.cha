@@ -1,0 +1,292 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , MOT Madre Mother , FAT Father
+@ID:	spa , eng|OreaPine|CHI|||||Target_Child|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	09-AUG-2001
+@Location:	Madrid
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza , en el apartamento de la playa
+@Situation:	1
+@Time Start:	8:00
+@Warning:	Tape location also includes previous segment ; this one starts at 170000 ms
+*MOT:	oye .
+*MOT:	&=q dónde estuvimos ayer , Juan ?
+*MOT:	&=q dónde estuvimos ayer , cacharrito ?
+*CHI:	0 .
+%act:	coge una cucharada de galletas con leche y se la mete en la boca
+*MOT:	oh@i .
+*MOT:	Juan .
+*MOT:	que lo tiras .
+*MOT:	&=q eh@i , Juan ?
+*MOT:	&=q dónde estuvimos ayer ?
+*MOT:	ay@i .
+*MOT:	trae las servilletas , por+favor .
+%add:	FAT
+*MOT:	&=q dónde estuvimos ayer ?
+*MOT:	&=q no me lo dice ?
+*CHI:	en el xxx . [+ NON]
+*MOT:	&=q dónde ?
+*CHI:	allí .
+%act:	señala hacia la calle
+*CHI:	allí (d)on(d)e (l)as bicitetes [: bicicletas] .
+*MOT:	gracias .
+%add:	FAT
+%act:	ha cogido las servilletas que le ha dado FAT
+*CHI:	(d)on(d)e (l)as bicitetas [: bicicletas] .
+*MOT:	&=q donde las bicicletas ?
+*CHI:	xxx .
+%act:	coge una pala de juguete que hay sobre la mesa y golpea
+*MOT:	eh@i .
+*CHI:	pon@o .
+*MOT:	eh@i .
+*CHI:	hace pon@o .
+%act:	vuelve a golpear
+*MOT:	Juan .
+*MOT:	mira .
+*MOT:	que vas a verter la toda .
+*MOT:	anda .
+*MOT:	méte te eso en la boca .
+*MOT:	&=q eh@i ?
+*MOT:	&=q dónde estuvimos ayer ?
+*MOT:	a ver .
+*MOT:	&=q dónde estuvimos ayer , Juan ?
+*MOT:	&=q no estuvimos en una feria grande ?
+*CHI:	feria grande . [+ IMI]
+*MOT:	&=q y dónde montó Juan ?
+*CHI:	&=e 0 [*] (l)os caballitos !
+%err:	0 = en $SYN $LOS
+%exp:	los caballitos = merry-go-round
+*MOT:	&=e en los caballitos ! [+ COR]
+*MOT:	&=q y qué hacían los caballitos ?
+*CHI:	0 .
+%act:	da saltitos sentado sobre la silla
+*MOT:	&=q y qué más hacían ?
+*MOT:	daban vueltas .
+*MOT:	&=q eh@i ?
+*CHI:	Papá también montar [*] .
+%err:	montar = montó $MOR $SUB $ROOT
+*MOT:	Papá también montó . [+ COR]
+*MOT:	&=q y qué más ?
+*MOT:	&=q quién más montó ?
+*CHI:	Juan .
+*MOT:	Juan .
+*MOT:	&=q y quién más ?
+*MOT:	y Mamá .
+*MOT:	pero Mamá estaba al lado de Juan sin montar .
+*MOT:	&=q y quiénes más ?
+*MOT:	&=q quiénes montaron en un carruaje que había allí ?
+*CHI:	xxx .
+*MOT:	&=q cómo ?
+*MOT:	&=q en un carro ?
+*MOT:	&=q quiénes montaron ?
+*MOT:	los (.) a@x [/] abuelos .
+*CHI:	ab(u)elos . [+ IMI]
+*MOT:	los abuelos .
+*MOT:	&=q no montaron los abuelos ?
+*MOT:	&=q no te acuerdas ?
+*CHI:	ab(u)elos .
+*MOT:	que iban delante de nosotros .
+*CHI:	sí .
+*MOT:	&=q sí ?
+*MOT:	&=q y dónde iban montados ellos ?
+*CHI:	0 .
+%act:	no contesta
+*MOT:	&=q y dónde más montó Juan ?
+*MOT:	a ver .
+*MOT:	&=q dónde más montó ?
+*MOT:	&=q eh@i ?
+*CHI:	0 [*] caba(ll)itos .
+%err:	0 = < en los > $SYN $LOS
+*MOT:	sí .
+*MOT:	en los caballitos ya me lo has dicho .
+*MOT:	&=q < a ver dónde más > [/] a ver dónde más ?
+*MOT:	&=q en las canoas ?
+*MOT:	&=q en las barquitas pequeñas ?
+*CHI:	ca@x [/] 0 [*] canoas . [+ IMI]
+%err:	0 = < en las > $SYN $LOS
+*MOT:	&=q en las canoas ? [+ COR]
+*MOT:	&=q y qué hacían en las canoas ?
+*CHI:	< yo a pa(r)tir > [/] yo a [*] pa(r)tir [*] .
+%err:	partir = parto $MOR $SUB $ROOT
+*MOT:	&=q sí ?
+*MOT:	&=q las siguientes ?
+*MOT:	&=q vale ?
+*MOT:	las partes tú .
+*CHI:	tira la arena .
+%act:	mira hacia la calle
+*CHI:	tira arena al suelo .
+%act:	señala hacia la calle
+*MOT:	&=q dónde ?
+%par:	parecía distraida
+*MOT:	&=q tiran arena al suelo ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*MOT:	&=q pero cómo ?
+*MOT:	&=q tiran arena al suelo los señores ?
+*CHI:	sí .
+*MOT:	&=q pero por qué ?
+*MOT:	&=q qué están haciendo ?
+*CHI:	t(r)abajando .
+%err:	0 = están $SYN $LOS $AUXE
+*MOT:	&=q están trabajando ? [+ COR]
+*MOT:	&=q y qué están haciendo ?
+*CHI:	haciendo +//. [+ IMI]
+*MOT:	una +...
+*CHI:	una [x 2] casita .
+*MOT:	&=e una casita !
+*MOT:	bueno .
+*MOT:	no está mal la casita &=q eh@i ?
+*MOT:	es una casa grandota más bien .
+*MOT:	diría yo .
+*MOT:	eso se llama un hotel .
+*MOT:	están haciendo un hotel .
+*CHI:	(ha)ciendo un hotel . [+ IMI]
+*MOT:	un hotel .
+*MOT:	que vive mucha gente a la vez .
+*MOT:	sí .
+*CHI:	pasa un t(r)actor .
+*MOT:	&=q pasa un tractor ?
+*MOT:	&=q dónde ?
+*CHI:	&=e (au)tobús [x 2] !
+%par:	señala
+*MOT:	&=q dónde hay un autobús ?
+*CHI:	&=e allí !
+%par:	señala a otro lado
+*MOT:	yo no lo veo , Juan .
+*CHI:	yo sí .
+*MOT:	tú es que siempre ves autobuses y tractores donde yo no los veo .
+*CHI:	0 .
+%act:	arrastra la pala sobre el mantel
+*MOT:	&=q qué haces ?
+*CHI:	xxx .
+%act:	golpea sobre la mesa con la palita
+*MOT:	Juan .
+*MOT:	te quito la pala &=q eh@i ?
+*MOT:	&=q te la quito ?
+*CHI:	0 .
+%par:	mueve la cabeza ; no
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza , en el apartamento de la playa , FAT está en el interior y apenas interviene
+@Situation:	1
+@Time Start:	8:00
+@Warning:	this segment starts at 480000 ms
+*MOT:	vaya .
+*MOT:	< se cayó > [/] se cayó .
+%act:	recoge del suelo un poco de galleta con leche que se le ha caído al intentar dársela a Juan
+*CHI:	&=e se cayó ! [+ IMI]
+*MOT:	&=q tenía hambre Juan ?
+*MOT:	uh@i .
+*CHI:	mm@i .
+%par:	se queja
+%act:	intenta coger galletas con su cuchara
+*MOT:	venga .
+*MOT:	yo te lo echo .
+%act:	le echa un poco de galleta en la cuchara
+*MOT:	&=q el otro también ?
+*MOT:	jolín .
+*MOT:	Juan .
+*MOT:	vale .
+*MOT:	venga .
+*MOT:	va .
+*MOT:	a la boca .
+*MOT:	&=q echamos más ?
+*MOT:	&=q sí ?
+*MOT:	&=q echamos más galletas ?
+*MOT:	oye .
+*MOT:	&=q dónde vamos a ir hoy ?
+*MOT:	&=q dónde vamos a ir hoy ?
+*CHI:	xxx caballitos . [+ NON]
+*MOT:	&=q otra vez a los caballitos ?
+%par:	se ríe
+*MOT:	&=q otra vez a los caballitos , cariño ?
+%par:	riéndose
+*MOT:	creo que no vamos a ir a los caballitos hoy .
+*MOT:	+" otra vez a los caballitos dice .
+%par:	alegre
+*CHI:	0 .
+%act:	restriega la cuchara sobre la mesa
+*MOT:	oye , Juan .
+*MOT:	vale .
+*MOT:	no seas gorrinillo , hombre .
+%exp:	gorrinillo = dirty boy
+*CHI:	0 .
+%par:	se ríe
+*MOT:	ahí .
+*MOT:	va .
+*CHI:	0 .
+%act:	se mete una cucharada enorme en la boca
+*MOT:	ay@i qué bocado .
+%exp:	bocado = byte
+*MOT:	ay@i qué bocado , madre+mía .
+*CHI:	0 .
+%act:	mancha la mesa de galleta con leche
+*MOT:	no hagas guarrerías , Juan .
+%exp:	guarrerías = dirty things
+*MOT:	&=q vale ?
+*MOT:	no hagas guarrerías , Juan .
+*MOT:	oye .
+*MOT:	&=q qué haces ?
+*CHI:	xxx .
+*MOT:	sí .
+*MOT:	guarrerías .
+*MOT:	a ver , Juan .
+*MOT:	abre la boca .
+*CHI:	abuelo .
+%act:	mira hacia la abuela
+*MOT:	es la abuela .
+*CHI:	abuela [x 2] .
+*MOT:	&=q qué hace la abuela ?
+*CHI:	sentando [?] . [+ NON]
+*MOT:	&=q < qué está > [//] qué hace ?
+*CHI:	xxx .
+*MOT:	&=q qué ?
+*CHI:	jugar [*] a 0 [*] i(s)la .
+%err:	jugar = juega $MOR $SUB $ROOT ; 0 = la $SYN $LOS
+*CHI:	jubar [: jugar] a 0 [*] i(s)la .
+*MOT:	&=q jugar a la isla ? [+ ADS]
+%par:	extrañada
+*MOT:	&=q jugar a la isla ? [+ ADS]
+*MOT:	&=q qué es eso ?
+*FAT:	Juan [x 2] .
+*FAT:	hoy vamos a montar en barco .
+*MOT:	&=q vamos a montar en barco hoy ?
+*CHI:	sí .
+*MOT:	&=q sí ?
+*CHI:	xxx .
+*MOT:	venga .
+*MOT:	ven .
+*MOT:	abre la boquita .
+*MOT:	&=q qué decías ?
+*MOT:	&=q qué decía Juan ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q qué decías ?
+*CHI:	0 .
+%act:	se distrae con algo que hay en el suelo
+*MOT:	Juan .
+@Situation:	1 Por la mañana , MOT le da el desayuno a Juan en la terraza , en el apartamento de la playa , FAT está en el interior y apenas interviene
+@Situation:	1
+@Time Start:	8:00
+@Warning:	this segment starts at 160000 ms
+*MOT:	levanta , Juan .
+*MOT:	levanta la cabeza .
+%act:	le da de comer
+*CHI:	0 .
+%act:	mira a la cámara y de pronto echa la comida que tenía en la boca
+*MOT:	&=q qué pasa ?
+*MOT:	eh@i .
+*MOT:	&=q qué haces ?
+*MOT:	jolines .
+*MOT:	Father , da me otra servilleta , por+favor .
+%add:	FAT
+*MOT:	&=q qué pasa , Juan ?
+*MOT:	&=q ya no quieres más ?
+*MOT:	&=q no quieres más , cariño ?
+*MOT:	vale [x 2] .
+*MOT:	pues ya está .
+*MOT:	lleva un ratillo que no habla .
+%add:	FAT
+*MOT:	&=q eh@i , Father ?
+%add:	FAT
+@End

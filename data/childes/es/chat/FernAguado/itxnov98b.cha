@@ -1,0 +1,465 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ITX Itxasne Target_Child , NAY Naya Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|ITX|3;5.06||||Target_Child|||
+@ID:	spa|fernaguado|NAY|3;10.15||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	04-NOV-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ITX y NAY juegan con el barco pirata
+*NAY:	y se ha metido .
+%mor:	coord|y=and pro:per|se=itself co|ha adj|metido-MASC=lodged . 
+%com:	se refiere a los piratas que han puesto dentro de la habitación del barco
+*NAY:	el mío se va a ir por aquí .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine pro:per|se=itself v|i-3S&PRES=go 
+	prep|a=to v|i-INF=go prep|por=for adv|aquí=here . 
+%com:	señala dentro de la habitación
+*ITX:	el mío se iba a salir .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine pro:per|se=itself v|i-13S&PAS=go 
+	prep|a=to v|sali-INF=leave . 
+%com:	el pirata
+*ITX:	mira .
+%mor:	co|mira=look . 
+*NAY:	a_ver .
+%mor:	co|a_ver=see . 
+*ITX:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*NAY:	yo lo he cogido .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him co|he part|coge-PPART&MASC=take . 
+%com:	coge una red del barco mientras ITX coge una vela y hace como si tocara una trompeta
+*ITX:	oye dónde está ?
+%mor:	co|oye=listen pro:int|dónde=where v|esta-3S&PRES=be ? 
+*ITX:	aquí hay una escalera para subir .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|escalera&fem=staircase 
+	prep|para=for v|subi-INF=go_up . 
+*NAY:	un barco !
+%mor:	det:art|un&masc=one n|barco-MASC=boat ! 
+*ITX:	un barco .
+%mor:	det:art|un&masc=one n|barco-MASC=boat . 
+*NAY:	mira al barco .
+%mor:	co|mira=look prep|a~det|el&MASC n|barco-MASC=boat . 
+%com:	hace como si se fuera a poner encima y se ríen las dos
+*ITX:	oy (.) un vasito .
+%mor:	co|oy det:art|un&masc=one n|vaso-DIM-MASC=vase . 
+%com:	coge el puesto del vigía y hace como si bebiera
+*NAY:	oy (.) una trompeta !
+%mor:	co|oy det:art|un-FEM=one n|trompa-DIM-FEM=horn ! 
+%com:	se refiere al telescopio
+*ITX:	<oy (.) una trompeta> [/] oy (.) una trompeta !
+%mor:	co|oy det:art|un-FEM=one n|trompa-DIM-FEM=horn ! 
+%com:	coge el arpón de la barca y sopla
+*ITX:	otro barco [/] barco pirata .
+%mor:	pro:indef|otro=other n|barco-MASC=boat n|pirata&masc=pirate . 
+*NAY:	otro barco es .
+%mor:	pro:indef|otro=other n|barco-MASC=boat v|se-3S&PRES=be . 
+*ITX:	eh (.) esto ?
+%mor:	co|eh det:dem|este-MASC=this ? 
+%com:	levanta la barca pequeña con el arpón
+*NAY:	oye (.) éste Micky ?
+%mor:	co|oye=listen pro:dem|éste=this_one n:prop|Micky ? 
+%com:	coge la bandera pirata
+*NAY:	que parece esto un Micky (.) mira !
+%mor:	prep|que=than v|parece-3S&PRES=seem det:dem|este-MASC=this det:art|un&masc=one 
+	n:prop|Micky co|mira=look ! 
+%com:	se la enseña y se ríen
+*NAY:	mira [/] mira (.) la pongo aquí .
+%mor:	co|mira=look det:art|el&FEM&SG=the v|pone-1S&PRES=put adv|aquí=here . 
+*NAY:	el barco pirata !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate ! 
+*ITX:	otro barco .
+%mor:	pro:indef|otro=other n|barco-MASC=boat . 
+%com:	pone la barca encima del barco
+*ITX:	aquí .
+%mor:	adv|aquí=here . 
+*NAY:	venga (.) a montar !
+%mor:	co|venga=come_on prep|a=to v|monta-INF=climb_on ! 
+%com:	va colocando los piratas en el barco
+*ITX:	oh (.) a montar .
+%mor:	co|oh=oh prep|a=to v|monta-INF=climb_on . 
+*NAY:	no .
+%mor:	adv|no=no . 
+*NAY:	ese .
+%mor:	det:dem|ese=that . 
+*NAY:	a_ver esto ?
+%mor:	co|a_ver=see det:dem|este-MASC=this ? 
+*NAY:	oh (.) ese en el agua ?
+%mor:	co|oh=oh det:dem|ese=that prep|en=in det:art|el&MASC&SG=the n|agua&fem=water 
+	? 
+%com:	mirando el dibujo
+*NAY:	<a ver> [/] <a ver> [/] a_ver (.) le doy la vuelta .
+%mor:	co|a_ver=see pro:per|le=him v|da-1S&PRES=give det:art|el&FEM&SG=the n|vuelta&fem=turn 
+	. 
+%com:	a la barca
+*NAY:	pescando [/] pescando aquí .
+%mor:	v|pesca-PROG=fish adv|aquí=here . 
+*NAY:	aquí me parece (.) una luz .
+%mor:	adv|aquí=here pro:per|me=me v|parece-3S&PRES=seem det:art|un-FEM=one 
+	n|luz&fem=light . 
+%com:	intenta colgar el arpón de un mástil
+*NAY:	dos !
+%mor:	det:num|dos=two ! 
+%com:	coge las dos velas
+*ITX:	una tú y una yo .
+%mor:	det:art|un-FEM=one pro:per|tú=you coord|y=and det:art|un-FEM=one pro:per|yo=I 
+	. 
+*ITX:	dame !
+%mor:	v|da-2S&IMP~pro:clit|1S ! 
+%com:	se ponen a soplar como si fueran trompetas
+*ITX:	esto dónde ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where ? 
+*INV:	ahí dónde lo está poniendo Naya .
+%mor:	adv|ahí=there pro:int|dónde=where pro:per:1|lo&masc=him v|esta-3S&PRES=be 
+	v|pone-PROG=put n:prop|Naya . 
+*ITX:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*ITX:	dónde es ?
+%mor:	pro:int|dónde=where v|se-3S&PRES=be ? 
+*ITX:	aquí ?
+%mor:	adv|aquí=here ? 
+*ITX:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*ITX:	dónde es ?
+%mor:	pro:int|dónde=where v|se-3S&PRES=be ? 
+*INV:	mira en el dibujo .
+%mor:	co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*INV:	a_ver si sabes .
+%mor:	co|a_ver=see conj|si=if co|sabes=you_know . 
+*NAY:	sí sale .
+%mor:	adv|sí=yes v|sali-3S&PRES=leave . 
+%com:	mirando el dibujo
+*NAY:	aquí arriba (.) así .
+%mor:	adv|aquí=here adv|arriba=above adv|así=thus . 
+*NAY:	me parece que es así .
+%mor:	pro:per|me=me v|parece-3S&PRES=seem prep|que=than v|se-3S&PRES=be adv|así=thus 
+	. 
+*ITX:	que se mueve el barco (.) pirata .
+%mor:	prep|que=than pro:per|se=itself v|move-3S&PRES=move det:art|el&MASC&SG=the 
+	n|barco-MASC=boat n|pirata&masc=pirate . 
+*ITX:	tres piezas .
+%mor:	det:num|tres=three n|pieza&fem-PL=piece . 
+*NAY:	cuatro (.) piezas .
+%mor:	det:num|cuatro=four n|pieza&fem-PL=piece . 
+*ITX:	así es ?
+%mor:	adv|así=thus v|se-3S&PRES=be ? 
+*ITX:	cómo ?
+%mor:	co|cómo ? 
+*NAY:	cómo ?
+%mor:	co|cómo ? 
+*INV:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	coloco las velas en los mástiles
+*ITX:	eso sí .
+%mor:	pro:dem|eso=that_one co|sí=yes . 
+*NAY:	me voy a subir aquí .
+%mor:	pro:per|me=me v|i-1S&PRES=go prep|a=to v|subi-INF=go_up adv|aquí=here 
+	. 
+%com:	cantan
+*NAY:	no ves ?
+%mor:	co|no=no co|ves=see ? 
+*ITX:	qué ?
+%mor:	pro:int|qué=what ? 
+*NAY:	<que estaban> [//] <que estaban> [//] que estaban dormiendo [: durmiendo] [*] .
+%mor:	prep|que=than v|esta-3P&PAS=be v|dormi-PROG=sleep . 
+*ITX:	estaban todos dormiendo [: durmiendo] [*] .
+%mor:	v|esta-3P&PAS=be det:indef|todo-MASC-PL=all v|dormi-PROG=sleep . 
+*NAY:	sí todos .
+%mor:	co|sí=yes det:indef|todo-MASC-PL=all . 
+*NAY:	todos estaban aquí +...
+%mor:	det:indef|todo-MASC-PL=all v|esta-3P&PAS=be adv|aquí=here +... 
+%com:	meten a todos los piratas en la habitación del barco
+*ITX:	eso .
+%mor:	pro:dem|eso=that_one . 
+*NAY:	+, en el barco .
+%mor:	prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*NAY:	y se cierra .
+%mor:	coord|y=and pro:per|se=itself v|cerra-3S&PRES=close . 
+*NAY:	los voy a dejar <en la> [//] en la jaula .
+%mor:	det:art|el&MASC-PL=the v|i-1S&PRES=go prep|a=to v|deja-INF=leave prep|en=in 
+	det:art|el&FEM&SG=the n|jaula&fem=cage . 
+*ITX:	oy (.) por aquí se ve !
+%mor:	co|oy prep|por=for adv|aquí=here pro:per|se=itself co|ve=see ! 
+%com:	por la ventana
+*NAY:	lo cierro .
+%mor:	pro:per:1|lo&masc=him v|cerra-1S&PRES=close . 
+*NAY:	xxx .
+*NAY:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*NAY:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+*INV:	a_ver (.) mira el dibujo .
+%mor:	co|a_ver=see co|mira=look det:art|el&MASC&SG=the n|dibujo&masc=design 
+	. 
+*ITX:	ahí ?
+%mor:	adv|ahí=there ? 
+*INV:	ahí colgando de esos palos negros que son los mástiles .
+%mor:	adv|ahí=there v|colga-PROG=hang prep|de=of det:dem|ese-MASC-PL=that n|palo&masc-PL=stick 
+	adj|negro-MASC-PL=black prep|que=than v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	n|mástil&masc-PL=mast . 
+*INV:	pero hay que colgarlos .
+%mor:	conj|pero=but v|habe-3S&PRES&SPEC=have prep|que=than v|colga-INF~pro:clit|OBJ&MASC&PL 
+	. 
+*ITX:	pero yo no se colgar .
+%mor:	conj|pero=but pro:per|yo=I adv|no=no pro:per|se=itself v|colga-INF=hang 
+	. 
+*INV:	sí (.) mira .
+%mor:	co|sí=yes co|mira=look . 
+*ITX:	cómo ?
+%mor:	co|cómo ? 
+*NAY:	meter [/] meter desde aquí .
+%mor:	v|mete-INF=put prep|desde=from adv|aquí=here . 
+*ITX:	ah (.) yo [/] yo .
+%mor:	co|ah pro:per|yo=I . 
+*ITX:	dame uno .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|un-MASC=one . 
+%com:	red
+*NAY:	aquí pónlo .
+%mor:	adv|aquí=here v|pone-2S&IMP~pro:clit|OBJ&MASC . 
+*NAY:	oy (.) acabo de acostarlo y ya está .
+%mor:	co|oy v|acaba-1S&PRES=finish prep|de=of v|acosta-INF~pro:clit|OBJ&MASC 
+	coord|y=and adv|ya=already v|esta-3S&PRES=be . 
+%com:	no queda conforme como lo ha puesto y lo recoloca esta vez correctamente
+*NAY:	ay (.) estaban en la jaula .
+%mor:	co|ay=ay v|esta-3P&PAS=be prep|en=in det:art|el&FEM&SG=the n|jaula&fem=cage 
+	. 
+%com:	los piratas
+*NAY:	quería uno .
+%mor:	v|quere-13S&PAS=want det:art|un-MASC=one . 
+%com:	pirata
+*NAY:	querías uno ?
+%mor:	v|quere-2S&PAS=want det:art|un-MASC=one ? 
+*NAY:	vale yo me cojo otro .
+%mor:	co|vale=okay pro:per|yo=I pro:per|me=me adj|cojo-MASC=crippled pro:indef|otro=other 
+	. 
+*ITX:	no (.) que estaban durmiendo .
+%mor:	adv|no=no prep|que=than v|esta-3P&PAS=be v|dormi-PROG=sleep . 
+*NAY:	ah (.) están durmiendo .
+%mor:	co|ah v|esta-3P&PRES=be v|dormi-PROG=sleep . 
+*NAY:	en la jaula están .
+%mor:	prep|en=in det:art|el&FEM&SG=the n|jaula&fem=cage v|esta-3P&PRES=be . 
+*ITX:	oye (.) le voy a llevar al barco .
+%mor:	co|oye=listen pro:per|le=him v|i-1S&PRES=go prep|a=to v|lleva-INF=carry 
+	prep|a~det|el&MASC n|barco-MASC=boat . 
+%com:	pasea la barca
+*ITX:	y yo éste .
+%mor:	coord|y=and pro:per|yo=I pro:dem|éste=this_one . 
+%com:	el grande
+*NAY:	xxx .
+*ITX:	oye (.) el barco ese no .
+%mor:	co|oye=listen det:art|el&MASC&SG=the n|barco-MASC=boat det:dem|ese=that 
+	co|no=no . 
+*NAY:	si parezco +...
+%mor:	conj|si=if v|parece-1S&PRES=seem +... 
+*ITX:	<el barco> [/] oh (.) el barco .
+%mor:	co|oh=oh det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	le da la vuelta
+*ITX:	oh (.) con el barco !
+%mor:	co|oh=oh prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat ! 
+%com:	se queda mirando la barca
+*ITX:	es un perro ?
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|perro-MASC=dog ? 
+*NAY:	0 [= ríe] .
+*NAY:	a_ver qué es ?
+%mor:	co|a_ver=see pro:int|qué=what v|se-3S&PRES=be ? 
+*NAY:	un perro ?
+%mor:	det:art|un&masc=one n|perro-MASC=dog ? 
+*NAY:	una +...
+%mor:	det:art|un-FEM=one +... 
+*ITX:	oh (.) no .
+%mor:	co|oh=oh co|no=no . 
+*ITX:	una foto o qué ?
+%mor:	det:art|un-FEM=one n|foto&masc=photo coord|o=or pro:int|qué=what ? 
+%com:	levanta la barca
+*NAY:	oh (.) no cae .
+%mor:	co|oh=oh co|no=no v|cae-3S&PRES=fall . 
+%com:	pone el puesto del vigía revés encima de su mano
+*NAY:	esto no cae (.) mira .
+%mor:	det:dem|este-MASC=this adv|no=no v|cae-3S&PRES=fall co|mira=look . 
+*NAY:	xxx .
+*NAY:	esa está ahí .
+%mor:	det:dem|ese-FEM=that v|esta-3S&PRES=be adv|ahí=there . 
+*ITX:	yo el grande .
+%mor:	pro:per|yo=I det:art|el&MASC&SG=the adj|grande=big . 
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	<yo éste> [//] yo éste .
+%mor:	pro:per|yo=I pro:dem|éste=this_one . 
+%com:	vuelve a coger la barca
+*ITX:	que eres pequeña .
+%mor:	prep|que=than v|se-2S&PRES=be adj|pequeño-FEM=small . 
+*NAY:	y éste estaba aquí montado .
+%mor:	coord|y=and pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here part|monta-PPART&MASC=climb_on 
+	. 
+*NAY:	va a sacar una foto .
+%mor:	v|i-3S&PRES=go prep|a=to v|saca-INF=bring_out det:art|un-FEM=one n|foto&masc=photo 
+	. 
+*NAY:	mira (.) mira qué hago .
+%mor:	co|mira=look co|mira=look pro:int|qué=what v|hace-1S&PRES=do . 
+*NAY:	va a sacar una foto .
+%mor:	v|i-3S&PRES=go prep|a=to v|saca-INF=bring_out det:art|un-FEM=one n|foto&masc=photo 
+	. 
+%com:	con el telescopio
+*NAY:	éste estaba aquí (.) no ?
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here adv|no=no ? 
+*ITX:	éste estaba aquí (.) no ?
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here adv|no=no ? 
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	éste estaba en el agua porque nada .
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be prep|en=in det:art|el&MASC&SG=the 
+	n|agua&fem=water conj|porque=because pro:indef|nada=nothing . 
+*NAY:	nadan con luces cuando son [*] de día .
+%mor:	v|nada-3P&PRES=swim prep|con=with n|luz&fem-PL=light conj|cuando=when 
+	v|se-3P&PRES=be prep|de=of n|día&masc=day . 
+*ITX:	ála (.) aquí estaba con su barquito .
+%mor:	co|ála adv|aquí=here v|esta-13S&PAS=be prep|con=with det:pos|su&3S=his 
+	n|barco-DIM-MASC=boat . 
+*NAY:	ya .
+%mor:	adv|ya=already . 
+*NAY:	estaban aquí (.) mira (.) en la otra esquina (.) con su barco y aquí .
+%mor:	v|esta-3P&PAS=be adv|aquí=here co|mira=look prep|en=in det:art|el&FEM&SG=the 
+	det:indef|otro-FEM=other n|esquina&fem=corner prep|con=with det:pos|su&3S=his 
+	n|barco-MASC=boat coord|y=and adv|aquí=here . 
+*ITX:	no porque mira qué hay (.) de dos en dos .
+%mor:	co|no=no conj|porque=because co|mira=look pro:int|qué=what v|habe-3S&PRES&SPEC=have 
+	prep|de=of det:num|dos=two prep|en=in det:num|dos=two . 
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	el chiquitín .
+%mor:	det:art|el&MASC&SG=the n|chiquitín&masc=infant . 
+%com:	la barca
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	yo el grande .
+%mor:	pro:per|yo=I det:art|el&MASC&SG=the adj|grande=big . 
+%com:	el barco
+*NAY:	eh ?
+%mor:	co|eh ? 
+*ITX:	yo el grande y tú el chiquitín .
+%mor:	pro:per|yo=I det:art|el&MASC&SG=the adj|grande=big coord|y=and pro:per|tú=you 
+	det:art|el&MASC&SG=the n|chiquitín&masc=infant . 
+*NAY:	ahora me voy por la calle !
+%mor:	adv|ahora=now pro:per|me=me v|i-1S&PRES=go prep|por=for det:art|el&FEM&SG=the 
+	n|calle&fem=street ! 
+*NAY:	xxx .
+*NAY:	toma tu xxx .
+%mor:	v|toma-3S&PRES=take det:pos|tu=your . 
+*NAY:	oye ha caído tu pelota aquí .
+%mor:	co|oye=listen co|ha part|cae-PPART&MASC=fall det:pos|tu=your n|pelota&fem=ball 
+	adv|aquí=here . 
+*ITX:	como es ?
+%mor:	adv|como=like v|se-3S&PRES=be ? 
+%com:	quiere colocar las redes
+*INV:	así .
+%mor:	adv|así=thus . 
+*ITX:	y están las pelotas como [//] como volvían .
+%mor:	coord|y=and v|esta-3P&PRES=be det:art|el&FEM-PL=the n|pelota&fem-PL=ball 
+	adv|como=like v|volve-3P&PAS=turn . 
+*NAY:	quieres tú o yo ?
+%mor:	v|quere-2S&PRES=want pro:per|tú=you coord|o=or pro:per|yo=I ? 
+*NAY:	que se ha [*] caído (.) eh (.) las pelotas .
+%mor:	prep|que=than pro:per|se=itself co|ha part|cae-PPART&MASC=fall co|eh det:art|el&FEM-PL=the 
+	n|pelota&fem-PL=ball . 
+*ITX:	Naya .
+%mor:	n:prop|Naya . 
+*NAY:	atrás .
+%mor:	adv|atrás=back . 
+*ITX:	Naya .
+%mor:	n:prop|Naya . 
+*NAY:	qué ?
+%mor:	pro:int|qué=what ? 
+*ITX:	esto .
+%mor:	det:dem|este-MASC=this . 
+*ITX:	éste llevaba aquí .
+%mor:	pro:dem|éste=this_one v|lleva-13S&PAS=carry adv|aquí=here . 
+*ITX:	éste dónde es ?
+%mor:	pro:dem|éste=this_one pro:int|dónde=where v|se-3S&PRES=be ? 
+*INV:	dónde lo quieras poner tú .
+%mor:	pro:int|dónde=where pro:per:1|lo&masc=him v|quere-2S&SUB&PRES=want v|pone-INF=put 
+	pro:per|tú=you . 
+*NAY:	oye el cajón así no .
+%mor:	co|oye=listen det:art|el&MASC&SG=the n|caja-AUG=box adv|así=thus adv|no=no 
+	. 
+*NAY:	quita [//] quita que no ent(i)endes [*] .
+%mor:	v|quita-3S&PRES=remove prep|que=than adv|no=no v|entende-2S&PRES=understand 
+	. 
+*NAY:	las pelotas .
+%mor:	det:art|el&FEM-PL=the n|pelota&fem-PL=ball . 
+*ITX:	no te caigas .
+%mor:	adv|no=no pro:per|te=you v|cae-2S&SUB&PRES=fall . 
+*NAY:	las pelotas aquí .
+%mor:	det:art|el&FEM-PL=the n|pelota&fem-PL=ball adv|aquí=here . 
+*ITX:	tú no te caigas .
+%mor:	pro:per|tú=you adv|no=no pro:per|te=you v|cae-2S&SUB&PRES=fall . 
+*NAY:	y ésta aquí .
+%mor:	coord|y=and pro:dem|éste-FEM=this_one adv|aquí=here . 
+*ITX:	vosotras no .
+%mor:	pro:per|you&FEM-PL=you co|no=no . 
+*ITX:	estas muñecas están aquí .
+%mor:	det:dem|este-FEM-PL=this n|muñeco-FEM-PL=doll v|esta-3P&PRES=be adv|aquí=here 
+	. 
+*NAY:	venga vámonos .
+%mor:	co|venga=come_on v|i-1P&IMP=go . 
+*NAY:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*ITX:	a casa hemos llegado .
+%mor:	prep|a=to n|casa&fem=house v|habe-1P&PRES=have part|llega-PPART&MASC=arrive 
+	. 
+*NAY:	yo no !
+%mor:	pro:per|yo=I adv|no=no ! 
+*ITX:	ála (.) qué has tira(d)o ?
+%mor:	co|ála pro:int|qué=what v|habe-2S&PRES=have part|tira-PPART&MASC=throw 
+	? 
+*ITX:	a_ver ahora recojo (.) la pelota .
+%mor:	co|a_ver=see adv|ahora=now v|recoge-1S&PRES=seclude det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*NAY:	mira (.) cómo está !
+%mor:	co|mira=look co|cómo v|esta-3S&PRES=be ! 
+*ITX:	adiós .
+%mor:	co|adiós=goodbye . 
+*NAY:	éste conducía .
+%mor:	pro:dem|éste=this_one v|conduci-13S&PAS=drive . 
+*ITX:	éste conduce .
+%mor:	pro:dem|éste=this_one v|conduci-3S&PRES=drive . 
+*NAY:	y su luz .
+%mor:	coord|y=and det:pos|su&3S=his n|luz&fem=light . 
+*ITX:	no .
+%mor:	adv|no=no . 
+*NAY:	y la luz aquí .
+%mor:	coord|y=and det:art|el&FEM&SG=the n|luz&fem=light adv|aquí=here . 
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	a_ver (.) estas cosas .
+%mor:	co|a_ver=see det:dem|este-FEM-PL=this n|cosa&fem-PL=thing . 
+*NAY:	en la jaula .
+%mor:	prep|en=in det:art|el&FEM&SG=the n|jaula&fem=cage . 
+*ITX:	esto qué ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what ? 
+*NAY:	no .
+%mor:	adv|no=no . 
+*NAY:	eso <en la jaula> [/] en la jaula .
+%mor:	pro:dem|eso=that_one prep|en=in det:art|el&FEM&SG=the n|jaula&fem=cage 
+	. 
+*NAY:	eso también en la jaula .
+%mor:	pro:dem|eso=that_one adv|también=also prep|en=in det:art|el&FEM&SG=the 
+	n|jaula&fem=cage . 
+*ITX:	qué no !
+%mor:	pro:int|qué=what adv|no=no ! 
+*ITX:	<que las pelotas> [//] que las pelotas no .
+%mor:	prep|que=than det:art|el&FEM-PL=the n|pelota&fem-PL=ball adv|no=no . 
+*ITX:	aquí las pelotas .
+%mor:	adv|aquí=here det:art|el&FEM-PL=the n|pelota&fem-PL=ball . 
+*NAY:	no (.) si no se caían .
+%mor:	co|no=no conj|si=if adv|no=no pro:per|se=itself v|cae-3P&PAS=fall . 
+*ITX:	no .
+%mor:	adv|no=no . 
+*ITX:	ésta se ha caido .
+%mor:	pro:dem|éste-FEM=this_one pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	. 
+*ITX:	hombre (.) mira .
+%mor:	co|hombre co|mira=look . 
+*ITX:	ahí está .
+%mor:	adv|ahí=there v|esta-3S&PRES=be . 
+*ITX:	a que si ?
+%mor:	prep|a=to prep|que=than conj|si=if ? 
+@End

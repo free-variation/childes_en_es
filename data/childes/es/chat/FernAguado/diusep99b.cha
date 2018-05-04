@@ -1,0 +1,649 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	DIU DiegoU Target_Child , GUI Guillermo Brother , INV Marta Investigator
+@ID:	spa|fernaguado|DIU|3;6.14||||Target_Child|||
+@ID:	spa|fernaguado|GUI|5;6.05||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	24-SEP-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	DIU y GUI juegan con el barco pirata
+*DIU:	mira .
+%mor:	co|mira=look . 
+%com:	la bandera
+*GUI:	a_ver ?
+%mor:	co|a_ver=see ? 
+%com:	se la quita de las manos
+*DIU:	mira (.) el pirata .
+%mor:	co|mira=look det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*GUI:	mira [/] mira aquí que cañón .
+%mor:	co|mira=look adv|aquí=here prep|que=than n|cañón&masc=cannon . 
+*GUI:	se [/-] esto es +...
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be +... 
+*DIU:	++ un cañón .
+%mor:	det:art|un&masc=one n|cañón&masc=cannon . 
+*GUI:	un cañón .
+%mor:	det:art|un&masc=one n|cañón&masc=cannon . 
+*DIU:	a_ver ?
+%mor:	co|a_ver=see ? 
+*GUI:	el pirata .
+%mor:	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*DIU:	no se tira .
+%mor:	adv|no=no pro:per|se=itself v|tira-3S&PRES=throw . 
+*GUI:	eh (.) las velas .
+%mor:	co|eh det:art|el&FEM-PL=the n|vela&fem-PL=candle . 
+*DIU:	las velas .
+%mor:	det:art|el&FEM-PL=the n|vela&fem-PL=candle . 
+*GUI:	aquí .
+%mor:	adv|aquí=here . 
+*DIU:	las velas del barco .
+%mor:	det:art|el&FEM-PL=the n|vela&fem-PL=candle prep|de~det|el&MASC n|barco-MASC=boat 
+	. 
+*GUI:	aquí .
+%mor:	adv|aquí=here . 
+*DIU:	otra vela .
+%mor:	det:indef|otro-FEM=other n|vela&fem=candle . 
+*GUI:	esto .
+%mor:	det:dem|este-MASC=this . 
+%com:	pone los mástiles
+*DIU:	así .
+%mor:	adv|así=thus . 
+*GUI:	cómo se tira la [*] ancla .
+%mor:	pro:int|cómo=how pro:per|se=itself v|tira-3S&PRES=throw det:art|el&FEM&SG=the 
+	n|ancla&fem=anchor . 
+*DIU:	la lanza ?
+%mor:	det:art|el&FEM&SG=the n|lanza&fem=lance ? 
+*DIU:	<cuál lanza> [/] cuál lanza ?
+%mor:	pro:int|cuál=which n|lanza&fem=lance ? 
+*GUI:	esto mira .
+%mor:	det:dem|este-MASC=this co|mira=look . 
+*GUI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*GUI:	mira .
+%mor:	co|mira=look . 
+*DIU:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*DIU:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+%com:	el mástil
+*DIU:	las velas .
+%mor:	det:art|el&FEM-PL=the n|vela&fem-PL=candle . 
+*GUI:	a_ver te voy a disparar con esto .
+%mor:	co|a_ver=see pro:per|te=you v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot 
+	prep|con=with det:dem|este-MASC=this . 
+%com:	el arpón de la barca
+*DIU:	pues esas .
+%mor:	co|pues=well det:dem|ese-FEM-PL=that . 
+*GUI:	oye .
+%mor:	co|oye=listen . 
+*DIU:	mira [/] mira (.) que voy a tirar yo el cañón (.) eh ?
+%mor:	co|mira=look prep|que=than v|i-1S&PRES=go prep|a=to v|tira-INF=throw pro:per|yo=I 
+	det:art|el&MASC&SG=the n|cañón&masc=cannon co|eh ? 
+*DIU:	te voy a disparar yo con el cañón .
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot pro:per|yo=I 
+	prep|con=with det:art|el&MASC&SG=the n|cañón&masc=cannon . 
+*DIU:	como me dispares ya vas a_ver .
+%mor:	adv|como=like pro:per|me=me v|dispara-2S&SUB&PRES=shoot adv|ya=already 
+	v|i-2S&PRES=go co|a_ver=see . 
+*DIU:	te voy a disparar (.) eh ?
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot co|eh ? 
+*GUI:	te he dispara(d)o .
+%mor:	pro:per|te=you co|he part|dispara-PPART&MASC=shoot . 
+*DIU:	pues yo también (.) eh ?
+%mor:	co|pues=well pro:per|yo=I adv|también=also co|eh ? 
+*DIU:	mira esto lo que es .
+%mor:	co|mira=look det:dem|este-MASC=this pro:per:1|lo&masc=him prep|que=than 
+	v|se-3S&PRES=be . 
+%com:	el puesto del vigía
+*DIU:	me parece que es así .
+%mor:	pro:per|me=me v|parece-3S&PRES=seem prep|que=than v|se-3S&PRES=be adv|así=thus 
+	. 
+*DIU:	ya te he dispara(d)o .
+%mor:	adv|ya=already pro:per|te=you co|he part|dispara-PPART&MASC=shoot . 
+*GUI:	sí ?
+%mor:	co|sí=yes ? 
+*DIU:	sí .
+%mor:	co|sí=yes . 
+*DIU:	ya <se van a su casa> [/] se van a su casa .
+%mor:	adv|ya=already pro:per|se=itself v|i-3P&PRES=go prep|a=to det:pos|su&3S=his 
+	n|casa&fem=house . 
+%com:	busca el camarote
+*DIU:	mira esto lo que es .
+%mor:	co|mira=look det:dem|este-MASC=this pro:per:1|lo&masc=him prep|que=than 
+	v|se-3S&PRES=be . 
+*DIU:	se puede abrir .
+%mor:	pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open . 
+*GUI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*DIU:	mira (.) se puede abrir eso .
+%mor:	co|mira=look pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open pro:dem|eso=that_one 
+	. 
+*DIU:	se puede abrir .
+%mor:	pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open . 
+*GUI:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	el catalejo
+*DIU:	se puede abrir por aquí .
+%mor:	pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open prep|por=for adv|aquí=here 
+	. 
+*GUI:	a_ver (.) espera que voy a encontrar ahí el cañón !
+%mor:	co|a_ver=see v|espera-3S&PRES=wait prep|que=than v|i-1S&PRES=go prep|a=to 
+	v|encontra-INF=find adv|ahí=there det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	! 
+*GUI:	oye (.) espera .
+%mor:	co|oye=listen v|espera-3S&PRES=wait . 
+*DIU:	esto lo [*] que p(u)ede [*] ser ?
+%mor:	det:dem|este-MASC=this pro:per:1|lo&masc=him prep|que=than v|pode-3S&PRES=can 
+	n|ser&masc=being ? 
+%com:	un mástil
+*GUI:	se hace así (.) y luego se da a este botón .
+%mor:	pro:per|se=itself v|hace-3S&PRES=do adv|así=thus coord|y=and adv|luego=afterwards 
+	pro:per|se=itself v|da-3S&PRES=give prep|a=to det:dem|este=this n|botón&masc=button 
+	. 
+%com:	con la barquita
+*DIU:	no ha dispara(d)o .
+%mor:	co|no=no co|ha part|dispara-PPART&MASC=shoot . 
+*DIU:	esto lo [*] qué p(u)ede [*] ser ?
+%mor:	det:dem|este-MASC=this pro:per:1|lo&masc=him pro:int|qué=what v|pode-3S&PRES=can 
+	n|ser&masc=being ? 
+*DIU:	las velas ?
+%mor:	det:art|el&FEM-PL=the n|vela&fem-PL=candle ? 
+*GUI:	sí .
+%mor:	co|sí=yes . 
+*DIU:	y esto (.) me pones ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:per|me=me v|pone-2S&PRES=put ? 
+%com:	tiene en su mano un mástil y una vela
+*GUI:	con su espada .
+%mor:	prep|con=with det:pos|su&3S=his n|espada&fem=sword . 
+*GUI:	esto para qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*GUI:	voy a disparar a la mamá .
+%mor:	v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot prep|a=to det:art|el&FEM&SG=the 
+	n|mamá&fem=mommy . 
+*GUI:	mamá mira lo pones en el barco y luego le das a este botón .
+%mor:	n|mamá&fem=mommy co|mira=look pro:per:1|lo&masc=him v|pone-2S&PRES=put 
+	prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat coord|y=and adv|luego=afterwards 
+	pro:per|le=him v|da-2S&PRES=give prep|a=to det:dem|este=this n|botón&masc=button 
+	. 
+*DIU:	dispara el cañón .
+%mor:	v|dispara-3S&PRES=shoot det:art|el&MASC&SG=the n|cañón&masc=cannon . 
+*GUI:	cómo ?
+%mor:	co|cómo ? 
+*INV:	ya sabe Diego hacerlo eso ?
+%mor:	adv|ya=already v|sabe-3S&PRES=know n:prop|Diego v|hace-INF~pro:clit|OBJ&MASC 
+	pro:dem|eso=that_one ? 
+*GUI:	está grabando la máquina ?
+%mor:	v|esta-3S&PRES=be v|graba-PROG=engrave det:art|el&FEM&SG=the n|máquina&fem=machine 
+	? 
+*INV:	la bala del cañón .
+%mor:	det:art|el&FEM&SG=the n|bala&fem=bullet prep|de~det|el&MASC n|cañón&masc=cannon 
+	. 
+*DIU:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*DIU:	la bola del cañón .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball prep|de~det|el&MASC n|cañón&masc=cannon 
+	. 
+*GUI:	a los cañones !
+%mor:	prep|a=to det:art|el&MASC-PL=the n|cañón&masc-PL=cannon ! 
+*GUI:	sí señor !
+%mor:	adv|sí=yes co:voc|señor=sir ! 
+*DIU:	esto [/] esto ?
+%mor:	det:dem|este-MASC=this ? 
+*DIU:	la bola del cañón !
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball prep|de~det|el&MASC n|cañón&masc=cannon 
+	! 
+*GUI:	a_ver (.) cómo se hace ?
+%mor:	co|a_ver=see pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do ? 
+*DIU:	disparar [*] !
+%mor:	v|dispara-INF=shoot ! 
+*INV:	aprieta .
+%mor:	v|apreta-3S&PRES=tighten . 
+*GUI:	a cuál ?
+%mor:	prep|a=to pro:int|cuál=which ? 
+*INV:	a la roja .
+%mor:	prep|a=to det:art|el&FEM&SG=the adj|rojo-FEM=red . 
+*GUI:	a_ver (.) espera [/] espera .
+%mor:	co|a_ver=see v|espera-3S&PRES=wait . 
+*GUI:	a_ver ?
+%mor:	co|a_ver=see ? 
+%com:	mueve el barco por el suelo
+*DIU:	oye !
+%mor:	co|oye=listen ! 
+*GUI:	y esto aquí .
+%mor:	coord|y=and det:dem|este-MASC=this adv|aquí=here . 
+%com:	pone un mástil al revés
+*DIU:	así no se pone .
+%mor:	adv|así=thus adv|no=no pro:per|se=itself v|pone-3S&PRES=put . 
+*DIU:	al otro la(d)o .
+%mor:	prep|a~det|el&MASC pro:indef|otro=other n|lado&masc=side . 
+*GUI:	al otro (.) así (.) sí ?
+%mor:	prep|a~det|el&MASC pro:indef|otro=other adv|así=thus co|sí=yes ? 
+*DIU:	sí (.) así [/] así .
+%mor:	co|sí=yes adv|así=thus . 
+*DIU:	oye (.) ahora se puede poner esto .
+%mor:	co|oye=listen adv|ahora=now pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put 
+	det:dem|este-MASC=this . 
+%com:	las redes
+*GUI:	ahora hay que poner los hombres .
+%mor:	adv|ahora=now v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF=put det:art|el&MASC-PL=the 
+	n|hombre&masc-PL=man . 
+*GUI:	el barco dónde se ponía ?
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:int|dónde=where pro:per|se=itself 
+	v|pone-13S&PAS=put ? 
+%com:	pone la barca encima de cubierta
+*DIU:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*DIU:	pues aquí .
+%mor:	co|pues=well adv|aquí=here . 
+*DIU:	está aquí .
+%mor:	v|esta-3S&PRES=be adv|aquí=here . 
+*GUI:	tú eras de éste (.) vale ?
+%mor:	pro:per|tú=you v|se-2S&PAS=be prep|de=of pro:dem|éste=this_one co|vale=okay 
+	? 
+%com:	de la barca
+*DIU:	sí .
+%mor:	co|sí=yes . 
+*GUI:	te la pongo ?
+%mor:	pro:per|te=you det:art|el&FEM&SG=the v|pone-1S&PRES=put ? 
+*GUI:	te pongo la lanza ?
+%mor:	pro:per|te=you v|pone-1S&PRES=put det:art|el&FEM&SG=the n|lanza&fem=lance 
+	? 
+*DIU:	sí .
+%mor:	co|sí=yes . 
+*DIU:	ésta es .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be . 
+*GUI:	pero aprietas de aquí .
+%mor:	conj|pero=but v|apreta-2S&PRES=tighten prep|de=of adv|aquí=here . 
+*DIU:	en dónde hay que aprietar [: apretar] [*] ?
+%mor:	prep|en=in pro:int|dónde=where v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|apreta-INF=tighten ? 
+*GUI:	mira (.) a [/] a éste le aprietas .
+%mor:	co|mira=look prep|a=to pro:dem|éste=this_one pro:per|le=him v|apreta-2S&PRES=tighten 
+	. 
+*GUI:	mira éste de rojo le aprietas y vale .
+%mor:	co|mira=look pro:dem|éste=this_one prep|de=of adj|rojo-MASC=red pro:per|le=him 
+	v|apreta-2S&PRES=tighten coord|y=and co|vale=okay . 
+*DIU:	sí .
+%mor:	co|sí=yes . 
+*GUI:	yo con el cañón (.) vale ?
+%mor:	pro:per|yo=I prep|con=with det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	co|vale=okay ? 
+*DIU:	vale .
+%mor:	co|vale=okay . 
+*INV:	Guillermo <hacia allá> [/] hacia allá conduce el barco .
+%mor:	n:prop|Guillermo prep|hacia=towards adv|allá=there v|conduci-3S&PRES=drive 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*INV:	aquí se acaba el barco .
+%mor:	adv|aquí=here pro:per|se=itself v|acaba-3S&PRES=finish det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*GUI:	es que le voy a echar a mamá el cañón .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|le=him v|i-1S&PRES=go prep|a=to 
+	v|echa-INF=throw prep|a=to n|mamá&fem=mommy det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	. 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	tiene que ser hacia allí .
+%mor:	v|tene-3S&PRES=have prep|que=than n|ser&masc=being prep|hacia=towards 
+	adv|allí=there . 
+*GUI:	mamá [/] mamá [/] mamá [/] mamá mira <le puedes apretar> [/] le puedes apretar a esta bola (.) mira .
+%mor:	n|mamá&fem=mommy co|mira=look pro:per|le=him v|pode-2S&PRES=can v|apreta-INF=tighten 
+	prep|a=to det:dem|este-FEM=this n|bola&fem=ball co|mira=look . 
+%com:	la madre le contesta
+*INV:	pregúntale a Diego cómo se hace que sí sabe .
+%mor:	v|pregunta-2S&IMP~pro:clit|3S prep|a=to n:prop|Diego pro:int|cómo=how 
+	pro:per|se=itself v|hace-3S&PRES=do prep|que=than adv|sí=yes v|sabe-3S&PRES=know 
+	. 
+%com:	DIU está intentando poner el arpón
+*INV:	pero ese barco no se cómo anda por el mar sin piratas (.) eh ?
+%mor:	conj|pero=but det:dem|ese=that n|barco-MASC=boat adv|no=no pro:per|se=itself 
+	co|cómo co|anda=come_on prep|por=for det:art|el&MASC&SG=the n|mar&fem=sea 
+	prep|sin=without n|pirata&masc-PL=pirate co|eh ? 
+*INV:	a_ver quién lo conduce .
+%mor:	co|a_ver=see pro:int|quién=who pro:per:1|lo&masc=him v|conduci-3S&PRES=drive 
+	. 
+*GUI:	yo .
+%mor:	pro:per|yo=I . 
+*INV:	pero tienes que montar a alguien dentro .
+%mor:	conj|pero=but v|tene-2S&PRES=have prep|que=than v|monta-INF=climb_on prep|a=to 
+	pro:indef|alguien=someone adv|dentro=inside . 
+*GUI:	esto es el volante .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the n|volante&masc=steering_wheel 
+	. 
+*DIU:	la lanza ?
+%mor:	det:art|el&FEM&SG=the n|lanza&fem=lance ? 
+*DIU:	y esa es la lanza (.) eh ?
+%mor:	coord|y=and det:dem|ese-FEM=that v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|lanza&fem=lance co|eh ? 
+*DIU:	está en el agua pero +/.
+%mor:	v|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the n|agua&fem=water conj|pero=but 
+	+/. 
+*GUI:	<a tierra> [/] <a tierra> [/] a tierra que viene el barco !
+%mor:	prep|a=to n|tierra&fem=earth prep|que=than v|veni-3S&PRES=come det:art|el&MASC&SG=the 
+	n|barco-MASC=boat ! 
+*GUI:	que viene un barco a tierra !
+%mor:	prep|que=than v|veni-3S&PRES=come det:art|un&masc=one n|barco-MASC=boat 
+	prep|a=to n|tierra&fem=earth ! 
+*DIU:	la lanza !
+%mor:	det:art|el&FEM&SG=the n|lanza&fem=lance ! 
+*DIU:	espera (.) qué hay aquí un cohete (.) que se escapa !
+%mor:	v|espera-3S&PRES=wait pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here 
+	det:art|un&masc=one n|cohete&masc=rocket prep|que=than pro:per|se=itself 
+	v|escapa-3S&PRES=escape ! 
+%com:	la pelota .
+*GUI:	a_ver (.) no [/] no .
+%mor:	co|a_ver=see co|no=no . 
+*GUI:	Diego (.) te explico cómo va ?
+%mor:	n:prop|Diego pro:per|te=you v|explica-1S&PRES=explain co|cómo v|i-3S&PRES=go 
+	? 
+*GUI:	así va .
+%mor:	adv|así=thus v|i-3S&PRES=go . 
+*DIU:	no quiero .
+%mor:	adv|no=no v|quere-1S&PRES=want . 
+*GUI:	le tienes que poner la bola así y entonces le das y mira .
+%mor:	pro:per|le=him v|tene-2S&PRES=have prep|que=than v|pone-INF=put det:art|el&FEM&SG=the 
+	n|bola&fem=ball adv|así=thus coord|y=and adv|entonces=then pro:per|le=him 
+	v|da-2S&PRES=give coord|y=and co|mira=look . 
+*GUI:	luego le das .
+%mor:	adv|luego=afterwards pro:per|le=him v|da-2S&PRES=give . 
+*GUI:	luego le aprietas así .
+%mor:	adv|luego=afterwards pro:per|le=him v|apreta-2S&PRES=tighten adv|así=thus 
+	. 
+*DIU:	esa es (.) a_ver ?
+%mor:	det:dem|ese-FEM=that v|se-3S&PRES=be co|a_ver=see ? 
+*DIU:	esa se pone ?
+%mor:	det:dem|ese-FEM=that pro:per|se=itself v|pone-3S&PRES=put ? 
+*DIU:	estaba rica el agua .
+%mor:	v|esta-13S&PAS=be adj|rico-FEM=rich det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+%com:	echa un pirata al mar
+*DIU:	al agua rica .
+%mor:	prep|a~det|el&MASC n|agua&fem=water adj|rico-FEM=rich . 
+*DIU:	oye así no .
+%mor:	co|oye=listen adv|así=thus adv|no=no . 
+*GUI:	la barca !
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat ! 
+*GUI:	ya me tiro al ancla .
+%mor:	adv|ya=already pro:per|me=me n|tiro&masc=toss prep|a~det|el&MASC n|ancla&fem=anchor 
+	. 
+*DIU:	ahora sacan una bola .
+%mor:	adv|ahora=now v|saca-3P&PRES=bring_out det:art|un-FEM=one n|bola&fem=ball 
+	. 
+*GUI:	cómo se pone esto ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	? 
+*DIU:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*DIU:	la bola dónde se p(u)ede [*] meter que si no (.) aquí .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball pro:int|dónde=where pro:per|se=itself 
+	v|pode-3S&PRES=can v|mete-INF=put prep|que=than conj|si=if adv|no=no adv|aquí=here 
+	. 
+*DIU:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*DIU:	ahí sí .
+%mor:	adv|ahí=there co|sí=yes . 
+%com:	en la bodega
+*GUI:	a tierra !
+%mor:	prep|a=to n|tierra&fem=earth ! 
+*DIU:	el volante !
+%mor:	det:art|el&MASC&SG=the n|volante&masc=steering_wheel ! 
+*DIU:	ahora no .
+%mor:	adv|ahora=now adv|no=no . 
+*DIU:	venga (.) ahora de nuevo (.) por ahí !
+%mor:	co|venga=come_on adv|ahora=now prep|de=of adj|nuevo-MASC=new prep|por=for 
+	adv|ahí=there ! 
+*GUI:	ah (.) ya se por esta puerta salen los malos .
+%mor:	co|ah adv|ya=already pro:per|se=itself prep|por=for det:dem|este-FEM=this 
+	n|puerta&fem=door v|sali-3P&PRES=leave det:art|el&MASC-PL=the n|malo&masc-PL=devil 
+	. 
+*INV:	claro (.) es la habitación del capitán .
+%mor:	co|claro=obvious v|se-3S&PRES=be det:art|el&FEM&SG=the n|habitación&fem=dwelling 
+	prep|de~det|el&MASC n|capitán&masc=captain . 
+*DIU:	la habitación del capitán y esto lo [*] qué es ?
+%mor:	det:art|el&FEM&SG=the n|habitación&fem=dwelling prep|de~det|el&MASC n|capitán&masc=captain 
+	coord|y=and det:dem|este-MASC=this pro:per:1|lo&masc=him pro:int|qué=what 
+	v|se-3S&PRES=be ? 
+*INV:	la vela .
+%mor:	det:art|el&FEM&SG=the n|vela&fem=candle . 
+*DIU:	la vela ?
+%mor:	det:art|el&FEM&SG=the n|vela&fem=candle ? 
+*GUI:	dónde se pone ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put ? 
+*DIU:	dónde se pone (.) aquí ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put adv|aquí=here 
+	? 
+*DIU:	a_ver (.) espera .
+%mor:	co|a_ver=see v|espera-3S&PRES=wait . 
+*GUI:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*DIU:	yo no lo puedo poner .
+%mor:	pro:per|yo=I adv|no=no pro:per:1|lo&masc=him v|pode-1S&PRES=can v|pone-INF=put 
+	. 
+*GUI:	aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*GUI:	y esto (.) aquí .
+%mor:	coord|y=and det:dem|este-MASC=this adv|aquí=here . 
+*INV:	eso en el otro .
+%mor:	pro:dem|eso=that_one prep|en=in det:art|el&MASC&SG=the pro:indef|otro=other 
+	. 
+%com:	cuelgan las velas y las redes de los mástiles
+*GUI:	y este ?
+%mor:	coord|y=and det:dem|este=this ? 
+*DIU:	pues no se .
+%mor:	co|pues=well adv|no=no pro:per|se=itself . 
+*GUI:	y este ?
+%mor:	coord|y=and det:dem|este=this ? 
+*INV:	dos en cada uno .
+%mor:	det:num|dos=two prep|en=in det:indef|cada=each det:art|un-MASC=one . 
+*DIU:	la bola se p(u)ede [*] meter aquí .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball pro:per|se=itself v|pode-3S&PRES=can 
+	v|mete-INF=put adv|aquí=here . 
+*GUI:	aquí .
+%mor:	adv|aquí=here . 
+*DIU:	Guillermo (.) la bola sabes dónde se p(u)ede [*] meter ?
+%mor:	n:prop|Guillermo det:art|el&FEM&SG=the n|bola&fem=ball co|sabes=you_know 
+	pro:int|dónde=where pro:per|se=itself v|pode-3S&PRES=can v|mete-INF=put 
+	? 
+*DIU:	me parece que ahí se p(u)ede [*] meter .
+%mor:	pro:per|me=me v|parece-3S&PRES=seem prep|que=than adv|ahí=there pro:per|se=itself 
+	v|pode-3S&PRES=can v|mete-INF=put . 
+*DIU:	ahí .
+%mor:	adv|ahí=there . 
+*GUI:	a_ver ?
+%mor:	co|a_ver=see ? 
+*DIU:	que ahí se p(u)ede [*] meter (.) ahí .
+%mor:	prep|que=than adv|ahí=there pro:per|se=itself v|pode-3S&PRES=can v|mete-INF=put 
+	adv|ahí=there . 
+*GUI:	vale .
+%mor:	co|vale=okay . 
+%com:	DIU canta
+*DIU:	nos vamos !
+%mor:	pro:per|nos=us co|vamos=go ! 
+*DIU:	no estáis preparados ?
+%mor:	adv|no=no v|esta-2P&PRES=be v|prepara-2P&IMP~pro:clit|2P ? 
+*DIU:	a_ver !
+%mor:	co|a_ver=see ! 
+*GUI:	y ésta otra ?
+%mor:	coord|y=and pro:dem|éste-FEM=this_one det:indef|otro-FEM=other ? 
+%com:	vela
+*DIU:	pues ahora se sientan .
+%mor:	co|pues=well adv|ahora=now pro:per|se=itself v|senta-3P&PRES=sit . 
+*DIU:	ahora se van .
+%mor:	adv|ahora=now pro:per|se=itself v|i-3P&PRES=go . 
+*DIU:	ahora va a tirar los [*] cañón .
+%mor:	adv|ahora=now v|i-3S&PRES=go prep|a=to v|tira-INF=throw det:art|el&MASC-PL=the 
+	n|cañón&masc=cannon . 
+*GUI:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+%com:	sale de la habitación para enseñarle la vela a su madre
+*INV:	está roto .
+%mor:	v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*GUI:	eh (.) el barco de éste dónde se deja ?
+%mor:	co|eh det:art|el&MASC&SG=the n|barco-MASC=boat prep|de=of pro:dem|éste=this_one 
+	pro:int|dónde=where pro:per|se=itself v|deja-3S&PRES=leave ? 
+*INV:	ahí .
+%mor:	adv|ahí=there . 
+*GUI:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	ahí arriba dónde el timón .
+%mor:	adv|ahí=there adv|arriba=above pro:int|dónde=where det:art|el&MASC&SG=the 
+	n|timón&masc=helm . 
+*GUI:	dónde qué timón ?
+%mor:	pro:int|dónde=where pro:int|qué=what n|timón&masc=helm ? 
+*INV:	dónde el volante .
+%mor:	pro:int|dónde=where det:art|el&MASC&SG=the n|volante&masc=steering_wheel 
+	. 
+*GUI:	aquí ?
+%mor:	adv|aquí=here ? 
+*GUI:	vale (.) aquí .
+%mor:	co|vale=okay adv|aquí=here . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*GUI:	me sujetas ?
+%mor:	pro:per|me=me v|sujeta-2S&PRES=subject ? 
+*DIU:	y estas escaleras para subir ?
+%mor:	coord|y=and det:dem|este-FEM-PL=this n|escalera&fem-PL=staircase prep|para=for 
+	v|subi-INF=go_up ? 
+*DIU:	las escaleras para subir al barco ?
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase prep|para=for v|subi-INF=go_up 
+	prep|a~det|el&MASC n|barco-MASC=boat ? 
+*INV:	eh ?
+%mor:	co|eh ? 
+*DIU:	las escaleras para subir al barco (.) dónde ?
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase prep|para=for v|subi-INF=go_up 
+	prep|a~det|el&MASC n|barco-MASC=boat pro:int|dónde=where ? 
+*DIU:	aquí ?
+%mor:	adv|aquí=here ? 
+*DIU:	pues éste (.) el pirata va pues aquí .
+%mor:	co|pues=well pro:dem|éste=this_one det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	v|i-3S&PRES=go co|pues=well adv|aquí=here . 
+*GUI:	la bola ?
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball ? 
+*DIU:	ahí dentro .
+%mor:	adv|ahí=there adv|dentro=inside . 
+*GUI:	Diego (.) vale métela .
+%mor:	n:prop|Diego co|vale=okay v|mete-2S&IMP~pro:clit|OBJ&FEM . 
+*DIU:	espera [/] espera .
+%mor:	v|espera-3S&PRES=wait . 
+*GUI:	da la vuelta el barco .
+%mor:	v|da-3S&PRES=give det:art|el&FEM&SG=the n|vuelta&fem=turn det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*GUI:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	el trampolín .
+%mor:	det:art|el&MASC&SG=the n|trampolín&masc=springboard . 
+*GUI:	qué es el trampolín ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:art|el&MASC&SG=the n|trampolín&masc=springboard 
+	? 
+*INV:	para saltar al agua .
+%mor:	prep|para=for v|salta-INF=jump prep|a~det|el&MASC n|agua&fem=water . 
+*GUI:	para saltar ?
+%mor:	prep|para=for v|salta-INF=jump ? 
+*GUI:	tiene secretos este barco ?
+%mor:	v|tene-3S&PRES=have adj|secreto-MASC-PL=secret det:dem|este=this n|barco-MASC=boat 
+	? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*GUI:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*GUI:	a_ver cómo es esto ?
+%mor:	co|a_ver=see co|cómo v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*GUI:	así .
+%mor:	adv|así=thus . 
+%com:	saca el trampolín
+*GUI:	y ahora qué hay que hacer ?
+%mor:	coord|y=and adv|ahora=now pro:int|qué=what v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|hace-INF=do ? 
+*INV:	ahora saltan al agua .
+%mor:	adv|ahora=now v|salta-3P&PRES=jump prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*DIU:	puedo tirar yo el cañón (.) eh ?
+%mor:	v|pode-1S&PRES=can v|tira-INF=throw pro:per|yo=I det:art|el&MASC&SG=the 
+	n|cañón&masc=cannon co|eh ? 
+*GUI:	oye !
+%mor:	co|oye=listen ! 
+*DIU:	te voy a tirar .
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|tira-INF=throw . 
+*GUI:	oye te voy a tirar un cañón a ti (.) sí .
+%mor:	co|oye=listen pro:per|te=you v|i-1S&PRES=go prep|a=to v|tira-INF=throw 
+	det:art|un&masc=one n|caña-AUG=stalk prep|a=to pro:per|ti=you co|sí=yes 
+	. 
+*DIU:	<te va tirar> [/] te va tirar .
+%mor:	pro:per|te=you v|i-3S&PRES=go v|tira-INF=throw . 
+*INV:	tira desde ahí (.) atrás .
+%mor:	v|tira-3S&PRES=throw prep|desde=from adv|ahí=there adv|atrás=back . 
+%com:	se acerca tanto a la cámara que se sale del enfoque
+*INV:	por aquí ya es tierra .
+%mor:	prep|por=for adv|aquí=here adv|ya=already v|se-3S&PRES=be n|tierra&fem=earth 
+	. 
+*INV:	por aquí no puede andar el barco .
+%mor:	prep|por=for adv|aquí=here adv|no=no v|pode-3S&PRES=can v|anda-INF=walk 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*GUI:	oye no [/] no .
+%mor:	co|oye=listen co|no=no . 
+%com:	DIU dispara el barco
+*GUI:	a tierra !
+%mor:	prep|a=to n|tierra&fem=earth ! 
+*GUI:	echa el ancla !
+%mor:	v|echa-3S&PRES=throw det:art|el&MASC&SG=the n|ancla&fem=anchor ! 
+*GUI:	y esto dónde va ?
+%mor:	coord|y=and det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+%com:	el puesto del vigía
+*DIU:	la bola tampoco .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball adv|tampoco=neither . 
+*DIU:	dónde se mete ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|mete-3S&PRES=put ? 
+*DIU:	y esto así ?
+%mor:	coord|y=and det:dem|este-MASC=this adv|así=thus ? 
+*DIU:	ya está el barco .
+%mor:	adv|ya=already v|esta-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*DIU:	vamos a coger eso .
+%mor:	co|vamos=go prep|a=to v|coge-INF=take pro:dem|eso=that_one . 
+*DIU:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*DIU:	va esto .
+%mor:	v|i-3S&PRES=go det:dem|este-MASC=this . 
+*DIU:	un poco más aquí .
+%mor:	det:art|un&masc=one adv|poco=few adv|más=more adv|aquí=here . 
+*DIU:	aquí tampoco .
+%mor:	adv|aquí=here adv|tampoco=neither . 
+*DIU:	dónde va ?
+%mor:	pro:int|dónde=where v|i-3S&PRES=go ? 
+*DIU:	esto parece que aquí y esta vela dónde va ?
+%mor:	det:dem|este-MASC=this v|parece-3S&PRES=seem prep|que=than adv|aquí=here 
+	coord|y=and det:dem|este-FEM=this n|vela&fem=candle pro:int|dónde=where 
+	v|i-3S&PRES=go ? 
+%com:	pone encima del barco todas las piezas que están todavía sin montar
+*DIU:	esto me parece que está roto .
+%mor:	det:dem|este-MASC=this pro:per|me=me v|parece-3S&PRES=seem prep|que=than 
+	v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+*DIU:	ésta está rota .
+%mor:	pro:dem|éste-FEM=this_one v|esta-3S&PRES=be part|rompe-PPART-FEM=break 
+	. 
+*GUI:	esto dónde va ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go ? 
+*INV:	qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*GUI:	esto .
+%mor:	det:dem|este-MASC=this . 
+*INV:	un catalejo ?
+%mor:	det:art|un&masc=one n|catalejo&masc=telescope ? 
+*GUI:	sí .
+%mor:	co|sí=yes . 
+*DIU:	dónde va el catalejo ?
+%mor:	pro:int|dónde=where v|i-3S&PRES=go det:art|el&MASC&SG=the n|catalejo&masc=telescope 
+	? 
+*INV:	dónde el volante también para que vea el capitán .
+%mor:	pro:int|dónde=where det:art|el&MASC&SG=the n|volante&masc=steering_wheel 
+	adv|también=also prep|para=for prep|que=than v|ve-13S&SUB&PRES=see det:art|el&MASC&SG=the 
+	n|capitán&masc=captain . 
+*DIU:	va aquí la bola (.) eh ?
+%mor:	v|i-3S&PRES=go adv|aquí=here det:art|el&FEM&SG=the n|bola&fem=ball co|eh 
+	? 
+@End

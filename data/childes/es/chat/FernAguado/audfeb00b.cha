@@ -1,0 +1,457 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	AUD Audrey Target_Child , SIS Andrea Sister , INV Marta Investigator , MOT Mariangeles Mother
+@ID:	spa|fernaguado|AUD|3;11.19||||Target_Child|||
+@ID:	spa|fernaguado|SIS|2;7.22||||Sister|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@ID:	spa|fernaguado|MOT|||||Mother|||
+@Date:	28-FEB-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	AUD y SIS juegan con el barco pirata
+*AUD:	yo me pido .
+%mor:	pro:per|yo=I pro:per|me=me v|pedi-1S&PRES=request . 
+*INV:	muy bien (.) yo coloco esto .
+%mor:	adv|muy=very adv|bien=well pro:per|yo=I v|coloca-1S&PRES=place det:dem|este-MASC=this 
+	. 
+%com:	los mástiles
+*INV:	y vosotras lo demás (.) vale ?
+%mor:	coord|y=and pro:per|you&FEM-PL=you pro:per:1|lo&masc=him adj|demás=remaining 
+	co|vale=okay ? 
+*INV:	ponemos esto así (.) sí ?
+%mor:	v|pone-1P&PRES=put det:dem|este-MASC=this adv|así=thus co|sí=yes ? 
+*INV:	todas las cosas por aquí para jugar (.) vale ?
+%mor:	det:indef|todo-FEM-PL=all det:art|el&FEM-PL=the n|cosa&fem-PL=thing prep|por=for 
+	adv|aquí=here prep|para=for v|juga-INF=play co|vale=okay ? 
+*SIS:	mira .
+%mor:	co|mira=look . 
+%com:	la bandera
+*AUD:	Andrea [/] Andrea .
+%mor:	n:prop|Andrea . 
+*MOT:	Andrea tú también puedes colocar <las fichas> [/] las fichas (.) Andrea .
+%mor:	n:prop|Andrea pro:per|tú=you adv|también=also v|pode-2S&PRES=can v|coloca-INF=place 
+	det:art|el&FEM-PL=the n|ficha&fem-PL=marker n:prop|Andrea . 
+*MOT:	venga Andrea que tú también puedes colocar las piezas y Audrey también .
+%mor:	co|venga=come_on n:prop|Andrea prep|que=than pro:per|tú=you adv|también=also 
+	v|pode-2S&PRES=can v|coloca-INF=place det:art|el&FEM-PL=the n|pieza&fem-PL=piece 
+	coord|y=and n:prop|Audrey adv|también=also . 
+*AUD:	quién lo coge ?
+%mor:	pro:int|quién=who pro:per:1|lo&masc=him v|coge-3S&PRES=take ? 
+%com:	la pelota sale rodando
+*AUD:	tengo la pelí(cula) de Peter_Pan .
+%mor:	v|tene-1S&PRES=have det:art|el&FEM&SG=the n|película&fem=film prep|de=of 
+	n:prop|Peter_Pan . 
+*SIS:	tengo una pelí(cula) de Peter_Pan .
+%mor:	v|tene-1S&PRES=have det:art|un-FEM=one n|película&fem=film prep|de=of 
+	n:prop|Peter_Pan . 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*SIS:	pone palos (.) a_ver .
+%mor:	v|pone-3S&PRES=put n|palo&masc-PL=stick co|a_ver=see . 
+*SIS:	ahí arriba .
+%mor:	adv|ahí=there adv|arriba=above . 
+*AUD:	dónde está la pelí(cula) de Peter_Pan ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of n:prop|Peter_Pan ? 
+*MOT:	estará en el bolso de ayer .
+%mor:	v|esta-3S&FUT=be prep|en=in det:art|el&MASC&SG=the n|bolso&masc=money_bag 
+	prep|de=of adv|ayer=yesterday . 
+*AUD:	la pelí(cula) de Peter_Pan .
+%mor:	det:art|el&FEM&SG=the n|película&fem=film prep|de=of n:prop|Peter_Pan 
+	. 
+*MOT:	sí pero mientras vais haciendo el barco .
+%mor:	co|sí=yes conj|pero=but adv|mientras=while v|i-2P&PRES=go v|hace-PROG=do 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*AUD:	a_ver dónde está el capitán Garfio .
+%mor:	co|a_ver=see pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the 
+	n|capitán&masc=captain n:prop|Garfio . 
+*SIS:	el capitán Garfio .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio . 
+*MOT:	ahí va (.) si es verdad +/.
+%mor:	adv|ahí=there v|i-3S&PRES=go conj|si=if v|se-3S&PRES=be co|verdad=right 
+	+/. 
+*AUD:	dónde está la pelí(cula) de Peter_Pan ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of n:prop|Peter_Pan ? 
+*MOT:	+, es como el barco del capitán Garfio .
+%mor:	v|se-3S&PRES=be adv|como=like det:art|el&MASC&SG=the n|barco-MASC=boat 
+	prep|de~det|el&MASC n|capitán&masc=captain n:prop|Garfio . 
+*AUD:	<es igual> [//] mira (.) es igual .
+%mor:	v|mira-3S&PRES=look v|se-3S&PRES=be co|igual=equal . 
+%com:	señala el video
+*AUD:	malo (.) malo y malo .
+%mor:	adj|malo-MASC=bad n|malo&masc=devil coord|y=and adj|malo-MASC=bad . 
+%com:	le da golpes a la película de video
+*INV:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*INV:	yo no me se la historia .
+%mor:	pro:per|yo=I adv|no=no pro:per|me=me pro:per|se=itself det:art|el&FEM&SG=the 
+	n|historia&fem=story . 
+%com:	abren las cintas
+*INV:	iban en un barco como éste ?
+%mor:	v|i-3P&PAS=go prep|en=in det:art|un&masc=one n|barco-MASC=boat adv|como=like 
+	pro:dem|éste=this_one ? 
+*INV:	el capitán Garfio iba en un barco como éste o era más pequeño su barco ?
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain n:prop|Garfio v|i-13S&PAS=go 
+	prep|en=in det:art|un&masc=one n|barco-MASC=boat adv|como=like pro:dem|éste=this_one 
+	v|oí-1S&PRET=hear v|se-13S&PAS=be adv|más=more adj|pequeño-MASC=small 
+	det:pos|su&3S=his n|barco-MASC=boat ? 
+*INV:	es ese ?
+%mor:	v|se-3S&PRES=be det:dem|ese=that ? 
+*INV:	como el muñeco entonces (.) no ?
+%mor:	adv|como=like det:art|el&MASC&SG=the n|muñeco-MASC=doll adv|entonces=then 
+	adv|no=no ? 
+*AUD:	cuando se acababa salía un barco .
+%mor:	conj|cuando=when pro:per|se=itself v|acaba-13S&PAS=finish v|sali-13S&PAS=leave 
+	det:art|un&masc=one n|barco-MASC=boat . 
+*INV:	ah (.) sí ?
+%mor:	co|ah co|sí=yes ? 
+*SIS:	el capitán sale aquí .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain v|sali-3S&PRES=leave adv|aquí=here 
+	. 
+*INV:	sí sale .
+%mor:	adv|sí=yes v|sali-3S&PRES=leave . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*AUD:	yo me pido éste .
+%mor:	pro:per|yo=I pro:per|me=me v|pedi-1S&PRES=request pro:dem|éste=this_one 
+	. 
+*SIS:	yo me pido é(s)te [*] .
+%mor:	pro:per|yo=I pro:per|me=me v|pedi-1S&PRES=request pro:dem|éste=this_one 
+	. 
+*SIS:	yo me pido é(s)te [*] Teletubi .
+%mor:	pro:per|yo=I pro:per|me=me v|pedi-1S&PRES=request pro:dem|éste=this_one 
+	n:prop|Teletubi . 
+%com:	con la cinta de video de los Teletubis en la mano
+*AUD:	yo me pido éste (.) Pinki .
+%mor:	pro:per|yo=I pro:per|me=me v|pedi-1S&PRES=request pro:dem|éste=this_one 
+	n:prop|Pinki . 
+*AUD:	yo ese (.) Tupa y yo ese .
+%mor:	pro:per|yo=I det:dem|ese=that n:prop|Tupa coord|y=and pro:per|yo=I det:dem|ese=that 
+	. 
+*SIS:	yo é(s)te [*] .
+%mor:	pro:per|yo=I pro:dem|éste=this_one . 
+*AUD:	éste se llama Pikibuki éste Misi éste Ala y éste Po .
+%mor:	pro:dem|éste=this_one pro:per|se=itself n|llama&fem=flame n:prop|Pikibuki 
+	pro:dem|éste=this_one n:prop|Misi pro:dem|éste=this_one n:prop|Ala coord|y=and 
+	pro:dem|éste=this_one n:prop|Po . 
+*SIS:	xxx .
+*AUD:	dónde se pone esto ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	? 
+*SIS:	y é(s)te [*] dice +/.
+%mor:	coord|y=and pro:dem|éste=this_one v|deci-3S&PRES=say +/. 
+*AUD:	no .
+%mor:	adv|no=no . 
+*AUD:	a mi me van a regalar una muñeca de Barbie .
+%mor:	prep|a=to det:pos|mi=my pro:per|me=me v|i-3P&PRES=go prep|a=to v|regala-INF=give_present 
+	det:art|un-FEM=one n|muñeco-FEM=doll prep|de=of n:prop|Barbie . 
+*SIS:	y me voy a llevar esto .
+%mor:	coord|y=and pro:per|me=me v|i-1S&PRES=go prep|a=to v|lleva-INF=carry det:dem|este-MASC=this 
+	. 
+*AUD:	en casa de +...
+%mor:	prep|en=in n|casa&fem=house prep|de=of +... 
+*SIS:	a casa de Chemi .
+%mor:	prep|a=to n|casa&fem=house prep|de=of n:prop|Chemi . 
+*AUD:	no se que me van a traer a casa .
+%mor:	adv|no=no pro:per|se=itself prep|que=than pro:per|me=me v|i-3P&PRES=go 
+	prep|a=to v|trae-INF=carry prep|a=to n|casa&fem=house . 
+*SIS:	y tengo la pelí(cula) de los Teletubis (.) ála .
+%mor:	coord|y=and v|tene-1S&PRES=have det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of det:art|el&MASC-PL=the n:prop|Teletubis co|ála . 
+*AUD:	y <dónde se pone esto> [/] dónde se pone esto ?
+%mor:	coord|y=and pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	det:dem|este-MASC=this ? 
+*INV:	en ese palo negro en el barco en el agujerito ves ?
+%mor:	prep|en=in det:dem|ese=that n|palo&masc=stick adj|negro-MASC=black prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat prep|en=in det:art|el&MASC&SG=the 
+	n|agujero-DIM-MASC=hole co|ves=see ? 
+*AUD:	aquí se pone .
+%mor:	adv|aquí=here pro:per|se=itself v|pone-3S&PRES=put . 
+%com:	una red
+*INV:	y todos los piratas están ahí tirados sin montar en el barco ahí delante ?
+%mor:	coord|y=and det:indef|todo-MASC-PL=all det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	v|esta-3P&PRES=be adv|ahí=there v|tira-2P&IMP~pro:clit|2P prep|sin=without 
+	v|monta-INF=climb_on prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat 
+	adv|ahí=there adv|delante=in_front ? 
+*INV:	habrá que subirlos al barco .
+%mor:	v|habe-3S&FUT=have prep|que=than v|subi-INF~pro:clit|OBJ&MASC&PL prep|a~det|el&MASC 
+	n|barco-MASC=boat . 
+*SIS:	mira las [/-] e(s)tas [*] escaleritas .
+%mor:	co|mira=look det:dem|este-FEM-PL=this n|escalera-DIM-FEM-PL=staircase 
+	. 
+%com:	redes
+*INV:	dónde las vas a poner Andrea (.) las escaleritas .
+%mor:	pro:int|dónde=where det:art|el&FEM-PL=the v|i-2S&PRES=go prep|a=to v|pone-INF=put 
+	n:prop|Andrea det:art|el&FEM-PL=the n|escalera-DIM-FEM-PL=staircase . 
+*SIS:	aquí .
+%mor:	adv|aquí=here . 
+*INV:	vale .
+%mor:	co|vale=okay . 
+*SIS:	aquí .
+%mor:	adv|aquí=here . 
+*AUD:	a_ver ?
+%mor:	co|a_ver=see ? 
+*SIS:	otra escalerita .
+%mor:	det:indef|otro-FEM=other n|escalera-DIM-FEM=staircase . 
+*SIS:	la otra escalerita .
+%mor:	det:art|el&FEM&SG=the det:indef|otro-FEM=other n|escalera-DIM-FEM=staircase 
+	. 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*SIS:	se ponen así .
+%mor:	pro:per|se=itself v|pone-3P&PRES=put adv|así=thus . 
+*INV:	y qué te parece si las ponemos aquí ?
+%mor:	coord|y=and pro:int|qué=what pro:per|te=you v|parece-3S&PRES=seem conj|si=if 
+	det:art|el&FEM-PL=the v|pone-1P&PRES=put adv|aquí=here ? 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*INV:	tú pones esa y Audrey pone otra .
+%mor:	pro:per|tú=you v|pone-2S&PRES=put det:dem|ese-FEM=that coord|y=and n:prop|Audrey 
+	v|pone-3S&PRES=put det:indef|otro-FEM=other . 
+*INV:	que se cae .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall . 
+*AUD:	aquí .
+%mor:	adv|aquí=here . 
+*INV:	y aún queda otra por poner .
+%mor:	coord|y=and adv|aún=notwithstanding v|queda-3S&PRES=stay det:indef|otro-FEM=other 
+	prep|por=for v|pone-INF=put . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*SIS:	y otra falta también .
+%mor:	coord|y=and det:indef|otro-FEM=other v|falta-3S&PRES=be_lacking adv|también=also 
+	. 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*SIS:	no hay más .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more . 
+*INV:	no y qué más queda por poner ?
+%mor:	adv|no=no coord|y=and pro:int|qué=what adv|más=more v|queda-3S&PRES=stay 
+	prep|por=for v|pone-INF=put ? 
+*AUD:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+%com:	las velas
+*SIS:	esto es para poner en la tele(visión) (.) los Teletubis y tú no .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|pone-INF=put prep|en=in 
+	det:art|el&FEM&SG=the n|televisión&fem=television det:art|el&MASC-PL=the 
+	n:prop|Teletubis coord|y=and pro:per|tú=you adv|no=no . 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	yo no .
+%mor:	pro:per|yo=I adv|no=no . 
+*SIS:	el de mi amigo no tienes .
+%mor:	det:art|el&MASC&SG=the prep|de=of det:pos|mi=my n|amigo-MASC=friend adv|no=no 
+	v|tene-2S&PRES=have . 
+*AUD:	quieres poner la pelí(cula) de Peter_Pan ?
+%mor:	v|quere-2S&PRES=want v|pone-INF=put det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of n:prop|Peter_Pan ? 
+*SIS:	solo si son de xxx en el xxx .
+%mor:	adj|solo-MASC=alone conj|si=if v|se-3P&PRES=be prep|de=of prep|en=in det:art|el&MASC&SG=the 
+	. 
+*AUD:	antes no la tenía .
+%mor:	adv|antes=before adv|no=no det:art|el&FEM&SG=the v|tene-13S&PAS=have . 
+*MOT:	ese es el barco del capitán Garfio .
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	prep|de~det|el&MASC n|capitán&masc=captain n:prop|Garfio . 
+*AUD:	éste no .
+%mor:	pro:dem|éste=this_one adv|no=no . 
+*MOT:	sí .
+%mor:	co|sí=yes . 
+*MOT:	es como ese .
+%mor:	v|se-3S&PRES=be adv|como=like det:dem|ese=that . 
+*AUD:	ves como sale en la caja de Peter_Pan ?
+%mor:	co|ves=see adv|como=like v|sali-3S&PRES=leave prep|en=in det:art|el&FEM&SG=the 
+	n|caja&fem=box prep|de=of n:prop|Peter_Pan ? 
+%com:	enseña el video
+*AUD:	sale pequeñito .
+%mor:	v|sali-3S&PRES=leave adj|pequeño-DIM-MASC=small . 
+*SIS:	la pelí(cula) .
+%mor:	det:art|el&FEM&SG=the n|película&fem=film . 
+*AUD:	el señor Fil no sale .
+%mor:	det:art|el&MASC&SG=the n|señor&masc=sir n:prop|Fil adv|no=no v|sali-3S&PRES=leave 
+	. 
+*MOT:	no ?
+%mor:	adv|no=no ? 
+*MOT:	es muy bonito este barco .
+%mor:	v|se-3S&PRES=be adv|muy=very adj|bonito-MASC=pretty det:dem|este=this 
+	n|barco-MASC=boat . 
+*AUD:	ves sólo sale Garfio y el cocodrilo .
+%mor:	co|ves=see adv|sólo=only v|sali-3S&PRES=leave n:prop|Garfio coord|y=and 
+	det:art|el&MASC&SG=the n|cocodrilo&masc=crocodile . 
+*SIS:	éste es .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be . 
+*SIS:	nada .
+%mor:	pro:indef|nada=nothing . 
+*INV:	y el barco del capitán Garfio no dispara con el cañón ?
+%mor:	coord|y=and det:art|el&MASC&SG=the n|barco-MASC=boat prep|de~det|el&MASC 
+	n|capitán&masc=captain n:prop|Garfio adv|no=no v|dispara-3S&PRES=shoot 
+	prep|con=with det:art|el&MASC&SG=the n|cañón&masc=cannon ? 
+*AUD:	0 [= asintiendo] .
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	mira en este barco hay un cañón aquí .
+%mor:	co|mira=look prep|en=in det:dem|este=this n|barco-MASC=boat v|habe-3S&PRES&SPEC=have 
+	det:art|un&masc=one n|cañón&masc=cannon adv|aquí=here . 
+*INV:	te acuerdas ?
+%mor:	pro:per|te=you v|acorda-2S&PRES=remind ? 
+*INV:	se mete esto así y +...
+%mor:	pro:per|se=itself v|mete-3S&PRES=put det:dem|este-MASC=this adv|así=thus 
+	coord|y=and +... 
+%com:	disparo .
+*AUD:	+, ha dispara(d)o .
+%mor:	co|ha part|dispara-PPART&MASC=shoot . 
+*INV:	hay que meter más fuerte la pelota hasta el final (.) así .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF=put adv|más=more adj|fuerte=strong 
+	det:art|el&FEM&SG=the n|pelota&fem=ball prep|hasta=until det:art|el&MASC&SG=the 
+	n|final&masc=end adv|así=thus . 
+*AUD:	así no .
+%mor:	adv|así=thus adv|no=no . 
+*AUD:	le he da(d)o .
+%mor:	pro:per|le=him co|he part|da-PPART&MASC=give . 
+*AUD:	se va porque yo le doy más fuerte .
+%mor:	pro:per|se=itself v|i-3S&PRES=go conj|porque=because pro:per|yo=I pro:per|le=him 
+	v|da-1S&PRES=give adv|más=more adj|fuerte=strong . 
+%com:	se tumba el barco
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*SIS:	<yo le doy más fue(r)te [*]> [/] yo le doy más fue(r)te [*] .
+%mor:	pro:per|yo=I pro:per|le=him v|da-1S&PRES=give adv|más=more adj|fuerte=strong 
+	. 
+*AUD:	le doy (.) eh ?
+%mor:	pro:per|le=him v|da-1S&PRES=give co|eh ? 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	más fuerte ?
+%mor:	adv|más=more adj|fuerte=strong ? 
+*INV:	tienes que meter más la pelota .
+%mor:	v|tene-2S&PRES=have prep|que=than v|mete-INF=put adv|más=more det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+%com:	a Audrey
+*INV:	otra vez .
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn . 
+*AUD:	a_ver .
+%mor:	co|a_ver=see . 
+*SIS:	tú tienes la pelota .
+%mor:	pro:per|tú=you v|tene-2S&PRES=have det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+*INV:	yo no tengo .
+%mor:	pro:per|yo=I adv|no=no v|tene-1S&PRES=have . 
+*SIS:	los Teletubis .
+%mor:	det:art|el&MASC-PL=the n:prop|Teletubis . 
+*INV:	y de la barca pequeña también se dispara algo .
+%mor:	coord|y=and prep|de=of det:art|el&FEM&SG=the n|barco-FEM=boat adj|pequeño-FEM=small 
+	adv|también=also pro:per|se=itself v|dispara-3S&PRES=shoot pro:dem|algo=something 
+	. 
+*INV:	coge el barco pequeño .
+%mor:	v|coge-3S&PRES=take det:art|el&MASC&SG=the n|barco-MASC=boat adj|pequeño-MASC=small 
+	. 
+*SIS:	la de Peter_Pan (.) sí ?
+%mor:	det:art|el&FEM&SG=the prep|de=of n:prop|Peter_Pan co|sí=yes ? 
+*INV:	Audrey cógeme la barquita .
+%mor:	n:prop|Audrey v|coge-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|barco-DIM-FEM=boat 
+	. 
+*SIS:	sí [/] sí ?
+%mor:	co|sí=yes ? 
+*INV:	mira .
+%mor:	co|mira=look . 
+*SIS:	voy a_ver .
+%mor:	v|i-1S&PRES=go co|a_ver=see . 
+*SIS:	han venido los Teletubis (.) a que sí ?
+%mor:	v|habe-3P&PRES=have part|veni-PPART&MASC=come det:art|el&MASC-PL=the n:prop|Teletubis 
+	prep|a=to prep|que=than co|sí=yes ? 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*MOT:	te gusta .
+%mor:	pro:per|te=you v|gusta-3S&PRES=like . 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*MOT:	se dispara de esa barquita pequeña ?
+%mor:	pro:per|se=itself v|dispara-3S&PRES=shoot prep|de=of det:dem|ese-FEM=that 
+	n|barco-DIM-FEM=boat adj|pequeño-FEM=small ? 
+*SIS:	sí .
+%mor:	co|sí=yes . 
+*SIS:	así no ?
+%mor:	adv|así=thus adv|no=no ? 
+*MOT:	a_ver cómo disparas el cañón Audrey que te vea .
+%mor:	co|a_ver=see co|cómo v|dispara-2S&PRES=shoot det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	n:prop|Audrey prep|que=than pro:per|te=you v|ve-13S&SUB&PRES=see . 
+*SIS:	así [/] así ?
+%mor:	adv|así=thus ? 
+*SIS:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+*AUD:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*MOT:	se ha caído ?
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall ? 
+*MOT:	cógelo .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&MASC . 
+*AUD:	otra vez (.) bueno .
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn co|bueno=good . 
+*MOT:	Audrey cariño pon las piezas del barco .
+%mor:	n:prop|Audrey n|cariño&masc=affection v|pone-2S&IMP=put det:art|el&FEM-PL=the 
+	n|pieza&fem-PL=piece prep|de~det|el&MASC n|barco-MASC=boat . 
+%com:	coge un dibujo y lo enseña
+*INV:	lo has hecho tú Audrey (.) sí ?
+%mor:	pro:per:1|lo&masc=him v|habe-2S&PRES=have n|hecho&masc=action pro:per|tú=you 
+	n:prop|Audrey co|sí=yes ? 
+*AUD:	todo lo he hecho yo (.) todo .
+%mor:	det:indef|todo-MASC=all pro:per:1|lo&masc=him co|he n|hecho&masc=action 
+	pro:per|yo=I det:indef|todo-MASC=all . 
+*SIS:	mira se ha roto .
+%mor:	co|mira=look pro:per|se=itself co|ha part|rompe-PPART-MASC=break . 
+%com:	la caja del video
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	se ha roto .
+%mor:	pro:per|se=itself co|ha part|rompe-PPART-MASC=break . 
+*SIS:	se ha roto de aquí .
+%mor:	pro:per|se=itself co|ha part|rompe-PPART-MASC=break prep|de=of adv|aquí=here 
+	. 
+*AUD:	ya ponemos la pelí(cula) de Peter_Pan ?
+%mor:	adv|ya=already v|pone-1P&PRES=put det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of n:prop|Peter_Pan ? 
+*MOT:	si tienes ahí el barco del capitán Garfio .
+%mor:	conj|si=if v|tene-2S&PRES=have adv|ahí=there det:art|el&MASC&SG=the n|barco-MASC=boat 
+	prep|de~det|el&MASC n|capitán&masc=captain n:prop|Garfio . 
+*AUD:	yo no juego .
+%mor:	pro:per|yo=I adv|no=no n|juego&masc=game . 
+*SIS:	me das la pelota .
+%mor:	pro:per|me=me v|da-2S&PRES=give det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+*AUD:	aquí [/] aquí le he dispara(d)o .
+%mor:	adv|aquí=here pro:per|le=him co|he part|dispara-PPART&MASC=shoot . 
+*SIS:	quiero pasar .
+%mor:	v|quere-1S&PRES=want v|pasa-INF=pass . 
+*SIS:	pero no está la pelota .
+%mor:	conj|pero=but adv|no=no v|esta-3S&PRES=be det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+*SIS:	<a ver> [/] a_ver [/] a_ver dónde está la pelota (.) a_ver ?
+%mor:	co|a_ver=see pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|pelota&fem=ball co|a_ver=see ? 
+*SIS:	no se dónde está la pelota .
+%mor:	adv|no=no pro:per|se=itself pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*SIS:	no veo la pelota .
+%mor:	adv|no=no v|ve-1S&PRES=see det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*SIS:	<no veo> [/] no veo .
+%mor:	adv|no=no v|ve-1S&PRES=see . 
+*MOT:	mira Marta te va a ayudar a buscar la pelota .
+%mor:	co|mira=look n:prop|Marta pro:per|te=you v|i-3S&PRES=go prep|a=to v|ayuda-INF=help 
+	prep|a=to v|busca-INF=search det:art|el&FEM&SG=the n|pelota&fem=ball . 
+%com:	mientras Audrey juega imitando a un león
+*MOT:	Audrey ayúdale a Marta a buscar la pelota cariño .
+%mor:	n:prop|Audrey v|ayuda-2S&IMP~pro:clit|3S prep|a=to n:prop|Marta prep|a=to 
+	v|busca-INF=search det:art|el&FEM&SG=the n|pelota&fem=ball co:voc|cariño=affection 
+	. 
+*MOT:	Audrey ayúdale a Marta .
+%mor:	n:prop|Audrey v|ayuda-2S&IMP~pro:clit|3S prep|a=to n:prop|Marta . 
+*AUD:	tengo Pin_y_pon .
+%mor:	v|tene-1S&PRES=have n:prop|Pin_y_pon . 
+*AUD:	dónde está Pin_y_pon ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be n:prop|Pin_y_pon ? 
+*AUD:	Pin_y_pon [/] Pin_y_pon (.) eh ?
+%mor:	n:prop|Pin_y_pon co|eh ? 
+%com:	coge un silbato y silba .
+@End

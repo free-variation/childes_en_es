@@ -1,0 +1,670 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , PAD Padre Father
+@ID:	spa|linaza|CHI|2;8.||||Target_Child|||
+@ID:	spa|linaza|PAD|||||Father|||
+@Tape Location:	tape 4 , side 2
+@Comment:	Josetxu Linaza , Marisol
+*PAD:	donde ?
+%mor:	pro:rel|donde=where ? 
+*CHI:	ese una ese una (a)zul .
+%mor:	det:dem|ese=that det:art|un-FEM=one det:dem|ese=that det:art|un-FEM=one 
+	adj|azul=blue . 
+*PAD:	cual ?
+%mor:	pro:rel|cual=which ? 
+*CHI:	este .
+%mor:	det:dem|este=this . 
+*PAD:	esto es azul ?
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adj|azul=blue ? 
+*CHI:	y este rojo .
+%mor:	coord|y=and det:dem|este=this adj|rojo-MASC=red . 
+*PAD:	sí .
+%mor:	co|sí=yes . 
+*CHI:	y ese azul .
+%mor:	coord|y=and det:dem|ese=that adj|azul=blue . 
+*PAD:	y ese azul sí .
+%mor:	coord|y=and det:dem|ese=that adj|azul=blue adv|sí=yes . 
+*CHI:	aquí no toque pipa .
+%mor:	adv|aquí=here adv|no=no v|toca-13S&SUB&PRES=touch n|pipa&fem=cask . 
+*CHI:	vaya no mira a mesa a falta .
+%mor:	co|vaya=come_on co|no=no co|mira=look prep|a=to n|mesa&fem=table prep|a=to 
+	v|falta-3S&PRES=be_lacking . 
+*PAD:	que ?
+%mor:	prep|que=than ? 
+*CHI:	Mancha no pig@wp manga .
+%mor:	n:prop|Mancha adv|no=no wplay|pig n|manga&fem=sleeve . 
+*PAD:	que haces ?
+%mor:	prep|que=than v|hace-2S&PRES=do ? 
+*PAD:	aquí hay ceniza ?
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have n|ceniza&fem=ash ? 
+*PAD:	pues es verdad .
+%mor:	co|pues=well v|se-3S&PRES=be co|verdad=right . 
+*PAD:	la limpiamos ya esta y aquí .
+%mor:	det:art|el&FEM&SG=the v|limpia-1P&PRES=clean adv|ya=already det:dem|este-FEM=this 
+	coord|y=and adv|aquí=here . 
+*CHI:	ya dacurdo [: de acuerdo] dacurdo [: de acuerdo] .
+%mor:	adv|ya=already prep|de=of n|acuerdo&masc=opinion prep|de=of n|acuerdo&masc=opinion 
+	. 
+*PAD:	de acuerdo .
+%mor:	prep|de=of n|acuerdo&masc=opinion . 
+*CHI:	papa .
+%mor:	n|papa&masc=pope . 
+*PAD:	Pilar ?
+%mor:	n:prop|Pilar ? 
+*CHI:	cojo blanco .
+%mor:	adj|cojo-MASC=crippled adj|blanco-MASC=white . 
+*PAD:	si se cogen de lo blanco las diapositivas , sí .
+%mor:	conj|si=if pro:per|se=itself v|coge-3P&PRES=take prep|de=of pro:per:1|lo&masc=him 
+	adj|blanco-MASC=white det:art|el&FEM-PL=the n|diapositiva&fem-PL=slide 
+	cm|cm co|sí=yes . 
+*CHI:	si ahora meten .
+%mor:	conj|si=if adv|ahora=now v|mete-3P&PRES=put . 
+*PAD:	ahora se meten .
+%mor:	adv|ahora=now pro:per|se=itself v|mete-3P&PRES=put . 
+*CHI:	si (es)pera .
+%mor:	conj|si=if v|espera-3S&PRES=wait . 
+*PAD:	espera si ahora aprieta y ya está .
+%mor:	v|espera-3S&PRES=wait conj|si=if adv|ahora=now v|apreta-3S&PRES=tighten 
+	coord|y=and adv|ya=already v|esta-3S&PRES=be . 
+*PAD:	quien está ahí ?
+%mor:	pro:rel|quien=who v|esta-3S&PRES=be adv|ahí=there ? 
+*PAD:	quien está .
+%mor:	pro:rel|quien=who v|esta-3S&PRES=be . 
+*CHI:	e P(il)ar y Jaime .
+%mor:	coord|e=and n:prop|Pilar coord|y=and n:prop|Jaime . 
+*PAD:	Pilar y Jaime ?
+%mor:	n:prop|Pilar coord|y=and n:prop|Jaime ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	a_ver mira bien (.) empuja empuja .
+%mor:	co|a_ver=see co|mira=look adv|bien=well v|empuja-3S&PRES=push v|empuja-3S&PRES=push 
+	. 
+*CHI:	u:i es Jaime y Juan .
+%mor:	co|ui v|se-3S&PRES=be n:prop|Jaime coord|y=and n:prop|Juan . 
+*PAD:	Jaime y Juan .
+%mor:	n:prop|Jaime coord|y=and n:prop|Juan . 
+*CHI:	ya ya ten .
+%mor:	adv|ya=already adv|ya=already v|tene-2S&IMP=have . 
+*CHI:	ya no veo .
+%mor:	adv|ya=already adv|no=no v|ve-1S&PRES=see . 
+*CHI:	más ya lo meto .
+%mor:	adv|más=more adv|ya=already pro:per:1|lo&masc=him v|mete-1S&PRES=put 
+	. 
+*PAD:	otra que ?
+%mor:	det:indef|otro-FEM=other prep|que=than ? 
+*CHI:	Juan .
+%mor:	n:prop|Juan . 
+*PAD:	otra foto de Juan .
+%mor:	det:indef|otro-FEM=other n|foto&masc=photo prep|de=of n:prop|Juan . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	a_ver ten cuidado que si no lo coges por lo blanco se estropean (.) a ver , ves estas son del mes de octubre y estamos en febrero eras más chiquitín aquí .
+%mor:	co|a_ver=see v|tene-2S&IMP=have n|cuidado&masc=care prep|que=than conj|si=if 
+	adv|no=no pro:per:1|lo&masc=him v|coge-2S&PRES=take prep|por=for pro:per:1|lo&masc=him 
+	adj|blanco-MASC=white pro:per|se=itself v|estropea-3P&PRES=damage prep|a=to 
+	v|ve-INF=see cm|cm v|ve-2S&PRES=see det:dem|este-FEM-PL=this v|se-3P&PRES=be 
+	prep|de~det|el&MASC n|mes&masc=month prep|de=of n|octubre&masc=October 
+	coord|y=and v|esta-1P&PRES=be prep|en=in n|febrero&masc=February v|se-2S&PAS=be 
+	adv|más=more n|chiquitín&masc=infant adv|aquí=here . 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	que tenías dos años .
+%mor:	prep|que=than v|tene-2S&PAS=have det:num|dos=two n|año&masc-PL=year . 
+*CHI:	dos dos .
+%mor:	det:num|dos=two det:num|dos=two . 
+*PAD:	dos años .
+%mor:	det:num|dos=two n|año&masc-PL=year . 
+*PAD:	bueno ya ya que se rompe .
+%mor:	co|bueno=good adv|ya=already adv|ya=already prep|que=than pro:per|se=itself 
+	v|rompe-3S&PRES=break . 
+*CHI:	que uu xxx así meto .
+%mor:	prep|que=than co|uu adv|así=thus v|mete-1S&PRES=put . 
+*PAD:	sí pero aprieta fuerte .
+%mor:	co|sí=yes conj|pero=but v|apreta-3S&PRES=tighten adj|fuerte=strong . 
+*CHI:	ya está Juan .
+%mor:	adv|ya=already v|esta-3S&PRES=be n:prop|Juan . 
+*CHI:	mira ves .
+%mor:	co|mira=look co|ves=see . 
+*PAD:	uu ?
+%mor:	co|uu ? 
+*CHI:	ves .
+%mor:	co|ves=see . 
+*PAD:	sí sí .
+%mor:	co|sí=yes co|sí=yes . 
+*CHI:	ya .
+%mor:	adv|ya=already . 
+*PAD:	oye me parece que te has hecho caca , no ?
+%mor:	co|oye=listen pro:per|me=me v|parece-3S&PRES=seem prep|que=than pro:per|te=you 
+	v|habe-2S&PRES=have n|hecho&masc=action n|caca&fem=feces cm|cm co|no=no 
+	? 
+*PAD:	te has hecho caca ?
+%mor:	pro:per|te=you v|habe-2S&PRES=have n|hecho&masc=action n|caca&fem=feces 
+	? 
+*PAD:	te lo estoy diciendo .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him v|esta-1S&PRES=be v|deci-PROG=say 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+%com:	Se corta la grabacion .
+*PAD:	que no me tires los señores .
+%mor:	prep|que=than adv|no=no pro:per|me=me v|tira-2S&SUB&PRES=throw det:art|el&MASC-PL=the 
+	n|señor&masc-PL=sir . 
+*CHI:	aquí e(s)tán caido .
+%mor:	adv|aquí=here v|esta-3P&PRES=be part|cae-PPART&MASC=fall . 
+*PAD:	son jugadores de fútbol sabes ?
+%mor:	v|se-3P&PRES=be n|jugador&masc-PL=player prep|de=of n|fútbol&masc=soccer 
+	co|sabes=you_know ? 
+*CHI:	señores .
+%mor:	n|señor&masc-PL=sir . 
+*PAD:	que hacen ?
+%mor:	prep|que=than v|hace-3P&PRES=do ? 
+*CHI:	reír se(ñ)ore(s) .
+%mor:	v|reí-INF=laugh n|señor&masc-PL=sir . 
+*PAD:	mira a_ver si hay alguno debajo del sofá .
+%mor:	co|mira=look co|a_ver=see conj|si=if v|habe-3S&PRES&SPEC=have det:indef|algún-MASC=some 
+	adv|debajo=below prep|de~det|el&MASC n|sofá&masc=sofa . 
+*PAD:	hay alguno eh ?
+%mor:	v|habe-3S&PRES&SPEC=have det:indef|algún-MASC=some co|eh ? 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	que si hay algún señor debajo del sofá esta ?
+%mor:	prep|que=than conj|si=if v|habe-3S&PRES&SPEC=have det:indef|algún&masc=some 
+	n|señor&masc=sir adv|debajo=below prep|de~det|el&MASC n|sofá&masc=sofa 
+	det:dem|este-FEM=this ? 
+*CHI:	un b(l)anco .
+%mor:	det:art|un&masc=one adj|blanco-MASC=white . 
+*PAD:	uno blanco .
+%mor:	det:art|un-MASC=one adj|blanco-MASC=white . 
+*CHI:	esto .
+%mor:	det:dem|este-MASC=this . 
+*PAD:	u:i !
+%mor:	co|ui ! 
+*PAD:	que ha sido eso ?
+%mor:	prep|que=than co|ha part|se-PPART&MASC=be pro:dem|eso=that_one ? 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	que ha sido ese ruido ?
+%mor:	prep|que=than co|ha part|se-PPART&MASC=be det:dem|ese=that n|ruido&masc=noise 
+	? 
+*CHI:	un yo .
+%mor:	det:art|un&masc=one pro:per|yo=I . 
+*PAD:	eh ?
+%mor:	co|eh ? 
+*CHI:	un pedo .
+%mor:	det:art|un&masc=one n|pedo&masc=fart . 
+*PAD:	un pedo ?
+%mor:	det:art|un&masc=one n|pedo&masc=fart ? 
+*PAD:	de quien .
+%mor:	prep|de=of pro:rel|quien=who . 
+*CHI:	mío .
+%mor:	pro:pos|mío-MASC=mine . 
+*PAD:	cochino .
+%mor:	n|cochino-MASC=hog . 
+*CHI:	ese caido rojo tenle .
+%mor:	det:dem|ese=that part|cae-PPART&MASC=fall adj|rojo-MASC=red v|tene-2S&IMP~pro:clit|3S 
+	. 
+*PAD:	oye !
+%mor:	co|oye=listen ! 
+%com:	se rie Juan .
+*PAD:	dame ese calcetín .
+%mor:	v|da-2S&IMP~pro:clit|1S det:dem|ese=that n|calcetín&masc=sock . 
+%com:	Sigue jugando .
+*PAD:	dame ese calcetín .
+%mor:	v|da-2S&IMP~pro:clit|1S det:dem|ese=that n|calcetín&masc=sock . 
+*CHI:	no está .
+%mor:	adv|no=no v|esta-3S&PRES=be . 
+*PAD:	donde está ?
+%mor:	pro:rel|donde=where v|esta-3S&PRES=be ? 
+*CHI:	esta no está .
+%mor:	det:dem|este-FEM=this adv|no=no v|esta-3S&PRES=be . 
+*PAD:	es un calcetín ?
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|calcetín&masc=sock ? 
+*CHI:	ta .
+%mor:	co|ta . 
+*PAD:	era un calcetín ?
+%mor:	v|se-13S&PAS=be det:art|un&masc=one n|calcetín&masc=sock ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	que era ?
+%mor:	prep|que=than v|se-13S&PAS=be ? 
+*CHI:	una niña .
+%mor:	det:art|un-FEM=one co:voc|niña=child . 
+*PAD:	no no lo tires ahí oya .
+%mor:	adv|no=no adv|no=no pro:per:1|lo&masc=him v|tira-2S&SUB&PRES=throw adv|ahí=there 
+	v|oí-13S&SUB&PRES=hear . 
+%com:	Sigue jugando y riendo .
+*CHI:	(s)eñores ni (s)eñores .
+%mor:	n|señor&masc-PL=sir coord|ni=nor n|señor&masc-PL=sir . 
+*PAD:	que hacen ?
+%mor:	prep|que=than v|hace-3P&PRES=do ? 
+*PAD:	si pipi [: peces] .
+%mor:	conj|si=if n|pece&fem-PL=clay . 
+*CHI:	ay (.) tai@c un pompe .
+%mor:	co|ay=ay chi|tai det:art|un&masc=one v|pompa-13S&SUB&PRES=blow_bubble 
+	. 
+%com:	Se corta la cinta . Luego se escuchan ruidos y vocalizaciones de un niño jugando solo .
+*CHI:	a_ver a_ver .
+%mor:	co|a_ver=see co|a_ver=see . 
+%com:	ruidos en la grabacion
+*CHI:	ay dos elefante e hijos .
+%mor:	co|ay=ay det:num|dos=two n|elefante&masc=elephant coord|e=and n|hijo-MASC-PL=child 
+	. 
+*CHI:	hola (ele)fantes .
+%mor:	co|hola=hi n|elefante&masc-PL=elephant . 
+%com:	sigue jugando el solo
+*CHI:	hola ese endando [: jugando] [*] dos (ele)fantes y (l)a niña .
+%mor:	co|hola=hi det:dem|ese=that v|juga-PROG=play det:num|dos=two n|elefante&masc-PL=elephant 
+	coord|y=and det:art|el&FEM&SG=the co:voc|niña=child . 
+*CHI:	óyete que que (.) no ese no aquí aquí ese no venga aquí ese (.) te aquí (.) ese aquí se se se (.) se se .
+%mor:	v|oí-2S&IMP~pro:clit|2S prep|que=than prep|que=than adv|no=no det:dem|ese=that 
+	adv|no=no adv|aquí=here adv|aquí=here det:dem|ese=that co|no=no co|venga=come_on 
+	adv|aquí=here det:dem|ese=that pro:per|te=you adv|aquí=here det:dem|ese=that 
+	adv|aquí=here pro:per|se=itself pro:per|se=itself pro:per|se=itself pro:per|se=itself 
+	pro:per|se=itself . 
+%com:	sigue haciendo vocalizaciones sin sentido
+*CHI:	(.) ese es (.) un su su su a su .
+%mor:	det:dem|ese=that v|se-3S&PRES=be det:art|un&masc=one det:pos|su&3S=his 
+	det:pos|su&3S=his det:pos|su&3S=his prep|a=to det:pos|su&3S=his . 
+*PAD:	y esos no se donde están .
+%mor:	coord|y=and det:dem|ese-MASC-PL=that adv|no=no pro:per|se=itself pro:rel|donde=where 
+	v|esta-3P&PRES=be . 
+*CHI:	pipa .
+%mor:	n|pipa&fem=cask . 
+*PAD:	no se (.) se habrá ido .
+%mor:	adv|no=no pro:per|se=itself pro:per|se=itself v|habe-3S&FUT=have part|i-PPART-MASC=go 
+	. 
+*CHI:	fue .
+%mor:	v|i-3S&PRET=go . 
+*PAD:	se fue ?
+%mor:	pro:per|se=itself v|i-3S&PRET=go ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	a donde ?
+%mor:	prep|a=to pro:rel|donde=where ? 
+*CHI:	a calle .
+%mor:	prep|a=to n|calle&fem=street . 
+*PAD:	a la calle ?
+%mor:	prep|a=to det:art|el&FEM&SG=the n|calle&fem=street ? 
+*PAD:	a donde ?
+%mor:	prep|a=to pro:rel|donde=where ? 
+*CHI:	a (facul)tad [*] .
+%mor:	prep|a=to n|facultad&fem=faculty . 
+*PAD:	a la facultad ?
+%mor:	prep|a=to det:art|el&FEM&SG=the n|facultad&fem=faculty ? 
+*CHI:	sí (.) a una ca(r)ta [*] a (An)tonio .
+%mor:	adv|sí=yes prep|a=to det:art|un-FEM=one n|carta&fem=letter prep|a=to 
+	n:prop|Antonio . 
+*PAD:	a dar una carta a Antonio ?
+%mor:	prep|a=to v|da-INF=give det:art|un-FEM=one n|carta&fem=letter prep|a=to 
+	n:prop|Antonio ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	sí ?
+%mor:	co|sí=yes ? 
+*CHI:	y a vane [: viene] [*] .
+%mor:	coord|y=and prep|a=to v|veni-3S&PRES=come . 
+*PAD:	ah !
+%mor:	co|ah ! 
+*PAD:	ahora viene ?
+%mor:	adv|ahora=now v|veni-3S&PRES=come ? 
+*CHI:	eida@c [=? enseguida] .
+%mor:	chi|eida . 
+*PAD:	eh ?
+%mor:	co|eh ? 
+*CHI:	eida@c [=? enseguida] .
+%mor:	chi|eida . 
+*PAD:	enseguida ?
+%mor:	adv|enseguida=immediately ? 
+*CHI:	ves yo .
+%mor:	co|ves=see pro:per|yo=I . 
+*PAD:	y tu no vas a la calle hoy ?
+%mor:	coord|y=and det:pos|tu=your adv|no=no v|i-2S&PRES=go prep|a=to det:art|el&FEM&SG=the 
+	n|calle&fem=street adv|hoy=today ? 
+*PAD:	tu no vas a la calle ?
+%mor:	det:pos|tu=your adv|no=no v|i-2S&PRES=go prep|a=to det:art|el&FEM&SG=the 
+	n|calle&fem=street ? 
+*CHI:	no tu .
+%mor:	adv|no=no det:pos|tu=your . 
+*PAD:	yo sí voy a ir .
+%mor:	pro:per|yo=I adv|sí=yes v|i-1S&PRES=go prep|a=to v|i-INF=go . 
+*CHI:	mía son (s)eñor cuco mira mira .
+%mor:	pro:pos|mío-FEM=mine v|se-3P&PRES=be n|señor&masc=sir n|cuco&masc=caterpillar 
+	co|mira=look co|mira=look . 
+*PAD:	que ?
+%mor:	prep|que=than ? 
+*CHI:	mira mira una mía solo .
+%mor:	co|mira=look co|mira=look det:art|un-FEM=one pro:pos|mío-FEM=mine adj|solo-MASC=alone 
+	. 
+*PAD:	que ?
+%mor:	prep|que=than ? 
+*CHI:	una a una se tumba .
+%mor:	det:art|un-FEM=one prep|a=to det:art|un-FEM=one pro:per|se=itself n|tumba&fem=tomb 
+	. 
+%com:	hace ruidos .
+*PAD:	así te gusta .
+%mor:	adv|así=thus pro:per|te=you v|gusta-3S&PRES=like . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	xxx .
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	así te gusta .
+%mor:	adv|así=thus pro:per|te=you v|gusta-3S&PRES=like . 
+*CHI:	mía (.) una (a)zul una azul un azul .
+%mor:	pro:pos|mío-FEM=mine det:art|un-FEM=one adj|azul=blue det:art|un-FEM=one 
+	adj|azul=blue det:art|un&masc=one adj|azul=blue . 
+%com:	chillando
+*CHI:	bruuu@o pig_pig@wp chopole@b pig_pig_pig@wp .
+%mor:	on|bruuu wplay|pig_pig bab|chopole wplay|pig_pig_pig . 
+%com:	Se corta la cinta .
+*PAD:	que haces eh ?
+%mor:	prep|que=than v|hace-2S&PRES=do co|eh ? 
+%com:	ruidos en la cinta .
+*CHI:	a una casa .
+%mor:	prep|a=to det:art|un-FEM=one n|casa&fem=house . 
+*PAD:	y donde está la casa de xxx .
+%mor:	coord|y=and pro:rel|donde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|casa&fem=house prep|de=of . 
+*CHI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*PAD:	eh ?
+%mor:	co|eh ? 
+*CHI:	no se no se .
+%mor:	adv|no=no pro:per|se=itself adv|no=no pro:per|se=itself . 
+*PAD:	ya no está ?
+%mor:	adv|ya=already adv|no=no v|esta-3S&PRES=be ? 
+*CHI:	no no se (.) tu curda [: acuerda] [*] .
+%mor:	adv|no=no adv|no=no pro:per|se=itself det:pos|tu=your v|acorda-3S&PRES=remind 
+	. 
+*PAD:	sí me acuerdo sí .
+%mor:	co|sí=yes pro:per|me=me n|acuerdo&masc=opinion co|sí=yes . 
+*CHI:	curda [: acuerda] [*] ayer .
+%mor:	v|acorda-3S&PRES=remind adv|ayer=yesterday . 
+%com:	chillando .
+*PAD:	sí me acuerdo de ayer sí , que paso ayer ?
+%mor:	co|sí=yes pro:per|me=me n|acuerdo&masc=opinion prep|de=of adv|ayer=yesterday 
+	co|sí=yes cm|cm prep|que=than n|paso&masc=step adv|ayer=yesterday ? 
+*CHI:	tunda@b y se fue la casa .
+%mor:	bab|tunda coord|y=and pro:per|se=itself v|i-3S&PRET=go det:art|el&FEM&SG=the 
+	n|casa&fem=house . 
+*PAD:	se fue la casa ?
+%mor:	pro:per|se=itself v|i-3S&PRET=go det:art|el&FEM&SG=the n|casa&fem=house 
+	? 
+*CHI:	curda [: acuerda] [*] .
+%mor:	v|acorda-3S&PRES=remind . 
+*PAD:	y quien la rompió ?
+%mor:	coord|y=and pro:rel|quien=who det:art|el&FEM&SG=the v|rompe-3S&PRET=break 
+	? 
+*CHI:	cholo .
+%mor:	n|cholo-MASC=mestizo . 
+*PAD:	solo ?
+%mor:	adj|solo-MASC=alone ? 
+*CHI:	cholo curda [: acuerda] [*] .
+%mor:	n|cholo-MASC=mestizo v|acorda-3S&PRES=remind . 
+*CHI:	te tire que bajar .
+%mor:	pro:per|te=you v|tira-13S&SUB&PRES=throw prep|que=than v|baja-INF=come_down 
+	. 
+*PAD:	eh ?
+%mor:	co|eh ? 
+*CHI:	tire to@c la casa .
+%mor:	v|tira-13S&SUB&PRES=throw chi|to det:art|el&FEM&SG=the n|casa&fem=house 
+	. 
+*PAD:	como quieres la casa , muy grande ?
+%mor:	adv|como=like v|quere-2S&PRES=want det:art|el&FEM&SG=the n|casa&fem=house 
+	cm|cm adv|muy=very adj|grande=big ? 
+*CHI:	sí (.) tu corda [: acuerda] [*] sí corda [: acuerda] [*] .
+%mor:	adv|sí=yes det:pos|tu=your v|acorda-3S&PRES=remind adv|sí=yes v|acorda-3S&PRES=remind 
+	. 
+*PAD:	sigues tu ahora ?
+%mor:	v|segui-2S&PRES=follow det:pos|tu=your adv|ahora=now ? 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	ahora lo haces tu ?
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|hace-2S&PRES=do det:pos|tu=your 
+	? 
+*CHI:	corda [: acuerda] [*] (.) tu .
+%mor:	v|acorda-3S&PRES=remind det:pos|tu=your . 
+*PAD:	y era alta ?
+%mor:	coord|y=and v|se-13S&PAS=be adj|alto-FEM=tall ? 
+*CHI:	no no yo no baña yo naño@b .
+%mor:	adv|no=no adv|no=no pro:per|yo=I adv|no=no v|baña-3S&PRES=bathe pro:per|yo=I 
+	bab|naño . 
+*PAD:	tu no haces nada ?
+%mor:	det:pos|tu=your adv|no=no v|hace-2S&PRES=do pro:indef|nada=nothing ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	pero como eres tan sinvergüenza .
+%mor:	conj|pero=but adv|como=like v|se-2S&PRES=be adv|tan=such adj|sinvergüenza=rogue 
+	. 
+*CHI:	no quedo aquí .
+%mor:	co|no=no co|quedo adv|aquí=here . 
+*CHI:	no hago nada .
+%mor:	adv|no=no v|hace-1S&PRES=do pro:indef|nada=nothing . 
+*PAD:	te quedas ahí y no haces nada .
+%mor:	pro:per|te=you v|queda-2S&PRES=stay adv|ahí=there coord|y=and adv|no=no 
+	v|hace-2S&PRES=do pro:indef|nada=nothing . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	sí .
+%mor:	co|sí=yes . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	sí haces algo .
+%mor:	adv|sí=yes v|hace-2S&PRES=do pro:dem|algo=something . 
+*CHI:	no hago algo .
+%mor:	adv|no=no v|hace-1S&PRES=do pro:dem|algo=something . 
+*PAD:	no haces algo ?
+%mor:	adv|no=no v|hace-2S&PRES=do pro:dem|algo=something ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	porque ?
+%mor:	conj|porque=because ? 
+*CHI:	ta a hago .
+%mor:	co|ta prep|a=to v|hace-1S&PRES=do . 
+*PAD:	porque eres un vago ?
+%mor:	conj|porque=because v|se-2S&PRES=be det:art|un&masc=one n|vago&masc=bum 
+	? 
+*CHI:	yu un vago .
+%mor:	co|yu det:art|un&masc=one n|vago&masc=bum . 
+*PAD:	tu si que eres un vago .
+%mor:	det:pos|tu=your conj|si=if prep|que=than v|se-2S&PRES=be det:art|un&masc=one 
+	n|vago&masc=bum . 
+*CHI:	uu .
+%mor:	co|uu . 
+*PAD:	te gusta esa casa ?
+%mor:	pro:per|te=you v|gusta-3S&PRES=like det:dem|ese-FEM=that n|casa&fem=house 
+	? 
+*CHI:	haz otra .
+%mor:	v|hace-2S&IMP=do det:indef|otro-FEM=other . 
+*PAD:	hago otra casa ahora ?
+%mor:	v|hace-1S&PRES=do det:indef|otro-FEM=other n|casa&fem=house adv|ahora=now 
+	? 
+*CHI:	sí (.) haces (.) ten .
+%mor:	adv|sí=yes v|hace-2S&PRES=do v|tene-2S&IMP=have . 
+*PAD:	me faltan piezas aquí .
+%mor:	pro:per|me=me v|falta-3P&PRES=be_lacking n|pieza&fem-PL=piece adv|aquí=here 
+	. 
+*PAD:	faltan algunas piezas no ?
+%mor:	v|falta-3P&PRES=be_lacking det:indef|algún-FEM-PL=some n|pieza&fem-PL=piece 
+	adv|no=no ? 
+*CHI:	no están .
+%mor:	adv|no=no v|esta-3P&PRES=be . 
+*PAD:	no se donde están pero faltan algunas yo creo .
+%mor:	adv|no=no pro:per|se=itself pro:rel|donde=where v|esta-3P&PRES=be conj|pero=but 
+	v|falta-3P&PRES=be_lacking det:indef|algún-FEM-PL=some pro:per|yo=I v|cree-1S&PRES=believe 
+	. 
+*CHI:	otra casa .
+%mor:	det:indef|otro-FEM=other n|casa&fem=house . 
+*PAD:	otra casa muy grande .
+%mor:	det:indef|otro-FEM=other n|casa&fem=house adv|muy=very adj|grande=big 
+	. 
+%com:	Ruidos que hace Juan tirando algo .
+*PAD:	espera espera no saques todo .
+%mor:	v|espera-3S&PRES=wait v|espera-3S&PRES=wait adv|no=no v|saca-2S&SUB&PRES=bring_out 
+	det:indef|todo-MASC=all . 
+*PAD:	no saques todo , Juan .
+%mor:	adv|no=no v|saca-2S&SUB&PRES=bring_out det:indef|todo-MASC=all cm|cm n:prop|Juan 
+	. 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	yo te diría que no , que no saques todo .
+%mor:	pro:per|yo=I pro:per|te=you v|deci-13S&COND=say prep|que=than adv|no=no 
+	cm|cm prep|que=than adv|no=no v|saca-2S&SUB&PRES=bring_out det:indef|todo-MASC=all 
+	. 
+*PAD:	me oyes ?
+%mor:	pro:per|me=me v|oí-2S&PRES=hear ? 
+*CHI:	sí oigo .
+%mor:	adv|sí=yes v|oí-1S&PRES=hear . 
+*PAD:	sí me oyes ?
+%mor:	co|sí=yes pro:per|me=me v|oí-2S&PRES=hear ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	te estoy diciendo que no saques , que no saques todo .
+%mor:	pro:per|te=you v|esta-1S&PRES=be v|deci-PROG=say prep|que=than adv|no=no 
+	v|saca-2S&SUB&PRES=bring_out cm|cm prep|que=than adv|no=no v|saca-2S&SUB&PRES=bring_out 
+	det:indef|todo-MASC=all . 
+*CHI:	mira mira sí saco todo .
+%mor:	co|mira=look co|mira=look co|sí=yes v|saca-1S&PRES=bring_out det:indef|todo-MASC=all 
+	. 
+%com:	Sigue haciendo ruidos .
+*PAD:	estas haciendo mucho ruidos y vas a despertar a todos .
+%mor:	det:dem|este-FEM-PL=this v|hace-PROG=do adv|mucho=much n|ruido&masc-PL=noise 
+	coord|y=and v|i-2S&PRES=go prep|a=to v|desperta-INF=wake_up prep|a=to det:indef|todo-MASC-PL=all 
+	. 
+*CHI:	Jaime .
+%mor:	n:prop|Jaime . 
+*PAD:	a Jaime sí , y a todos .
+%mor:	prep|a=to n:prop|Jaime co|sí=yes cm|cm coord|y=and prep|a=to det:indef|todo-MASC-PL=all 
+	. 
+*CHI:	pipa .
+%mor:	n|pipa&fem=cask . 
+*PAD:	y a pipa se va a enfadar contigo pipa y ya veras .
+%mor:	coord|y=and prep|a=to n|pipa&fem=cask pro:per|se=itself v|i-3S&PRES=go 
+	prep|a=to v|enfada-INF=anger pro:per|contigo=with_you n|pipa&fem=cask coord|y=and 
+	adv|ya=already n|vera&fem-PL=side . 
+*CHI:	u:i ya ta toda .
+%mor:	co|ui adv|ya=already co|ta det:indef|todo-FEM=all . 
+*PAD:	ya salió todo ?
+%mor:	adv|ya=already v|sali-3S&PRET=leave det:indef|todo-MASC=all ? 
+*CHI:	mía .
+%mor:	pro:pos|mío-FEM=mine . 
+*PAD:	echame algunas .
+%mor:	v|echa-2S&IMP~pro:clit|1S det:indef|algún-FEM-PL=some . 
+*CHI:	toma (.) otra ya yo otra casa .
+%mor:	v|toma-3S&PRES=take det:indef|otro-FEM=other adv|ya=already pro:per|yo=I 
+	det:indef|otro-FEM=other n|casa&fem=house . 
+*PAD:	que ?
+%mor:	prep|que=than ? 
+*CHI:	quiero otra casa , quiero .
+%mor:	v|quere-1S&PRES=want det:indef|otro-FEM=other n|casa&fem=house cm|cm v|quere-1S&PRES=want 
+	. 
+*PAD:	esta es muy alta .
+%mor:	det:dem|este-FEM=this v|se-3S&PRES=be adv|muy=very adj|alto-FEM=tall . 
+*CHI:	otra .
+%mor:	det:indef|otro-FEM=other . 
+*PAD:	esta te gusta ?
+%mor:	det:dem|este-FEM=this pro:per|te=you v|gusta-3S&PRES=like ? 
+*CHI:	no po(r)que .
+%mor:	adv|no=no conj|porque=because . 
+*PAD:	esta no te gusta , eh ?
+%mor:	det:dem|este-FEM=this adv|no=no pro:per|te=you v|gusta-3S&PRES=like cm|cm 
+	co|eh ? 
+*CHI:	es que .
+%mor:	v|se-3S&PRES=be prep|que=than . 
+*PAD:	o esta sí te gusta ?
+%mor:	coord|o=or det:dem|este-FEM=this co|sí=yes pro:per|te=you v|gusta-3S&PRES=like 
+	? 
+*CHI:	cuanta cinco cae cae cae .
+%mor:	det:indef|cuanto-FEM=how_much det:num|cinco=five v|cae-3S&PRES=fall v|cae-3S&PRES=fall 
+	v|cae-3S&PRES=fall . 
+*CHI:	una toleta@b coge tu .
+%mor:	det:art|un-FEM=one bab|toleta v|coge-3S&PRES=take det:pos|tu=your . 
+*PAD:	que alta es esa casa .
+%mor:	prep|que=than adj|alto-FEM=tall v|se-3S&PRES=be det:dem|ese-FEM=that n|casa&fem=house 
+	. 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	xxx .
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	vamos a hacer otra casa quieres ?
+%mor:	co|vamos=go prep|a=to v|hace-INF=do det:indef|otro-FEM=other n|casa&fem=house 
+	v|quere-2S&PRES=want ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	hacemos esta más alta ?
+%mor:	v|hace-1P&PRES=do det:dem|este-FEM=this adv|más=more adj|alto-FEM=tall 
+	? 
+*CHI:	que .
+%mor:	prep|que=than . 
+*PAD:	esta más alta también ?
+%mor:	det:dem|este-FEM=this adv|más=more adj|alto-FEM=tall adv|también=also 
+	? 
+*CHI:	a_ver .
+%mor:	co|a_ver=see . 
+*CHI:	o esta o esta o esta .
+%mor:	coord|o=or det:dem|este-FEM=this coord|o=or det:dem|este-FEM=this coord|o=or 
+	det:dem|este-FEM=this . 
+*CHI:	tu haces una casa así otra vez una casa .
+%mor:	det:pos|tu=your v|hace-2S&PRES=do det:art|un-FEM=one n|casa&fem=house 
+	adv|así=thus det:indef|otro-FEM=other n|vez&fem=turn det:art|un-FEM=one 
+	n|casa&fem=house . 
+*CHI:	yo yo yo (.) otra yo yo yo yo luega [: hago] [*] una casa .
+%mor:	pro:per|yo=I pro:per|yo=I pro:per|yo=I det:indef|otro-FEM=other pro:per|yo=I 
+	pro:per|yo=I pro:per|yo=I pro:per|yo=I v|hace-1S&PRES=do det:art|un-FEM=one 
+	n|casa&fem=house . 
+*CHI:	sí sí hago una casa una (ot)ra [*] (.) otra casa .
+%mor:	co|sí=yes co|sí=yes v|hace-1S&PRES=do det:art|un-FEM=one n|casa&fem=house 
+	det:art|un-FEM=one det:indef|otro-FEM=other det:indef|otro-FEM=other n|casa&fem=house 
+	. 
+*PAD:	xxx .
+*CHI:	y esa mía .
+%mor:	coord|y=and det:dem|ese-FEM=that pro:pos|mío-FEM=mine . 
+*PAD:	que ?
+%mor:	prep|que=than ? 
+*CHI:	y esa casa es grande esa casa es grande .
+%mor:	coord|y=and det:dem|ese-FEM=that n|casa&fem=house v|se-3S&PRES=be adj|grande=big 
+	det:dem|ese-FEM=that n|casa&fem=house v|se-3S&PRES=be adj|grande=big . 
+*PAD:	es una casa muy grande y se podían mover , ves ?
+%mor:	v|se-3S&PRES=be det:art|un-FEM=one n|casa&fem=house adv|muy=very adj|grande=big 
+	coord|y=and pro:per|se=itself v|pode-3P&PAS=can v|move-INF=move cm|cm co|ves=see 
+	? 
+*PAD:	así .
+%mor:	adv|así=thus . 
+*CHI:	y es es grande .
+%mor:	coord|y=and v|se-3S&PRES=be v|se-3S&PRES=be adj|grande=big . 
+*PAD:	esa la podemos poner aquí .
+%mor:	det:dem|ese-FEM=that det:art|el&FEM&SG=the v|pode-1P&PRES=can v|pone-INF=put 
+	adv|aquí=here . 
+*CHI:	otra casa quiero casa tu .
+%mor:	det:indef|otro-FEM=other n|casa&fem=house v|quere-1S&PRES=want n|casa&fem=house 
+	det:pos|tu=your . 
+%com:	Ruidos que no dejan oir lo que hablan .
+*PAD:	cuidado cuidado (.) toma otra casa .
+%mor:	co|cuidado=careful co|cuidado=careful v|toma-3S&PRES=take det:indef|otro-FEM=other 
+	n|casa&fem=house . 
+*CHI:	otra .
+%mor:	det:indef|otro-FEM=other . 
+*PAD:	no .
+%mor:	adv|no=no . 
+*CHI:	otra .
+%mor:	det:indef|otro-FEM=other . 
+*PAD:	ya tienes muchas ya tienes todas las casas .
+%mor:	adv|ya=already v|tene-2S&PRES=have det:indef|mucho-FEM-PL=many adv|ya=already 
+	v|tene-2S&PRES=have det:indef|todo-FEM-PL=all det:art|el&FEM-PL=the n|casa&fem-PL=house 
+	. 
+*PAD:	esa quieres ponerla aquí ?
+%mor:	det:dem|ese-FEM=that v|quere-2S&PRES=want v|pone-INF~pro:clit|OBJ&FEM 
+	adv|aquí=here ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	no se si caben .
+%mor:	adv|no=no pro:per|se=itself conj|si=if v|cabe-3P&PRES=fit . 
+%com:	Termina la cara
+*PAD:	una aquí con la otra al lado .
+%mor:	det:art|un-FEM=one adv|aquí=here prep|con=with det:art|el&FEM&SG=the 
+	det:indef|otro-FEM=other prep|a~det|el&MASC n|lado&masc=side . 
+*PAD:	sí sí caben a_ver .
+%mor:	co|sí=yes co|sí=yes v|cabe-3P&PRES=fit co|a_ver=see . 
+@End

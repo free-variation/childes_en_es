@@ -1,0 +1,375 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Lucía Target_Child , FAT Padre Father , MOT MAdre Mother
+@ID:	spa , eng|OreaPine|CHI|2;3.21|female|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	28-JAN-2001
+@Location:	Madrid
+@Situation:	1 Lucía desyuna por la mañana en la cocina mientras FAT y MOT preparan su desayuno ; (2) MOT y Lucía desyunan en el salón mientras FAT prepara el desayuno
+@Time Start:	09:30
+*CHI:	nino@o [x 3] .
+*CHI:	xxx .
+*FAT:	Lucía .
+*FAT:	&=q tomamos más chococrispis@f ?
+*CHI:	&=e sí !
+%act:	se ha bajado de la silla y ha cogido un bolígrafo que estaba apartado , en el sitio donde suele sentarse FAT
+*FAT:	venga .
+*FAT:	&=q mi bolígrafo me has cogido ?
+*FAT:	no .
+*FAT:	que no me cojas el bolígrafo .
+%act:	ayuda a Lucía a sentarse en la silla
+*FAT:	trae .
+%act:	le quita el bolígrafo
+*CHI:	&=e ay@i !
+*FAT:	no .
+*FAT:	esto para desayunar no , bonita .
+*FAT:	venga .
+*FAT:	&=q más leche ?
+%act:	se la está echando
+*CHI:	&=e mucha !
+*FAT:	y los crispis .
+*FAT:	venga .
+*FAT:	&=q me quedo aquí contigo ?
+*CHI:	sí .
+*FAT:	venga .
+*FAT:	a ver .
+%act:	se sienta al lado de Lucía
+*FAT:	venga , Lucía .
+%act:	coge el plato de cereales y empieza a dar de comer a Lucía
+*FAT:	venga .
+*FAT:	&=q te tomas tú los crispis y yo me voy a buscar a Mamá ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q a ver si se levanta ?
+*CHI:	sí .
+*FAT:	venga .
+%act:	se levanta y se va
+*FAT:	&=q te traigo a Rita , Lucía ?
+*CHI:	sí .
+*FAT:	a ver , Rita .
+*FAT:	aquí .
+*FAT:	a desayunar con Lucía .
+%act:	deja la muñeca sobre la mesa , cerca de Lucía
+*FAT:	&=q vale ?
+%act:	vuelve a salir de la cocina
+*CHI:	ay@i .
+%act:	intenta dar de comer a la muñeca , pero luego sigue comiendo
+*CHI:	0 .
+%act:	se le cae un plato de plástico al suelo
+*FAT:	Lucía .
+*FAT:	&=q qué ha pasado ?
+%act:	entra en la cocina
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q eh@i ?
+*FAT:	ay@i .
+*FAT:	has tirado todo , Lu .
+%act:	recoge el plato del suelo
+*MOT:	hola .
+%act:	entra en la cocina
+*MOT:	&=q has tirado los crispis ?
+*CHI:	0 .
+%act:	mueve la cabeza ; sí
+*FAT:	0 .
+%act:	barre el suelo
+*CHI:	hola , Papá .
+*FAT:	voy a por pan también &=q eh@i ?
+%add:	MOT
+*FAT:	&=q me esperas ?
+%add:	MOT
+%act:	sale
+*FAT:	&=q tienes algo de dinero suelto , Mother ?
+%add:	MOT
+*MOT:	sí , algo .
+%add:	FAT
+*MOT:	hay que sacar dinero .
+%add:	FAT
+%par:	bostezando
+*CHI:	&=e mira Rita !
+%act:	está jugando con la muñeca
+*CHI:	&=e mira , Rita !
+*MOT:	&=q está desayunando contigo ?
+*MOT:	&=q eh@i ?
+*CHI:	no .
+*CHI:	está xxx . [+ NON]
+*MOT:	&=q no ?
+*MOT:	&=q no le das de desayunar ?
+*FAT:	oye .
+%add:	MOT
+*FAT:	&=q y las llaves del coche ?
+%add:	MOT
+@Situation:	1 Lucía desyuna por la mañana en la cocina mientras FAT y MOT preparan su desayuno ; (2) MOT y Lucía desyunan en el salón mientras FAT prepara el desayuno
+@Time Start:	09:30
+*CHI:	0 .
+%act:	se baja de la silla
+*CHI:	es [*] más c(r)i(s)pis .
+%err:	es = quiero $SYN $SUB
+*MOT:	&=q quieres más ? [+ COR]
+*CHI:	sí .
+*MOT:	vale .
+*MOT:	pues sienta .
+*MOT:	siénta te , cielo .
+*CHI:	yo aquí .
+*CHI:	xxx .
+*MOT:	0 .
+%act:	saca cereales de la caja y le echa en el plato
+*CHI:	no te caigas .
+%act:	sujeta la muñeca
+%par:	susurra
+*CHI:	&=q vale ?
+*CHI:	&=q tú queres [*] ?
+%err:	queres = quieres $MOR $LOS $REG
+%add:	muñeca
+*CHI:	&=q sí ?
+*CHI:	tú no xxx . [+ NON]
+*CHI:	tú no , Rita &=q eh@i ?
+*CHI:	xxx , Rita . [+ NON]
+*CHI:	xxx .
+*CHI:	&=e hola , Mamá !
+*MOT:	hola , Lucía .
+*CHI:	hola .
+*MOT:	&=q qué estás haciendo ?
+*CHI:	0 .
+%act:	no contesta
+*MOT:	&=q qué estás haciendo , Lucía ?
+*CHI:	quero [*] 0 [*] esotos [: vosotros] .
+%err:	quero = quiero $MOR $LOS $REG ; 0 = con $SYN $LOS
+*MOT:	&=q qué ?
+*CHI:	con Papá y con Mamá .
+*MOT:	sí .
+*MOT:	todavía no estamos .
+*MOT:	ahora vienes con nosotros .
+*CHI:	quero [*] pan yo .
+%err:	quero = quiero $MOR $LOS $REG
+*MOT:	no .
+*CHI:	sí .
+*CHI:	sí quero [*] ot(r)a vez .
+%err:	quero = quiero $MOR $LOS $REG
+*MOT:	otra vez no , Lucía .
+*CHI:	&=e sí !
+*CHI:	quero [x 2] [*] , sí .
+*CHI:	quero [*] ot(r)a vez .
+*CHI:	&=q y Papá ?
+*MOT:	se ha ido a buscar pan .
+*MOT:	ahora viene .
+*CHI:	xxx .
+*MOT:	sí .
+*MOT:	a buscar pan , hija .
+*CHI:	&=q sí ?
+*CHI:	xxx .
+*CHI:	al rojo red@s .
+*MOT:	xxx el rojo red@s , Lucía . [+ NON]
+*CHI:	no .
+*CHI:	&=e mira !
+%act:	se le ha quitado el babero
+*MOT:	&=q se te ha desabrochado ?
+*CHI:	sí .
+*CHI:	&=e uy@i !
+*CHI:	&=e mira !
+%act:	le enseña el babero a MOT
+*CHI:	mira .
+*MOT:	uy@i .
+*MOT:	se ha desabrochado .
+*CHI:	&=e mira !
+%act:	primero golpea con el babero (es de plástico duro) sobre la mesa y luego cierra la puerta de la cocina
+@Situation:	1 Lucía desyuna por la mañana en la cocina mientras FAT y MOT preparan su desayuno ; (2) MOT y Lucía desyunan en el salón mientras FAT prepara el desayuno
+@Time Start:	09:30
+*CHI:	&=e mira !
+*CHI:	este no es azul .
+*CHI:	este es rojo .
+*CHI:	xxx rojo red@s . [+ NON]
+*MOT:	&=q eh@i ?
+*CHI:	a que no es este [x 2] rojo red@s .
+*MOT:	&=q que ya te lo has puesto ?
+*CHI:	sí .
+*MOT:	no .
+*CHI:	y azul blue@s .
+*MOT:	sí .
+*CHI:	sí .
+*CHI:	y este no .
+*CHI:	y este no .
+*MOT:	ese no .
+*CHI:	no .
+*CHI:	(es)tá mu(y) susio [: sucio] 0 [*] espaguetis .
+%err:	0 = de $SYN $LOS
+*MOT:	&=q muy sucio de espaguetis ? [+ COR]
+*CHI:	sí .
+*CHI:	sucio de espaguetis . [+ IMI]
+*CHI:	sí .
+*CHI:	xxx .
+*CHI:	uy@i .
+%act:	está jugando con el babero sobre la mesa
+*CHI:	&=e mira !
+*MOT:	&=q lo has abrochado tú sola ?
+*MOT:	&=q < tú sola > [/] tú sola ?
+*CHI:	sí .
+*CHI:	hola , Mamá .
+*MOT:	hola , Lucía .
+%act:	sale hacia el salón
+*CHI:	xxx .
+*MOT:	&=q te vienes aquí conmigo ?
+*CHI:	sí .
+*CHI:	quiero el rojo red@s .
+*MOT:	espera [x 2] que hay que coger lo todo .
+*MOT:	ven .
+%act:	entra en la cocina
+*CHI:	ya .
+*CHI:	los c(r)i(s)pis .
+*MOT:	espera .
+*MOT:	vamos a echar aquí los que han quedado aquí .
+%act:	añade los cereales que se habían caído sobre la mesa
+*CHI:	mira .
+*CHI:	xxx .
+*CHI:	&=e y Rita también !
+%act:	coge la muñeca
+*CHI:	&=e Rita !
+*CHI:	aquí (es)tá Rita .
+*MOT:	muy bien .
+%act:	coge la cámara
+%com:	hay un corte
+*MOT:	&=q eh@i , Lucía ?
+*CHI:	sí .
+*CHI:	e(s)ta .
+%act:	señala la cámara
+*MOT:	&=q cuál ?
+*CHI:	e(s)ta es Lucía .
+%act:	señala la pantallita de la cámara
+*MOT:	&=q ah@i esa es Lucía ?
+*MOT:	&=q sí ?
+*CHI:	si .
+*MOT:	anda .
+%act:	se levanta y sale
+*CHI:	ay@i .
+%act:	se le cae un poco de comida de la cuchara
+*MOT:	ay@i .
+*MOT:	no te manches , peque .
+%act:	acerca la silla de Lucía a la mesa
+*CHI:	0 .
+%act:	sigue ccomiendo
+*MOT:	&=q tomas la leche con cuchara ?
+*MOT:	&=q eh@i ?
+*CHI:	no .
+*MOT:	pues me parece que sí .
+*CHI:	no .
+*CHI:	con cuchara . [+ IMI]
+*MOT:	con cuchara te estás tomando la leche &=q no ?
+*CHI:	sí .
+*MOT:	&=q y eso ?
+*MOT:	&=q te gusta más que bebida ?
+@Situation:	1 Lucía desyuna por la mañana en la cocina mientras FAT y MOT preparan su desayuno ; (2) MOT y Lucía desyunan en el salón mientras FAT prepara el desayuno
+@Time Start:	09:30
+*MOT:	mm@i .
+%par:	interroga
+*MOT:	&=q te gusta jugar ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+*MOT:	&=q sí , verdad ?
+*MOT:	&=q y a Rita ya le has dado de desayunar ?
+*CHI:	no .
+*MOT:	&=q no le has dado todavía ?
+*MOT:	después cuando acabes tú &=q no ?
+*MOT:	hace mucho aire , Lucía .
+*MOT:	&=q ves que se mueven los árboles ?
+*MOT:	&=q lo ves ?
+*CHI:	0 .
+%par:	mueve la cabeza ; sí
+%com:	se oye la puerta de la calle
+*FAT:	hola .
+*MOT:	hola .
+*CHI:	hola , Father .
+*FAT:	&=q dónde estás ?
+*CHI:	&=e aquí !
+*FAT:	Lucía .
+*FAT:	&=q y Mother ?
+*CHI:	aquí .
+*FAT:	no me habéis esperado , carotas .
+*FAT:	&=q eh@i ?
+*CHI:	xxx .
+*FAT:	hala@i .
+*FAT:	&=q Papá no tiene sitio ?
+*CHI:	no .
+*FAT:	joe@i .
+*FAT:	pues nada .
+*FAT:	me voy a la cocina , entonces .
+*CHI:	&=e ha salido !
+%par:	seria
+*MOT:	&=q qué ?
+*CHI:	ha salido a la cocina .
+*MOT:	&=q se ha ido a la cocina Papá ?
+*CHI:	sí .
+*MOT:	&=q por qué será ?
+*MOT:	&=q eh@i ?
+*CHI:	en la silla de Papá .
+*MOT:	claro .
+*CHI:	sí .
+*CHI:	0 [*] ha ritado [: quitado] Rita la silla de Papá .
+%err:	0 = le $MOR $LOS $PREFIX
+*MOT:	&=q se la ha quitado Rita la silla de Papá ? [+ COR]
+*CHI:	sí .
+*MOT:	me parece que se la has quitado tú .
+*CHI:	sí .
+*CHI:	0 [*] voy a bajar .
+%act:	se está intentando bajar de la silla
+*MOT:	porque Rita sola no sabe poner se .
+*CHI:	&=e no !
+%act:	sale hacia la cocina
+*MOT:	&=q la has puesto tú ?
+*CHI:	sí .
+*CHI:	&=e fuera de aquí , Rita !
+*CHI:	xxx de Papá . [+ NON]
+*CHI:	ven 0 [*] tu sitio .
+*FAT:	&=q ya tengo sitio ?
+*CHI:	sí .
+*FAT:	&=q y Rita ?
+*FAT:	&=q no está en mi sitio ?
+*CHI:	no .
+*FAT:	hala@i .
+*FAT:	&=e qué bien !
+*FAT:	espera , Lucía .
+*FAT:	podemos poner a Rita aquí al lado .
+*FAT:	y así nos sentamos los cuatro .
+*FAT:	&=q quieres ?
+*FAT:	corre .
+*FAT:	trae a Rita .
+*FAT:	que cabemos todos , Lucía .
+*FAT:	corre .
+*FAT:	ven .
+*FAT:	cabemos todos .
+*CHI:	xxx .
+*FAT:	&=q le ponemos esta silla a Rita ?
+*CHI:	sí .
+*FAT:	&=q aquí ?
+*CHI:	sí .
+*FAT:	venga .
+*FAT:	pon la aquí sentadita .
+*CHI:	xxx .
+*FAT:	&=q tú quieres otra tostada , Mother ?
+%add:	MOT
+*MOT:	sí .
+*MOT:	muy bien .
+*CHI:	xxx .
+*CHI:	ya está .
+*MOT:	ya está , &=q verdad ?
+*CHI:	xxx .
+%act:	se va a la cocina , donde está FAT
+*FAT:	hola , Lulú .
+*FAT:	hola .
+*CHI:	es tu sitio .
+*FAT:	sí .
+*FAT:	corre .
+*FAT:	< ahora voy > [/] ahora voy .
+*FAT:	toma .
+*FAT:	lléva le esto a Mamá .
+*FAT:	uy@i , no .
+*FAT:	todavía no .
+*FAT:	uy@i .
+*FAT:	qué tos , Lucía .
+*CHI:	< el carrito el carrito > [/] el carrito .
+*FAT:	&=q dónde está < el carrito el carrito > [/] el carrito ?
+%com:	hay un corte
+*CHI:	no .
+*CHI:	es pequeña .
+*FAT:	&=q es pequeña Rita ?
+*CHI:	xxx no . [+ NON]
+@End

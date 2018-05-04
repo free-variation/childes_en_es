@@ -1,0 +1,455 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	IOS Ioseba Target_Child , BRO Ander Brother , INV Marta Investigator , MOT Mother
+@ID:	spa|fernaguado|IOS|3;7.09||||Target_Child|||
+@ID:	spa|fernaguado|BRO|7;6.17||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@ID:	spa|fernaguado|MOT|||||Mother|||
+@Date:	06-OCT-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	IOS y BRO juegan con el barco pirata
+*IOS:	<lo hemos hecho> [/] mira (.) lo hemos hecho !
+%mor:	co|mira=look pro:per:1|lo&masc=him v|habe-1P&PRES=have n|hecho&masc=action 
+	! 
+%com:	me señala el dibujo y el barco al que ya le han puesto los mástiles
+*IOS:	yo he hecho eso (.) los palitos .
+%mor:	pro:per|yo=I co|he n|hecho&masc=action pro:dem|eso=that_one det:art|el&MASC-PL=the 
+	n|palo-DIM-MASC-PL=stick . 
+*INV:	muy bien (.) ahora lo demás .
+%mor:	adv|muy=very adv|bien=well adv|ahora=now pro:per:1|lo&masc=him adj|demás=remaining 
+	. 
+*IOS:	lo demás .
+%mor:	pro:per:1|lo&masc=him adj|demás=remaining . 
+*INV:	las demás cosas .
+%mor:	det:art|el&FEM-PL=the adj|demás=remaining n|cosa&fem-PL=thing . 
+*MOT:	Ander (.) Ander tienes que hablar con él (.) eh ?
+%mor:	n:prop|Ander n:prop|Ander v|tene-2S&PRES=have prep|que=than v|habla-INF=speak 
+	prep|con=with pro:per|él&masc=he co|eh ? 
+*IOS:	cómo es esto ?
+%mor:	co|cómo v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*IOS:	esto cómo cabe ?
+%mor:	det:dem|este-MASC=this co|cómo v|cabe-3S&PRES=fit ? 
+%com:	lleva la barca en las manos y se acerca al dibujo para verlo
+*IOS:	pues esto [//] cómo cabe esto ?
+%mor:	co|pues=well co|cómo v|cabe-3S&PRES=fit det:dem|este-MASC=this ? 
+*IOS:	esto cómo cabe ?
+%mor:	det:dem|este-MASC=this co|cómo v|cabe-3S&PRES=fit ? 
+*INV:	pregúntale a Ander .
+%mor:	v|pregunta-2S&IMP~pro:clit|3S prep|a=to n:prop|Ander . 
+*BRO:	lo [*] qué ?
+%mor:	pro:per:1|lo&masc=him pro:int|qué=what ? 
+*IOS:	esto así .
+%mor:	det:dem|este-MASC=this adv|así=thus . 
+*IOS:	esto se cierra o qué ?
+%mor:	det:dem|este-MASC=this pro:per|se=itself v|cerra-3S&PRES=close coord|o=or 
+	pro:int|qué=what ? 
+%com:	la bodega
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	eso no .
+%mor:	pro:dem|eso=that_one adv|no=no . 
+*BRO:	esto es así .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|así=thus . 
+%com:	saca el cañón
+*IOS:	cierra la puerta .
+%mor:	v|cerra-3S&PRES=close det:art|el&FEM&SG=the n|puerta&fem=door . 
+*BRO:	a_ver .
+%mor:	co|a_ver=see . 
+*IOS:	ves cómo la ha ponido [*] eso ?
+%mor:	co|ves=see co|cómo det:art|el&FEM&SG=the co|ha part|pone-PPART&MASC=put 
+	pro:dem|eso=that_one ? 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*IOS:	esto cómo cabe ?
+%mor:	det:dem|este-MASC=this co|cómo v|cabe-3S&PRES=fit ? 
+%com:	la bandera
+*BRO:	eso ?
+%mor:	pro:dem|eso=that_one ? 
+*IOS:	sí .
+%mor:	co|sí=yes . 
+*BRO:	ah (.) pues dame [/] dame .
+%mor:	co|ah co|pues=well v|da-2S&IMP~pro:clit|1S . 
+*IOS:	esto [/] esto va así .
+%mor:	det:dem|este-MASC=this v|i-3S&PRES=go adv|así=thus . 
+*IOS:	esto así (.) Ander (.) así .
+%mor:	det:dem|este-MASC=this adv|así=thus n:prop|Ander adv|así=thus . 
+%com:	señala el dibujo
+*IOS:	esto [/] esto ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	el cañón
+*BRO:	qué ?
+%mor:	pro:int|qué=what ? 
+*IOS:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*BRO:	esto (.) a_ver ?
+%mor:	det:dem|este-MASC=this co|a_ver=see ? 
+*IOS:	son escaleras .
+%mor:	v|se-3P&PRES=be n|escalera&fem-PL=staircase . 
+*BRO:	a_ver si lo puedo (.) no se (.) subir .
+%mor:	co|a_ver=see conj|si=if pro:per:1|lo&masc=him v|pode-1S&PRES=can adv|no=no 
+	pro:per|se=itself v|subi-INF=go_up . 
+*BRO:	tengo que meterlo aquí .
+%mor:	v|tene-1S&PRES=have prep|que=than v|mete-INF~pro:clit|OBJ&MASC adv|aquí=here 
+	. 
+%com:	intenta poner las redes pero antes quita un mástil
+*BRO:	éstas .
+%mor:	pro:dem|éste-FEM-PL=this_one . 
+*IOS:	lo [*] quitamos ésta (.) eh ?
+%mor:	pro:per:1|lo&masc=him v|quita-1P&PRES=remove pro:dem|éste-FEM=this_one 
+	co|eh ? 
+%com:	con el mástil en la mano
+*IOS:	sí (.) pero ésta no nos gusta .
+%mor:	co|sí=yes conj|pero=but pro:dem|éste-FEM=this_one adv|no=no pro:per|nos=us 
+	v|gusta-3S&PRES=like . 
+*IOS:	eso [//] pon eso ahí .
+%mor:	v|pone-2S&IMP=put pro:dem|eso=that_one adv|ahí=there . 
+*IOS:	se pone eso ahí .
+%mor:	pro:per|se=itself v|pone-3S&PRES=put pro:dem|eso=that_one adv|ahí=there 
+	. 
+%com:	mira como BRO pone una red en el mástil
+*IOS:	Ander (.) éste cómo tiene ?
+%mor:	n:prop|Ander pro:dem|éste=this_one pro:int|cómo=how v|tene-3S&PRES=have 
+	? 
+%com:	mira los piratas en el dibujo
+*IOS:	<éste ya cabe> [/] éste ya cabe .
+%mor:	pro:dem|éste=this_one adv|ya=already v|cabe-3S&PRES=fit . 
+%com:	lo pone en el barco
+*IOS:	éste [/-] ésta es una bola ?
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|un-FEM=one n|bola&fem=ball 
+	? 
+*IOS:	ah !
+%mor:	co|ah ! 
+*BRO:	lo [*] qué ?
+%mor:	pro:per:1|lo&masc=him pro:int|qué=what ? 
+*IOS:	esto es una bola (.) Ander .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un-FEM=one n|bola&fem=ball 
+	n:prop|Ander . 
+*BRO:	no hay bola .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have n|bola&fem=ball . 
+*BRO:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*IOS:	ésta es aquí (.) así .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be adv|aquí=here adv|así=thus 
+	. 
+*INV:	Ander mira (.) hay redes que son mucho más largas que otras (.) ves ?
+%mor:	n:prop|Ander co|mira=look v|habe-3S&PRES&SPEC=have n|red&fem-PL=network 
+	prep|que=than v|se-3P&PRES=be adv|mucho=much adv|más=more adj|largo-FEM-PL=long 
+	prep|que=than det:indef|otro-FEM-PL=other co|ves=see ? 
+*IOS:	sí .
+%mor:	co|sí=yes . 
+*INV:	por eso no te llegan .
+%mor:	prep|por=for pro:dem|eso=that_one adv|no=no pro:per|te=you v|llega-3P&PRES=arrive 
+	. 
+*INV:	tienes que buscar las más largas .
+%mor:	v|tene-2S&PRES=have prep|que=than v|busca-INF=search det:art|el&FEM-PL=the 
+	adv|más=more adj|largo-FEM-PL=long . 
+*BRO:	vale .
+%mor:	co|vale=okay . 
+*BRO:	ésta es más larga (.) aquí .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be adv|más=more adj|largo-FEM=long 
+	adv|aquí=here . 
+*BRO:	ésta a_ver .
+%mor:	pro:dem|éste-FEM=this_one co|a_ver=see . 
+*BRO:	Ioseba .
+%mor:	n:prop|Ioseba . 
+*IOS:	qué ?
+%mor:	pro:int|qué=what ? 
+*BRO:	quieres poner la pelota ?
+%mor:	v|quere-2S&PRES=want v|pone-INF=put det:art|el&FEM&SG=the n|pelota&fem=ball 
+	? 
+*IOS:	sí (.) aquí .
+%mor:	co|sí=yes adv|aquí=here . 
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	aquí no .
+%mor:	adv|aquí=here adv|no=no . 
+*BRO:	aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*IOS:	ahí .
+%mor:	adv|ahí=there . 
+*BRO:	ahí ?
+%mor:	adv|ahí=there ? 
+*BRO:	y mira esto que hace así .
+%mor:	coord|y=and co|mira=look det:dem|este-MASC=this prep|que=than v|hace-3S&PRES=do 
+	adv|así=thus . 
+*IOS:	ha dispara(d)o .
+%mor:	co|ha part|dispara-PPART&MASC=shoot . 
+*BRO:	ves ?
+%mor:	co|ves=see ? 
+*IOS:	<ha dispara(d)o (.) ves> [/] ha dispara(d)o .
+%mor:	co|ha part|dispara-PPART&MASC=shoot . 
+*BRO:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*IOS:	éstos [/] éstos .
+%mor:	pro:dem|éste-MASC-PL=this_one . 
+*BRO:	a_ver (.) la otra ?
+%mor:	co|a_ver=see det:art|el&FEM&SG=the det:indef|otro-FEM=other ? 
+%com:	red
+*IOS:	la otra ?
+%mor:	det:art|el&FEM&SG=the det:indef|otro-FEM=other ? 
+*BRO:	sí .
+%mor:	co|sí=yes . 
+*BRO:	aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*IOS:	otra Ander [//] se ha perdido otra (.) Ander .
+%mor:	det:indef|otro-FEM=other pro:per|se=itself co|ha part|perde-PPART&MASC=lose 
+	det:indef|otro-FEM=other n:prop|Ander . 
+*IOS:	no es éste el que está aquí .
+%mor:	adv|no=no v|se-3S&PRES=be pro:dem|éste=this_one det:art|el&MASC&SG=the 
+	prep|que=than v|esta-3S&PRES=be adv|aquí=here . 
+%com:	mirando el dibujo
+*MOT:	Ander (.) en vez de enganchar primero abajo engancha primero arriba .
+%mor:	n:prop|Ander prep|en=in n|vez&fem=turn prep|de=of v|engancha-INF=hook 
+	adv|primero=first adv|abajo=below v|engancha-3S&PRES=hook adv|primero=first 
+	adv|arriba=above . 
+*BRO:	y ya está .
+%mor:	coord|y=and adv|ya=already v|esta-3S&PRES=be . 
+*IOS:	éste en éste (.) eh ?
+%mor:	pro:dem|éste=this_one prep|en=in pro:dem|éste=this_one co|eh ? 
+*IOS:	<no t(i)ene [*] escaleras (.) eh> [/] <no t(i)ene [*] escaleras> [//] no t(i)ene [*] aquí escaleras (.) eh ?
+%mor:	adv|no=no v|tene-3S&PRES=have adv|aquí=here n|escalera&fem-PL=staircase 
+	co|eh ? 
+*IOS:	<aquí no t(i)ene [*]> [/] aquí no t(i)ene [*] .
+%mor:	adv|aquí=here adv|no=no v|tene-3S&PRES=have . 
+*IOS:	el barco sí t(i)ene [*] aquí .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat co|sí=yes v|tene-3S&PRES=have 
+	adv|aquí=here . 
+%com:	en el dibujo
+*BRO:	sí tiene el barco ?
+%mor:	adv|sí=yes v|tene-3S&PRES=have det:art|el&MASC&SG=the n|barco-MASC=boat 
+	? 
+*IOS:	éste no t(i)ene [*] escaleras aquí .
+%mor:	pro:dem|éste=this_one adv|no=no v|tene-3S&PRES=have n|escalera&fem-PL=staircase 
+	adv|aquí=here . 
+*IOS:	no t(i)ene [*] .
+%mor:	adv|no=no v|tene-3S&PRES=have . 
+*BRO:	ya .
+%mor:	adv|ya=already . 
+*IOS:	vas a echar ?
+%mor:	v|i-2S&PRES=go prep|a=to v|echa-INF=throw ? 
+%com:	el cañón
+*BRO:	echa .
+%mor:	v|echa-3S&PRES=throw . 
+%com:	dispara
+*BRO:	Ioseba (.) puedes quitarte un momento ?
+%mor:	n:prop|Ioseba v|pode-2S&PRES=can v|quita-INF~pro:clit|2S det:art|un&masc=one 
+	n|momento&masc=moment ? 
+*IOS:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*BRO:	es que voy a poner esto .
+%mor:	v|se-3S&PRES=be prep|que=than v|i-1S&PRES=go prep|a=to v|pone-INF=put 
+	det:dem|este-MASC=this . 
+*IOS:	Ander (.) <aquí hay una bola> [/] <aquí hay una bola> [/] <aquí hay una bola> [/] aquí hay una bola .
+%mor:	n:prop|Ander adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one 
+	n|bola&fem=ball . 
+*BRO:	esto .
+%mor:	det:dem|este-MASC=this . 
+*BRO:	la mesa .
+%mor:	det:art|el&FEM&SG=the n|mesa&fem=table . 
+*IOS:	aquí hay una bola (.) eh ?
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|bola&fem=ball 
+	co|eh ? 
+*BRO:	la mesa .
+%mor:	det:art|el&FEM&SG=the n|mesa&fem=table . 
+*IOS:	<aquí tiene> [//] (.) Ander (.) aquí tiene para bajar y aquí .
+%mor:	n:prop|Ander adv|aquí=here v|tene-3S&PRES=have prep|para=for v|baja-INF=come_down 
+	coord|y=and adv|aquí=here . 
+%com:	descubre la escalera
+*IOS:	ahora ya tiene .
+%mor:	adv|ahora=now adv|ya=already v|tene-3S&PRES=have . 
+*BRO:	la bola .
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball . 
+*IOS:	<Ander (.) toma> [/] Ander (.) toma !
+%mor:	n:prop|Ander v|toma-3S&PRES=take ! 
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	ponla en el cañón .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&FEM prep|en=in det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	. 
+*IOS:	qué ?
+%mor:	pro:int|qué=what ? 
+*BRO:	ponla en el cañón .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&FEM prep|en=in det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	. 
+*IOS:	qué ?
+%mor:	pro:int|qué=what ? 
+*BRO:	que pongas en el cañón .
+%mor:	prep|que=than v|pone-2S&SUB&PRES=put prep|en=in det:art|el&MASC&SG=the 
+	n|cañón&masc=cannon . 
+*BRO:	ay (.) no .
+%mor:	co|ay=ay co|no=no . 
+*BRO:	déjala dónde el cañón aquí .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&FEM pro:int|dónde=where det:art|el&MASC&SG=the 
+	n|cañón&masc=cannon adv|aquí=here . 
+*BRO:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*IOS:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*BRO:	<aún no> [/] aún no Ioseba .
+%mor:	adv|aún=notwithstanding adv|no=no n:prop|Ioseba . 
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	no la tires .
+%mor:	adv|no=no det:art|el&FEM&SG=the v|tira-2S&SUB&PRES=throw . 
+*BRO:	así no es .
+%mor:	adv|así=thus adv|no=no v|se-3S&PRES=be . 
+%com:	IOS intenta disparar el cañón pero no sabe
+*BRO:	a_ver [/] a_ver (.) voy a quitar esto .
+%mor:	co|a_ver=see v|i-1S&PRES=go prep|a=to v|quita-INF=remove det:dem|este-MASC=this 
+	. 
+%com:	un mástil
+*IOS:	así .
+%mor:	adv|así=thus . 
+*BRO:	no se puede .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can . 
+*IOS:	aquí se echa la bola (.) Ander .
+%mor:	adv|aquí=here pro:per|se=itself v|echa-3S&PRES=throw det:art|el&FEM&SG=the 
+	n|bola&fem=ball n:prop|Ander . 
+%com:	en la bodega
+*IOS:	no ves ?
+%mor:	co|no=no co|ves=see ? 
+*IOS:	lo ves ?
+%mor:	pro:per:1|lo&masc=him co|ves=see ? 
+*BRO:	eso lo hemos hecho antes .
+%mor:	pro:dem|eso=that_one pro:per:1|lo&masc=him v|habe-1P&PRES=have n|hecho&masc=action 
+	adv|antes=before . 
+%com:	poen el puesto del vigía
+*BRO:	ahí .
+%mor:	adv|ahí=there . 
+*IOS:	ahí .
+%mor:	adv|ahí=there . 
+*BRO:	ésta aquí no va .
+%mor:	pro:dem|éste-FEM=this_one adv|aquí=here adv|no=no v|i-3S&PRES=go . 
+*BRO:	va aquí .
+%mor:	v|i-3S&PRES=go adv|aquí=here . 
+*BRO:	ésta aquí no va .
+%mor:	pro:dem|éste-FEM=this_one adv|aquí=here adv|no=no v|i-3S&PRES=go . 
+*BRO:	ves ?
+%mor:	co|ves=see ? 
+*IOS:	el muñeco ?
+%mor:	det:art|el&MASC&SG=the n|muñeco-MASC=doll ? 
+*BRO:	mete el cañón .
+%mor:	v|mete-3S&PRES=put det:art|el&MASC&SG=the n|cañón&masc=cannon . 
+*IOS:	qué ?
+%mor:	pro:int|qué=what ? 
+*BRO:	que metas el cañón .
+%mor:	prep|que=than n|meta&fem-PL=boundary det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	. 
+*IOS:	esto aquí (.) esto ?
+%mor:	det:dem|este-MASC=this adv|aquí=here det:dem|este-MASC=this ? 
+%com:	un muñeco en el puesto del vigía
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	esto no vamos a poner .
+%mor:	det:dem|este-MASC=this co|no=no co|vamos=go prep|a=to v|pone-INF=put . 
+*IOS:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+*IOS:	no ves ?
+%mor:	co|no=no co|ves=see ? 
+*IOS:	aquí se mete .
+%mor:	adv|aquí=here pro:per|se=itself v|mete-3S&PRES=put . 
+*BRO:	no [/] no .
+%mor:	adv|no=no . 
+%com:	IOS intenta poner una red pero BRO no le deja
+*IOS:	mira Ander .
+%mor:	co|mira=look n:prop|Ander . 
+*BRO:	<la mesa> [/] la mesa dónde está ?
+%mor:	det:art|el&FEM&SG=the n|mesa&fem=table pro:int|dónde=where v|esta-3S&PRES=be 
+	? 
+*BRO:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+%com:	coge el micrófono
+*MOT:	no .
+%mor:	adv|no=no . 
+*MOT:	Ander (.) eso no toques !
+%mor:	n:prop|Ander pro:dem|eso=that_one adv|no=no v|toca-2S&SUB&PRES=touch ! 
+*IOS:	<aquí ya tiene (.) ves> [/] aquí ya tiene (.) ves ?
+%mor:	adv|aquí=here adv|ya=already v|tene-3S&PRES=have co|ves=see ? 
+%com:	señala el dibujo
+*IOS:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+*BRO:	sí ?
+%mor:	co|sí=yes ? 
+*IOS:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+%com:	juegan en silencio y miran hacia MOT y la INV que están hablando entre ellas
+*IOS:	éste [/] éste no es (.) eh ?
+%mor:	pro:dem|éste=this_one adv|no=no v|se-3S&PRES=be co|eh ? 
+%com:	mirando el dibujo
+*BRO:	Ioseba .
+%mor:	n:prop|Ioseba . 
+*IOS:	déjame [/] déjame vale ?
+%mor:	v|deja-2S&IMP~pro:clit|1S co|vale=okay ? 
+*BRO:	Ioseba que voy a engancharlos (.) vale ?
+%mor:	n:prop|Ioseba prep|que=than v|i-1S&PRES=go prep|a=to v|engancha-INF~pro:clit|OBJ&MASC&PL 
+	co|vale=okay ? 
+%com:	los dos barcos
+*IOS:	ahora lo hago yo (.) Ander .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|hace-1S&PRES=do pro:per|yo=I n:prop|Ander 
+	. 
+*IOS:	que estaba aquí .
+%mor:	prep|que=than v|esta-13S&PAS=be adv|aquí=here . 
+%com:	mueve el barco
+*IOS:	oye <se ha choca(d)o> [/] se ha choca(d)o .
+%mor:	co|oye=listen pro:per|se=itself co|ha part|choca-PPART&MASC=collide . 
+*IOS:	ya .
+%mor:	adv|ya=already . 
+*IOS:	se cae (.) ahora .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall adv|ahora=now . 
+*IOS:	es que a_ver (.) espera .
+%mor:	v|se-3S&PRES=be prep|que=than co|a_ver=see v|espera-3S&PRES=wait . 
+*IOS:	conduce (.) mira .
+%mor:	v|conduci-3S&PRES=drive co|mira=look . 
+*IOS:	mira (.) que barco .
+%mor:	co|mira=look prep|que=than n|barco-MASC=boat . 
+%com:	pasa su padre por ahí y le enseña el barco
+*IOS:	<el barco no se va> [/] el barco no se va (.) eh ?
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat adv|no=no pro:per|se=itself v|i-3S&PRES=go 
+	co|eh ? 
+*IOS:	sí .
+%mor:	co|sí=yes . 
+*IOS:	<me lo voy a llevar> [/] me lo voy a llevar .
+%mor:	pro:per|me=me pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|lleva-INF=carry 
+	. 
+*IOS:	venga (.) <a chocar> [//] voy a chocar (.) mira .
+%mor:	co|venga=come_on v|i-1S&PRES=go prep|a=to v|choca-INF=collide co|mira=look 
+	. 
+*IOS:	ála (.) me das a mi ?
+%mor:	co|ála pro:per|me=me v|da-2S&PRES=give prep|a=to det:pos|mi=my ? 
+%com:	quiere la barca
+*BRO:	no (.) que tú no sabes disparar .
+%mor:	adv|no=no prep|que=than pro:per|tú=you adv|no=no co|sabes=you_know v|dispara-INF=shoot 
+	. 
+*BRO:	dispárame [/] dispárame (.) con este cañón .
+%mor:	v|dispara-2S&IMP~pro:clit|1S prep|con=with det:dem|este=this n|cañón&masc=cannon 
+	. 
+*BRO:	no .
+%mor:	adv|no=no . 
+*BRO:	de aquí (.) mira le das a esto rojo .
+%mor:	prep|de=of adv|aquí=here co|mira=look pro:per|le=him v|da-2S&PRES=give 
+	prep|a=to det:dem|este-MASC=this adj|rojo-MASC=red . 
+*IOS:	no puedo .
+%mor:	adv|no=no v|pode-1S&PRES=can . 
+*BRO:	no puedes ?
+%mor:	adv|no=no v|pode-2S&PRES=can ? 
+*BRO:	mira ponte ahí .
+%mor:	co|mira=look v|pone-2S&IMP~pro:clit|2S adv|ahí=there . 
+%com:	dispara el cañón
+*BRO:	a que te ha da(d)o .
+%mor:	prep|a=to prep|que=than pro:per|te=you co|ha part|da-PPART&MASC=give . 
+*BRO:	te duele ?
+%mor:	pro:per|te=you v|dole-3S&PRES=hurt ? 
+*BRO:	mira [/] mira (.) es el barco pirata con la barca .
+%mor:	co|mira=look v|se-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	n|pirata&masc=pirate prep|con=with det:art|el&FEM&SG=the n|barco-FEM=boat 
+	. 
+*BRO:	yo tenía la barca (.) vale ?
+%mor:	pro:per|yo=I v|tene-13S&PAS=have det:art|el&FEM&SG=the n|barco-FEM=boat 
+	co|vale=okay ? 
+*BRO:	<tú eras éste (.) vale> [/] tú eres éste (.) vale ?
+%mor:	pro:per|tú=you v|se-2S&PRES=be pro:dem|éste=this_one co|vale=okay ? 
+*BRO:	ibas por aquí paseando y te disparaba .
+%mor:	v|i-2S&PAS=go prep|por=for adv|aquí=here v|pasea-PROG=stroll coord|y=and 
+	pro:per|te=you v|dispara-13S&PAS=shoot . 
+@End

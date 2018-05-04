@@ -1,0 +1,812 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Izaskunamores Target_Child , XAB Xabier Brother , INV Marta Investigator
+@ID:	spa|fernaguado|CHI|3;11.13||||Target_Child|||
+@ID:	spa|fernaguado|XAB|3;11.27||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	07-MAR-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	IZA e XAB juegan con el barco pirata
+*XAB:	dónde van las escaleras ?
+%mor:	pro:int|dónde=where v|i-3P&PRES=go det:art|el&FEM-PL=the n|escalera&fem-PL=staircase 
+	? 
+%com:	tiene una de las redes en las manos
+*CHI:	no ves ?
+%mor:	co|no=no co|ves=see ? 
+*CHI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	señala el dibujo
+*XAB:	dónde van las escaleras (.) porque aquí van los piratas a atacar a los buenos .
+%mor:	pro:int|dónde=where v|i-3P&PRES=go det:art|el&FEM-PL=the n|escalera&fem-PL=staircase 
+	conj|porque=because adv|aquí=here v|i-3P&PRES=go det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate prep|a=to v|ataca-INF=attack prep|a=to det:art|el&MASC-PL=the 
+	adj|buen-MASC-PL=good . 
+*XAB:	por aquí van los piratas a atacar a los buenos .
+%mor:	prep|por=for adv|aquí=here v|i-3P&PRES=go det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	prep|a=to v|ataca-INF=attack prep|a=to det:art|el&MASC-PL=the adj|buen-MASC-PL=good 
+	. 
+%com:	le dice a la INV
+*XAB:	yo tengo la película de los Cientoun_Dálmatas .
+%mor:	pro:per|yo=I v|tene-1S&PRES=have det:art|el&FEM&SG=the n|película&fem=film 
+	prep|de=of det:art|el&MASC-PL=the n:prop|Cientoun_Dálmatas . 
+*INV:	que guay .
+%mor:	prep|que=than co|guay=cool . 
+*CHI:	yo también tengo arriba una [/] una tía mía .
+%mor:	pro:per|yo=I adv|también=also v|tene-1S&PRES=have adv|arriba=above det:art|un-FEM=one 
+	n|tío-FEM=uncle pro:pos|mío-FEM=mine . 
+*XAB:	y es de mis primos pero los enanitos también son de mis primos (.) pero la otra es mía .
+%mor:	coord|y=and v|se-3S&PRES=be prep|de=of det:pos|mi-PL=my n|primo-MASC-PL=cousin 
+	conj|pero=but det:art|el&MASC-PL=the n|enano-DIM-MASC-PL=dwarf adv|también=also 
+	v|se-3P&PRES=be prep|de=of det:pos|mi-PL=my n|primo-MASC-PL=cousin conj|pero=but 
+	det:art|el&FEM&SG=the det:indef|otro-FEM=other v|se-3S&PRES=be pro:pos|mío-FEM=mine 
+	. 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*CHI:	ven .
+%mor:	co|ven=come . 
+*XAB:	dónde van las escaleras ?
+%mor:	pro:int|dónde=where v|i-3P&PRES=go det:art|el&FEM-PL=the n|escalera&fem-PL=staircase 
+	? 
+*XAB:	las escaleras dónde van ?
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase pro:int|dónde=where 
+	v|i-3P&PRES=go ? 
+*INV:	mira en el dibujo .
+%mor:	co|mira=look prep|en=in det:art|el&MASC&SG=the n|dibujo&masc=design . 
+*INV:	Izaskun ayúdale .
+%mor:	n:prop|Izaskun v|ayuda-2S&IMP~pro:clit|3S . 
+*XAB:	las escaleras dónde ?
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase pro:int|dónde=where 
+	? 
+*XAB:	ah (.) <aquí van> [/] aquí van .
+%mor:	co|ah adv|aquí=here v|i-3P&PRES=go . 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*XAB:	hay que ponerlo .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC . 
+*INV:	tenéis que ponerlo vosotros dos .
+%mor:	v|tene-2P&PRES=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC pro:per|you&MASC-PL=you 
+	det:num|dos=two . 
+*INV:	ahora voy .
+%mor:	adv|ahora=now v|i-1S&PRES=go . 
+*CHI:	vale (.) mira (.) aquí tienes esto para meter el dedo o qué ?
+%mor:	co|vale=okay co|mira=look adv|aquí=here v|tene-2S&PRES=have det:dem|este-MASC=this 
+	prep|para=for v|mete-INF=put det:art|el&MASC&SG=the n|dedo&masc=finger 
+	coord|o=or pro:int|qué=what ? 
+%com:	redes
+*XAB:	y luego vamos a_ver una pelí(cula) (.) a que sí ?
+%mor:	coord|y=and adv|luego=afterwards co|vamos=go co|a_ver=see det:art|un-FEM=one 
+	n|película&fem=film prep|a=to prep|que=than co|sí=yes ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*XAB:	claro .
+%mor:	co|claro=obvious . 
+*CHI:	luego sabes que nos van a sacar en la televisión ?
+%mor:	adv|luego=afterwards co|sabes=you_know prep|que=than pro:per|nos=us v|i-3P&PRES=go 
+	prep|a=to v|saca-INF=bring_out prep|en=in det:art|el&FEM&SG=the n|televisión&fem=television 
+	? 
+*XAB:	sí ?
+%mor:	co|sí=yes ? 
+*XAB:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*CHI:	a ti no (.) eh ?
+%mor:	prep|a=to pro:per|ti=you adv|no=no co|eh ? 
+*XAB:	por_qué no ?
+%mor:	pro:int|por_qué=why adv|no=no ? 
+*CHI:	porque tú antes ibas a mi guardería ?
+%mor:	conj|porque=because pro:per|tú=you adv|antes=before v|i-2S&PAS=go prep|a=to 
+	det:pos|mi=my n|guardería&fem=nursery ? 
+*XAB:	xxx (.) sabes ?
+%mor:	co|sabes=you_know ? 
+*XAB:	jo (.) las escaleras .
+%mor:	co|jo=whoa det:art|el&FEM-PL=the n|escalera&fem-PL=staircase . 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*XAB:	<la mesa> [/] esto es la mesa .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&FEM&SG=the n|mesa&fem=table 
+	. 
+*XAB:	eso ponemos ahí .
+%mor:	pro:dem|eso=that_one v|pone-1P&PRES=put adv|ahí=there . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	muy bien (.) esto ponemos aquí .
+%mor:	adv|muy=very adv|bien=well det:dem|este-MASC=this v|pone-1P&PRES=put adv|aquí=here 
+	. 
+*XAB:	la hemos puesto los dos .
+%mor:	det:art|el&FEM&SG=the v|habe-1P&PRES=have part|pone-PPART-MASC=put det:art|el&MASC-PL=the 
+	det:num|dos=two . 
+*XAB:	ahora los piratas luchaban en la barquita (.) vale ?
+%mor:	adv|ahora=now det:art|el&MASC-PL=the n|pirata&masc-PL=pirate v|lucha-3P&PAS=fight 
+	prep|en=in det:art|el&FEM&SG=the n|barco-DIM-FEM=boat co|vale=okay ? 
+*XAB:	oh (.) <la bandera> [/] la bandera hay que poner .
+%mor:	co|oh=oh det:art|el&FEM&SG=the n|bandera&fem=banner v|habe-3S&PRES&SPEC=have 
+	prep|que=than v|pone-INF=put . 
+*CHI:	yo ya se .
+%mor:	pro:per|yo=I adv|ya=already pro:per|se=itself . 
+*CHI:	yo la pongo .
+%mor:	pro:per|yo=I det:art|el&FEM&SG=the v|pone-1S&PRES=put . 
+*CHI:	Marta !
+%mor:	n:prop|Marta ! 
+*XAB:	Marta !
+%mor:	n:prop|Marta ! 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*XAB:	esto <por_qué> [/-] dónde va la bandera ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go det:art|el&FEM&SG=the 
+	n|bandera&fem=banner ? 
+*XAB:	aquí va esto porque [/] porque va al barco .
+%mor:	adv|aquí=here v|i-3S&PRES=go det:dem|este-MASC=this conj|porque=because 
+	v|i-3S&PRES=go prep|a~det|el&MASC n|barco-MASC=boat . 
+%com:	una vela
+*XAB:	éste no tiene ojo .
+%mor:	pro:dem|éste=this_one adv|no=no v|tene-3S&PRES=have co|ojo . 
+*CHI:	no tiene ojo porque los piratas no tienen ojos .
+%mor:	adv|no=no v|tene-3S&PRES=have co|ojo conj|porque=because det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate co|no=no v|tene-3P&PRES=have n|ojo&masc-PL=eye 
+	. 
+*XAB:	sí que tienen .
+%mor:	adv|sí=yes prep|que=than v|tene-3P&PRES=have . 
+*CHI:	sí que tienen solo uno .
+%mor:	adv|sí=yes prep|que=than v|tene-3P&PRES=have adj|solo-MASC=alone det:art|un-MASC=one 
+	. 
+*XAB:	una bomba (.) y por aquí disparan (.) a que sí ?
+%mor:	det:art|un-FEM=one n|bomba&fem=bomb coord|y=and prep|por=for adv|aquí=here 
+	v|dispara-3P&PRES=shoot prep|a=to prep|que=than co|sí=yes ? 
+%com:	el cañón
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*CHI:	yo ya no me acuerdo cómo se sacaba la pelota .
+%mor:	pro:per|yo=I adv|ya=already adv|no=no pro:per|me=me n|acuerdo&masc=opinion 
+	co|cómo pro:per|se=itself v|saca-13S&PAS=bring_out det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*XAB:	así (.) empujándola fuerte (.) así se sacan .
+%mor:	adv|así=thus v|empuja-PROG~pro:clit|OBJ&FEM adj|fuerte=strong adv|así=thus 
+	pro:per|se=itself v|saca-3P&PRES=bring_out . 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*XAB:	cómo se saca la pelota ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|saca-3S&PRES=bring_out det:art|el&FEM&SG=the 
+	n|pelota&fem=ball ? 
+*CHI:	Marta [/] Marta .
+%mor:	n:prop|Marta . 
+*INV:	ya os enseño para allí .
+%mor:	adv|ya=already pro:per|os=you v|enseña-1S&PRES=teach prep|para=for adv|allí=there 
+	. 
+*XAB:	cómo se saca la pelota ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|saca-3S&PRES=bring_out det:art|el&FEM&SG=the 
+	n|pelota&fem=ball ? 
+*CHI:	vale que dibujo así .
+%mor:	co|vale=okay prep|que=than n|dibujo&masc=design adv|así=thus . 
+%com:	me enseña unos dibujos suyos que tiene en la pared
+*CHI:	y yo la cojo ?
+%mor:	coord|y=and pro:per|yo=I det:art|el&FEM&SG=the adj|cojo-MASC=crippled 
+	? 
+*INV:	que chulos .
+%mor:	prep|que=than adj|chulo-MASC-PL=amusing_pretty . 
+*INV:	a_ver la pelota escuchad bien hay que meterla muy al fondo (.) así .
+%mor:	co|a_ver=see det:art|el&FEM&SG=the n|pelota&fem=ball v|escucha-2P&IMP=listen 
+	adv|bien=well v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF~pro:clit|OBJ&FEM 
+	adv|muy=very prep|a~det|el&MASC n|fondo&masc=bottom adv|así=thus . 
+*INV:	veis el ruidito que hace ?
+%mor:	v|ve-2P&PRES=see det:art|el&MASC&SG=the n|ruido-DIM-MASC=noise prep|que=than 
+	v|hace-3S&PRES=do ? 
+*INV:	y ahora le voy a disparar a Xabier .
+%mor:	coord|y=and adv|ahora=now pro:per|le=him v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot 
+	prep|a=to n:prop|Xabier . 
+*XAB:	no .
+%mor:	adv|no=no . 
+*XAB:	a mi no .
+%mor:	prep|a=to det:pos|mi=my adv|no=no . 
+%com:	se mueve
+*INV:	huy (.) le dado !
+%mor:	co|huy=oh pro:per|le=him part|da-PPART&MASC=give ! 
+*XAB:	sí pero no me ha hecho daño .
+%mor:	co|sí=yes conj|pero=but adv|no=no pro:per|me=me co|ha n|hecho&masc=action 
+	n|daño&masc=damage . 
+*XAB:	no [/] no hace daño porque no es para hacer daño .
+%mor:	adv|no=no v|hace-3S&PRES=do n|daño&masc=damage conj|porque=because adv|no=no 
+	v|se-3S&PRES=be prep|para=for v|hace-INF=do n|daño&masc=damage . 
+*INV:	y otra cosa os voy a enseñar (.) vale (.) para que juguéis .
+%mor:	coord|y=and det:indef|otro-FEM=other n|cosa&fem=thing pro:per|os=you v|i-1S&PRES=go 
+	prep|a=to v|enseña-INF=teach co|vale=okay prep|para=for prep|que=than 
+	v|juga-2P&SUB&PRES=play . 
+*INV:	esto +/.
+%mor:	det:dem|este-MASC=this +/. 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	++ que está enganchado se mete así con cuidado para no romper .
+%mor:	pro:rel|que=that v|esta-3S&PRES=be part|engancha-PPART&MASC=hook pro:per|se=itself 
+	v|mete-3S&PRES=put adv|así=thus prep|con=with n|cuidado&masc=care prep|para=for 
+	adv|no=no v|rompe-INF=break . 
+%com:	el arpón de la barca
+*INV:	y se le da a esto rojo y mirad también se dispara .
+%mor:	coord|y=and pro:per|se=itself pro:per|le=him v|da-3S&PRES=give prep|a=to 
+	det:dem|este-MASC=this adj|rojo-MASC=red coord|y=and v|mira-2P&IMP=look 
+	adv|también=also pro:per|se=itself v|dispara-3S&PRES=shoot . 
+*INV:	vale (.) para que juguéis los dos .
+%mor:	co|vale=okay prep|para=for prep|que=than v|juga-2P&SUB&PRES=play det:art|el&MASC-PL=the 
+	det:num|dos=two . 
+*CHI:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+*XAB:	y se dispara a los malos .
+%mor:	coord|y=and pro:per|se=itself v|dispara-3S&PRES=shoot prep|a=to det:art|el&MASC-PL=the 
+	n|malo&masc-PL=devil . 
+*CHI:	yo ya me he cogido .
+%mor:	pro:per|yo=I adv|ya=already pro:per|me=me co|he part|coge-PPART&MASC=take 
+	. 
+%com:	la barca
+*XAB:	y yo .
+%mor:	coord|y=and pro:per|yo=I . 
+*XAB:	venga (.) ahora los malos estaban aquí abajo (.) vale (.) porque iban a ir a cubierta antes .
+%mor:	co|venga=come_on adv|ahora=now det:art|el&MASC-PL=the n|malo&masc-PL=devil 
+	v|esta-3P&PAS=be adv|aquí=here adv|abajo=below co|vale=okay conj|porque=because 
+	v|i-3P&PAS=go prep|a=to v|i-INF=go prep|a=to adj|cubierto-FEM=covered adv|antes=before 
+	. 
+*XAB:	para [/] para [/] para [/-] ahí están todos los malos y nosotros en nuestra casita .
+%mor:	adv|ahí=there v|esta-3P&PRES=be det:indef|todo-MASC-PL=all det:art|el&MASC-PL=the 
+	n|malo&masc-PL=devil coord|y=and pro:per|nosotro-MASC-PL=we prep|en=in 
+	pro:pos|nuestro-FEM=ours n|casa-DIM-FEM=house . 
+*XAB:	dónde tengo más ?
+%mor:	pro:int|dónde=where v|tene-1S&PRES=have adv|más=more ? 
+*XAB:	dónde tengo piratas ?
+%mor:	pro:int|dónde=where v|tene-1S&PRES=have n|pirata&masc-PL=pirate ? 
+*CHI:	aquí (.) mira .
+%mor:	adv|aquí=here co|mira=look . 
+%com:	le enseña la barca
+*XAB:	ya se como se dispara .
+%mor:	adv|ya=already pro:per|se=itself adv|como=like pro:per|se=itself v|dispara-3S&PRES=shoot 
+	. 
+*XAB:	eso ya lo se (.) disparar .
+%mor:	pro:dem|eso=that_one adv|ya=already pro:per:1|lo&masc=him pro:per|se=itself 
+	v|dispara-INF=shoot . 
+*CHI:	a_ver (.) <dónde está la pelota> [/] dónde está la pelota ?
+%mor:	co|a_ver=see pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the 
+	n|pelota&fem=ball ? 
+*XAB:	te disparo ?
+%mor:	pro:per|te=you n|disparo&masc=shot ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+*XAB:	he tapado el barco .
+%mor:	co|he part|tapa-PPART&MASC=cover det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*XAB:	aquí no está .
+%mor:	adv|aquí=here adv|no=no v|esta-3S&PRES=be . 
+*CHI:	está bien el barco .
+%mor:	v|esta-3S&PRES=be adv|bien=well det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	gracias que se me había olvidado .
+%mor:	n|gracia&fem-PL=grace prep|que=than pro:per|se=itself pro:per|me=me v|habe-13S&PAS=have 
+	part|olvida-PPART&MASC=forget . 
+%com:	me da el coche de la casita que lo había dejado olvidado en el suelo
+*XAB:	cómo se pone esto aquí (.) las escaleras ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	adv|aquí=here det:art|el&FEM-PL=the n|escalera&fem-PL=staircase ? 
+%com:	redes
+*INV:	los tienes que colgar de esos palos negros (.) los mástiles .
+%mor:	det:art|el&MASC-PL=the v|tene-2S&PRES=have prep|que=than v|colga-INF=hang 
+	prep|de=of det:dem|ese-MASC-PL=that n|palo&masc-PL=stick adj|negro-MASC-PL=black 
+	det:art|el&MASC-PL=the n|mástil&masc-PL=mast . 
+*INV:	esos palos negros se llaman mástiles .
+%mor:	det:dem|ese-MASC-PL=that n|palo&masc-PL=stick adj|negro-MASC-PL=black 
+	pro:per|se=itself v|llama-3P&PRES=call n|mástil&masc-PL=mast . 
+*CHI:	mira .
+%mor:	co|mira=look . 
+%com:	coge el puesto del vígia
+*XAB:	pero así deben <subir con el> [//] subir .
+%mor:	conj|pero=but adv|así=thus v|debe-3P&PRES=must v|subi-INF=go_up . 
+*CHI:	mira (.) así Marta ?
+%mor:	co|mira=look adv|así=thus n:prop|Marta ? 
+*XAB:	ya lo se que es así .
+%mor:	adv|ya=already pro:per:1|lo&masc=him pro:per|se=itself prep|que=than v|se-3S&PRES=be 
+	adv|así=thus . 
+*XAB:	mira cómo lo meto .
+%mor:	co|mira=look co|cómo pro:per:1|lo&masc=him v|mete-1S&PRES=put . 
+%com:	el arpón
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*XAB:	Marta (.) mira como le meto aquí .
+%mor:	n:prop|Marta co|mira=look adv|como=like pro:per|le=him v|mete-1S&PRES=put 
+	adv|aquí=here . 
+*INV:	a_ver Izaskun dile a Xabier cómo se mete .
+%mor:	co|a_ver=see n:prop|Izaskun v|deci-2S&IMP~pro:clit|3S prep|a=to n:prop|Xabier 
+	pro:int|cómo=how pro:per|se=itself v|mete-3S&PRES=put . 
+*XAB:	ya le meto (.) y ahora no ves (.) les disparo (.) ves ?
+%mor:	adv|ya=already pro:per|le=him v|mete-1S&PRES=put coord|y=and adv|ahora=now 
+	adv|no=no co|ves=see pro:per|le-PL=them n|disparo&masc=shot co|ves=see 
+	? 
+*INV:	<para atrás> [//] lo rojo para atrás .
+%mor:	pro:per:1|lo&masc=him adj|rojo-MASC=red prep|para=for adv|atrás=back 
+	. 
+*CHI:	Marta (.) así ?
+%mor:	n:prop|Marta adv|así=thus ? 
+%com:	pone redes
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*XAB:	has visto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress ? 
+*XAB:	le he disparado .
+%mor:	pro:per|le=him co|he part|dispara-PPART&MASC=shoot . 
+*CHI:	ahora aquí (.) mira la he metido .
+%mor:	adv|ahora=now adv|aquí=here co|mira=look det:art|el&FEM&SG=the co|he 
+	adj|metido-MASC=lodged . 
+*CHI:	le voy a disparar a Xabier .
+%mor:	pro:per|le=him v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot prep|a=to 
+	n:prop|Xabier . 
+*XAB:	no (.) porque yo te disparo antes (.) así .
+%mor:	co|no=no conj|porque=because pro:per|yo=I pro:per|te=you n|disparo&masc=shot 
+	adv|antes=before adv|así=thus . 
+%com:	con la barca
+*CHI:	le he disparado .
+%mor:	pro:per|le=him co|he part|dispara-PPART&MASC=shoot . 
+*XAB:	no .
+%mor:	adv|no=no . 
+*CHI:	le he disparado .
+%mor:	pro:per|le=him co|he part|dispara-PPART&MASC=shoot . 
+*XAB:	ahora te disparo yo a ti (.) vale ?
+%mor:	adv|ahora=now pro:per|te=you n|disparo&masc=shot pro:per|yo=I prep|a=to 
+	pro:per|ti=you co|vale=okay ? 
+*CHI:	vale .
+%mor:	co|vale=okay . 
+*XAB:	te voy a disparar .
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot . 
+*XAB:	<a que> [//] a que no me +/.
+%mor:	prep|a=to prep|que=than adv|no=no pro:per|me=me +/. 
+*CHI:	venga (.) disparame .
+%mor:	co|venga=come_on v|dispara-2S&IMP~pro:clit|1S . 
+*XAB:	te disparo .
+%mor:	pro:per|te=you n|disparo&masc=shot . 
+*CHI:	ah (.) pero yo te voy a disparar con la pelota .
+%mor:	co|ah conj|pero=but pro:per|yo=I pro:per|te=you v|i-1S&PRES=go prep|a=to 
+	v|dispara-INF=shoot prep|con=with det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+*XAB:	eh (.) yo te he dispara(d)o .
+%mor:	co|eh pro:per|yo=I pro:per|te=you co|he part|dispara-PPART&MASC=shoot 
+	. 
+*CHI:	pero yo te voy a disparar .
+%mor:	conj|pero=but pro:per|yo=I pro:per|te=you v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot 
+	. 
+*XAB:	ahora ya has perdido .
+%mor:	adv|ahora=now adv|ya=already v|habe-2S&PRES=have part|perde-PPART&MASC=lose 
+	. 
+*XAB:	dónde se ha metido la pelota ?
+%mor:	pro:int|dónde=where pro:per|se=itself co|ha adj|metido-MASC=lodged det:art|el&FEM&SG=the 
+	n|pelota&fem=ball ? 
+*XAB:	ahora te disparo yo a ti .
+%mor:	adv|ahora=now pro:per|te=you n|disparo&masc=shot pro:per|yo=I prep|a=to 
+	pro:per|ti=you . 
+*XAB:	listos (.) fuego !
+%mor:	adj|listo-MASC-PL=ready n|fuego&masc=fire ! 
+*CHI:	esto cómo va (.) Marta ?
+%mor:	det:dem|este-MASC=this co|cómo v|i-3S&PRES=go n:prop|Marta ? 
+%com:	una vela
+*CHI:	oh (.) que difícil es (.) eh ?
+%mor:	co|oh=oh prep|que=than adj|difícil=difficult v|se-3S&PRES=be co|eh ? 
+*CHI:	esto cómo va (.) Marta ?
+%mor:	det:dem|este-MASC=this co|cómo v|i-3S&PRES=go n:prop|Marta ? 
+*XAB:	y más difícil (.) eh Izaskun (.) es más difícil que tú porque los dos sabemos con +//.
+%mor:	coord|y=and adv|más=more adj|difícil=difficult co|eh n:prop|Izaskun 
+	v|se-3S&PRES=be adv|más=more adj|difícil=difficult prep|que=than pro:per|tú=you 
+	conj|porque=because det:art|el&MASC-PL=the det:num|dos=two v|sabe-1P&PRES=know 
+	prep|con=with +//. 
+*XAB:	yo xxx con una mano .
+%mor:	pro:per|yo=I prep|con=with det:art|un-FEM=one n|mano&fem=hand . 
+*CHI:	Marta .
+%mor:	n:prop|Marta . 
+*INV:	esa está rota y no se puede poner (.) Izaskun .
+%mor:	det:dem|ese-FEM=that v|esta-3S&PRES=be part|rompe-PPART-FEM=break coord|y=and 
+	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put n:prop|Izaskun 
+	. 
+*INV:	pon la otra .
+%mor:	v|pone-2S&IMP=put det:art|el&FEM&SG=the det:indef|otro-FEM=other . 
+*INV:	esa (.) muy bien (.) así (.) que bien (.) ya está .
+%mor:	det:dem|ese-FEM=that adv|muy=very adv|bien=well adv|así=thus prep|que=than 
+	adv|bien=well adv|ya=already v|esta-3S&PRES=be . 
+*XAB:	mira .
+%mor:	co|mira=look . 
+*CHI:	y la otra ?
+%mor:	coord|y=and det:art|el&FEM&SG=the det:indef|otro-FEM=other ? 
+*INV:	esa no se puede poner .
+%mor:	det:dem|ese-FEM=that adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put 
+	. 
+*INV:	está rota .
+%mor:	v|esta-3S&PRES=be part|rompe-PPART-FEM=break . 
+*CHI:	pues otro día la tendrás que arreglar .
+%mor:	co|pues=well pro:indef|otro=other n|día&masc=day det:art|el&FEM&SG=the 
+	v|tene-2S&FUT=have prep|que=than v|arregla-INF=order . 
+*INV:	vale (.) pues ya la llevaremos a arreglar .
+%mor:	co|vale=okay co|pues=well adv|ya=already det:art|el&FEM&SG=the v|lleva-1P&FUT=carry 
+	prep|a=to v|arregla-INF=order . 
+*XAB:	mira éste es el pirata que estaba aquí .
+%mor:	co|mira=look pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the 
+	n|pirata&masc=pirate prep|que=than v|esta-13S&PAS=be adv|aquí=here . 
+%com:	en la barca
+*XAB:	ves (.) éste pirata iba aquí y luego va <y yo> [/-] uno (.) no ves ?
+%mor:	co|ves=see pro:dem|éste=this_one n|pirata&masc=pirate v|i-13S&PAS=go 
+	adv|aquí=here coord|y=and adv|luego=afterwards v|i-3S&PRES=go v|uni-1S&PRES=unite 
+	co|no=no co|ves=see ? 
+%com:	señala el dibujo
+*CHI:	oye Marta (.) esto dónde va ?
+%mor:	co|oye=listen n:prop|Marta det:dem|este-MASC=this pro:int|dónde=where 
+	v|i-3S&PRES=go ? 
+%com:	el cofre
+*XAB:	voy a disparar !
+%mor:	v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot ! 
+*XAB:	no ves ?
+%mor:	co|no=no co|ves=see ? 
+*XAB:	me dispara .
+%mor:	pro:per|me=me v|dispara-3S&PRES=shoot . 
+*XAB:	otra (.) pero ésta está doblada .
+%mor:	det:indef|otro-FEM=other conj|pero=but pro:dem|éste-FEM=this_one v|esta-3S&PRES=be 
+	part|dobla-PPART&FEM=double . 
+*CHI:	la pelota ?
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball ? 
+*XAB:	está ahí .
+%mor:	v|esta-3S&PRES=be adv|ahí=there . 
+*CHI:	dónde [/] dónde estaba ?
+%mor:	pro:int|dónde=where v|esta-13S&PAS=be ? 
+*XAB:	mira [/] mira ya verás como le disparo .
+%mor:	co|mira=look adv|ya=already v|ve-2S&FUT=see adv|como=like pro:per|le=him 
+	n|disparo&masc=shot . 
+*XAB:	la voy a disparar (.) no ves ?
+%mor:	det:art|el&FEM&SG=the v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot co|no=no 
+	co|ves=see ? 
+*XAB:	me voy alejando (.) el barco pirata .
+%mor:	pro:per|me=me v|i-1S&PRES=go v|aleja-PROG=withdraw det:art|el&MASC&SG=the 
+	n|barco-MASC=boat n|pirata&masc=pirate . 
+*XAB:	ay (.) cómo va esta bandera ?
+%mor:	co|ay=ay co|cómo v|i-3S&PRES=go det:dem|este-FEM=this n|bandera&fem=banner 
+	? 
+*INV:	va así pero está un poco dura .
+%mor:	v|i-3S&PRES=go adv|así=thus conj|pero=but v|esta-3S&PRES=be det:art|un&masc=one 
+	adv|poco=few adj|duro-FEM=hard . 
+*INV:	vuelve a intentarlo .
+%mor:	v|volve-3S&PRES=turn prep|a=to v|intenta-INF~pro:clit|OBJ&MASC . 
+*CHI:	mira bandera (.) aquí .
+%mor:	co|mira=look n|bandera&fem=banner adv|aquí=here . 
+*XAB:	ya ha salido por ahí .
+%mor:	adv|ya=already co|ha part|sali-PPART&MASC=leave prep|por=for adv|ahí=there 
+	. 
+%com:	la pelota
+*CHI:	así .
+%mor:	adv|así=thus . 
+%com:	pone la bandera
+*XAB:	yo soy el que disparo .
+%mor:	pro:per|yo=I v|se-1S&PRES=be det:art|el&MASC&SG=the prep|que=than n|disparo&masc=shot 
+	. 
+*XAB:	a quién le disparo ?
+%mor:	prep|a=to pro:int|quién=who pro:per|le=him n|disparo&masc=shot ? 
+*XAB:	ha sacado mucho fuego .
+%mor:	co|ha part|saca-PPART&MASC=bring_out adv|mucho=much n|fuego&masc=fire 
+	. 
+*XAB:	ha salido mucho fuego .
+%mor:	co|ha part|sali-PPART&MASC=leave adv|mucho=much n|fuego&masc=fire . 
+*CHI:	les cuento ahora ?
+%mor:	pro:per|le-PL=them n|cuento&masc=story adv|ahora=now ? 
+*XAB:	disparamos nosotros también ?
+%mor:	v|dispara-1P&PRES=shoot pro:per|nosotro-MASC-PL=we adv|también=also ? 
+*CHI:	vale (.) sí quiero .
+%mor:	co|vale=okay co|sí=yes v|quere-1S&PRES=want . 
+*XAB:	disparamos hacia allá (.) vale ?
+%mor:	v|dispara-1P&PRES=shoot prep|hacia=towards adv|allá=there co|vale=okay 
+	? 
+*CHI:	ah (.) pero +...
+%mor:	co|ah conj|pero=but +... 
+*XAB:	apunten [/] apunten [/] apunten (.) fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	fuego .
+%mor:	n|fuego&masc=fire . 
+*XAB:	<yo también lo he sacado (.) eh> [//] yo también lo he sacado .
+%mor:	pro:per|yo=I adv|también=also pro:per:1|lo&masc=him co|he part|saca-PPART&MASC=bring_out 
+	. 
+%com:	dispara IZA con el cañón y XAB con el arpón de la barca
+*XAB:	de mi barca ha [*] sacado yo fuego .
+%mor:	prep|de=of det:pos|mi=my n|barco-FEM=boat co|ha part|saca-PPART&MASC=bring_out 
+	pro:per|yo=I n|fuego&masc=fire . 
+*XAB:	he sacado de mi cabaña [*] .
+%mor:	co|he part|saca-PPART&MASC=bring_out prep|de=of det:pos|mi=my n|cabaña&fem=cottage 
+	. 
+*XAB:	apunten .
+%mor:	v|apunta-3P&IMP=indicate . 
+*CHI:	apunten .
+%mor:	v|apunta-3P&IMP=indicate . 
+*XAB:	he tirado !
+%mor:	co|he part|tira-PPART&MASC=throw ! 
+*CHI:	fuego !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	<he tirado fuego> [/] he tirado fuego (.) Izaskun .
+%mor:	co|he part|tira-PPART&MASC=throw n|fuego&masc=fire n:prop|Izaskun . 
+*CHI:	no me has tirado .
+%mor:	adv|no=no pro:per|me=me v|habe-2S&PRES=have part|tira-PPART&MASC=throw 
+	. 
+*XAB:	no .
+%mor:	adv|no=no . 
+*XAB:	a ella le he tirado .
+%mor:	prep|a=to pro:per|ello-FEM=he pro:per|le=him co|he part|tira-PPART&MASC=throw 
+	. 
+*CHI:	no [/] no .
+%mor:	adv|no=no . 
+*XAB:	pues ahora sí que va a ir hasta allá .
+%mor:	co|pues=well adv|ahora=now co|sí=yes prep|que=than v|i-3S&PRES=go prep|a=to 
+	v|i-INF=go prep|hasta=until adv|allá=there . 
+*XAB:	listos (.) fuego !
+%mor:	adj|listo-MASC-PL=ready n|fuego&masc=fire ! 
+*CHI:	oye Marta .
+%mor:	co|oye=listen n:prop|Marta . 
+*INV:	qué ?
+%mor:	pro:int|qué=what ? 
+*CHI:	esto no va .
+%mor:	det:dem|este-MASC=this adv|no=no v|i-3S&PRES=go . 
+*INV:	sí va .
+%mor:	adv|sí=yes v|i-3S&PRES=go . 
+*INV:	ves como sí va ?
+%mor:	co|ves=see adv|como=like adv|sí=yes v|i-3S&PRES=go ? 
+*XAB:	he disparado .
+%mor:	co|he part|dispara-PPART&MASC=shoot . 
+*XAB:	yo disparo mucho .
+%mor:	pro:per|yo=I n|disparo&masc=shot adv|mucho=much . 
+*XAB:	desde aquí disparo yo .
+%mor:	prep|desde=from adv|aquí=here n|disparo&masc=shot pro:per|yo=I . 
+*CHI:	apuntes [*] (.) fuego [<] !
+%mor:	v|apunta-2S&SUB&PRES=indicate n|fuego&masc=fire ! 
+*XAB:	fuego [>] !
+%mor:	n|fuego&masc=fire ! 
+*CHI:	y no viene a sacar fuego .
+%mor:	coord|y=and adv|no=no v|veni-3S&PRES=come prep|a=to v|saca-INF=bring_out 
+	n|fuego&masc=fire . 
+*INV:	y los piratas qué (.) se han dormido ?
+%mor:	coord|y=and det:art|el&MASC-PL=the n|pirata&masc-PL=pirate pro:int|qué=what 
+	pro:per|se=itself v|habe-3P&PRES=have part|dormi-PPART&MASC=sleep ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*XAB:	pero este pirata está navegando dormido .
+%mor:	conj|pero=but det:dem|este=this n|pirata&masc=pirate v|esta-3S&PRES=be 
+	v|navega-PROG=navigate part|dormi-PPART&MASC=sleep . 
+*INV:	ah !
+%mor:	co|ah ! 
+*XAB:	y yo le doy +//.
+%mor:	coord|y=and pro:per|yo=I pro:per|le=him v|da-1S&PRES=give +//. 
+*XAB:	no .
+%mor:	adv|no=no . 
+*XAB:	y éste está +/.
+%mor:	coord|y=and pro:dem|éste=this_one v|esta-3S&PRES=be +/. 
+*CHI:	apuntes [*] !
+%mor:	v|apunta-2S&SUB&PRES=indicate ! 
+*CHI:	no lo ha hecho .
+%mor:	adv|no=no pro:per:1|lo&masc=him co|ha n|hecho&masc=action . 
+*CHI:	apuntes [*] (.) fuego [<] !
+%mor:	v|apunta-2S&SUB&PRES=indicate n|fuego&masc=fire ! 
+*XAB:	fuego [>] !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	yo también he sacado fuego .
+%mor:	pro:per|yo=I adv|también=also co|he part|saca-PPART&MASC=bring_out n|fuego&masc=fire 
+	. 
+*XAB:	hemos sacado fuego los dos .
+%mor:	v|habe-1P&PRES=have part|saca-PPART&MASC=bring_out n|fuego&masc=fire det:art|el&MASC-PL=the 
+	det:num|dos=two . 
+*CHI:	apuntes [*] !
+%mor:	v|apunta-2S&SUB&PRES=indicate ! 
+*XAB:	fuego [<] !
+%mor:	n|fuego&masc=fire ! 
+*CHI:	fuego [>] !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	apunten (.) fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*XAB:	ahora no me sale .
+%mor:	adv|ahora=now adv|no=no pro:per|me=me v|sali-3S&PRES=leave . 
+*XAB:	a mi no me sale .
+%mor:	prep|a=to det:pos|mi=my adv|no=no pro:per|me=me v|sali-3S&PRES=leave . 
+*CHI:	te enseño ?
+%mor:	pro:per|te=you v|enseña-1S&PRES=teach ? 
+*XAB:	no (.) que ya se .
+%mor:	adv|no=no prep|que=than adv|ya=already pro:per|se=itself . 
+*XAB:	apunten (.) fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	no puedes .
+%mor:	adv|no=no v|pode-2S&PRES=can . 
+*CHI:	quieres que te ayude ?
+%mor:	v|quere-2S&PRES=want prep|que=than pro:per|te=you v|ayuda-13S&SUB&PRES=help 
+	? 
+*XAB:	no .
+%mor:	adv|no=no . 
+*XAB:	mira es que se me ha roto una por eso no sale .
+%mor:	co|mira=look v|se-3S&PRES=be prep|que=than pro:per|se=itself pro:per|me=me 
+	co|ha part|rompe-PPART-MASC=break det:art|un-FEM=one prep|por=for pro:dem|eso=that_one 
+	adv|no=no v|sali-3S&PRES=leave . 
+*XAB:	apunten (.) fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	ahora .
+%mor:	adv|ahora=now . 
+*XAB:	he sacado fuego (.) mucho más que fuego .
+%mor:	co|he part|saca-PPART&MASC=bring_out n|fuego&masc=fire adv|mucho=much 
+	adv|más=more prep|que=than n|fuego&masc=fire . 
+*CHI:	<apuntes [*] fuego> [<] !
+%mor:	v|apunta-2S&SUB&PRES=indicate n|fuego&masc=fire ! 
+*XAB:	apunten fuego [>] !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	tíralo .
+%mor:	v|tira-2S&IMP~pro:clit|OBJ&MASC . 
+%com:	la pelota
+*CHI:	apuntes [*] !
+%mor:	v|apunta-2S&SUB&PRES=indicate ! 
+*CHI:	voy a despertar a los piratas .
+%mor:	v|i-1S&PRES=go prep|a=to v|desperta-INF=wake_up prep|a=to det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate . 
+*XAB:	yo también les voy a despertar (.) eh ?
+%mor:	pro:per|yo=I adv|también=also pro:per|le-PL=them v|i-1S&PRES=go prep|a=to 
+	v|desperta-INF=wake_up co|eh ? 
+*CHI:	yo a los buenos .
+%mor:	pro:per|yo=I prep|a=to det:art|el&MASC-PL=the adj|buen-MASC-PL=good . 
+*XAB:	yo a los malos .
+%mor:	pro:per|yo=I prep|a=to det:art|el&MASC-PL=the n|malo&masc-PL=devil . 
+*CHI:	éstos eran los buenos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PAS=be det:art|el&MASC-PL=the adj|buen-MASC-PL=good 
+	. 
+*XAB:	apunten !
+%mor:	v|apunta-3P&IMP=indicate ! 
+*CHI:	éstos eran los malos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PAS=be det:art|el&MASC-PL=the n|malo&masc-PL=devil 
+	. 
+*XAB:	apunten !
+%mor:	v|apunta-3P&IMP=indicate ! 
+*CHI:	eh !
+%mor:	co|eh ! 
+*XAB:	fuego !
+%mor:	n|fuego&masc=fire ! 
+*INV:	y qué hacían ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3P&PAS=do ? 
+*CHI:	<son los malos> [/] son los malos .
+%mor:	v|se-3P&PRES=be det:art|el&MASC-PL=the n|malo&masc-PL=devil . 
+*XAB:	ya pero éste [/] éste también es malo porque no ves tiene pistola y está navegando en una barca .
+%mor:	adv|ya=already conj|pero=but pro:dem|éste=this_one adv|también=also 
+	v|se-3S&PRES=be n|malo&masc=devil conj|porque=because adv|no=no co|ves=see 
+	v|tene-3S&PRES=have n|pistola&fem=pistol coord|y=and v|esta-3S&PRES=be 
+	v|navega-PROG=navigate prep|en=in det:art|un-FEM=one n|barco-FEM=boat . 
+*INV:	y esos qué hacen (.) Izaskun ?
+%mor:	coord|y=and det:dem|ese-MASC-PL=that pro:int|qué=what v|hace-3P&PRES=do 
+	n:prop|Izaskun ? 
+*INV:	qué hacen esos malos ?
+%mor:	pro:int|qué=what v|hace-3P&PRES=do det:dem|ese-MASC-PL=that n|malo&masc-PL=devil 
+	? 
+*CHI:	pues matar .
+%mor:	co|pues=well v|mata-INF=kill . 
+*INV:	uf: !
+%mor:	co|uf ! 
+*XAB:	y [/] y éste pirata +/.
+%mor:	coord|y=and pro:dem|éste=this_one n|pirata&masc=pirate +/. 
+*CHI:	pero no hacen nada porque yo les llevo .
+%mor:	conj|pero=but adv|no=no v|hace-3P&PRES=do pro:indef|nada=nothing conj|porque=because 
+	pro:per|yo=I pro:per|le-PL=them v|lleva-1S&PRES=carry . 
+*XAB:	apunten fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	que te atrapo !
+%mor:	prep|que=than pro:per|te=you v|atrapa-1S&PRES=grab ! 
+*XAB:	no [/] no porque te he disparado .
+%mor:	co|no=no conj|porque=because pro:per|te=you co|he part|dispara-PPART&MASC=shoot 
+	. 
+*CHI:	no me has disparado .
+%mor:	adv|no=no pro:per|me=me v|habe-2S&PRES=have part|dispara-PPART&MASC=shoot 
+	. 
+*XAB:	sí .
+%mor:	co|sí=yes . 
+*XAB:	fuego !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	fuego voy a echar ahora mismo .
+%mor:	n|fuego&masc=fire v|i-1S&PRES=go prep|a=to v|echa-INF=throw adv|ahora=now 
+	adj|mismo-MASC=same . 
+*CHI:	sabes cómo se hace con esto ?
+%mor:	co|sabes=you_know pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do 
+	prep|con=with det:dem|este-MASC=this ? 
+*CHI:	se hace esto .
+%mor:	pro:per|se=itself v|hace-3S&PRES=do det:dem|este-MASC=this . 
+%com:	me enseña la barra de su cama
+*INV:	ahora no .
+%mor:	adv|ahora=now adv|no=no . 
+*INV:	ahora con el barco .
+%mor:	adv|ahora=now prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	y se pone esto pero cuando yo estoy en la cama .
+%mor:	coord|y=and pro:per|se=itself v|pone-3S&PRES=put det:dem|este-MASC=this 
+	conj|pero=but conj|cuando=when pro:per|yo=I v|esta-1S&PRES=be prep|en=in 
+	det:art|el&FEM&SG=the n|cama&fem=bed . 
+*CHI:	aquí para que yo no me caiga (.) porque si no aquí yo me caigo al suelo .
+%mor:	adv|aquí=here prep|para=for prep|que=than pro:per|yo=I adv|no=no pro:per|me=me 
+	v|cae-13S&SUB&PRES=fall conj|porque=because conj|si=if adv|no=no adv|aquí=here 
+	pro:per|yo=I pro:per|me=me v|cae-1S&PRES=fall prep|a~det|el&MASC n|suelo&masc=floor 
+	. 
+*XAB:	<yo también tengo barra> [/] yo también tengo barra (.) pero a que se guarda ahí atrás ?
+%mor:	pro:per|yo=I adv|también=also v|tene-1S&PRES=have n|barra&fem=rod conj|pero=but 
+	prep|a=to prep|que=than pro:per|se=itself v|guarda-3S&PRES=guard adv|ahí=there 
+	adv|atrás=back ? 
+*INV:	ah !
+%mor:	co|ah ! 
+*XAB:	apunten fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	apuntes [*] !
+%mor:	v|apunta-2S&SUB&PRES=indicate ! 
+*CHI:	os voy a matar !
+%mor:	pro:per|os=you v|i-1S&PRES=go prep|a=to v|mata-INF=kill ! 
+*XAB:	he sacado fuego !
+%mor:	co|he part|saca-PPART&MASC=bring_out n|fuego&masc=fire ! 
+*CHI:	apuntes [*] !
+%mor:	v|apunta-2S&SUB&PRES=indicate ! 
+*XAB:	he sacado fuego pirata !
+%mor:	co|he part|saca-PPART&MASC=bring_out n|fuego&masc=fire n|pirata&masc=pirate 
+	! 
+*XAB:	yo sí que saco .
+%mor:	pro:per|yo=I adv|sí=yes prep|que=than v|saca-1S&PRES=bring_out . 
+*CHI:	apuntes [*] fuego !
+%mor:	v|apunta-2S&SUB&PRES=indicate n|fuego&masc=fire ! 
+*CHI:	<apuntes [*] fuego> [<] !
+%mor:	v|apunta-2S&SUB&PRES=indicate n|fuego&masc=fire ! 
+*XAB:	apunten fuego [>] !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*XAB:	he tirado fuego a los piratas malos .
+%mor:	co|he part|tira-PPART&MASC=throw n|fuego&masc=fire prep|a=to det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate n|malo&masc-PL=devil . 
+*CHI:	ahora fuego y una patada .
+%mor:	adv|ahora=now n|fuego&masc=fire coord|y=and det:art|un-FEM=one n|patada&fem=kick 
+	. 
+*INV:	oh (.) pobrecito que daño (.) no ?
+%mor:	co|oh=oh co:voc|pobrecito=poor_thing prep|que=than n|daño&masc=damage 
+	co|no=no ? 
+*INV:	ahora le duele el culete .
+%mor:	adv|ahora=now pro:per|le=him v|dole-3S&PRES=hurt det:art|el&MASC&SG=the 
+	n|culo-MASC&AUG=buttocks . 
+*CHI:	una dos y tres ahora una patada .
+%mor:	det:art|un-FEM=one det:num|dos=two coord|y=and det:num|tres=three adv|ahora=now 
+	det:art|un-FEM=one n|patada&fem=kick . 
+*INV:	y ahora qué hace el barco sin piratas ?
+%mor:	coord|y=and adv|ahora=now pro:int|qué=what v|hace-3S&PRES=do det:art|el&MASC&SG=the 
+	n|barco-MASC=boat prep|sin=without n|pirata&masc-PL=pirate ? 
+*CHI:	hay un pirata solo !
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|pirata&masc=pirate adj|solo-MASC=alone 
+	! 
+*XAB:	apunten fuego !
+%mor:	v|apunta-3P&IMP=indicate n|fuego&masc=fire ! 
+*CHI:	no hemos terminado todavía .
+%mor:	adv|no=no v|habe-1P&PRES=have part|termina-PPART&MASC=end adv|todavía=still 
+	. 
+%com:	canta
+*XAB:	a mi me gustan los cacahuetes .
+%mor:	prep|a=to det:pos|mi=my pro:per|me=me v|gusta-3P&PRES=like det:art|el&MASC-PL=the 
+	n|cacahuete&masc-PL=peanut . 
+*XAB:	apunte !
+%mor:	v|apunta-13S&SUB&PRES=indicate ! 
+*CHI:	fuego [<] !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	fuego [>] !
+%mor:	n|fuego&masc=fire ! 
+*XAB:	fuego a ese barco !
+%mor:	n|fuego&masc=fire prep|a=to det:dem|ese=that n|barco-MASC=boat ! 
+*XAB:	venga (.) a_ver .
+%mor:	co|venga=come_on co|a_ver=see . 
+*CHI:	oye ya los has tenido y tú no me lo dejas .
+%mor:	co|oye=listen adv|ya=already det:art|el&MASC-PL=the v|habe-2S&PRES=have 
+	part|tene-PPART&MASC=have coord|y=and pro:per|tú=you adv|no=no pro:per|me=me 
+	pro:per:1|lo&masc=him v|deja-2S&PRES=leave . 
+*CHI:	tú coge la pelota .
+%mor:	pro:per|tú=you v|coge-3S&PRES=take det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+%com:	se intercambian los barcos
+*XAB:	ahora quiero yo .
+%mor:	adv|ahora=now v|quere-1S&PRES=want pro:per|yo=I . 
+*XAB:	ahora me traigo yo éste (.) el barco .
+%mor:	adv|ahora=now pro:per|me=me v|trae-1S&PRES=carry pro:per|yo=I pro:dem|éste=this_one 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	apunten !
+%mor:	v|apunta-3P&IMP=indicate ! 
+*XAB:	oh (.) hay dos !
+%mor:	co|oh=oh v|habe-3S&PRES&SPEC=have det:num|dos=two ! 
+%com:	piratas
+*XAB:	mira (.) uno caído .
+%mor:	co|mira=look det:art|un-MASC=one part|cae-PPART&MASC=fall . 
+@End

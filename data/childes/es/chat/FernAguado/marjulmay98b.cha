@@ -1,0 +1,272 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	MAR María Target_Child , JUL Julia Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|MAR|2;11.11||||Target_Child|||
+@ID:	spa|fernaguado|JUL|3;0.04||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	06-MAY-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	MAR y JUL juegan con el barco
+*JUL:	aquí mira .
+%mor:	adv|aquí=here co|mira=look . 
+*JUL:	es ésta .
+%mor:	v|se-3S&PRES=be pro:dem|éste-FEM=this_one . 
+%com:	señala el dibujo
+*JUL:	pero no están acabando .
+%mor:	conj|pero=but adv|no=no v|esta-3P&PRES=be v|acaba-PROG=finish . 
+%com:	pone a todos los piratas en el barco alrededor de la mesa
+*JUL:	<están mirando> [//] están mirando aquí .
+%mor:	v|esta-3P&PRES=be v|mira-PROG=look adv|aquí=here . 
+*JUL:	<y éste quiere en el agua> [/] y éste quiere en el agua .
+%mor:	coord|y=and pro:dem|éste=this_one v|quere-3S&PRES=want prep|en=in det:art|el&MASC&SG=the 
+	n|agua&fem=water . 
+*MAR:	y éste .
+%mor:	coord|y=and pro:dem|éste=this_one . 
+*JUL:	sí .
+%mor:	co|sí=yes . 
+*JUL:	y ese también .
+%mor:	coord|y=and det:dem|ese=that adv|también=also . 
+*JUL:	ah (.) no le puedo poner !
+%mor:	co|ah adv|no=no pro:per|le=him v|pode-1S&PRES=can v|pone-INF=put ! 
+*JUL:	quitamos esta +...
+%mor:	v|quita-1P&PRES=remove det:dem|este-FEM=this +... 
+*MAR:	esto es el agua .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*MAR:	es esto .
+%mor:	v|se-3S&PRES=be det:dem|este-MASC=this . 
+*JUL:	espera le quitamos todo esto .
+%mor:	v|espera-3S&PRES=wait pro:per|le=him v|quita-1P&PRES=remove det:indef|todo-MASC=all 
+	det:dem|este-MASC=this . 
+*MAR:	echamos al agua .
+%mor:	v|echa-1P&PRES=throw prep|a~det|el&MASC n|agua&fem=water . 
+*JUL:	no [/] no .
+%mor:	adv|no=no . 
+*JUL:	aquí [/] aquí .
+%mor:	adv|aquí=here . 
+*MAR:	echamos al agua .
+%mor:	v|echa-1P&PRES=throw prep|a~det|el&MASC n|agua&fem=water . 
+*JUL:	y todos lejos .
+%mor:	coord|y=and det:indef|todo-MASC-PL=all adv|lejos=far . 
+*JUL:	no .
+%mor:	adv|no=no . 
+*JUL:	ese no (.) que quieren al agua (.) eh ?
+%mor:	det:dem|ese=that adv|no=no prep|que=than v|quere-3P&PRES=want prep|a~det|el&MASC 
+	n|agua&fem=water co|eh ? 
+*MAR:	al agua .
+%mor:	prep|a~det|el&MASC n|agua&fem=water . 
+*JUL:	quieren al agua .
+%mor:	v|quere-3P&PRES=want prep|a~det|el&MASC n|agua&fem=water . 
+*MAR:	y ya está .
+%mor:	coord|y=and adv|ya=already v|esta-3S&PRES=be . 
+*JUL:	oye y esto +...
+%mor:	co|oye=listen coord|y=and det:dem|este-MASC=this +... 
+*MAR:	ahí va (.) mira aquí (.) <hay en los dos la(d)os> [/] hay en los dos la(d)os .
+%mor:	adv|ahí=there v|i-3S&PRES=go co|mira=look adv|aquí=here v|habe-3S&PRES&SPEC=have 
+	prep|en=in det:art|el&MASC-PL=the det:num|dos=two n|lado&masc-PL=side . 
+%com:	coge el cofre y se refiere a las asas
+*INV:	para agarrar (.) claro .
+%mor:	prep|para=for v|agarra-INF=grasp co|claro=obvious . 
+*MAR:	0 [=! asintiendo] .
+*JUL:	aquí .
+%mor:	adv|aquí=here . 
+%com:	mete las cosas en la bodega
+*INV:	se están duchando los piratas ?
+%mor:	pro:per|se=itself v|esta-3P&PRES=be v|ducha-PROG=take_shower det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate ? 
+*JUL:	0 [=! asintiendo] .
+*MAR:	un pirata .
+%mor:	det:art|un&masc=one n|pirata&masc=pirate . 
+%com:	enseña la barquita
+*JUL:	no .
+%mor:	adv|no=no . 
+*JUL:	eso es un barco .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|un&masc=one n|barco-MASC=boat 
+	. 
+*JUL:	mira .
+%mor:	co|mira=look . 
+%com:	las dos miran el dibujo
+*JUL:	se va (.) ésta aquí .
+%mor:	pro:per|se=itself v|i-3S&PRES=go pro:dem|éste-FEM=this_one adv|aquí=here 
+	. 
+*JUL:	quita que vamos a +...
+%mor:	v|quita-3S&PRES=remove prep|que=than co|vamos=go prep|a=to +... 
+*JUL:	éste [/] éste .
+%mor:	pro:dem|éste=this_one . 
+%com:	colocan las cosas como en el dibujo
+*JUL:	éste .
+%mor:	pro:dem|éste=this_one . 
+*JUL:	no .
+%mor:	adv|no=no . 
+*JUL:	fíjate (.) como ahí !
+%mor:	v|fija-2S&IMP~pro:clit|2S adv|como=like adv|ahí=there ! 
+*JUL:	ahora +//.
+%mor:	adv|ahora=now +//. 
+*MAR:	tienen aquí el agua .
+%mor:	v|tene-3P&PRES=have adv|aquí=here det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*JUL:	+, mira ahora se tiran al agua .
+%mor:	co|mira=look adv|ahora=now pro:per|se=itself v|tira-3P&PRES=throw prep|a~det|el&MASC 
+	n|agua&fem=water . 
+*JUL:	el agua ésta .
+%mor:	det:art|el&MASC&SG=the n|agua&fem=water pro:dem|éste-FEM=this_one . 
+*JUL:	mira .
+%mor:	co|mira=look . 
+*JUL:	cuando (.) saltan .
+%mor:	conj|cuando=when v|salta-3P&PRES=jump . 
+*MAR:	ya no quieren (.) ya !
+%mor:	adv|ya=already adv|no=no v|quere-3P&PRES=want adv|ya=already ! 
+*MAR:	ya no quieren .
+%mor:	adv|ya=already adv|no=no v|quere-3P&PRES=want . 
+*JUL:	así (.) ahora el barco .
+%mor:	adv|así=thus adv|ahora=now det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*MAR:	se cae éste .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall pro:dem|éste=this_one . 
+*MAR:	<éste se cae> [/] éste se cae .
+%mor:	pro:dem|éste=this_one pro:per|se=itself v|cae-3S&PRES=fall . 
+*INV:	ah sí ?
+%mor:	co|ah co|sí=yes ? 
+*MAR:	sí .
+%mor:	co|sí=yes . 
+*JUL:	pero en el barco no se cae .
+%mor:	conj|pero=but prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat adv|no=no 
+	pro:per|se=itself v|cae-3S&PRES=fall . 
+*INV:	por_qué se cae ?
+%mor:	pro:int|por_qué=why pro:per|se=itself v|cae-3S&PRES=fall ? 
+*JUL:	porque se cae .
+%mor:	conj|porque=because pro:per|se=itself v|cae-3S&PRES=fall . 
+*MAR:	y quieren en el agua .
+%mor:	coord|y=and v|quere-3P&PRES=want prep|en=in det:art|el&MASC&SG=the n|agua&fem=water 
+	. 
+*JUL:	no (.) porque se van a mojar la ropa !
+%mor:	co|no=no conj|porque=because pro:per|se=itself v|i-3P&PRES=go prep|a=to 
+	v|moja-INF=moisten det:art|el&FEM&SG=the n|ropa&fem=clothes ! 
+*MAR:	ahora quieren .
+%mor:	adv|ahora=now v|quere-3P&PRES=want . 
+*JUL:	no (.) que está muy caliente .
+%mor:	adv|no=no prep|que=than v|esta-3S&PRES=be adv|muy=very adj|caliente=hot 
+	. 
+*MAR:	pero ahora .
+%mor:	conj|pero=but adv|ahora=now . 
+*MAR:	pero luego .
+%mor:	conj|pero=but adv|luego=afterwards . 
+*JUL:	ahora está muy fresquita .
+%mor:	adv|ahora=now v|esta-3S&PRES=be adv|muy=very adj|fresco-DIM-FEM=fresh 
+	. 
+*JUL:	lo vamos a poner (.) así .
+%mor:	pro:per:1|lo&masc=him co|vamos=go prep|a=to v|pone-INF=put adv|así=thus 
+	. 
+%com:	vuelven las dos a mirar el dibujo
+*MAR:	oh (.) falta la mesa .
+%mor:	co|oh=oh v|falta-3S&PRES=be_lacking det:art|el&FEM&SG=the n|mesa&fem=table 
+	. 
+*MAR:	ay (.) está ahí la mesa !
+%mor:	co|ay=ay v|esta-3S&PRES=be adv|ahí=there det:art|el&FEM&SG=the n|mesa&fem=table 
+	! 
+*MAR:	la mesa (.) ahí la dejo (.) vale ?
+%mor:	det:art|el&FEM&SG=the n|mesa&fem=table adv|ahí=there det:art|el&FEM&SG=the 
+	v|deja-1S&PRES=leave co|vale=okay ? 
+%com:	la mete en la bodega
+*MAR:	echa !
+%mor:	v|echa-3S&PRES=throw ! 
+*MAR:	aquí la echaré .
+%mor:	adv|aquí=here det:art|el&FEM&SG=the v|echa-1S&FUT=throw . 
+%com:	canta
+*MAR:	echaré .
+%mor:	v|echa-1S&FUT=throw . 
+*MAR:	así (.) sí [/] sí [/] sí .
+%mor:	adv|así=thus co|sí=yes . 
+*JUL:	qué no cabe !
+%mor:	pro:int|qué=what adv|no=no v|cabe-3S&PRES=fit ! 
+*JUL:	ahora +...
+%mor:	adv|ahora=now +... 
+*MAR:	no .
+%mor:	adv|no=no . 
+%com:	JUL intenta quitarle el cofre a María pero ésta no le deja
+*MAR:	voy a calentar la comida aquí ?
+%mor:	v|i-1S&PRES=go prep|a=to v|calenta-INF=heat det:art|el&FEM&SG=the n|comida&fem=food 
+	adv|aquí=here ? 
+*MAR:	no .
+%mor:	adv|no=no . 
+*MAR:	<aquí voy a &ca> [//] que les vamos a dar la comida .
+%mor:	prep|que=than pro:per|le-PL=them co|vamos=go prep|a=to v|da-INF=give det:art|el&FEM&SG=the 
+	n|comida&fem=food . 
+*JUL:	ah !
+%mor:	co|ah ! 
+*MAR:	ya le hemos da(d)o .
+%mor:	adv|ya=already pro:per|le=him v|habe-1P&PRES=have part|da-PPART&MASC=give 
+	. 
+*JUL:	qué caliente está .
+%mor:	pro:int|qué=what adj|caliente=hot v|esta-3S&PRES=be . 
+*JUL:	oye [/] oye [//] oye ésta aquí .
+%mor:	co|oye=listen pro:dem|éste-FEM=this_one adv|aquí=here . 
+*JUL:	y la he ponido [*] .
+%mor:	coord|y=and det:art|el&FEM&SG=the co|he part|pone-PPART&MASC=put . 
+*JUL:	y la he ponido [*] .
+%mor:	coord|y=and det:art|el&FEM&SG=the co|he part|pone-PPART&MASC=put . 
+%com:	Julia canta
+*JUL:	puedo mover ?
+%mor:	v|pode-1S&PRES=can v|move-INF=move ? 
+*JUL:	eh (.) puedo mover ?
+%mor:	co|eh v|pode-1S&PRES=can v|move-INF=move ? 
+*INV:	eh ?
+%mor:	co|eh ? 
+*JUL:	el barco se puede mover ?
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|pode-3S&PRES=can 
+	v|move-INF=move ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	ves como se mueve ?
+%mor:	co|ves=see adv|como=like pro:per|se=itself v|move-3S&PRES=move ? 
+*JUL:	sí .
+%mor:	co|sí=yes . 
+*MAR:	<sí se mueve> [>] .
+%mor:	co|sí=yes pro:per|se=itself v|move-3S&PRES=move . 
+*JUL:	<oye (.) el barco se [//] sabe andar> [<] .
+%mor:	co|oye=listen det:art|el&MASC&SG=the n|barco-MASC=boat v|sabe-3S&PRES=know 
+	v|anda-INF=walk . 
+*JUL:	no .
+%mor:	adv|no=no . 
+%com:	María empuja el barco en una dirección y Julia en otra
+*JUL:	así que se va el barco .
+%mor:	adv|así=thus prep|que=than pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*INV:	está navegando ?
+%mor:	v|esta-3S&PRES=be v|navega-PROG=navigate ? 
+*JUL:	no [/] no .
+%mor:	adv|no=no . 
+*MAR:	oh (.) coscorrón !
+%mor:	co|oh=oh n|coscorrón&masc=bump_head ! 
+%com:	las niñas se dan con la cabeza
+*MAR:	nos hemos dado .
+%mor:	pro:per|nos=us v|habe-1P&PRES=have part|da-PPART&MASC=give . 
+*JUL:	el armario se ha serrado [*] .
+%mor:	det:art|el&MASC&SG=the n|armario&masc=clothes_press pro:per|se=itself 
+	co|ha part|serra-PPART&MASC=saw . 
+%com:	se refiere a la habitación del capitán y se ríen
+*JUL:	allá (.) tenemos que poner esto !
+%mor:	adv|allá=there v|tene-1P&PRES=have prep|que=than v|pone-INF=put det:dem|este-MASC=this 
+	! 
+*JUL:	como todos no caben .
+%mor:	adv|como=like det:indef|todo-MASC-PL=all adv|no=no v|cabe-3P&PRES=fit 
+	. 
+*MAR:	no caben .
+%mor:	adv|no=no v|cabe-3P&PRES=fit . 
+*JUL:	venga [/] venga (.) hay que quitar éstos .
+%mor:	co|venga=come_on v|habe-3S&PRES&SPEC=have prep|que=than v|quita-INF=remove 
+	pro:dem|éste-MASC-PL=this_one . 
+*JUL:	éstos tienen que ser .
+%mor:	pro:dem|éste-MASC-PL=this_one v|tene-3P&PRES=have prep|que=than n|ser&masc=being 
+	. 
+*JUL:	hay que quitar éstos .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|quita-INF=remove pro:dem|éste-MASC-PL=this_one 
+	. 
+*JUL:	oye éstos tienen que (.) sacarlos .
+%mor:	co|oye=listen pro:dem|éste-MASC-PL=this_one v|tene-3P&PRES=have prep|que=than 
+	v|saca-INF~pro:clit|OBJ&MASC&PL . 
+*MAR:	espera que voy .
+%mor:	v|espera-3S&PRES=wait prep|que=than v|i-1S&PRES=go . 
+*JUL:	están andando .
+%mor:	v|esta-3P&PRES=be v|anda-PROG=walk . 
+@End

@@ -1,0 +1,671 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;1.24|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	01-OCT-2001
+@Location:	Madrid
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	1
+@Time Start:	18:30
+*FAT:	&=q cómo dices ?
+*CHI:	hola , Javier .
+*FAT:	hola , Javier .
+*FAT:	&=q cada vez que encedemos la cámara ?
+*FAT:	&=q sí ?
+*FAT:	venga .
+*FAT:	vamos a jugar un ratito , anda .
+*FAT:	&=q qué estábamos haciendo ?
+*CHI:	u(n)a e(s)calera .
+*FAT:	&=q estábamos haciendo una escalera ?
+*CHI:	xxx .
+%act:	ha cogido dos muñecos con forma de dinosaurio
+*CHI:	Clara .
+*FAT:	&=q qué haces ?
+*CHI:	Clara [/] hace [*] Clara 0 [*] .
+%err:	hace = hago $MOR $SUB $NFL 3s/1s ; 0 = O $SYN $LOS
+*FAT:	&=q qué hace Clara ? [+ COR]
+*CHI:	0 [*] trabajando .
+%err:	0 = está $SYN $LOS $AUXE
+*FAT:	&=q está trabajando ? [+ COR]
+*FAT:	&=q pero quién es Clara ?
+*FAT:	&=q es una amiguita de la guarde ?
+*CHI:	sí .
+*FAT:	ah@i .
+*FAT:	< yo no la > [/] yo no la conozco .
+*FAT:	&=q sabes ?
+*CHI:	sí .
+*FAT:	yo no conozco a Clara .
+*CHI:	se come e(s)to .
+*FAT:	&=q se come eso Clara ?
+*CHI:	no [x 2] .
+*CHI:	mira .
+*CHI:	se come eso el (dino)saurio .
+*CHI:	mira .
+*CHI:	< la pata > [/] la pata 0 [*] el (dino)saurio .
+%err:	0 = de $SYN $LOS
+*CHI:	se 0 [*] come e(l) ot(r)o .
+%err:	0 = la $MOR $LOS $PREFIX
+*FAT:	&=q se come la pata del dinosaurio ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	de verdad que tienes unos dinosaurios muy raros .
+*CHI:	< se (l)a come > [/] se (l)a come (l)a pata el (dino)saurio .
+*FAT:	&=q sí ?
+*FAT:	&=q se come la pata ?
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	ese dinosaurio es muy: raro .
+*CHI:	muy raro . [+ IMI]
+*CHI:	se montó .
+*CHI:	se montó el s@x [/] .
+*CHI:	xxx Clara . [+ NON]
+*FAT:	&=q pero Clara es amiga tuya o qué ?
+*CHI:	sí .
+*FAT:	&=q de la guardería ?
+*FAT:	&=q y la has invitado a venir ?
+*CHI:	no me coge .
+*FAT:	&=q no te coge ?
+*CHI:	no .
+*FAT:	&=q pero echáis carreras ?
+*CHI:	sí .
+*FAT:	&=q y tú corres más que ella ?
+*CHI:	sí .
+*FAT:	&=q corres mucho más ?
+*CHI:	yo sí .
+*FAT:	&=q tú sí ?
+*CHI:	mira [x 2] .
+*CHI:	mira .
+%act:	colola los muñecos en el suelo , uno sobre el otro
+*FAT:	qué tos tienes .
+*FAT:	&=q estás malito ?
+*CHI:	no .
+*FAT:	mm@i .
+%act:	ya ha hecho una escalera enorme con las piezas de tipo Lego
+%com:	suena el teléfono y lo coge MOT en otra habitación
+*CHI:	sube .
+%act:	hace como si un dinosaurio subiera la escalera
+*FAT:	&=q sí ?
+%add:	MOT
+*FAT:	ya voy .
+%add:	MOT
+%act:	sale de la habiración y Juan se queda solo unos segundos
+*CHI:	tururu@o .
+*MOT:	ah@i .
+*MOT:	hala@i .
+*MOT:	&=q qué haces , Juan ?
+*MOT:	&=q qué estás haciendo ?
+%act:	se sienta en el suelo junto a Juan
+*CHI:	mira .
+*CHI:	voy a coger (l)a e(s)calera .
+*CHI:	ahora baja y ahora sube .
+%act:	recorre la escalera con un muñeco
+*CHI:	y baja .
+*CHI:	< y xxx > [/] y ahora xxx . [+ NON]
+%act:	se le cae la escalera de piezas y se rompe
+*MOT:	&=e ah@i !
+*MOT:	&=q < qué ha pasado > [/] qué ha pasado ?
+*MOT:	me+cachis .
+*CHI:	s(e) ha caído .
+*MOT:	se ha caído todo y ahora Mamá no sabe arreglar lo .
+*CHI:	tie(n)e que ser Papá .
+*CHI:	Papá .
+*MOT:	&=q Papá tiene que ser ?
+*CHI:	Papá tiene que ser . [+ IMI]
+*MOT:	&=q y qué hacemos ahora ?
+*MOT:	&=q qué hacemos ahora ?
+*CHI:	coger la escalera .
+%err:	$VALIDROOT
+*MOT:	&=q y qué hacemos con la escalera después de coger la ?
+*CHI:	ahora coge el dino(saurio) la escalera .
+*MOT:	&=q y tú qué haces ?
+*CHI:	ahora coge el dino(saurio) la escalera .
+*CHI:	< ahora coge > [//] &=e Papá !
+*CHI:	se ha caído .
+*MOT:	espera [x 2] que viene Papá .
+*MOT:	espera .
+*MOT:	ven .
+*MOT:	que viene Papá ahora .
+*CHI:	0 .
+%act:	viene a la cámara
+*MOT:	no [x 3] .
+*MOT:	eso no se toca .
+*MOT:	&=e Juan !
+*MOT:	&=e < no se toca eso > [/] no se toca eso , cariño !
+*MOT:	&=q vale ?
+*MOT:	no se toca .
+*MOT:	vete allí .
+*CHI:	&=e no [x 3] , Mamá !
+*MOT:	venga , vamos +//.
+*CHI:	e(s) mi foto .
+*MOT:	&=q es tu foto ?
+*CHI:	e(s) mi foto .
+*MOT:	es tu foto , sí .
+*MOT:	pero ya vamos a ver la desde allí .
+*MOT:	&=q vale ?
+*MOT:	es que cuando venga Papá nos la pone .
+*MOT:	&=q vale ?
+*MOT:	que Mamá no sabe .
+*MOT:	venga .
+*MOT:	vamos a seguir jugando un poquito .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	cuénta me qué es lo que estabas haciendo .
+*MOT:	&=q qué haces con los camiones ?
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	1
+@Time Start:	18:30
+*CHI:	se ha caído .
+*CHI:	&=q po(r) qué se ha caído ?
+*MOT:	&=q por qué se ha caído ?
+*MOT:	&=q por qué se ha caído ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q por qué se ha caído , Juan ?
+*CHI:	ahora se pone en una [*] arena .
+%err:	una = la $SYN $SUB
+%act:	coloca las piezas unas apoyadas en otras
+*MOT:	&=q qué haces ahora ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q qué estás haciendo ahora ?
+*MOT:	&=q qué haces ahora ?
+*MOT:	&=q eh@i ?
+*CHI:	0 .
+%act:	sigue colocando piezas en silencio mientras MOT le observa
+*MOT:	Juan .
+*MOT:	cuénta me qué estás haciendo .
+*MOT:	&=q qué haces , cariño ?
+*MOT:	&=q qué es eso ?
+*MOT:	&=q qué es +//?
+*CHI:	una to(rr)ecita pequeña .
+*MOT:	&=q una torrecita pequeña ? [+ ADS]
+*MOT:	&=q y para qué la quieres ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q para qué la quieres ?
+*MOT:	pero ya no va a ser tan pequeña .
+*MOT:	&=q no ?
+*MOT:	&=q ahora cómo va siendo ?
+*MOT:	Juan .
+*CHI:	un lobo .
+*MOT:	&=q un lobo es eso ?
+%par:	sorprendida
+*CHI:	sí .
+*MOT:	&=q y eso ?
+*MOT:	&=q por qué es un lobo ?
+*MOT:	&=q eh@i ?
+*MOT:	&=q por qué es un lobo ?
+*MOT:	Juan .
+*MOT:	&=q y eso qué es ?
+*CHI:	mira .
+*CHI:	un [*] lobos .
+%err:	un = unos $MOR $LOS $AGA
+*FAT:	ya está .
+%act:	entra en la habitación
+*CHI:	e(s) [*] lobos .
+%err:	es = son $MOR $SUB $NFL 3s/3p
+*MOT:	son lobos . [+ COR]
+*CHI:	son lobos perezosos .
+*MOT:	&=q lobos perezosos son esos ?
+*CHI:	xxx .
+*MOT:	pero bueno .
+%act:	se levanta y sale
+*CHI:	un [*] lobos .
+%err:	un = unos $MOR $LOS $AGA
+*FAT:	&=q has hecho dos lobos ? [+ COR]
+*FAT:	&=q o es uno ?
+*FAT:	&=q cuántos son ?
+*CHI:	dos .
+*FAT:	&=q son dos ?
+*CHI:	son (a)migos .
+*FAT:	&=q son amigos ?
+*CHI:	sí .
+*FAT:	&=q y qué hacen ?
+*CHI:	mucho .
+*FAT:	&=q qué hacen ?
+*CHI:	se quiere [*] mucho .
+%err:	quiere = quieren $MOR $LOS $NFL 3s/3p
+*FAT:	&=q se quieren mucho los amigos ? [+ COR]
+%par:	riéndose
+*FAT:	pero bueno , Juan Apellido .
+*CHI:	eso no (l)o tienes .
+*FAT:	&=q se quieren mucho los amigos , Juan ?
+*FAT:	&=q sí ?
+*FAT:	&=q sí ?
+*FAT:	&=q sí se quieren mucho ?
+*CHI:	sí .
+*FAT:	jolines .
+*FAT:	&=e qué bonito !
+*CHI:	ahí se ha caído .
+*FAT:	&=q se ha caído ?
+*FAT:	&=e pero qué bonito que se quieren mucho los amigos !
+%par:	como de broma
+*FAT:	&=q se quieren mucho los amigos , Juan ?
+*CHI:	0 .
+%act:	sigue colocando piezas en silencio
+*FAT:	mira , Juan .
+*FAT:	un lobo+cordero .
+*CHI:	un lobo+co(r)dero . [+ IMI]
+*FAT:	porque no se sabe muy bien si es un lobo o si es un cordero .
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	1
+@Time Start:	18:30
+*CHI:	mira .
+*FAT:	&=q qué es ?
+*CHI:	e(s)tá encima del cordero .
+*FAT:	&=q está encima del cordero ?
+*CHI:	sí .
+*FAT:	&=q quién es ?
+*CHI:	el lobo .
+*FAT:	&=q el lobo está encima del cordero ?
+*FAT:	&=q son amigos ?
+*CHI:	mira .
+*CHI:	dos .
+%act:	ha colocado dos piezas juntas
+*FAT:	&=q dos ?
+*FAT:	&=q dos lobos encima del cordero ?
+*CHI:	sí .
+*FAT:	&=q son amigos ?
+*CHI:	0 .
+%act:	se levanta y aparta algunas piezas
+*CHI:	voy a poner un [x 3] muñeco .
+*FAT:	&=q un muñeco ?
+*FAT:	&=q son amigos los lobos y el cordero ?
+*FAT:	&=q son amigos ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	&=q y el cordero a dónde les lleva ?
+*CHI:	a Guada(la)jara .
+*FAT:	&=q a Guadalajara les lleva ?
+%par:	sorprendido
+*FAT:	pero bueno .
+*FAT:	de verdad .
+%par:	riéndose
+*CHI:	0 .
+%act:	coloca piezas en silencio
+*CHI:	0 .
+%act:	sigue colocando piezas en silencio de espladas a la cámara
+*FAT:	&=q y eso qué es ?
+*CHI:	e(s)tá xxx . [+ NON]
+*FAT:	&=q cómo ?
+*FAT:	oye .
+*FAT:	&=q por qué no se lo enseñas a Javier ?
+*FAT:	que no lo ha visto .
+*FAT:	&=q qué es eso ?
+*CHI:	< un do@x > [//] un camello .
+*FAT:	&=q un camello ?
+*CHI:	sí .
+*CHI:	parece un camello , Javier .
+%add:	cámara
+*FAT:	&=q parece un camello ?
+*FAT:	uy@i qué bonito por+favor .
+*CHI:	0 .
+%act:	se le caen todas las piezas que había colocado
+*FAT:	oh@i [x 2] .
+*CHI:	se ha caído e(l) camello .
+*FAT:	se ha caído el camello . [+ ADS]
+*FAT:	mira .
+*FAT:	ponte así que yo lo vea .
+*FAT:	que si no yo no lo veo .
+*FAT:	aquí .
+%act:	ha movido a Juan
+*CHI:	oy@i .
+*CHI:	se ha caído .
+*FAT:	otra vez .
+*CHI:	ot(r)a vez . [+ IMI]
+*FAT:	de verdad que (.) vaya [x 2] .
+*CHI:	vaya [x 2] . [+ IMI]
+*FAT:	no sé que dice tu madre pero algo ha dicho por ahí .
+*FAT:	mira un pájaro que es amigo del camello .
+*FAT:	como Pluma y Tapón .
+*CHI:	0 .
+%act:	coloca otro grupo de piezas
+*FAT:	&=q qué es ?
+*FAT:	&=q qué es , Juan ?
+*FAT:	es que le falta la pata yo creo .
+*FAT:	&=q eh@i ?
+*FAT:	por eso no se sujeta .
+*FAT:	mira .
+*FAT:	qué bien se sujeta el cordero (.) que tiene cuatro patas .
+*FAT:	mira [x 3] .
+%act:	le muestra un conjunto de piezas ya montadas
+*FAT:	mira el cordero .
+*FAT:	tiene cuatro .
+*FAT:	mira .
+*FAT:	una dos .
+*FAT:	mira [x 2] , Juan .
+*FAT:	tres y cuatro .
+*FAT:	por eso se sujeta tan bién .
+*FAT:	que no se cae .
+*FAT:	no se cae .
+*FAT:	no .
+*CHI:	se cae . [+ IMI]
+*FAT:	no .
+*FAT:	el cordero no .
+*FAT:	mira .
+*FAT:	y puede llevar encima al lobo .
+*FAT:	no se cae el cordero .
+*FAT:	y a la serpiente .
+*FAT:	porque mira .
+*FAT:	te he hecho una serpiente aquí .
+*FAT:	&=q también pongo a la serpiente ?
+*FAT:	&=q sí ?
+*CHI:	uy@i .
+*CHI:	se ha caído el lobo y la se(r)piente .
+*FAT:	se han caído todos .
+*FAT:	sí .
+*FAT:	toma .
+*FAT:	la serpiente .
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	1
+@Time Start:	18:30
+*FAT:	&=q y el lobo ?
+*FAT:	toma .
+*FAT:	el lobo .
+*FAT:	la serpiente .
+*FAT:	oy@i .
+*CHI:	0 .
+%act:	está intentando encajar unas piezas con otras
+*FAT:	&=q < qué haces ahora > [/] qué haces ahora , Juan ?
+*FAT:	&=q qué haces ?
+*FAT:	&=q qué haces , Juan ?
+*CHI:	0 [*] quitando el lobo .
+%err:	0 = estoy $SYN $LOS $AUXE
+*FAT:	&=q estás quitando el lobo ? [+ COR]
+*FAT:	&=q y qué haces ahora entonces (.) en vez del lobo ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué haces en vez del lobo ?
+*FAT:	ay@i .
+*FAT:	&=q Juan no me lo quiere decir ?
+*CHI:	sí .
+*FAT:	&=q qué haces en vez del lobo ?
+*FAT:	cuénta melo .
+*CHI:	se ha caído e(l) lobo .
+*FAT:	&=q es otro lobo eso ?
+*FAT:	mira .
+*FAT:	y esto es la cabeza de la serpiente .
+*FAT:	anda .
+*FAT:	si parece un dragón .
+*FAT:	parece un dragón .
+*FAT:	mira .
+*FAT:	y estas serán las alas (.) del dragón .
+*FAT:	que se lo ponemos así .
+*FAT:	las alas del dragón .
+*FAT:	&=q qué te parece ?
+*FAT:	&=e hala@i !
+*FAT:	&=q te gusta ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	< pero bueno > [/] pero bueno .
+*FAT:	pero si Juan ha hecho un dragón .
+*CHI:	e(l) [//] (l)a cola .
+*FAT:	la cola .
+*CHI:	la [*] orejas .
+%err:	la = las $MOR $LOS $AGA
+*FAT:	las alas .
+*CHI:	las alas . [+ IMI]
+*FAT:	están aquí .
+*CHI:	la cabeza .
+*FAT:	mira el cuello que tiene .
+*FAT:	el cuerpo .
+*FAT:	mira .
+*FAT:	y si lo ponemos aquí encima aprovechando las patas del cordero (.) va a parecer un dragón con patas .
+*FAT:	fíjate .
+*FAT:	ah@i .
+*FAT:	pero qué bonito .
+*CHI:	fefante [: elefante] .
+*CHI:	echa fuego .
+*FAT:	&=q echa fuego ? [+ ADS]
+*CHI:	sí .
+*FAT:	&=q por dónde echa fuego ?
+*CHI:	por [/] por la boca .
+*FAT:	&=q cómo hace ?
+*FAT:	&=q a ver ?
+*CHI:	ff@o .
+*FAT:	el dragón echa fuego por la boca ?
+*FAT:	es una dragón como el del cuento de ayer ?
+*FAT:	&=q rojo grande y bueno ?
+*FAT:	&=q sí ?
+*CHI:	sí .
+*CHI:	el amarillo es xxx . [+ NON]
+*FAT:	también es amarillo .
+*FAT:	es verdad .
+*FAT:	&=q de qué más colores es ?
+*CHI:	azúl [x 2] .
+*FAT:	&=q y qué más ?
+*CHI:	el verde .
+*FAT:	uh@o [x 4] .
+*FAT:	con cuidado que se me cae .
+*FAT:	&=q otro qué ?
+*CHI:	otro [x 3] tagó [: dragón] .
+*FAT:	pues haz lo tú .
+*FAT:	venga .
+*FAT:	ya tienes esta aquí para luego .
+*FAT:	ahora puedes hacer otro más pequeño .
+*MOT:	venga .
+*FAT:	mira .
+*FAT:	< esto puede ser@x > [//] esto por la cola .
+*CHI:	oy@i .
+*FAT:	esto por la cola .
+*FAT:	fíjate qué bueno está .
+*FAT:	la cola del dragón .
+*CHI:	mira un dragón .
+*FAT:	pero qué bonito .
+*FAT:	&=q le ponemos alas ?
+*FAT:	mira .
+*FAT:	aquí (.) y a:quí .
+*FAT:	y este puede volar yo creo porque como es más pequeño .
+*FAT:	&=q a ver ?
+*CHI:	< este vol@x > [/] este vola [*] .
+%err:	vola = vuela $MOR $SUB $REG
+*FAT:	&=q y echa fuego por la boca ?
+*CHI:	sí .
+*CHI:	de pie .
+*CHI:	con el pie .
+*CHI:	con el pie .
+*FAT:	con el pie . [+ ADS]
+*CHI:	echa fuego . [+ IMI]
+*FAT:	&=q sí ?
+*CHI:	mira .
+*CHI:	dos dragones .
+*FAT:	dos dragones , sí .
+*CHI:	uno grande y otro chiquitito .
+*FAT:	&=q uno grande y otro chiquitito ?
+%par:	contento
+%act:	besa a Juan
+*FAT:	&=q y quién los ha hecho ?
+*CHI:	Papá .
+*FAT:	&=q y quién más ?
+*FAT:	los hemos hecho juntos .
+*CHI:	Juan .
+*FAT:	claro .
+*FAT:	los dos juntos .
+*CHI:	(l)e falta eso .
+*FAT:	&=q le falta la cola ?
+*CHI:	sí .
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	1
+@Time Start:	18:30
+*FAT:	se la ponemos mira aquí .
+*FAT:	ya verás .
+*FAT:	lo que vamos a hacer es poner le esta pieza que tiene ojos aquí arriba en la cabeza .
+*FAT:	para que la cabeza tenga ojos .
+*FAT:	ah@i .
+*FAT:	pero qué buena idea ha sido .
+*FAT:	mira .
+*CHI:	oy@i .
+*CHI:	me caigo .
+*FAT:	&=q te caes ?
+*CHI:	sí .
+*FAT:	&=q estás poniendo un cuernecillo en la espalda al dragón ?
+*CHI:	xxx escalera . [+ NON]
+*CHI:	tiene una [*] escaleras .
+%err:	una = unas $MOR $LOS $AGA
+*FAT:	&=q tiene escaleras ?
+*CHI:	sí .
+*CHI:	tiene patas .
+*CHI:	si parece un dragón .
+*FAT:	cómo que lo parece .
+*FAT:	es que es un dragón .
+*FAT:	parece un dragón chino .
+*CHI:	un dragón chino . [+ IMI]
+@Situation:	2
+*FAT:	los dragones chinos son muy buenos .
+*CHI:	sí .
+*FAT:	&=q tienes +//?
+*CHI:	no .
+*CHI:	tonterías no .
+*FAT:	no .
+*CHI:	&=e tonterías no !
+*FAT:	tonterías no . [+ ADS]
+*FAT:	&=q quieres que veamos un dragón en un libro ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	0 .
+%act:	se levanta dle suelo y se va hacia la pared
+*FAT:	&=q sí ?
+*CHI:	esos .
+%act:	señala
+*CHI:	quiero un dragón en un libro .
+*FAT:	vamos a ver un dragón en un libro .
+*CHI:	&=e un dragón !
+%par:	contento
+*FAT:	a ver .
+%act:	coge un libro y se sienta en el suelo
+*CHI:	un dragón y un libro .
+*FAT:	siéntate .
+*FAT:	a ver si encontramos los dragones .
+*CHI:	mira .
+*CHI:	< mira un > [/] mira un simio .
+*FAT:	a ver .
+*CHI:	&=e mira , eh@i !
+%act:	señala en el libro
+*CHI:	&=e eh@i !
+%par:	muy excitado
+*CHI:	&=e mira [x 2] !
+*FAT:	un pirata .
+*CHI:	&=e un pirata ! [+ IMI]
+*FAT:	el Pirata Garrapata con su pata de palo .
+*FAT:	a ver .
+*FAT:	vamos a buscar .
+*FAT:	yo creo que estará por las cosas del subsuelo .
+*FAT:	espérate a ver .
+*FAT:	porque no se sabe muy bien .
+*FAT:	es que esta es una enciclopedia muy rara .
+*FAT:	no .
+*FAT:	aquí no está .
+*FAT:	xxx del aire . [+ NON]
+*FAT:	ciento ochenta y nueve .
+*CHI:	&=e aquí no e(s)tán !
+*CHI:	&=e (a)quí no están (l)os dragones !
+*FAT:	espérate a ver .
+*FAT:	si no sé un sitio donde hay seguro .
+*CHI:	pero mira .
+*FAT:	ciento ochenta y siete .
+*FAT:	a ver .
+*FAT:	a@l b@l c@l .
+*FAT:	a ver .
+*FAT:	d@l e@l .
+*CHI:	&=e po(r) aquí no e(s)tán !
+*FAT:	&=e míralos !
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	la cabeza .
+*FAT:	el cuerpo .
+*FAT:	y una cola muy larga .
+*FAT:	este no tiene alas .
+*CHI:	xxx .
+*FAT:	pero ese sí tiene alas .
+*FAT:	mira .
+*FAT:	tiene escamas .
+*FAT:	mira .
+*FAT:	tiene alas .
+*FAT:	&=q lo ves ?
+*FAT:	&=q ves qué cola tan larga tiene ?
+*CHI:	sí .
+*CHI:	&=e tonto !
+*FAT:	estos son un poco feos &=q eh@i ?
+*FAT:	este es muy simpático .
+*FAT:	y mira .
+*FAT:	< este tiene > [//] le falta la nariz .
+*FAT:	tiene unos dientes ahí muy feos .
+*FAT:	como si fuera un ratón .
+*CHI:	tonto .
+*FAT:	&=q no te gusta ?
+*CHI:	no .
+*FAT:	vaya , hombre .
+%act:	cierra el libro
+*FAT:	&=q busco otro de dragón bueno ?
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	a ver si encontramos un dragón bueno .
+%act:	se levanta y se va a la estantería
+*CHI:	era tonto .
+*FAT:	&=q era tonto ?
+*CHI:	sí .
+*FAT:	< pero hombre > [/] pero hombre .
+*FAT:	vamos a ver si encontramos un ratón bueno , hombre .
+*CHI:	sí .
+*CHI:	feo .
+*FAT:	mira [x 2] lo que he encontrado .
+%act:	ha cogido otro libro y lo abre en el suelo con JUAN
+*FAT:	un dragón .
+*FAT:	mira .
+*FAT:	un dragón bueno .
+*CHI:	eso .
+*FAT:	mira el dragón bueno .
+*FAT:	&=q ves ?
+*FAT:	es rojo grande y bueno .
+*FAT:	y le invita a la niña a que suba a jugar con él .
+*FAT:	y mira qué bien se lo pasan .
+*FAT:	&=q ves ?
+*FAT:	la niña se lo está pasando muy bien .
+*FAT:	y el dragón también .
+*CHI:	no llora .
+*FAT:	no .
+*FAT:	se están riendo .
+*FAT:	mira .
+*FAT:	y ahora cuando se va .
+*FAT:	se despide de la niña .
+*FAT:	y le dice “adiós , vuelve esta tarde por aquí” .
+*FAT:	+" lo he pasado muy bien contigo .
+*FAT:	y ella le dice “adiós , dragón” .
+*FAT:	+" vuelve otra tarde por aquí .
+*FAT:	+" lo he pasado tan bien contigo .
+*FAT:	&=q te gusta ?
+*CHI:	sí .
+*FAT:	a que este dragón es bonito .
+@Situation:	1 Fat y Juan juegan con las piezas de tipo Lego y los muñecos en la habitación de Juan ; (2) FAT y Juan ven libros en la habitación de Juan
+@Situation:	2
+@Time Start:	18:30
+*FAT:	&=q sí ?
+*CHI:	< e@x es es > [/] es azul y rojo .
+*FAT:	es rojo más bien solo &=q eh@i ?
+*CHI:	está sucio .
+*FAT:	tiene las uñas verdes .
+*FAT:	porque ha estado jugando con plastilina verde .
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	(l)o coge el señor .
+*FAT:	claro .
+*FAT:	pero este es el cuento .
+*FAT:	que tú lo sabes .
+*FAT:	que cuando empiece a contar el cuento .
+*CHI:	xxx .
+*FAT:	no .
+*FAT:	esta noche lo vemos .
+*FAT:	&=q vale ?
+*FAT:	oye .
+*FAT:	&=q quieres que hagamos un pis ?
+*CHI:	no .
+*FAT:	venga .
+*FAT:	vamos a hacer un pis .
+*FAT:	levanta .
+*CHI:	&=e un dragón !
+*FAT:	sí .
+*CHI:	(l)e coge las patas 0 [*] (l)as orejas .
+%err:	0 = y $SYN $LOS
+*CHI:	quiero ver 0 [*] Juan .
+%err:	0 = a $SYN $LOS
+@End

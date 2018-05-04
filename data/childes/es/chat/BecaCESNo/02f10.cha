@@ -1,0 +1,317 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	HEL Helena Target_Child , ARA Aranzazu Investigator
+@ID:	spa|becasesno|HEL|2;10.23||||Target_Child|||
+@ID:	spa|becasesno|ARA|||||Investigator|||
+@Date:	28-OCT-1994
+@Location:	Spain
+@Situation:	la conversación gira en torno a su cumpleaños
+*ARA:	qué ya pronto es tu cumple , no ?
+*HEL:	<pedo ya> [*] voy a fiesta [*] .
+%err:	pedo ya = pero yo $PHO ; voy a fiesta = voy a hacer una fiesta $SYN ;
+*ARA:	vas a hacer una fiesta ?
+*HEL:	(...) un año .
+*ARA:	cuántos años vas a hacer ?
+*HEL:	dos (...) etos [*] .
+%err:	etos = estos $PHO ;
+%spa:	$RES
+%act:	enseña tres dedos .
+*ARA:	cuántos son esos (.) no lo sabes ?
+*HEL:	dos .
+%spa:	$RES
+*ARA:	tres .
+*HEL:	ties [*] .
+%spa:	$IMIT
+%err:	ties = tres $PHO ;
+*ARA:	vas a hacer tres (.) bueno , y esto qué es ?
+@New Episode
+@Situation:	leyendo cuentos
+*HEL:	un niño .
+%spa:	$RES
+*ARA:	un niño ?
+%spa:	$REF
+*ARA:	y tu sabes este cuento ?
+*HEL:	0 .
+%act:	asiente con la cabeza
+*ARA:	me lo cuentas ?
+*ARA:	a_ver , qué hace ?
+*HEL:	etaba [*] cogiendo un pez para comer .
+%spa:	$RES
+%err:	etaba = estaba $PHO ;
+*ARA:	un pez ?
+*HEL:	0 .
+%act:	asiente
+*ARA:	y qué más ?
+*HEL:	nada más .
+%spa:	$RES
+*ARA:	nada más ?
+%spa:	$REF
+*ARA:	y esto qué es ?
+*HEL:	un pez .
+%spa:	$RES
+*ARA:	un pez (..) y ahora ?
+*HEL:	tán [*] los niños .
+%spa:	$RES
+%err:	tán = están $MOR ;
+*ARA:	y qué hacen ?
+%spa:	$RES
+*HEL:	pués [//] pes [*] que <a minimio> [*] que no entiaba [*] ete [*] niño .
+%err:	pes = pues $PHO ; a minimio = al principio $PHO ; entiaba = entraba $MOR ; ete = este $PHO ;
+*ARA:	qué ?
+*HEL:	que no entiaba [*] ete [*] niño aquí .
+%spa:	$RES
+%err:	entiaba = entraba $MOR ; ete = este $PHO ;
+*ARA:	que no entraba ?
+*HEL:	si (..) <mia otio> [*] indio .
+%err:	mia otio = mira otro $PHO ;
+*ARA:	otro indio , este es el papá ?
+*HEL:	no (.) mia [*] aquí tá [*] <u pes> [*] .
+%err:	mia = mira $PHO ; tá = está $PHO ; u pes = un pez $PHO ;
+*ARA:	un pez , se le van a comer ?
+*HEL:	0 .
+%act:	asiente con la cabeza
+*HEL:	aoda [*] (.) aquí tá [*] en la mano (.) y lo cogiro [*] con la mano .
+%err:	aoda = ahora $PHO ; tá = está $PHO ; cogiro = cogió $MOR ;
+*ARA:	y aquí ?
+*HEL:	<tá mumiendo> [*] el niño .
+%err:	tá mumiendo = está durmiendo $PHO ;
+*ARA:	y cómo tiene los ojos ?
+*HEL:	pes [*] momiros [*] .
+%spa:	$RES
+%err:	pes = pues $PHO ; momiros = dormidos $MOR ;
+*ARA:	dormidos .
+%spa:	$REF
+*HEL:	taba [*] y aquí quiere cogel [*] una [//] un palo .
+%err:	taba = estaba $PHO ; cogel = coger $PHO ;
+*ARA:	un palo ?
+%spa:	$REF
+*ARA:	y esto qué es ?
+*HEL:	una picúa [*] .
+%spa:	$RES
+%err:	picúa = tortuga $PHO ;
+*ARA:	una ?
+*HEL:	picúa [*] .
+%spa:	$RES
+%err:	picúa = tortuga $PHO ;
+*ARA:	picúa ?
+*HEL:	si .
+%spa:	$RES
+*ARA:	una rana .
+*HEL:	una riana [*] .
+%spa:	$IMIT
+%err:	riana = rana $PHO ;
+*ARA:	y aquí , qué es esto ?
+*HEL:	un chol [*] .
+%spa:	$RES
+%err:	chol = sol $PHO ;
+*ARA:	un sol .
+%spa:	$REF
+*ARA:	este [/] este cuento es un rollo .
+*HEL:	no .
+*ARA:	no ?
+*ARA:	bueno , y qué hace ?
+*HEL:	que le ha tiraro [*] <con el> [/] con en [*] palo ete [*] .
+%spa:	$RES
+%err:	tiraro = tirado $PHO ; en = el $PHO ; ete = este $PHO ;
+*ARA:	con el palo ?
+*HEL:	0 .
+%act:	asiente
+%spa:	$RES
+*HEL:	econches quedía [*] que para cá [*] a su casa .
+%err:	econches quedía = entonces quería $PHO ; cá = acá $PHO ;
+*ARA:	a su casa ?
+*HEL:	0 .
+%act:	asiente
+*HEL:	y aquí coge elto [*] para cazal [*] el pez .
+%err:	elto = esto $PHO ; cazal = cazar $PHO ;
+*ARA:	para cazar el pez .
+%spa:	$REF
+*ARA:	y qué es esto ?
+*HEL:	<pes triapos> [*] .
+%spa:	$RES
+%err:	pes triapos = pues trapos $PHO ;
+*ARA:	trapos (..) haber este (.) cuéntame este [/] este , de quién es ?
+*ARA:	este libro de quién es ?
+*HEL:	<pes Balú> [*] .
+%err:	pes Balú = pues Balú $PHO ;
+*ARA:	Baloo .
+*HEL:	aquí (es)tá Mou(g)li pidida [: perdida] e (.) .
+*HEL:	a [*] lago .
+%err:	a = el $LEX ;
+*ARA:	está qué ?
+*HEL:	a la [*] [/] a la selva .
+%err:	a la = en la $LEX ;
+%spa:	$RES
+*ARA:	está perdido ?
+%com:	asiente con la cabeza
+*HEL:	por [/] porque no le bucaban [*] a eta [*] hora a Mouli [*] .
+%spa:	$RES
+%err:	bucaban = buscaban $PHO ; eta = esta $PHO ; Mouli = Mowgli $PHO ;
+*ARA:	no le buscaban ?
+*HEL:	porque guiían [*] que no (...) se ha periro [*] sola [*] .
+%spa:	$RES
+%err:	guiían = creían $PHO; periro = perdido $PHO ; sola = solo $MOR ;
+*ARA:	se ha perdido sola o solo ?
+*ARA:	porque es un niño .
+*HEL:	es un niño casorro [*] .
+%err:	casorro = cachorro $PHO ;
+*ARA:	un niño ?
+*HEL:	casorro [*] .
+%spa:	$RES
+%err:	casorro = cachorro $PHO ;
+*ARA:	y esto qué es ?
+*HEL:	un niño que anda así .
+%spa:	$RES
+*ARA:	un niño no (.) es un pantera , no ?
+*HEL:	una pa [/] una pantera (..) una pantera no sitía [*] .
+%err:	sitía = existía $PHO ;
+*ARA:	no existía ?
+*HEL:	0 .
+%act:	niega con la cabeza
+*HEL:	tán [*] aquí su bebé .
+%err:	tán = están $PHO ;
+*ARA:	es un bebe (..) oye , y qué quieres que te regalemos para tu cumpleaños ?
+*HEL:	una pelúcula [*] .
+%spa:	$RES
+%err:	pelúcula = película $PHO ;
+*ARA:	una película , de qué ?
+*HEL:	de Mouli [*] .
+%spa:	$RES
+%err:	Mouli = Mowgly $PHO ;
+*ARA:	otra ?
+*HEL:	porque [/] (..) y porque la otia [*] me la lelalaba [*] mi [/] mi tata .
+%err:	otia = otra $PHO ; lelalaba = regalaba $PHO ;
+*ARA:	y ahora quieres otra ?
+*HEL:	si .
+%spa:	$RES
+*ARA:	si , y qué más quieres que te regalemos ?
+*HEL:	una muñeca que quiene [*] patines .
+%spa:	$RES
+%err:	quiene = tiene $PHO ;
+*ARA:	a si ?
+*ARA:	y qué más ?
+*ARA:	sólo eso ?
+*HEL:	si .
+%spa:	$RES
+*ARA:	nada más ?
+*HEL:	y uno [*] patines .
+%spa:	$RES
+%err:	uno = unos $MOR ;
+*ARA:	para tí ?
+*HEL:	0 .
+%act:	asiente con la cabeza
+*ARA:	oye (..) y qué has desayunado hoy ?
+*ARA:	cuéntame .
+*HEL:	totaritas [*] (..) y letie [*] .
+%spa:	$RES
+%err:	totaritas = tostaditas $PHO ; letie = leche $PHO ;
+*ARA:	con leche , y muchas ?
+*HEL:	no (.) poque [*] no había .
+%spa:	$RES
+%err:	poque = porque $PHO ;
+*ARA:	no había más ?
+*HEL:	porque Vitor [*] se ha <comao muechas tostaritas> [*] y no había más .
+%err:	Vitor = Victor $PHO ; comao muechas tostaritas = tomado muchas tostaditas $PHO ;
+*ARA:	ah (..) se las ha comido Victor ?
+*ARA:	a_ver (.) ahora me tienes que contar <la cin> [//] la película de la Bella y la Bestia .
+*HEL:	vale .
+%spa:	$RES
+*ARA:	venga (.) cuéntamela .
+*HEL:	ah (...) cuado [*] (...) empiencie [*] .
+%err:	cuado = cuando $PHO ; empiencie = empiece $PHO ;
+*ARA:	aber .
+*HEL:	<cuando empiece> [>] .
+*ARA:	<cuando empiece> [<] , el qué ?
+*HEL:	<poque [*] ya no> [/] poque [*] ya no (..) canta .
+%err:	poque = porque $PHO ;
+*ARA:	quién ?
+*ARA:	la radio ?
+*ARA:	no canta ?
+*ARA:	es que está estropeada (..) bueno cuéntame , la Bella es mala ?
+*HEL:	no .
+%spa:	$RES
+*ARA:	no ?
+*HEL:	elsque [*] es la <podie betia Gatón e mu> [*] malo .
+%err:	elsque = es que $PHO ; podie betia Gatón e mu = pobre bestia Gastón es muy $PHO ;
+*ARA:	quién es malo ?
+*HEL:	Gatón [*] .
+%spa:	$RES
+%err:	Gatón = Gastón $PHO ;
+*ARA:	Gastón ?
+*ARA:	y , la Bella es mala ?
+*HEL:	no .
+%spa:	$RES
+*ARA:	y es guapa o es fea ?
+*HEL:	ems [*] guapa .
+%err:	ems = es $PHO ;
+*ARA:	si ?
+*ARA:	y [/] (.) y quién es el malo ?
+*HEL:	pes Gatón [*] .
+%spa:	$RES
+%err:	pes Gatón = pues Gastón $PHO ;
+*ARA:	Gastón ?
+*ARA:	y la bestia no es mala ?
+*HEL:	no .
+%spa:	$RES
+*ARA:	al principio si .
+*HEL:	qué ?
+*ARA:	al principio si .
+*HEL:	pero [/] pero es mu [*] malo (.) pero al pinpipio [*] es un poco .
+%err:	mu = muy $PHO ; pinpipio = principio $PHO ;
+*ARA:	luego (.) ya es un príncipe , no ?
+*HEL:	qué ?
+*ARA:	luego se hace un príncipe .
+*HEL:	no [/] (..) no hay un pinpie [*] (.) pero el pinpie de [/] de la cinicienda [*] .
+%err:	pinpie = príncipe $PHO ; cinicienda = cenicienta $PHO ;
+*ARA:	ah (.) es de la cenicienta ?
+*HEL:	te lo <caigo cinicienda> [*] (.) temos [*] un cuento de la cinicienda [*] .
+%err:	caigo cinicienda = traigo cenicienta $PHO ; temos = tenemos $PHO ; cinicienda = cenicienta $PHO ;
+*ARA:	tu tienes un cuento ?
+*HEL:	si , caigo [*] ?
+%err:	caigo = traigo $PHO ; caigo = traigo $PHO ;
+%spa:	$RES
+*ARA:	le traes ?
+*ARA:	bueno (.) traele (...) este , de quién es el cuento ?
+*HEL:	de mancanieves [*] (.) no (..) el de +//.
+%err:	mancanieves = blancanieves $PHO ;
+*ARA:	de la ce(nicienta) +//.
+*HEL:	++ cinicienda [*] .
+%err:	cinicienda = cenicienta $PHO ;
+*ARA:	ah (..) aber , me lo cuentas ?
+*HEL:	aquí tá [*] la biuja [*] .
+%err:	tá = está $PHO ; biuja = bruja $PHO ;
+*ARA:	y es buena ?
+*HEL:	no (.) es mala (..) cinicienda [*] (...) lo [*] riatones [*] .
+%err:	cinicienda = cenicienta $PHO ; lo = los $MOR ; riatones = ratones $PHO ;
+*ARA:	los ratones , y qué hace cenicienta ?
+*HEL:	cogiendo su vitiro [*] para hacelo [*] .
+%err:	vitiro = vestido $PHO ; hacelo = hacerlo $PHO ;
+*ARA:	para ?
+*HEL:	hacelo [*] (.) para ponelo [*] para bailar .
+%err:	hacelo = hacerlo $PHO ; ponelo = ponérselo $PHO ;
+*ARA:	para bailar ?
+*HEL:	0 .
+%act:	asiente con la cabeza
+*ARA:	y aquí ?
+*HEL:	<tá bimpiando> [*] .
+%spa:	$RES
+%err:	tá bimpiando = está limpiando $PHO ;
+*ARA:	el qué ?
+*HEL:	e [*] salón .
+%spa:	$RES
+%err:	e = el $PHO ;
+*ARA:	el salón (.) y estas señoras , quiénes son ?
+*HEL:	la [*] malas .
+%spa:	$RES
+%err:	la = las $MOR ;
+*ARA:	las malas , y son guapas ?
+*HEL:	si .
+%spa:	$RES
+*ARA:	las malas , son guapas ?
+*HEL:	(...) pero estos <diatones tán> [*] haciendo <coltal el vitiro pa> [*] que quede <mu monito> [*] .
+%err:	diatones tán = ratones están $PHO ; coltal el vitiro pa = cortar el vestido para $PHO ; mu monito= muy bonito $PHO ;
+*ARA:	ah !
+*HEL:	la biuja [*] mala y man [/] mancanieves [*] .
+%err:	biuja = bruja $PHO; mancanieves = blancanieves $PHO
+@End

@@ -1,0 +1,231 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ANA Ana Target_Child , EID Eider Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|ANA|3;1.09||||Target_Child|||
+@ID:	spa|fernaguado|EID|3;0.15||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	10-MAY-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ANA y EID juegan con el barco pirata
+*EID:	la casa .
+%mor:	det:art|el&FEM&SG=the n|casa&fem=house . 
+*ANA:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+%com:	el cofre
+*EID:	no se que es .
+%mor:	adv|no=no pro:per|se=itself prep|que=than v|se-3S&PRES=be . 
+*ANA:	lo pongo aquí .
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put adv|aquí=here . 
+%com:	en el barco
+*EID:	sí .
+%mor:	co|sí=yes . 
+*EID:	este pirata aquí .
+%mor:	det:dem|este=this n|pirata&masc=pirate adv|aquí=here . 
+*ANA:	<qué es esto> [/] qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*EID:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+%com:	una vela
+*ANA:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*ANA:	aquí está vale ?
+%mor:	adv|aquí=here v|esta-3S&PRES=be co|vale=okay ? 
+*ANA:	oh (.) que se cae !
+%mor:	co|oh=oh prep|que=than pro:per|se=itself v|cae-3S&PRES=fall ! 
+%com:	una red
+*ANA:	lo pongo aquí (.) así .
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put adv|aquí=here adv|así=thus 
+	. 
+%com:	una red en el mástil
+*ANA:	montón de cosas .
+%mor:	n|monte-AUG=hill prep|de=of n|cosa&fem-PL=thing . 
+%com:	abre la bodega
+*ANA:	y esto pequeñito [/] pequeñito [//] y esto pequeño ?
+%mor:	coord|y=and det:dem|este-MASC=this coord|y=and det:dem|este-MASC=this 
+	adj|pequeño-MASC=small ? 
+%com:	coge la barca
+*ANA:	es pequeñito .
+%mor:	v|se-3S&PRES=be adj|pequeño-DIM-MASC=small . 
+*ANA:	y está aquí <el barco> [/] el barco .
+%mor:	coord|y=and v|esta-3S&PRES=be adv|aquí=here det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*ANA:	la casa .
+%mor:	det:art|el&FEM&SG=the n|casa&fem=house . 
+*ANA:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+%com:	la bandera pirata
+*EID:	no se (.) a_ver .
+%mor:	adv|no=no pro:per|se=itself co|a_ver=see . 
+*ANA:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*ANA:	la pelotita .
+%mor:	det:art|el&FEM&SG=the n|pelota-DIM-FEM=ball . 
+*ANA:	voy a guardarla aquí en medio .
+%mor:	v|i-1S&PRES=go prep|a=to v|guarda-INF~pro:clit|OBJ&FEM adv|aquí=here 
+	prep|en=in adj|medio-MASC=half . 
+%com:	la pelota en el barco
+*EID:	ésta xxx Ana ?
+%mor:	pro:dem|éste-FEM=this_one n:prop|Ana ? 
+*ANA:	allí .
+%mor:	adv|allí=there . 
+%com:	se le escapa la pelota
+*ANA:	ahora .
+%mor:	adv|ahora=now . 
+*EID:	y éstos ?
+%mor:	coord|y=and pro:dem|éste-MASC-PL=this_one ? 
+*ANA:	éstos aquí .
+%mor:	pro:dem|éste-MASC-PL=this_one adv|aquí=here . 
+*EID:	Ana [/] Ana <las sillas> [//] dónde las sillas (.) Ana ?
+%mor:	n:prop|Ana pro:int|dónde=where det:art|el&FEM-PL=the n|silla&fem-PL=chair 
+	n:prop|Ana ? 
+*EID:	Ana que yo no llego .
+%mor:	n:prop|Ana prep|que=than pro:per|yo=I adv|no=no v|llega-1S&PRES=arrive 
+	. 
+%com:	ANA mueve el barco acercándoselo
+*ANA:	se van por aquí todos .
+%mor:	pro:per|se=itself v|i-3P&PRES=go prep|por=for adv|aquí=here det:indef|todo-MASC-PL=all 
+	. 
+%com:	juega con la barca
+*EID:	Ana [/] Ana la cafetera ?
+%mor:	n:prop|Ana det:art|el&FEM&SG=the n|cafetera&fem=coffee_percolator ? 
+*EID:	ponemos .
+%mor:	v|pone-1P&PRES=put . 
+*EID:	esto es la cafetera .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&FEM&SG=the n|cafetera&fem=coffee_percolator 
+	. 
+%com:	señala un mástil en el dibujo
+*ANA:	sí .
+%mor:	co|sí=yes . 
+*EID:	sí .
+%mor:	co|sí=yes . 
+%com:	pone un pirata encima del dibujo
+*ANA:	que no xxx .
+%mor:	prep|que=than adv|no=no . 
+*EID:	quieres que juguemos con esto ?
+%mor:	v|quere-2S&PRES=want prep|que=than v|juga-1P&SUB&PRES=play prep|con=with 
+	det:dem|este-MASC=this ? 
+*EID:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*ANA:	me dejas el pirata ese ?
+%mor:	pro:per|me=me v|deja-2S&PRES=leave det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	det:dem|ese=that ? 
+*EID:	pero [/] pero dónde está su silla [=! asintiendo] ?
+%mor:	conj|pero=but pro:int|dónde=where v|esta-3S&PRES=be det:pos|su&3S=his 
+	n|silla&fem=chair ? 
+%com:	busca en el camarote
+*ANA:	el otro ?
+%mor:	det:art|el&MASC&SG=the pro:indef|otro=other ? 
+*ANA:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+%com:	pone una red mientras EID coloca la puerta del camarote que se ha salido colgada del mástil
+*ANA:	<aquí no> [/] aquí no !
+%mor:	adv|aquí=here adv|no=no ! 
+%com:	quita la puerta y se la da a EID
+*EID:	sí y esto ?
+%mor:	adv|sí=yes coord|y=and det:dem|este-MASC=this ? 
+%com:	coge la barca
+*EID:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	canturrea algo
+*EID:	Ana [//] mira Ana [/] Ana [/] Ana [/] Ana .
+%mor:	co|mira=look n:prop|Ana . 
+%com:	cada una juega con una cosa y no se hablan aunque EID mira con frecuencia a ANA
+*EID:	esto va así .
+%mor:	det:dem|este-MASC=this v|i-3S&PRES=go adv|así=thus . 
+%com:	el cañón
+*INV:	qué será eso ?
+%mor:	pro:int|qué=what v|se-3S&FUT=be pro:dem|eso=that_one ? 
+*EID:	xxx .
+*INV:	es un cañón (.) mira .
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|cañón&masc=cannon co|mira=look 
+	. 
+*ANA:	a dónde va ?
+%mor:	prep|a=to pro:int|dónde=where v|i-3S&PRES=go ? 
+%com:	dispara la bala con el cañón
+*ANA:	ay (.) <ya sale> [/] ya sale .
+%mor:	co|ay=ay adv|ya=already v|sali-3S&PRES=leave . 
+*ANA:	voy a disparar .
+%mor:	v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot . 
+*EID:	Ana (.) que la tiras .
+%mor:	n:prop|Ana prep|que=than det:art|el&FEM&SG=the v|tira-2S&PRES=throw . 
+*ANA:	dame [//] dámela [/] dámela .
+%mor:	v|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&FEM . 
+%com:	van las dos a por la pelota
+*EID:	a dónde ha ido ?
+%mor:	prep|a=to pro:int|dónde=where co|ha part|i-PPART-MASC=go ? 
+%com:	toca el cañón
+*ANA:	no [/] no .
+%mor:	adv|no=no . 
+*ANA:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*EID:	luego vamos a pintar .
+%mor:	adv|luego=afterwards co|vamos=go prep|a=to v|pinta-INF=paint . 
+%com:	ANA juega disparando el cañón mientras se ríe y EID sopla el telescopio
+*EID:	mira .
+%mor:	co|mira=look . 
+%com:	hace como si tocara la flauta con el telescopio
+*EID:	la pelota .
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball . 
+*ANA:	mira voy a disparar .
+%mor:	co|mira=look v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot . 
+*ANA:	vamos [/] vamos ?
+%mor:	co|vamos=go ? 
+%com:	se pone de pie y le tiende una mano
+*EID:	a dónde ?
+%mor:	prep|a=to pro:int|dónde=where ? 
+*ANA:	<vamos a comer> [/] vamos a comer .
+%mor:	co|vamos=go prep|a=to v|come-INF=eat . 
+*EID:	vamos al patio .
+%mor:	co|vamos=go prep|a~det|el&MASC n|patio&masc=courtyard . 
+*ANA:	ya se .
+%mor:	adv|ya=already pro:per|se=itself . 
+*ANA:	aquí van a comer .
+%mor:	adv|aquí=here v|i-3P&PRES=go prep|a=to v|come-INF=eat . 
+*ANA:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+*EID:	la pelota no está .
+%mor:	det:art|el&FEM&SG=the n|pelota&fem=ball co|no=no v|esta-3S&PRES=be . 
+*EID:	se ha ido ahí (.) Ana .
+%mor:	pro:per|se=itself co|ha part|i-PPART-MASC=go adv|ahí=there n:prop|Ana 
+	. 
+*ANA:	cógela [//] entonces cógela corre .
+%mor:	adv|entonces=then v|coge-2S&IMP~pro:clit|OBJ&FEM v|corre-3S&PRES=run . 
+*ANA:	ahora se han moja(d)o .
+%mor:	adv|ahora=now pro:per|se=itself v|habe-3P&PRES=have part|moja-PPART&MASC=moisten 
+	. 
+*ANA:	esto [//] qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+%com:	la bandera
+*EID:	la tacita .
+%mor:	det:art|el&FEM&SG=the n|taza-DIM-FEM=cup . 
+%com:	le da el puesto del vigía
+*ANA:	creo que cierran (.) eh ?
+%mor:	v|cree-1S&PRES=believe prep|que=than v|cerra-3P&PRES=close co|eh ? 
+%com:	se levanta para irse y se vuelve a sentar mientras habla susurrando
+*ANA:	mira [//] que hay (.) mira eh ?
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have co|mira=look co|eh ? 
+*EID:	qué ?
+%mor:	pro:int|qué=what ? 
+*ANA:	mira aquí .
+%mor:	co|mira=look adv|aquí=here . 
+%com:	señala el camarote
+*EID:	lo abro yo ?
+%mor:	pro:per:1|lo&masc=him v|abri-1S&PRES=open pro:per|yo=I ? 
+*ANA:	no .
+%mor:	adv|no=no . 
+%com:	abren la bodega se ríen y la cierran varias veces
+*EID:	Ana (.) mira esto es la barca .
+%mor:	n:prop|Ana co|mira=look det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|barco-FEM=boat . 
+*EID:	esto es el barco (.) Ana [/] Ana .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the n|barco-MASC=boat 
+	n:prop|Ana . 
+*EID:	esto no es ahí (.) eh (.) Ana .
+%mor:	det:dem|este-MASC=this adv|no=no v|se-3S&PRES=be adv|ahí=there co|eh 
+	n:prop|Ana . 
+%com:	la barca no se coloca en el barco
+*EID:	Ana ya nos vamos a ir .
+%mor:	n:prop|Ana adv|ya=already pro:per|nos=us co|vamos=go prep|a=to v|i-INF=go 
+	. 
+@End

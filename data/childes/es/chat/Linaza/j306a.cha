@@ -1,0 +1,140 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , PAD Padre Father , ADU Adult
+@ID:	spa|linaza|CHI|3;6.||||Target_Child|||
+@ID:	spa|linaza|PAD|||||Father|||
+@ID:	spa|linaza|ADU|||||Adult|||
+@Tape Location:	tape 4 , side 1
+@Comment:	Josetxu Linaza , Marisol
+@Comment:	CANCION RAYO ATLETIC
+*PAD:	atletic .
+%mor:	n|atletic&masc=athletic . 
+%com:	Cantando .
+*CHI:	rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	pero bueno atletic .
+%mor:	conj|pero=but co|bueno=good n|atletic&masc=athletic . 
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	atletic .
+%mor:	n|atletic&masc=athletic . 
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	atletic atletic atletic .
+%mor:	n|atletic&masc=athletic n|atletic&masc=athletic n|atletic&masc=athletic 
+	. 
+*CHI:	rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	ya , ya veras cuando te vea .
+%mor:	adv|ya=already cm|cm adv|ya=already n|vera&fem-PL=side conj|cuando=when 
+	pro:per|te=you v|ve-13S&SUB&PRES=see . 
+*PAD:	Jose Luis decir eso de rayo rayo atletic atletic .
+%mor:	n:prop|Jose n:prop|Luis v|deci-INF=say pro:dem|eso=that_one prep|de=of 
+	n|rayo&masc=ray n|rayo&masc=ray n|atletic&masc=athletic n|atletic&masc=athletic 
+	. 
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	pero bueno .
+%mor:	conj|pero=but co|bueno=good . 
+*CHI:	rayo rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	atletic atletic .
+%mor:	n|atletic&masc=athletic n|atletic&masc=athletic . 
+*CHI:	rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+%com:	chilla cada vez más fuerte
+*PAD:	atletic atletic .
+%mor:	n|atletic&masc=athletic n|atletic&masc=athletic . 
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+%com:	chillando
+*PAD:	pero quien ha dicho lo de rayo .
+%mor:	conj|pero=but pro:rel|quien=who co|ha part|deci-PPART-MASC=say pro:per:1|lo&masc=him 
+	prep|de=of n|rayo&masc=ray . 
+*CHI:	yo .
+%mor:	pro:per|yo=I . 
+*PAD:	como que tu .
+%mor:	adv|como=like prep|que=than det:pos|tu=your . 
+*CHI:	ah .
+%mor:	co|ah . 
+*PAD:	quien ha dicho lo de rayo ?
+%mor:	pro:rel|quien=who co|ha part|deci-PPART-MASC=say pro:per:1|lo&masc=him 
+	prep|de=of n|rayo&masc=ray ? 
+*PAD:	te voy a enseñar ahora , si ponen en la televis(i)ón el atletic y el rayo .
+%mor:	pro:per|te=you v|i-1S&PRES=go prep|a=to v|enseña-INF=teach adv|ahora=now 
+	cm|cm conj|si=if v|pone-3P&PRES=put prep|en=in det:art|el&FEM&SG=the n|televisión&fem=television 
+	det:art|el&MASC&SG=the n|atletic&masc=athletic coord|y=and det:art|el&MASC&SG=the 
+	n|rayo&masc=ray . 
+*PAD:	a ti cual te gusta más el atletic o el rayo ?
+%mor:	prep|a=to pro:per|ti=you pro:rel|cual=which pro:per|te=you v|gusta-3S&PRES=like 
+	adv|más=more det:art|el&MASC&SG=the n|atletic&masc=athletic coord|o=or 
+	det:art|el&MASC&SG=the n|rayo&masc=ray ? 
+*CHI:	el atleti(c) .
+%mor:	det:art|el&MASC&SG=the n|atletic&masc=athletic . 
+*PAD:	pues entonces di eso de atletic atletic .
+%mor:	co|pues=well adv|entonces=then v|da-1S&PRET=give pro:dem|eso=that_one 
+	prep|de=of n|atletic&masc=athletic n|atletic&masc=athletic . 
+%com:	cantando
+*PAD:	a_ver como lo dices tu .
+%mor:	co|a_ver=see adv|como=like pro:per:1|lo&masc=him v|deci-2S&PRES=say det:pos|tu=your 
+	. 
+*CHI:	atleti(c) rayo rayo .
+%mor:	n|atletic&masc=athletic n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	pero me cachis en la mar .
+%mor:	conj|pero=but pro:per|me=me co|cachis=bad_luck prep|en=in det:art|el&FEM&SG=the 
+	n|mar&fem=sea . 
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+%com:	se rie y chilla
+*CHI:	rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	no di atletic atletic .
+%mor:	adv|no=no v|da-1S&PRET=give n|atletic&masc=athletic n|atletic&masc=athletic 
+	. 
+*CHI:	rayo rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	pues tu quieres venir al fútbol con Jose Luis y con Rafa eh ?
+%mor:	co|pues=well det:pos|tu=your v|quere-2S&PRES=want v|veni-INF=come prep|a~det|el&MASC 
+	n|fútbol&masc=soccer prep|con=with n:prop|Jose n:prop|Luis coord|y=and 
+	prep|con=with n:prop|Rafa co|eh ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	pues entonces tienes que decir atletic atletic .
+%mor:	co|pues=well adv|entonces=then v|tene-2S&PRES=have prep|que=than v|deci-INF=say 
+	n|atletic&masc=athletic n|atletic&masc=athletic . 
+%com:	cantando
+*PAD:	no dicen así mira atletic atletic .
+%mor:	adv|no=no v|deci-3P&PRES=say adv|así=thus co|mira=look n|atletic&masc=athletic 
+	n|atletic&masc=athletic . 
+*PAD:	a_ver tu como lo dices .
+%mor:	co|a_ver=see det:pos|tu=your adv|como=like pro:per:1|lo&masc=him v|deci-2S&PRES=say 
+	. 
+*CHI:	atletic a raryo [: rayo] [*] .
+%mor:	n|atletic&masc=athletic prep|a=to n|rayo&masc=ray . 
+*PAD:	pero bueno .
+%mor:	conj|pero=but co|bueno=good . 
+*CHI:	a rayo rayo rayo rayo rayo .
+%mor:	prep|a=to n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray 
+	n|rayo&masc=ray . 
+*PAD:	así mira atletic .
+%mor:	adv|así=thus co|mira=look n|atletic&masc=athletic . 
+%com:	cantando
+*CHI:	a rayo .
+%mor:	prep|a=to n|rayo&masc=ray . 
+*PAD:	que no .
+%mor:	prep|que=than adv|no=no . 
+*CHI:	a rayo rayo rayo .
+%mor:	prep|a=to n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray . 
+*PAD:	atletic .
+%mor:	n|atletic&masc=athletic . 
+%com:	cantando
+*CHI:	rayo rayo rayo rayo rayo .
+%mor:	n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray n|rayo&masc=ray 
+	. 
+*ADU:	ya , porque Jaime está dormido .
+%mor:	adv|ya=already cm|cm conj|porque=because n:prop|Jaime v|esta-3S&PRES=be 
+	part|dormi-PPART&MASC=sleep . 
+*PAD:	a bueno .
+%mor:	prep|a=to co|bueno=good . 
+@End

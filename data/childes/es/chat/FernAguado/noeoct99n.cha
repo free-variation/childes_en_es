@@ -1,0 +1,652 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Noelia Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|CHI|3;6.19||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	25-OCT-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CHI narra cuentos a INV
+*CHI:	un niño 0 [*] paseando con un patinete .
+%mor:	det:art|un&masc=one n|niño-MASC=child v|pasea-PROG=stroll prep|con=with 
+	det:art|un&masc=one n|patín-MASC&AUG=skate . 
+*INV:	muy bien (.) y aquí ?
+%mor:	adv|muy=very adv|bien=well coord|y=and adv|aquí=here ? 
+*CHI:	0 [*] patinando con un patinete .
+%mor:	v|patina-PROG=skate prep|con=with det:art|un&masc=one n|patín-MASC&AUG=skate 
+	. 
+*INV:	está contento ?
+%mor:	v|esta-3S&PRES=be adj|contento-MASC=content ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	mucho (.) y aquí ?
+%mor:	adv|mucho=much coord|y=and adv|aquí=here ? 
+*CHI:	unos [//] unas hojas que [/] que tenían boca y picaban (.) eh ?
+%mor:	det:art|un-FEM-PL=one n|hoja&fem-PL=leaf prep|que=than v|tene-3P&PAS=have 
+	n|boca&fem=mouth coord|y=and v|pica-3P&PAS=prick co|eh ? 
+*INV:	picaban (.) eh ?
+%mor:	v|pica-3P&PAS=prick co|eh ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y dónde están esas hojas ?
+%mor:	coord|y=and pro:int|dónde=where v|esta-3P&PRES=be det:dem|ese-FEM-PL=that 
+	n|hoja&fem-PL=leaf ? 
+*CHI:	en el agua .
+%mor:	prep|en=in det:art|el&MASC&SG=the n|agua&fem=water . 
+*INV:	ah (.) y el niño qué hace ?
+%mor:	co|ah coord|y=and det:art|el&MASC&SG=the co:voc|niño=child pro:int|qué=what 
+	v|hace-3S&PRES=do ? 
+*CHI:	ya me ha pica(d)o !
+%mor:	adv|ya=already pro:per|me=me co|ha part|pica-PPART&MASC=prick ! 
+*INV:	ya te ha pica(d)o ?
+%mor:	adv|ya=already pro:per|te=you co|ha part|pica-PPART&MASC=prick ? 
+*INV:	mecachis (.) que malas las hojas .
+%mor:	co|mecachis prep|que=than n|mala&fem-PL=mail det:art|el&FEM-PL=the n|hoja&fem-PL=leaf 
+	. 
+*INV:	y qué hace ese niño ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3S&PRES=do det:dem|ese=that co:voc|niño=child 
+	? 
+*CHI:	pues (.) no está contento .
+%mor:	co|pues=well adv|no=no v|esta-3S&PRES=be adj|contento-MASC=content . 
+*INV:	no ?
+%mor:	adv|no=no ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	igual por esto [=! señalando] .
+%mor:	co|igual=equal prep|por=for det:dem|este-MASC=this . 
+*INV:	a_ver por_qué ?
+%mor:	co|a_ver=see pro:int|por_qué=why ? 
+*CHI:	porque no .
+%mor:	conj|porque=because adv|no=no . 
+*INV:	qué le ha pasa(d)o ?
+%mor:	pro:int|qué=what pro:per|le=him co|ha part|pasa-PPART&MASC=pass ? 
+*CHI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	no sabes ?
+%mor:	co|no=no co|sabes=you_know ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	a_ver (.) mira a ese .
+%mor:	co|a_ver=see co|mira=look prep|a=to det:dem|ese=that . 
+*INV:	qué le ha pasa(d)o ?
+%mor:	pro:int|qué=what pro:per|le=him co|ha part|pasa-PPART&MASC=pass ? 
+*CHI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	que se ha caído al agua .
+%mor:	prep|que=than pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC 
+	n|agua&fem=water . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	mírale .
+%mor:	v|mira-2S&IMP~pro:clit|3S . 
+*INV:	está todo moja(d)o .
+%mor:	v|esta-3S&PRES=be det:indef|todo-MASC=all part|moja-PPART&MASC=moisten 
+	. 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	mira (.) quién se ha asustado ?
+%mor:	co|mira=look pro:int|quién=who pro:per|se=itself co|ha part|asusta-PPART&MASC=frighten 
+	? 
+*INV:	quién es ese ?
+%mor:	pro:int|quién=who v|se-3S&PRES=be det:dem|ese=that ? 
+*INV:	qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*CHI:	un bicho .
+%mor:	det:art|un&masc=one n|bicho-MASC=creature . 
+*INV:	un bicho .
+%mor:	det:art|un&masc=one n|bicho-MASC=creature . 
+*INV:	una rana .
+%mor:	det:art|un-FEM=one n|rana&fem=frog . 
+*CHI:	una rana .
+%mor:	det:art|un-FEM=one n|rana&fem=frog . 
+*INV:	una rana .
+%mor:	det:art|un-FEM=one n|rana&fem=frog . 
+*INV:	vamos a_ver y esto qué es ?
+%mor:	co|vamos=go co|a_ver=see coord|y=and det:dem|este-MASC=this pro:int|qué=what 
+	v|se-3S&PRES=be ? 
+*CHI:	unas niñas .
+%mor:	det:art|un-FEM-PL=one n|niño-FEM-PL=child . 
+*INV:	que van a(l) +...
+%mor:	prep|que=than v|i-3P&PRES=go prep|a~det|el&MASC +... 
+*CHI:	++ al cole(gio) .
+%mor:	prep|a~det|el&MASC n|colegio&masc=school . 
+*INV:	muy bien (.) qué hacen en el cole(gio) ?
+%mor:	adv|muy=very adv|bien=well pro:int|qué=what v|hace-3P&PRES=do prep|en=in 
+	det:art|el&MASC&SG=the n|colegio&masc=school ? 
+*CHI:	pues (.) un dibujo .
+%mor:	co|pues=well det:art|un&masc=one n|dibujo&masc=design . 
+*CHI:	0 [*] leyendo .
+%mor:	v|lee-PROG=read . 
+*INV:	ah (.) sí ?
+%mor:	co|ah co|sí=yes ? 
+*INV:	ya saben leer ?
+%mor:	adv|ya=already v|sabe-3P&PRES=know v|lee-INF=read ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	que mayores (.) no ?
+%mor:	prep|que=than adj|mayor-PL=elder co|no=no ? 
+*CHI:	sí [/] sí .
+%mor:	co|sí=yes . 
+*CHI:	oh (.) que me he equivocado .
+%mor:	co|oh=oh prep|que=than pro:per|me=me co|he part|equivoca-PPART&MASC=be_mistaken 
+	. 
+*INV:	no te equivocabas no .
+%mor:	adv|no=no pro:per|te=you v|equivoca-2S&PAS=be_mistaken co|no=no . 
+*INV:	qué más hacen ?
+%mor:	pro:int|qué=what adv|más=more v|hace-3P&PRES=do ? 
+*CHI:	estos niños ?
+%mor:	det:dem|este-MASC-PL=this n|niño-MASC-PL=child ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CHI:	pues 0 [*] corriendo a la clase que no entren [*] .
+%mor:	co|pues=well v|corre-PROG=run prep|a=to det:art|el&FEM&SG=the n|clase&fem=rank 
+	prep|que=than adv|no=no v|entra-3P&SUB&PRES=come_in . 
+*INV:	tarde [//] que no entren tarde ?
+%mor:	prep|que=than adv|no=no v|entra-3P&SUB&PRES=come_in adv|tarde=late ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ? 
+*CHI:	pues van en la fila .
+%mor:	co|pues=well v|i-3P&PRES=go prep|en=in det:art|el&FEM&SG=the n|fila&fem=row 
+	. 
+*INV:	claro (.) como todos los niños .
+%mor:	co|claro=obvious adv|como=like det:indef|todo-MASC-PL=all det:art|el&MASC-PL=the 
+	n|niño-MASC-PL=child . 
+*INV:	a qué se va en fila ?
+%mor:	prep|a=to pro:int|qué=what pro:per|se=itself v|i-3S&PRES=go prep|en=in 
+	n|fila&fem=row ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	vamos a_ver este cuento .
+%mor:	co|vamos=go co|a_ver=see det:dem|este=this n|cuento&masc=story . 
+*INV:	qué hay aquí ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here ? 
+*CHI:	un gato con un niño que no tiene zapatitos .
+%mor:	det:art|un&masc=one n|gato-MASC=cat prep|con=with det:art|un&masc=one 
+	n|niño-MASC=child prep|que=than adv|no=no v|tene-3S&PRES=have n|zapato-DIM-MASC-PL=shoe 
+	. 
+*INV:	oh (.) que frío en los pies .
+%mor:	co|oh=oh prep|que=than n|frío&masc=cold prep|en=in det:art|el&MASC-PL=the 
+	n|pie&masc-PL=foot . 
+*CHI:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*CHI:	que frío .
+%mor:	prep|que=than n|frío&masc=cold . 
+*INV:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ? 
+*CHI:	pues (.) con el gato .
+%mor:	co|pues=well prep|con=with det:art|el&MASC&SG=the n|gato-MASC=cat . 
+*INV:	y qué están haciendo ?
+%mor:	coord|y=and pro:int|qué=what v|esta-3P&PRES=be v|hace-PROG=do ? 
+*CHI:	quién ?
+%mor:	pro:int|quién=who ? 
+*INV:	el gato y la niña .
+%mor:	det:art|el&MASC&SG=the n|gato-MASC=cat coord|y=and det:art|el&FEM&SG=the 
+	co:voc|niña=child . 
+*CHI:	0 [*] mirando a este niño .
+%mor:	v|mira-PROG=look prep|a=to det:dem|este=this co:voc|niño=child . 
+*INV:	y ese niño qué hace ?
+%mor:	coord|y=and det:dem|ese=that co:voc|niño=child pro:int|qué=what v|hace-3S&PRES=do 
+	? 
+*CHI:	pues 0 [*] mirándole a la niña y al gato .
+%mor:	co|pues=well v|mira-PROG~pro:clit|3S prep|a=to det:art|el&FEM&SG=the co:voc|niña=child 
+	coord|y=and prep|a~det|el&MASC n|gato-MASC=cat . 
+*INV:	ah (.) les está dibujando ?
+%mor:	co|ah pro:per|le-PL=them v|esta-3S&PRES=be v|dibuja-PROG=draw ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	les está mirando .
+%mor:	pro:per|le-PL=them v|esta-3S&PRES=be v|mira-PROG=look . 
+*INV:	ah (.) les está mirando .
+%mor:	co|ah pro:per|le-PL=them v|esta-3S&PRES=be v|mira-PROG=look . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ? 
+*CHI:	pues está la niña con su mamá .
+%mor:	co|pues=well v|esta-3S&PRES=be det:art|el&FEM&SG=the co:voc|niña=child 
+	prep|con=with det:pos|su&3S=his n|mamá&fem=mommy . 
+*INV:	y su mamá qué va a hacer ?
+%mor:	coord|y=and det:pos|su&3S=his n|mamá&fem=mommy pro:int|qué=what v|i-3S&PRES=go 
+	prep|a=to v|hace-INF=do ? 
+*CHI:	coger un bote de Cola_cao .
+%mor:	v|coge-INF=take det:art|un&masc=one n|bote&masc=boat prep|de=of n:prop|Cola_cao 
+	. 
+*INV:	para desayunar ?
+%mor:	prep|para=for v|desayuna-INF=breakfast ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y aquí qué hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|habe-3S&PRES&SPEC=have 
+	? 
+*CHI:	la niña con un bebé y con un papá .
+%mor:	det:art|el&FEM&SG=the co:voc|niña=child prep|con=with det:art|un&masc=one 
+	n|bebé&masc=baby coord|y=and prep|con=with det:art|un&masc=one n|papá&masc=papa 
+	. 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	qué pasa aquí ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass adv|aquí=here ? 
+*CHI:	pues no se .
+%mor:	co|pues=well adv|no=no pro:per|se=itself . 
+*CHI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	no sabes ?
+%mor:	co|no=no co|sabes=you_know ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	qué le pasa a la niña ?
+%mor:	pro:int|qué=what pro:per|le=him v|pasa-3S&PRES=pass prep|a=to det:art|el&FEM&SG=the 
+	co:voc|niña=child ? 
+*CHI:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	que está un poco triste (.) no ?
+%mor:	prep|que=than v|esta-3S&PRES=be det:art|un&masc=one adv|poco=few adj|triste=sad 
+	co|no=no ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*INV:	y el gato ?
+%mor:	coord|y=and det:art|el&MASC&SG=the n|gato-MASC=cat ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	el gato no está triste .
+%mor:	det:art|el&MASC&SG=the n|gato-MASC=cat adv|no=no v|esta-3S&PRES=be adj|triste=sad 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ? 
+*CHI:	un cuadro de la niña .
+%mor:	det:art|un&masc=one n|cuadro&masc=square prep|de=of det:art|el&FEM&SG=the 
+	co:voc|niña=child . 
+*INV:	quién habrá dibujado ese cuadro ?
+%mor:	pro:int|quién=who v|habe-3S&FUT=have part|dibuja-PPART&MASC=draw det:dem|ese=that 
+	n|cuadro&masc=square ? 
+*CHI:	él .
+%mor:	pro:per|él&masc=he . 
+*CHI:	el niño !
+%mor:	det:art|el&MASC&SG=the co:voc|niño=child ! 
+*INV:	mira que rico .
+%mor:	co|mira=look prep|que=than adj|rico-MASC=rich . 
+*INV:	para mi es eso .
+%mor:	prep|para=for det:pos|mi=my v|se-3S&PRES=be pro:dem|eso=that_one . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	el pastel es para mi ?
+%mor:	det:art|el&MASC&SG=the n|pastel&masc=pie v|se-3S&PRES=be prep|para=for 
+	det:pos|mi=my ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y para ti la pelota .
+%mor:	coord|y=and prep|para=for pro:per|ti=you det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+*CHI:	vale .
+%mor:	co|vale=okay . 
+*INV:	venga (.) y aquí ?
+%mor:	co|venga=come_on coord|y=and adv|aquí=here ? 
+*CHI:	para mi la pelota !
+%mor:	prep|para=for det:pos|mi=my det:art|el&FEM&SG=the n|pelota&fem=ball ! 
+*INV:	y aquí no está .
+%mor:	coord|y=and adv|aquí=here adv|no=no v|esta-3S&PRES=be . 
+*INV:	esa es la lámpara .
+%mor:	det:dem|ese-FEM=that v|se-3S&PRES=be det:art|el&FEM&SG=the n|lámpara&fem=lamp 
+	. 
+*CHI:	ah (.) pero yo quiero la pelota .
+%mor:	co|ah conj|pero=but pro:per|yo=I v|quere-1S&PRES=want det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*INV:	vale (.) pero qué pasa aquí ?
+%mor:	co|vale=okay conj|pero=but pro:int|qué=what v|pasa-3S&PRES=pass adv|aquí=here 
+	? 
+*INV:	se están comiendo mi pastel .
+%mor:	pro:per|se=itself v|esta-3P&PRES=be v|come-PROG=eat det:pos|mi=my n|pastel&masc=pie 
+	. 
+*CHI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*INV:	mira (.) no me han dejado nada .
+%mor:	co|mira=look adv|no=no pro:per|me=me v|habe-3P&PRES=have part|deja-PPART&MASC=leave 
+	pro:indef|nada=nothing . 
+*INV:	mira (.) hasta le han puesto un trozo al gato .
+%mor:	co|mira=look prep|hasta=until pro:per|le=him v|habe-3P&PRES=have part|pone-PPART-MASC=put 
+	det:art|un&masc=one n|trozo&masc=chunk prep|a~det|el&MASC n|gato-MASC=cat 
+	. 
+*CHI:	pues .
+%mor:	co|pues=well . 
+*INV:	qué hago ?
+%mor:	pro:int|qué=what v|hace-1S&PRES=do ? 
+*CHI:	pégales .
+%mor:	v|pega-2S&IMP~pro:clit|3P . 
+*INV:	les pego ?
+%mor:	pro:per|le-PL=them v|pega-1S&PRES=hit_adhere ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	bueno después .
+%mor:	co|bueno=good adv|después=after . 
+*CHI:	vale .
+%mor:	co|vale=okay . 
+*INV:	y aquí qué pasa ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*CHI:	pues que está corriendo la niña .
+%mor:	co|pues=well prep|que=than v|esta-3S&PRES=be v|corre-PROG=run det:art|el&FEM&SG=the 
+	co:voc|niña=child . 
+*INV:	jugando con qué ?
+%mor:	v|juga-PROG=play prep|con=with pro:int|qué=what ? 
+*CHI:	pues no se .
+%mor:	co|pues=well adv|no=no pro:per|se=itself . 
+*CHI:	a correr a pillar .
+%mor:	prep|a=to v|corre-INF=run prep|a=to v|pilla-INF=catch . 
+*INV:	a correr .
+%mor:	prep|a=to v|corre-INF=run . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	a correr .
+%mor:	prep|a=to v|corre-INF=run . 
+*INV:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ? 
+*CHI:	le está dando la niña un beso a su mamá .
+%mor:	pro:per|le=him v|esta-3S&PRES=be v|da-PROG=give det:art|el&FEM&SG=the 
+	co:voc|niña=child det:art|un&masc=one n|beso&masc=kiss prep|a=to det:pos|su&3S=his 
+	n|mamá&fem=mommy . 
+*INV:	porque la quiere mucho (.) verdad ?
+%mor:	conj|porque=because det:art|el&FEM&SG=the v|quere-3S&PRES=want adv|mucho=much 
+	co|verdad=right ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y colorín +...
+%mor:	coord|y=and n|color-MASC&AUG=hue +... 
+*CHI:	++ colorado .
+%mor:	part|colora-PPART&MASC=color . 
+*INV:	este cuento +...
+%mor:	det:dem|este=this n|cuento&masc=story +... 
+*CHI:	++ se ha acabado .
+%mor:	pro:per|se=itself co|ha part|acaba-PPART&MASC=finish . 
+*INV:	pues el último (.) mira que chulo .
+%mor:	co|pues=well det:art|el&MASC&SG=the adj|último-MASC=last co|mira=look 
+	prep|que=than adj|chulo-MASC=amusing_pretty . 
+*INV:	éste es del verano (.) sí ?
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be prep|de~det|el&MASC n|verano&masc=summer 
+	co|sí=yes ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	de la Navidad .
+%mor:	prep|de=of det:art|el&FEM&SG=the n:prop|Navidad . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	vamos a_ver que hay aquí .
+%mor:	co|vamos=go co|a_ver=see prep|que=than v|habe-3S&PRES&SPEC=have adv|aquí=here 
+	. 
+*INV:	qué hay ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have ? 
+*CHI:	un muñeco de nieve .
+%mor:	det:art|un&masc=one n|muñeco-MASC=doll prep|de=of n|nieve&fem=snow . 
+*INV:	bien (.) y qué más ?
+%mor:	adv|bien=well coord|y=and pro:int|qué=what adv|más=more ? 
+*CHI:	unas niñas .
+%mor:	det:art|un-FEM-PL=one n|niño-FEM-PL=child . 
+*INV:	y qué hacen las niñas ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3P&PRES=do det:art|el&FEM-PL=the 
+	n|niño-FEM-PL=child ? 
+*CHI:	pues (.) reírse .
+%mor:	co|pues=well v|reí-INF~pro:clit|3S&REFL . 
+*INV:	reírse y por_qué se ríen ?
+%mor:	v|reí-INF~pro:clit|3S&REFL coord|y=and pro:int|por_qué=why pro:per|se=itself 
+	v|reí-3P&PRES=laugh ? 
+*CHI:	porque hay un muñeco de nieve que se ríe .
+%mor:	conj|porque=because v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|muñeco-MASC=doll 
+	prep|de=of n|nieve&fem=snow prep|que=than pro:per|se=itself v|reí-3S&PRES=laugh 
+	. 
+*INV:	ah (.) y qué más ?
+%mor:	co|ah coord|y=and pro:int|qué=what adv|más=more ? 
+*CHI:	y esta niña que aquí está está cogiendo pajaritos .
+%mor:	coord|y=and det:dem|este-FEM=this co:voc|niña=child prep|que=than adv|aquí=here 
+	v|esta-3S&PRES=be v|esta-3S&PRES=be v|coge-PROG=take n|pájaro-DIM-MASC-PL=bird 
+	. 
+*INV:	y hay un gatito .
+%mor:	coord|y=and v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|gato-DIM-MASC=cat 
+	. 
+*CHI:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*INV:	a_ver dónde ?
+%mor:	co|a_ver=see pro:int|dónde=where ? 
+*CHI:	0 [=! señalando] .
+*INV:	está enfadado el gatito ?
+%mor:	v|esta-3S&PRES=be adj|enfadado-MASC=anger det:art|el&MASC&SG=the n|gato-DIM-MASC=cat 
+	? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	ah (.) y mira hay una casita de pajaritos .
+%mor:	co|ah coord|y=and co|mira=look v|habe-3S&PRES&SPEC=have det:art|un-FEM=one 
+	n|casa-DIM-FEM=house prep|de=of n|pájaro-DIM-MASC-PL=bird . 
+*CHI:	sí pero que entren (.) no ?
+%mor:	co|sí=yes conj|pero=but prep|que=than v|entra-3P&SUB&PRES=come_in co|no=no 
+	? 
+*INV:	claro que se van a enfriar .
+%mor:	co|claro=obvious prep|que=than pro:per|se=itself v|i-3P&PRES=go prep|a=to 
+	v|enfria-INF=cool_down . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	porque está lloviendo ?
+%mor:	conj|porque=because v|esta-3S&PRES=be v|llove-PROG=rain ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	qué está haciendo ?
+%mor:	pro:int|qué=what v|esta-3S&PRES=be v|hace-PROG=do ? 
+*CHI:	pues entrar .
+%mor:	co|pues=well v|entra-INF=come_in . 
+*CHI:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*INV:	un señor .
+%mor:	det:art|un&masc=one co:voc|señor=sir . 
+*CHI:	y es muy malo ?
+%mor:	coord|y=and v|se-3S&PRES=be adv|muy=very adj|malo-MASC=bad ? 
+*INV:	no (.) lo que pasa es que está un poco enfadado .
+%mor:	adv|no=no pro:per:1|lo&masc=him prep|que=than v|pasa-3S&PRES=pass v|se-3S&PRES=be 
+	prep|que=than v|esta-3S&PRES=be det:art|un&masc=one pro:indef|poco=little 
+	adj|enfadado-MASC=anger . 
+*CHI:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*INV:	pues porque está nevando y se moja .
+%mor:	co|pues=well conj|porque=because v|esta-3S&PRES=be v|neva-PROG=snow coord|y=and 
+	pro:per|se=itself v|moja-3S&PRES=moisten . 
+*CHI:	y se moja ?
+%mor:	coord|y=and pro:per|se=itself v|moja-3S&PRES=moisten ? 
+*INV:	se moja .
+%mor:	pro:per|se=itself v|moja-3S&PRES=moisten . 
+*CHI:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*INV:	la barca .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat . 
+*CHI:	y se enfada ?
+%mor:	coord|y=and pro:per|se=itself v|enfada-3S&PRES=anger ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CHI:	eh (.) qué es eso ?
+%mor:	co|eh pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*INV:	qué es ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*CHI:	el Papa_Noel .
+%mor:	det:art|el&MASC&SG=the n:prop|Papa_Noel . 
+*INV:	claro (.) y qué trae Papa_Noel ?
+%mor:	co|claro=obvious coord|y=and pro:int|qué=what v|trae-3S&PRES=carry n:prop|Papa_Noel 
+	? 
+*CHI:	eh ?
+%mor:	co|eh ? 
+*INV:	qué trae Papa_Noel (.) a los niños ?
+%mor:	pro:int|qué=what v|trae-3S&PRES=carry n:prop|Papa_Noel prep|a=to det:art|el&MASC-PL=the 
+	n|niño-MASC-PL=child ? 
+*INV:	qué les trae ?
+%mor:	pro:int|qué=what pro:per|le-PL=them v|trae-3S&PRES=carry ? 
+*CHI:	pijamas .
+%mor:	n|pijama&fem-PL=pyjamas . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	cerezas .
+%mor:	n|cereza&fem-PL=cherry . 
+*INV:	cerezas ?
+%mor:	n|cereza&fem-PL=cherry ? 
+*INV:	son unas castañuelas .
+%mor:	v|se-3P&PRES=be det:art|un-FEM-PL=one n|castañuela&fem-PL=castanet . 
+*CHI:	unas castañuelas .
+%mor:	det:art|un-FEM-PL=one n|castañuela&fem-PL=castanet . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	unas castañas .
+%mor:	det:art|un-FEM-PL=one n|castaña&fem-PL=chestnut . 
+*INV:	unas castañas ?
+%mor:	det:art|un-FEM-PL=one n|castaña&fem-PL=chestnut ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	vale (.) y <a las casas> [//] qué les pasa a las casas ?
+%mor:	co|vale=okay coord|y=and pro:int|qué=what pro:per|le-PL=them v|pasa-3S&PRES=pass 
+	prep|a=to det:art|el&FEM-PL=the n|casa&fem-PL=house ? 
+*INV:	qué es eso que sale por ahí ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one prep|que=than v|sali-3S&PRES=leave 
+	prep|por=for adv|ahí=there ? 
+*CHI:	un [*] humo !
+%mor:	det:art|un&masc=one n|humo&masc=smoke ! 
+*INV:	hará frío o hará calor entonces ?
+%mor:	v|hace-3S&FUT=do n|frío&masc=cold coord|o=or v|hace-3S&FUT=do n|calor&masc=heat 
+	co|entonces ? 
+*CHI:	hará calor .
+%mor:	v|hace-3S&FUT=do n|calor&masc=heat . 
+*INV:	dentro de la casa sí (.) pero fuera ?
+%mor:	adv|dentro=inside prep|de=of det:art|el&FEM&SG=the n|casa&fem=house co|sí=yes 
+	conj|pero=but adv|fuera=outside ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	fuera hace un frío que pela .
+%mor:	adv|fuera=outside v|hace-3S&PRES=do det:art|un&masc=one n|frío&masc=cold 
+	prep|que=than n|pela&fem=peeling . 
+*CHI:	fuera hace un frío .
+%mor:	adv|fuera=outside v|hace-3S&PRES=do det:art|un&masc=one n|frío&masc=cold 
+	. 
+*INV:	qué hay aquí ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here ? 
+*CHI:	eh (.) Navidades .
+%mor:	co|eh n:prop|Navidades . 
+*INV:	a_ver dime cosas que hay .
+%mor:	co|a_ver=see v|deci-2S&IMP~pro:clit|1S n|cosa&fem-PL=thing prep|que=than 
+	v|habe-3S&PRES&SPEC=have . 
+*CHI:	está dando una señora juguetes .
+%mor:	v|esta-3S&PRES=be v|da-PROG=give det:art|un-FEM=one n|señora&fem=lady 
+	n|juguete&masc-PL=toy . 
+*INV:	que suerte !
+%mor:	prep|que=than n|suerte&fem=luck ! 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ? 
+*CHI:	también un oso .
+%mor:	adv|también=also det:art|un&masc=one n|oso-MASC=bear . 
+*INV:	jolín (.) de peluche .
+%mor:	co|jolín=jeeze prep|de=of n|peluche&masc=stuffed_animal . 
+*CHI:	sí (.) de peluche .
+%mor:	adv|sí=yes prep|de=of n|peluche&masc=stuffed_animal . 
+*CHI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*INV:	y ésta que hace ?
+%mor:	coord|y=and pro:dem|éste-FEM=this_one prep|que=than v|hace-3S&PRES=do 
+	? 
+*CHI:	0 [*] leyendo .
+%mor:	v|lee-PROG=read . 
+*INV:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+*CHI:	0 [*] tocando .
+%mor:	v|toca-PROG=touch . 
+*INV:	la +...
+%mor:	det:art|el&FEM&SG=the +... 
+*CHI:	++ flauta .
+%mor:	n|flauta&fem=flute . 
+*INV:	muy bien (.) están todos tristes ?
+%mor:	adv|muy=very adv|bien=well v|esta-3P&PRES=be det:indef|todo-MASC-PL=all 
+	adj|triste-PL=sad ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	cómo están ?
+%mor:	co|cómo v|esta-3P&PRES=be ? 
+*CHI:	contentos .
+%mor:	adj|contento-MASC-PL=content . 
+*INV:	por_qué están contentos ?
+%mor:	pro:int|por_qué=why v|esta-3P&PRES=be adj|contento-MASC-PL=content ? 
+*CHI:	porque les dan juguetes .
+%mor:	conj|porque=because pro:per|le-PL=them v|da-3P&PRES=give n|juguete&masc-PL=toy 
+	. 
+*CHI:	les regalan .
+%mor:	pro:per|le-PL=them v|regala-3P&PRES=give_present . 
+*INV:	como para no estar (.) verdad ?
+%mor:	adv|como=like prep|para=for adv|no=no v|esta-INF=be co|verdad=right ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*INV:	y ahí qué hay ?
+%mor:	coord|y=and adv|ahí=there pro:int|qué=what v|habe-3S&PRES&SPEC=have 
+	? 
+*CHI:	pues un regalo <de cumpleaños muy grande> [<] y muy caro .
+%mor:	co|pues=well det:art|un&masc=one n|regalo&masc=present prep|de=of n|cumpleaño&masc-PL=birthday 
+	adv|muy=very adj|grande=big coord|y=and adv|muy=very adj|caro-MASC=dear 
+	. 
+*INV:	<seguro que es para mi> [>] .
+%mor:	co|seguro=sure prep|que=than v|se-3S&PRES=be prep|para=for det:pos|mi=my 
+	. 
+*INV:	y muy caro ?
+%mor:	coord|y=and adv|muy=very adj|caro-MASC=dear ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	para ti .
+%mor:	prep|para=for pro:per|ti=you . 
+*INV:	para mi .
+%mor:	prep|para=for det:pos|mi=my . 
+*CHI:	toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	hace como si me lo da
+*INV:	gracias (.) <y algo más> [//] y qué más ?
+%mor:	n|gracia&fem-PL=grace coord|y=and pro:int|qué=what adv|más=more ? 
+*CHI:	y también tiene la niña unas alas .
+%mor:	coord|y=and adv|también=also v|tene-3S&PRES=have det:art|el&FEM&SG=the 
+	co:voc|niña=child det:art|un-FEM-PL=one n|ala&fem-PL=brim . 
+*INV:	será un angelito entonces .
+%mor:	v|se-3S&FUT=be det:art|un&masc=one n|ángel-DIM-MASC=angel adv|entonces=then 
+	. 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	y mira (.) echa humo !
+%mor:	coord|y=and co|mira=look v|echa-3S&PRES=throw n|humo&masc=smoke ! 
+*INV:	ánda (.) y qué más hay en el cielo ?
+%mor:	v|anda-2S&IMP=walk coord|y=and pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have 
+	prep|en=in det:art|el&MASC&SG=the co:voc|cielo=angel ? 
+*CHI:	estrellas .
+%mor:	n|estrella&fem-PL=star . 
+*INV:	y (.) una cosa muy grande .
+%mor:	coord|y=and det:art|un-FEM=one n|cosa&fem=thing adv|muy=very adj|grande=big 
+	. 
+*CHI:	qué grande ?
+%mor:	pro:int|qué=what adj|grande=big ? 
+*INV:	allí .
+%mor:	adv|allí=there . 
+*CHI:	la luna !
+%mor:	det:art|el&FEM&SG=the n|luna&fem=moon ! 
+*INV:	muy bien (.) y entonces cómo se acaba el cuento ?
+%mor:	adv|muy=very adv|bien=well coord|y=and co|entonces pro:int|cómo=how pro:per|se=itself 
+	v|acaba-3S&PRES=finish det:art|el&MASC&SG=the n|cuento&masc=story ? 
+*INV:	colorín +...
+%mor:	n|color-MASC&AUG=hue +... 
+*CHI:	++ colorado .
+%mor:	part|colora-PPART&MASC=color . 
+*INV:	este cuento +...
+%mor:	det:dem|este=this n|cuento&masc=story +... 
+*CHI:	++ se ha acabado .
+%mor:	pro:per|se=itself co|ha part|acaba-PPART&MASC=finish . 
+@End

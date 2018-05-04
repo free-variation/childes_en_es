@@ -1,0 +1,463 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Izaskuncolio Target_Child , ARI Aritz Brother , INV Marta Investigator , FAT Father
+@ID:	spa|fernaguado|CHI|3;10.29||||Target_Child|||
+@ID:	spa|fernaguado|ARI|7;1.24||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@ID:	spa|fernaguado|FAT|||||Father|||
+@Date:	23-MAR-2000
+@Location:	Pamplona , Navarra , Spain
+@Situation:	IZC y ARI juegan con el barco pirata
+*ARI:	quita .
+%mor:	v|quita-3S&PRES=remove . 
+%com:	pone un mástil
+*ARI:	espera que ya lo coloco yo .
+%mor:	v|espera-3S&PRES=wait prep|que=than adv|ya=already pro:per:1|lo&masc=him 
+	v|coloca-1S&PRES=place pro:per|yo=I . 
+*ARI:	pon otras cosas mientras .
+%mor:	v|pone-2S&IMP=put det:indef|otro-FEM-PL=other n|cosa&fem-PL=thing adv|mientras=while 
+	. 
+*ARI:	dame el otro palo .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&MASC&SG=the pro:indef|otro=other n|palo&masc=stick 
+	. 
+*ARI:	oh (.) al revés .
+%mor:	co|oh=oh prep|a~det|el&MASC n|revés&masc=reverse . 
+%com:	intercambia los mástiles
+*CHI:	<el capitán> [/] el capitán .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+%com:	tararea
+*ARI:	ahí .
+%mor:	adv|ahí=there . 
+*CHI:	esto por aquí .
+%mor:	det:dem|este-MASC=this prep|por=for adv|aquí=here . 
+%com:	pone una red
+*CHI:	por aquí .
+%mor:	prep|por=for adv|aquí=here . 
+*CHI:	ah (.) voy a poner ésta .
+%mor:	co|ah v|i-1S&PRES=go prep|a=to v|pone-INF=put pro:dem|éste-FEM=this_one 
+	. 
+%com:	la bandera
+*CHI:	ahora qué puedo hacer con esto ?
+%mor:	adv|ahora=now pro:int|qué=what v|pode-1S&PRES=can v|hace-INF=do prep|con=with 
+	det:dem|este-MASC=this ? 
+%com:	con una red que le queda disparada
+*CHI:	mira (.) así va o no ?
+%mor:	co|mira=look adv|así=thus v|i-3S&PRES=go v|oí-1S&PRET=hear co|no=no 
+	? 
+*ARI:	así va .
+%mor:	adv|así=thus v|i-3S&PRES=go . 
+*ARI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CHI:	el capitán (.) así va aquí .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain adv|así=thus v|i-3S&PRES=go 
+	adv|aquí=here . 
+*CHI:	mira ya está aquí Aritz .
+%mor:	co|mira=look adv|ya=already v|esta-3S&PRES=be adv|aquí=here n:prop|Aritz 
+	. 
+%com:	la bandera
+*CHI:	ya está puesto <el capitán> [/] el capitán .
+%mor:	adv|ya=already v|esta-3S&PRES=be part|pone-PPART-MASC=put det:art|el&MASC&SG=the 
+	n|capitán&masc=captain . 
+*CHI:	ahora ésta .
+%mor:	adv|ahora=now pro:dem|éste-FEM=this_one . 
+*ARI:	como ésta es más larga no se puede poner así .
+%mor:	adv|como=like pro:dem|éste-FEM=this_one v|se-3S&PRES=be adv|más=more 
+	adj|largo-FEM=long adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|pone-INF=put 
+	adv|así=thus . 
+*CHI:	el cañón ha hecho pum@o .
+%mor:	det:art|el&MASC&SG=the n|cañón&masc=cannon co|ha n|hecho&masc=action 
+	on|pum . 
+*CHI:	luego lo sacamos y <el barquito> [//] con la velita estaba el barquito .
+%mor:	adv|luego=afterwards pro:per:1|lo&masc=him v|saca-1P&PRES=bring_out coord|y=and 
+	prep|con=with det:art|el&FEM&SG=the n|vela-DIM-FEM=candle v|esta-13S&PAS=be 
+	det:art|el&MASC&SG=the n|barco-DIM-MASC=boat . 
+*ARI:	no se puede .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can . 
+*ARI:	ahora aquí hay una rueda .
+%mor:	adv|ahora=now adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one 
+	n|rueda&fem=wheel . 
+%com:	el timón
+*ARI:	dame la bola .
+%mor:	v|da-2S&IMP~pro:clit|1S det:art|el&FEM&SG=the n|bola&fem=ball . 
+*ARI:	déjame aquí a mi .
+%mor:	v|deja-2S&IMP~pro:clit|1S adv|aquí=here prep|a=to det:pos|mi=my . 
+*CHI:	<los capitanes> [//] sí los capitanes .
+%mor:	co|sí=yes det:art|el&MASC-PL=the n|capitán&masc-PL=captain . 
+*ARI:	déjame el barco .
+%mor:	v|deja-2S&IMP~pro:clit|1S det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*ARI:	quita .
+%mor:	v|quita-3S&PRES=remove . 
+*CHI:	eh (.) aquí voy !
+%mor:	co|eh adv|aquí=here v|i-1S&PRES=go ! 
+*CHI:	voy a salir .
+%mor:	v|i-1S&PRES=go prep|a=to v|sali-INF=leave . 
+%com:	del camarote
+*CHI:	ánda (.) ya voy a estar arriba .
+%mor:	v|anda-2S&IMP=walk adv|ya=already v|i-1S&PRES=go prep|a=to v|esta-INF=be 
+	adv|arriba=above . 
+*CHI:	el barco aquí está que se hunde .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat adv|aquí=here v|esta-3S&PRES=be 
+	prep|que=than pro:per|se=itself v|hundi-3S&PRES=sink . 
+*CHI:	aquí está la mesa .
+%mor:	adv|aquí=here v|esta-3S&PRES=be det:art|el&FEM&SG=the n|mesa&fem=table 
+	. 
+*CHI:	el barco por aquí .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat prep|por=for adv|aquí=here . 
+*ARI:	a_ver .
+%mor:	co|a_ver=see . 
+*CHI:	yo estoy aquí mirando así .
+%mor:	pro:per|yo=I v|esta-1S&PRES=be adv|aquí=here v|mira-PROG=look adv|así=thus 
+	. 
+*ARI:	y el barco qué ?
+%mor:	coord|y=and det:art|el&MASC&SG=the n|barco-MASC=boat pro:int|qué=what 
+	? 
+*CHI:	el barco así .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat adv|así=thus . 
+*ARI:	la barca estaba por aquí .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat v|esta-13S&PAS=be prep|por=for 
+	adv|aquí=here . 
+*ARI:	ah (.) sí !
+%mor:	co|ah co|sí=yes ! 
+*ARI:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ? 
+*ARI:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*CHI:	el barquito .
+%mor:	det:art|el&MASC&SG=the n|barco-DIM-MASC=boat . 
+*ARI:	no .
+%mor:	adv|no=no . 
+*CHI:	ahí .
+%mor:	adv|ahí=there . 
+*ARI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	ponen el puesto del vigía
+*CHI:	que no va .
+%mor:	prep|que=than adv|no=no v|i-3S&PRES=go . 
+*CHI:	aquí no va .
+%mor:	adv|aquí=here adv|no=no v|i-3S&PRES=go . 
+%com:	la red
+*ARI:	vas a hacer todo tú .
+%mor:	v|i-2S&PRES=go prep|a=to v|hace-INF=do det:indef|todo-MASC=all pro:per|tú=you 
+	. 
+*ARI:	no me dejas hacer nada .
+%mor:	adv|no=no pro:per|me=me v|deja-2S&PRES=leave v|hace-INF=do pro:indef|nada=nothing 
+	. 
+*CHI:	así (.) mira va así .
+%mor:	adv|así=thus co|mira=look v|i-3S&PRES=go adv|así=thus . 
+*CHI:	a que sí ?
+%mor:	prep|a=to prep|que=than co|sí=yes ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*ARI:	la barca está metida .
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat v|esta-3S&PRES=be adj|metido-FEM=lodged 
+	. 
+*CHI:	nos vamos !
+%mor:	pro:per|nos=us co|vamos=go ! 
+*ARI:	eh (.) espera [/] espera [/] espera .
+%mor:	co|eh v|espera-3S&PRES=wait . 
+*ARI:	está metida la barca .
+%mor:	v|esta-3S&PRES=be adj|metido-FEM=lodged det:art|el&FEM&SG=the n|barco-FEM=boat 
+	. 
+%com:	intenta meterla en el camarote
+*CHI:	así va (.) no ?
+%mor:	adv|así=thus v|i-3S&PRES=go co|no=no ? 
+%com:	el puesto del vigía
+*CHI:	va así Aritz .
+%mor:	v|i-3S&PRES=go adv|así=thus n:prop|Aritz . 
+*CHI:	esto va así .
+%mor:	det:dem|este-MASC=this v|i-3S&PRES=go adv|así=thus . 
+*ARI:	no se puede meter .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|mete-INF=put . 
+*ARI:	ah (.) se me ha caído el barco (.) tía .
+%mor:	co|ah pro:per|se=itself pro:per|me=me co|ha part|cae-PPART&MASC=fall det:art|el&MASC&SG=the 
+	n|barco-MASC=boat n|tío-FEM=uncle . 
+*CHI:	esto va así (.) ahí .
+%mor:	det:dem|este-MASC=this v|i-3S&PRES=go adv|así=thus adv|ahí=there . 
+*CHI:	pongo esto aquí .
+%mor:	v|pone-1S&PRES=put det:dem|este-MASC=this adv|aquí=here . 
+*ARI:	quita Izaskun .
+%mor:	v|quita-3S&PRES=remove n:prop|Izaskun . 
+*CHI:	a_ver (.) y yo se donde está el trabajo de mi madre .
+%mor:	co|a_ver=see coord|y=and pro:per|yo=I pro:per|se=itself pro:rel|donde=where 
+	v|esta-3S&PRES=be det:art|el&MASC&SG=the n|trabajo&masc=work prep|de=of 
+	det:pos|mi=my n|madre&fem=mother . 
+*CHI:	donde la guardería de los pequeños pero no .
+%mor:	pro:rel|donde=where det:art|el&FEM&SG=the n|guardería&fem=nursery prep|de=of 
+	det:art|el&MASC-PL=the adj|pequeño-MASC-PL=small conj|pero=but adv|no=no 
+	. 
+*ARI:	será así ?
+%mor:	v|se-3S&FUT=be adv|así=thus ? 
+*CHI:	esto está roto .
+%mor:	det:dem|este-MASC=this v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+%com:	una vela
+*ARI:	quita que ya se como va .
+%mor:	v|quita-3S&PRES=remove prep|que=than adv|ya=already pro:per|se=itself 
+	adv|como=like v|i-3S&PRES=go . 
+*ARI:	vamos a poner ésta si se puede claro .
+%mor:	co|vamos=go prep|a=to v|pone-INF=put pro:dem|éste-FEM=this_one conj|si=if 
+	pro:per|se=itself v|pode-3S&PRES=can co|claro=obvious . 
+%com:	la barca
+*CHI:	el maletero (.) ahí .
+%mor:	det:art|el&MASC&SG=the n|maletero-MASC=saddler adv|ahí=there . 
+*CHI:	los capitanes !
+%mor:	det:art|el&MASC-PL=the n|capitán&masc-PL=captain ! 
+*CHI:	va el barco .
+%mor:	v|i-3S&PRES=go det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	vamos .
+%mor:	co|vamos=go . 
+*CHI:	la bola !
+%mor:	det:art|el&FEM&SG=the n|bola&fem=ball ! 
+*CHI:	quedaos aquí .
+%mor:	v|queda-2S&IMP~pro:clit|2P adv|aquí=here . 
+*CHI:	qué voy a hacer ?
+%mor:	pro:int|qué=what v|i-1S&PRES=go prep|a=to v|hace-INF=do ? 
+*ARI:	cómo va esto ?
+%mor:	co|cómo v|i-3S&PRES=go det:dem|este-MASC=this ? 
+%com:	el arpón
+*INV:	como lo habías metido .
+%mor:	adv|como=like pro:per:1|lo&masc=him v|habe-2S&PAS=have adj|metido-MASC=lodged 
+	. 
+*ARI:	así ?
+%mor:	adv|así=thus ? 
+*INV:	así .
+%mor:	adv|así=thus . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	la vela .
+%mor:	det:art|el&FEM&SG=the n|vela&fem=candle . 
+*ARI:	la meto aquí si se puede .
+%mor:	det:art|el&FEM&SG=the v|mete-1S&PRES=put adv|aquí=here conj|si=if pro:per|se=itself 
+	v|pode-3S&PRES=can . 
+*CHI:	eso va ahí ?
+%mor:	pro:dem|eso=that_one v|i-3S&PRES=go adv|ahí=there ? 
+*INV:	dónde quieras .
+%mor:	pro:int|dónde=where v|quere-2S&SUB&PRES=want . 
+*CHI:	la gallina Piruleta .
+%mor:	det:art|el&FEM&SG=the n|gallina&fem=hen n:prop|Piruleta . 
+%com:	cantan
+*ARI:	quita [/] quita .
+%mor:	v|quita-3S&PRES=remove . 
+*ARI:	y esto .
+%mor:	coord|y=and det:dem|este-MASC=this . 
+*CHI:	jo (.) yo no voy a poner .
+%mor:	co|jo=whoa pro:per|yo=I adv|no=no v|i-1S&PRES=go prep|a=to v|pone-INF=put 
+	. 
+*CHI:	pues lo dejo .
+%mor:	co|pues=well pro:per:1|lo&masc=him v|deja-1S&PRES=leave . 
+*CHI:	mira (.) lo ves ?
+%mor:	co|mira=look pro:per:1|lo&masc=him co|ves=see ? 
+*CHI:	la meto aquí .
+%mor:	det:art|el&FEM&SG=the v|mete-1S&PRES=put adv|aquí=here . 
+*CHI:	que este señor estaba aquí .
+%mor:	prep|que=than det:dem|este=this n|señor&masc=sir v|esta-13S&PAS=be adv|aquí=here 
+	. 
+*CHI:	oh (.) oh (.) que bien estamos cerrando .
+%mor:	co|oh=oh co|oh=oh prep|que=than adv|bien=well v|esta-1P&PRES=be v|cerra-PROG=close 
+	. 
+*CHI:	yo me bajo por aquí .
+%mor:	pro:per|yo=I pro:per|me=me adj|bajo-MASC=low prep|por=for adv|aquí=here 
+	. 
+*ARI:	pero cómo va a llegar por el otro la(d)o ?
+%mor:	conj|pero=but pro:int|cómo=how v|i-3S&PRES=go prep|a=to v|llega-INF=arrive 
+	prep|por=for det:art|el&MASC&SG=the pro:indef|otro=other n|lado&masc=side 
+	? 
+*CHI:	por dónde ?
+%mor:	prep|por=for pro:int|dónde=where ? 
+*ARI:	mira .
+%mor:	co|mira=look . 
+*CHI:	qué ?
+%mor:	pro:int|qué=what ? 
+*ARI:	venga tira .
+%mor:	co|venga=come_on v|tira-3S&PRES=throw . 
+*ARI:	el capitán dónde esta ?
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain pro:int|dónde=where det:dem|este-FEM=this 
+	? 
+*CHI:	el capitán .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*CHI:	oy (.) yo no voy a salir .
+%mor:	co|oy pro:per|yo=I adv|no=no v|i-1S&PRES=go prep|a=to v|sali-INF=leave 
+	. 
+*CHI:	aquí hay una cama .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|cama&fem=bed 
+	. 
+*ARI:	ay !
+%mor:	co|ay=ay ! 
+%com:	intenta poner el arpón
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	<Aritz hay una cama ahí> [//] Aritz hay una cama (.) aquí .
+%mor:	n:prop|Aritz v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|cama&fem=bed 
+	adv|aquí=here . 
+*ARI:	y luego ?
+%mor:	coord|y=and adv|luego=afterwards ? 
+%com:	mira el dibujo
+*CHI:	<Aritz hay una cama> [//] Aritz aquí hay una cama .
+%mor:	n:prop|Aritz adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one 
+	n|cama&fem=bed . 
+*CHI:	aquí una cama !
+%mor:	adv|aquí=here det:art|un-FEM=one n|cama&fem=bed ! 
+*ARI:	que sí .
+%mor:	prep|que=than co|sí=yes . 
+*CHI:	pues luego yo vengo .
+%mor:	co|pues=well adv|luego=afterwards pro:per|yo=I v|veni-1S&PRES=come . 
+*ARI:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+*ARI:	hay otra cosa .
+%mor:	v|habe-3S&PRES&SPEC=have det:indef|otro-FEM=other n|cosa&fem=thing . 
+%com:	saca el trampolín
+*CHI:	yo me voy aquí .
+%mor:	pro:per|yo=I pro:per|me=me v|i-1S&PRES=go adv|aquí=here . 
+*ARI:	y yo aquí .
+%mor:	coord|y=and pro:per|yo=I adv|aquí=here . 
+*ARI:	éste aquí por aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here prep|por=for adv|aquí=here . 
+*CHI:	hola (.) yo me voy a sentar aquí .
+%mor:	co|hola=hi pro:per|yo=I pro:per|me=me v|i-1S&PRES=go prep|a=to v|senta-INF=sit 
+	adv|aquí=here . 
+*CHI:	yo ahora conduzco !
+%mor:	pro:per|yo=I adv|ahora=now v|conduci-1S&PRES=drive ! 
+*CHI:	<el capitán> [/] el capitán .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*ARI:	a_ver éste ?
+%mor:	co|a_ver=see pro:dem|éste=this_one ? 
+*ARI:	éste no conocía yo .
+%mor:	pro:dem|éste=this_one adv|no=no v|conoce-13S&PAS=know pro:per|yo=I . 
+*CHI:	éste [/] éste está matando aquí (.) Aritz .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be v|mata-PROG=kill adv|aquí=here 
+	n:prop|Aritz . 
+*ARI:	a_ver (.) vamos a disparar .
+%mor:	co|a_ver=see co|vamos=go prep|a=to v|dispara-INF=shoot . 
+*ARI:	ah (.) éste está allá .
+%mor:	co|ah pro:dem|éste=this_one v|esta-3S&PRES=be adv|allá=there . 
+*CHI:	yo voy a disparar .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to v|dispara-INF=shoot . 
+*ARI:	dispara [/] dispara .
+%mor:	v|dispara-3S&PRES=shoot . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	yo disparo .
+%mor:	pro:per|yo=I n|disparo&masc=shot . 
+*ARI:	oh (.) se ha ido la bola .
+%mor:	co|oh=oh pro:per|se=itself co|ha part|i-PPART-MASC=go det:art|el&FEM&SG=the 
+	n|bola&fem=ball . 
+*CHI:	ay (.) a_ver [/] a_ver la niña .
+%mor:	co|ay=ay co|a_ver=see det:art|el&FEM&SG=the co:voc|niña=child . 
+%com:	mira el dibujo
+*ARI:	que raro xxx .
+%mor:	prep|que=than adj|raro-MASC=rare . 
+*CHI:	ya lo se .
+%mor:	adv|ya=already pro:per:1|lo&masc=him pro:per|se=itself . 
+*CHI:	cómo va ?
+%mor:	co|cómo v|i-3S&PRES=go ? 
+*CHI:	éste va mirando aquí .
+%mor:	pro:dem|éste=this_one v|i-3S&PRES=go v|mira-PROG=look adv|aquí=here 
+	. 
+*CHI:	estaba mirando aquí y con la espada (.) mira .
+%mor:	v|esta-13S&PAS=be v|mira-PROG=look adv|aquí=here coord|y=and prep|con=with 
+	det:art|el&FEM&SG=the n|espada&fem=sword co|mira=look . 
+*ARI:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*CHI:	mira (.) éste va aquí (.) no (.) <con la cuerda> [/] con la cuerda aquí (.) no ?
+%mor:	co|mira=look pro:dem|éste=this_one v|i-3S&PRES=go adv|aquí=here adv|no=no 
+	prep|con=with det:art|el&FEM&SG=the n|cuerda&fem=string adv|aquí=here 
+	adv|no=no ? 
+*ARI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	eh (.) ha saltado .
+%mor:	co|eh co|ha part|salta-PPART&MASC=jump . 
+%com:	dispara el arpón
+*ARI:	que bajes la cuerda .
+%mor:	prep|que=than v|baja-2S&SUB&PRES=come_down det:art|el&FEM&SG=the n|cuerda&fem=string 
+	. 
+*CHI:	ya verás .
+%mor:	adv|ya=already v|ve-2S&FUT=see . 
+*CHI:	<el capitán (.) mira> [//] el capitán en la agüita .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain prep|en=in det:art|el&FEM&SG=the 
+	n|agua-DIM-FEM=water . 
+*ARI:	la lanzo muy lejos .
+%mor:	det:art|el&FEM&SG=the v|lanza-1S&PRES=hurl adv|muy=very adv|lejos=far 
+	. 
+*CHI:	el abuelo aquí .
+%mor:	det:art|el&MASC&SG=the n|abuelo-MASC=grandparent adv|aquí=here . 
+*CHI:	el capitán .
+%mor:	det:art|el&MASC&SG=the n|capitán&masc=captain . 
+*ARI:	no lo muevas .
+%mor:	adv|no=no pro:per:1|lo&masc=him v|move-2S&SUB&PRES=move . 
+*ARI:	vamos a luchar .
+%mor:	co|vamos=go prep|a=to v|lucha-INF=fight . 
+*ARI:	quita .
+%mor:	v|quita-3S&PRES=remove . 
+*CHI:	el barco se va !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat pro:per|se=itself v|i-3S&PRES=go 
+	! 
+*ARI:	otra bola !
+%mor:	det:indef|otro-FEM=other n|bola&fem=ball ! 
+%com:	dispara el cañón
+*ARI:	rebota .
+%mor:	v|rebota-3S&PRES=rebound . 
+*ARI:	dispara .
+%mor:	v|dispara-3S&PRES=shoot . 
+*CHI:	eso qué es ?
+%mor:	pro:dem|eso=that_one pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	el micrófono .
+%mor:	det:art|el&MASC&SG=the n|micrófono&masc=microphone . 
+*ARI:	tiro esto .
+%mor:	n|tiro&masc=toss det:dem|este-MASC=this . 
+*CHI:	eh (.) ha salta(d)o !
+%mor:	co|eh co|ha part|salta-PPART&MASC=jump ! 
+%com:	el arpón
+*CHI:	para qué es eso ?
+%mor:	prep|para=for pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+*INV:	para escuchar .
+%mor:	prep|para=for v|escucha-INF=listen . 
+%com:	los cascos
+*CHI:	la música ?
+%mor:	det:art|el&FEM&SG=the n|música&fem=music ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	la música no .
+%mor:	det:art|el&FEM&SG=the n|música&fem=music co|no=no . 
+*CHI:	para qué ?
+%mor:	prep|para=for pro:int|qué=what ? 
+*INV:	a ti .
+%mor:	prep|a=to pro:per|ti=you . 
+*CHI:	vamos a sacarla .
+%mor:	co|vamos=go prep|a=to v|saca-INF~pro:clit|OBJ&FEM . 
+*ARI:	bombardeo .
+%mor:	n|bombardeo&masc=bombardment . 
+*CHI:	tengo un vestido de naranja .
+%mor:	v|tene-1S&PRES=have det:art|un&masc=one n|vestido&masc=garment prep|de=of 
+	n|naranja&fem=orange . 
+*ARI:	has visto ?
+%mor:	v|habe-2S&PRES=have v|vesti-1S&PRES=dress ? 
+%com:	dispara el cañón
+*CHI:	mira (.) tengo este vestido .
+%mor:	co|mira=look v|tene-1S&PRES=have det:dem|este=this n|vestido&masc=garment 
+	. 
+*ARI:	ay (.) no sale .
+%mor:	co|ay=ay co|no=no v|sali-3S&PRES=leave . 
+*CHI:	tienes que ver (.) mira uno .
+%mor:	v|tene-2S&PRES=have prep|que=than v|ve-INF=see co|mira=look det:art|un-MASC=one 
+	. 
+*INV:	luego lo veo .
+%mor:	adv|luego=afterwards pro:per:1|lo&masc=him v|ve-1S&PRES=see . 
+*CHI:	mira y aquí tengo algo .
+%mor:	co|mira=look coord|y=and adv|aquí=here v|tene-1S&PRES=have pro:dem|algo=something 
+	. 
+*CHI:	mira (.) sí pero voy a meter .
+%mor:	co|mira=look co|sí=yes conj|pero=but v|i-1S&PRES=go prep|a=to v|mete-INF=put 
+	. 
+*FAT:	Izaskun tienes que jugar .
+%mor:	n:prop|Izaskun v|tene-2S&PRES=have prep|que=than v|juga-INF=play . 
+*ARI:	es que le aburre .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|le=him v|aburri-3S&PRES=bore . 
+*CHI:	aita@s:eus luego podemos ir a los columpios arriba ?
+%mor:	L2|aita adv|luego=afterwards v|pode-1P&PRES=can v|i-INF=go prep|a=to det:art|el&MASC-PL=the 
+	n|columpio&masc-PL=swing adv|arriba=above ? 
+*CHI:	sí (.) yupi (.) bien !
+%mor:	co|sí=yes co|yupi=yippee adv|bien=well ! 
+*CHI:	ahora ésta está aquí .
+%mor:	adv|ahora=now pro:dem|éste-FEM=this_one v|esta-3S&PRES=be adv|aquí=here 
+	. 
+@End

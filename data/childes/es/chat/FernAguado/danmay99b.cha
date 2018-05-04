@@ -1,0 +1,601 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Daniel Target_Child , MIG Miguel Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|CHI|4;1.16||||Target_Child|||
+@ID:	spa|fernaguado|MIG|5;0.23||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	05-MAY-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	DAN y MIG juegan con el barco
+*MIG:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*CHI:	allí .
+%mor:	adv|allí=there . 
+%com:	le indica para que mire el dibujo
+*MIG:	venga (.) que nosotros con esto no podemos .
+%mor:	co|venga=come_on prep|que=than pro:per|nosotro-MASC-PL=we prep|con=with 
+	det:dem|este-MASC=this adv|no=no v|pode-1P&PRES=can . 
+*MIG:	jobar (.) esto se pone así .
+%mor:	co|jobar=wow det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put 
+	adv|así=thus . 
+%com:	coloca una red
+*MIG:	mira .
+%mor:	co|mira=look . 
+*MIG:	nada .
+%mor:	pro:indef|nada=nothing . 
+*CHI:	la has puesto al revés .
+%mor:	det:art|el&FEM&SG=the v|habe-2S&PRES=have part|pone-PPART-MASC=put prep|a~det|el&MASC 
+	n|revés&masc=reverse . 
+*MIG:	sí (.) porque venía así .
+%mor:	co|sí=yes conj|porque=because v|veni-13S&PAS=come adv|así=thus . 
+*MIG:	ay (.) que cacho mierda esto .
+%mor:	co|ay=ay prep|que=than n|cacho&masc=slice n|mierda&fem=shit det:dem|este-MASC=this 
+	. 
+*MIG:	que cacho mierda .
+%mor:	prep|que=than n|cacho&masc=slice n|mierda&fem=shit . 
+*CHI:	estás tonto o qué ?
+%mor:	v|esta-2S&PRES=be n|tonto-MASC=dummy coord|o=or pro:int|qué=what ? 
+*MIG:	es un cacho mierda esto .
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|cacho&masc=slice n|mierda&fem=shit 
+	det:dem|este-MASC=this . 
+*CHI:	cacho mierda .
+%mor:	n|cacho&masc=slice n|mierda&fem=shit . 
+*MIG:	sí .
+%mor:	co|sí=yes . 
+*MIG:	esto es un cacho mierda .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un&masc=one n|cacho&masc=slice 
+	n|mierda&fem=shit . 
+*CHI:	mira [/] mira lo que he puesto para aquí .
+%mor:	co|mira=look pro:per:1|lo&masc=him prep|que=than co|he part|pone-PPART-MASC=put 
+	prep|para=for adv|aquí=here . 
+%com:	un pirata en el barco
+*CHI:	cacho vaca .
+%mor:	n|cacho&masc=slice n|vaca&fem=cow . 
+*MIG:	esto es un cacho mierda de pirata .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un&masc=one n|cacho&masc=slice 
+	n|mierda&fem=shit prep|de=of n|pirata&masc=pirate . 
+*CHI:	cara de mierda .
+%mor:	n|cara&fem=face prep|de=of n|mierda&fem=shit . 
+*CHI:	cara de pirata .
+%mor:	n|cara&fem=face prep|de=of n|pirata&masc=pirate . 
+*MIG:	ya se (.) mira !
+%mor:	adv|ya=already pro:per|se=itself co|mira=look ! 
+*CHI:	falta el ancla .
+%mor:	v|falta-3S&PRES=be_lacking det:art|el&MASC&SG=the n|ancla&fem=anchor . 
+*CHI:	no !
+%mor:	adv|no=no ! 
+%com:	la encuentra
+*MIG:	mira .
+%mor:	co|mira=look . 
+*CHI:	si falta el tesoro !
+%mor:	conj|si=if v|falta-3S&PRES=be_lacking det:art|el&MASC&SG=the co:voc|tesoro=treasure 
+	! 
+*CHI:	estás tonto .
+%mor:	v|esta-2S&PRES=be n|tonto-MASC=dummy . 
+*CHI:	<el tesoro> [/] el tesoro lo guardan aquí .
+%mor:	det:art|el&MASC&SG=the n|tesoro&masc=treasure pro:per:1|lo&masc=him v|guarda-3P&PRES=guard 
+	adv|aquí=here . 
+*MIG:	sí .
+%mor:	co|sí=yes . 
+*MIG:	el tesoro porque lo robaron .
+%mor:	det:art|el&MASC&SG=the co:voc|tesoro=treasure conj|porque=because pro:per:1|lo&masc=him 
+	v|roba-3P&PRET=rob . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	no lo robaron [*] nadie porque todos son de aquí (.) todos .
+%mor:	adv|no=no pro:per:1|lo&masc=him v|roba-3P&PRET=rob pro:per|nadie=nobody 
+	conj|porque=because det:indef|todo-MASC-PL=all v|se-3P&PRES=be prep|de=of 
+	adv|aquí=here det:indef|todo-MASC-PL=all . 
+*MIG:	y esto hay que ponerlo aquí .
+%mor:	coord|y=and det:dem|este-MASC=this v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|pone-INF~pro:clit|OBJ&MASC adv|aquí=here . 
+%com:	la bandera
+*MIG:	mira (.) lo estoy montando yo (.) y se .
+%mor:	co|mira=look pro:per:1|lo&masc=him v|esta-1S&PRES=be v|monta-PROG=climb_on 
+	pro:per|yo=I coord|y=and pro:per|se=itself . 
+*INV:	que bien .
+%mor:	prep|que=than adv|bien=well . 
+*CHI:	porque tú tienes igual (.) eh ?
+%mor:	conj|porque=because pro:per|tú=you v|tene-2S&PRES=have co|igual=equal 
+	co|eh ? 
+*MIG:	y se ha rompido [*] .
+%mor:	coord|y=and pro:per|se=itself co|ha part|rompe-PPART&MASC=break . 
+%com:	se cae una vela del mástil
+*MIG:	y esto también .
+%mor:	coord|y=and det:dem|este-MASC=this adv|también=also . 
+%com:	mira en el camarote
+*MIG:	están montando en una vaca .
+%mor:	v|esta-3P&PRES=be v|monta-PROG=climb_on prep|en=in det:art|un-FEM=one 
+	n|vaca&fem=cow . 
+*MIG:	xxx .
+*CHI:	y no lo puedo poner aquí !
+%mor:	coord|y=and adv|no=no pro:per:1|lo&masc=him v|pode-1S&PRES=can v|pone-INF=put 
+	adv|aquí=here ! 
+%com:	no puede quitar la bandera para poner la vela
+*MIG:	capitán Garfio .
+%mor:	n|capitán&masc=captain n:prop|Garfio . 
+*CHI:	no lo puedo poner .
+%mor:	adv|no=no pro:per:1|lo&masc=him v|pode-1S&PRES=can v|pone-INF=put . 
+*MIG:	eso no iba ahí .
+%mor:	pro:dem|eso=that_one adv|no=no v|i-13S&PAS=go adv|ahí=there . 
+*MIG:	iba esto .
+%mor:	v|i-13S&PAS=go det:dem|este-MASC=this . 
+*MIG:	creo .
+%mor:	v|cree-1S&PRES=believe . 
+*MIG:	es un capitán .
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|capitán&masc=captain . 
+*MIG:	el que lleva la escopeta como [/] igual a la mía .
+%mor:	det:art|el&MASC&SG=the prep|que=than v|lleva-3S&PRES=carry det:art|el&FEM&SG=the 
+	n|escopeta&fem=gun co|igual=equal prep|a=to det:art|el&FEM&SG=the pro:pos|mío-FEM=mine 
+	. 
+%com:	mira el dibujo
+*MIG:	sí .
+%mor:	co|sí=yes . 
+*CHI:	éste mira que tonto está .
+%mor:	pro:dem|éste=this_one co|mira=look prep|que=than n|tonto-MASC=dummy v|esta-3S&PRES=be 
+	. 
+%com:	coge un pirata
+*MIG:	mira éste .
+%mor:	co|mira=look pro:dem|éste=this_one . 
+*CHI:	éstos son los malos del capitán Garfio .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be det:art|el&MASC-PL=the 
+	n|malo&masc-PL=devil prep|de~det|el&MASC n|capitán&masc=captain n:prop|Garfio 
+	. 
+*CHI:	paleto .
+%mor:	n|paleto&masc=hick . 
+*CHI:	le he dicho paleto al capitán Garfio .
+%mor:	pro:per|le=him co|he part|deci-PPART-MASC=say n|paleto&masc=hick prep|a~det|el&MASC 
+	n|capitán&masc=captain n:prop|Garfio . 
+*MIG:	sí .
+%mor:	co|sí=yes . 
+*MIG:	dile eso .
+%mor:	v|da-1S&PRET~pro:clit|3S pro:dem|eso=that_one . 
+*CHI:	paleto .
+%mor:	n|paleto&masc=hick . 
+*CHI:	cara de paleto .
+%mor:	n|cara&fem=face prep|de=of n|paleto&masc=hick . 
+*CHI:	eres un cara de paleto .
+%mor:	v|se-2S&PRES=be det:art|un&masc=one n|cara&fem=face prep|de=of n|paleto&masc=hick 
+	. 
+*CHI:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*CHI:	que se cae .
+%mor:	prep|que=than pro:per|se=itself v|cae-3S&PRES=fall . 
+*CHI:	la barca [/] he cogido <la barca> [/] la barca de los piratas .
+%mor:	det:art|el&FEM&SG=the co|he part|coge-PPART&MASC=take det:art|el&FEM&SG=the 
+	n|barco-FEM=boat prep|de=of det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	. 
+*MIG:	es igual al mío Daniel .
+%mor:	v|se-3S&PRES=be adj|igual=equal prep|a~det|el&MASC pro:pos|mío-MASC=mine 
+	n:prop|Daniel . 
+%com:	el barco
+*MIG:	es igual al mío (.) porque esto se pone así .
+%mor:	v|se-3S&PRES=be adj|igual=equal prep|a~det|el&MASC pro:pos|mío-MASC=mine 
+	conj|porque=because det:dem|este-MASC=this pro:per|se=itself v|pone-3S&PRES=put 
+	adv|así=thus . 
+%com:	el puesto del vigía
+*MIG:	es igual al mío .
+%mor:	v|se-3S&PRES=be adj|igual=equal prep|a~det|el&MASC pro:pos|mío-MASC=mine 
+	. 
+*MIG:	ya se ha atornilla(d)o .
+%mor:	adv|ya=already pro:per|se=itself co|ha part|atornilla-PPART&MASC=screw 
+	. 
+*MIG:	sabemos nosotros como va .
+%mor:	v|sabe-1P&PRES=know pro:per|nosotro-MASC-PL=we adv|como=like v|i-3S&PRES=go 
+	. 
+*CHI:	mira (.) mira que tonto es .
+%mor:	co|mira=look co|mira=look prep|que=than n|tonto-MASC=dummy v|se-3S&PRES=be 
+	. 
+*CHI:	ha hecho así .
+%mor:	co|ha n|hecho&masc=action adv|así=thus . 
+%com:	mueve un pirata por el barco
+*MIG:	y así se mete (.) aquí o al otro la(d)o ?
+%mor:	coord|y=and adv|así=thus pro:per|se=itself v|mete-3S&PRES=put adv|aquí=here 
+	coord|o=or prep|a~det|el&MASC pro:indef|otro=other n|lado&masc=side ? 
+%com:	intenta enganchar las redes de los mástiles
+*MIG:	se mete al otro la(d)o .
+%mor:	pro:per|se=itself v|mete-3S&PRES=put prep|a~det|el&MASC pro:indef|otro=other 
+	n|lado&masc=side . 
+*MIG:	<hay que agarrar los dos> [/] hay que agarrar los dos .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|agarra-INF=grasp det:art|el&MASC-PL=the 
+	det:num|dos=two . 
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	para la caña no se agarra .
+%mor:	prep|para=for det:art|el&FEM&SG=the n|caña&fem=stalk adv|no=no pro:per|se=itself 
+	v|agarra-3S&PRES=grasp . 
+*MIG:	y hay que agarrar la barca por arriba porque si no se cae .
+%mor:	coord|y=and v|habe-3S&PRES&SPEC=have prep|que=than v|agarra-INF=grasp 
+	det:art|el&FEM&SG=the n|barco-FEM=boat prep|por=for adv|arriba=above conj|porque=because 
+	conj|si=if adv|no=no pro:per|se=itself v|cae-3S&PRES=fall . 
+*MIG:	jobar (.) hay que agarrar la barca por arriba porque si no se cae .
+%mor:	co|jobar=wow v|habe-3S&PRES&SPEC=have prep|que=than v|agarra-INF=grasp 
+	det:art|el&FEM&SG=the n|barco-FEM=boat prep|por=for adv|arriba=above conj|porque=because 
+	conj|si=if adv|no=no pro:per|se=itself v|cae-3S&PRES=fall . 
+*MIG:	se agarra por aquí porque si no +...
+%mor:	pro:per|se=itself v|agarra-3S&PRES=grasp prep|por=for adv|aquí=here conj|porque=because 
+	conj|si=if adv|no=no +... 
+*MIG:	primero hay que meter esto .
+%mor:	adv|primero=first v|habe-3S&PRES&SPEC=have prep|que=than v|mete-INF=put 
+	det:dem|este-MASC=this . 
+*CHI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*MIG:	ay (.) cómo se mete esto ?
+%mor:	co|ay=ay pro:int|cómo=how pro:per|se=itself v|mete-3S&PRES=put det:dem|este-MASC=this 
+	? 
+*MIG:	con una mano ?
+%mor:	prep|con=with det:art|un-FEM=one n|mano&fem=hand ? 
+*MIG:	pues se tiene que agarrar .
+%mor:	co|pues=well pro:per|se=itself v|tene-3S&PRES=have prep|que=than v|agarra-INF=grasp 
+	. 
+*MIG:	jobar (.) no se puede agarrar eso .
+%mor:	co|jobar=wow adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|agarra-INF=grasp 
+	pro:dem|eso=that_one . 
+*MIG:	hay que hacer una forma de agarrar eso .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|hace-INF=do det:art|un-FEM=one 
+	n|forma&fem=shape prep|de=of v|agarra-INF=grasp pro:dem|eso=that_one . 
+*MIG:	jobar (.) se tiene que agarrar .
+%mor:	co|jobar=wow pro:per|se=itself v|tene-3S&PRES=have prep|que=than v|agarra-INF=grasp 
+	. 
+*MIG:	éste (.) arriba .
+%mor:	pro:dem|éste=this_one adv|arriba=above . 
+%com:	quiere colocar un pirata en la red
+*MIG:	el mío está aquí .
+%mor:	det:art|el&MASC&SG=the pro:pos|mío-MASC=mine v|esta-3S&PRES=be adv|aquí=here 
+	. 
+*MIG:	pero tenían esto aquí .
+%mor:	conj|pero=but v|tene-3P&PAS=have det:dem|este-MASC=this adv|aquí=here 
+	. 
+%com:	coloca una vela
+*CHI:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CHI:	mira éste está encerra(d)o ahí .
+%mor:	co|mira=look pro:dem|éste=this_one v|esta-3S&PRES=be part|encerra-PPART&MASC=enclose 
+	adv|ahí=there . 
+%com:	en la bodega
+*CHI:	abrirme [*] !
+%mor:	v|abri-INF~pro:clit|1S ! 
+*CHI:	éstos como eran muy malos le encerraron en el barco .
+%mor:	pro:dem|éste-MASC-PL=this_one adv|como=like v|se-3P&PAS=be adv|muy=very 
+	adj|malo-MASC-PL=bad pro:per|le=him v|encerra-3P&PRET=enclose prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	abrirme [*] que no puedo salir !
+%mor:	v|abri-INF~pro:clit|1S prep|que=than adv|no=no v|pode-1S&PRES=can v|sali-INF=leave 
+	! 
+*MIG:	está ronco .
+%mor:	v|esta-3S&PRES=be v|ronca-1S&PRES=snore . 
+*MIG:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+*CHI:	aquí dentro porque le han encerrado (.) y no le abren porque son más malos que +//.
+%mor:	adv|aquí=here adv|dentro=inside conj|porque=because pro:per|le=him v|habe-3P&PRES=have 
+	part|encerra-PPART&MASC=enclose coord|y=and adv|no=no pro:per|le=him v|abri-3P&PRES=open 
+	conj|porque=because v|se-3P&PRES=be adv|más=more n|malo&masc-PL=devil 
+	prep|que=than +//. 
+*CHI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+%com:	apoya dos muñecos en una vela que se cae
+*CHI:	ya han roto el barco .
+%mor:	adv|ya=already v|habe-3P&PRES=have part|rompe-PPART-MASC=break det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*MIG:	ya <les abro yo> [/] les abro yo .
+%mor:	adv|ya=already pro:per|le-PL=them v|abri-1S&PRES=open pro:per|yo=I . 
+*MIG:	socorro [/] socorro !
+%mor:	co|socorro ! 
+*MIG:	auxilio !
+%mor:	n|auxilio&masc=aid ! 
+*MIG:	ya te voy a sacar .
+%mor:	adv|ya=already pro:per|te=you v|i-1S&PRES=go prep|a=to v|saca-INF=bring_out 
+	. 
+*MIG:	ya le ha dispara(d)o ahora (.) o no la quieren ?
+%mor:	adv|ya=already pro:per|le=him co|ha part|dispara-PPART&MASC=shoot adv|ahora=now 
+	coord|o=or adv|no=no det:art|el&FEM&SG=the v|quere-3P&PRES=want ? 
+%com:	le da la pelota para el cañón
+*CHI:	la quieren .
+%mor:	det:art|el&FEM&SG=the v|quere-3P&PRES=want . 
+*MIG:	y la otra ?
+%mor:	coord|y=and det:art|el&FEM&SG=the det:indef|otro-FEM=other ? 
+*CHI:	tú .
+%mor:	pro:per|tú=you . 
+*MIG:	eh ?
+%mor:	co|eh ? 
+*CHI:	no lo se (.) porque ahora la has perdido .
+%mor:	adv|no=no pro:per:1|lo&masc=him pro:per|se=itself conj|porque=because 
+	adv|ahora=now det:art|el&FEM&SG=the v|habe-2S&PRES=have part|perde-PPART&MASC=lose 
+	. 
+*CHI:	que la has perdido la otra o qué ?
+%mor:	prep|que=than det:art|el&FEM&SG=the v|habe-2S&PRES=have part|perde-PPART&MASC=lose 
+	det:art|el&FEM&SG=the det:indef|otro-FEM=other coord|o=or pro:int|qué=what 
+	? 
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	yo no .
+%mor:	pro:per|yo=I adv|no=no . 
+*MIG:	ya la traeré .
+%mor:	adv|ya=already det:art|el&FEM&SG=the v|trae-1S&FUT=carry . 
+*MIG:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*MIG:	ahora aquí va .
+%mor:	adv|ahora=now adv|aquí=here v|i-3S&PRES=go . 
+%com:	coloca una red
+*CHI:	no dispara (.) jo !
+%mor:	adv|no=no v|dispara-3S&PRES=shoot co|jo=whoa ! 
+*MIG:	sí (.) porque levanta [/] levanta esto la bola .
+%mor:	co|sí=yes conj|porque=because v|levanta-3S&PRES=raise det:dem|este-MASC=this 
+	det:art|el&FEM&SG=the n|bola&fem=ball . 
+*CHI:	bomba [/] bomba a la vista .
+%mor:	n|bomba&fem=bomb prep|a=to det:art|el&FEM&SG=the n|vista&fem=view . 
+*MIG:	esto iba a xxx .
+%mor:	det:dem|este-MASC=this v|i-13S&PAS=go prep|a=to . 
+*CHI:	pues no mires .
+%mor:	co|pues=well adv|no=no v|mira-2S&SUB&PRES=look . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*MIG:	te quito ?
+%mor:	pro:per|te=you v|quita-1S&PRES=remove ? 
+*CHI:	no .
+%mor:	adv|no=no . 
+*MIG:	pues te quito .
+%mor:	co|pues=well pro:per|te=you v|quita-1S&PRES=remove . 
+*CHI:	no .
+%mor:	adv|no=no . 
+%com:	saca priatas del camarote
+*CHI:	no .
+%mor:	adv|no=no . 
+*MIG:	salían unos cuantos y te caías al agua .
+%mor:	v|sali-3P&PAS=leave det:art|un-MASC-PL=one det:indef|cuanto-MASC-PL=how_much 
+	coord|y=and pro:per|te=you v|cae-2S&PAS=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+%com:	mira el dibujo
+*CHI:	<van a> [//] va éste a_ver dónde ha ido .
+%mor:	v|i-3S&PRES=go pro:dem|éste=this_one co|a_ver=see pro:int|dónde=where 
+	co|ha part|i-PPART-MASC=go . 
+*CHI:	han ido ahí .
+%mor:	v|habe-3P&PRES=have part|i-PPART-MASC=go adv|ahí=there . 
+*MIG:	a que ya lo hemos monta(d)o ?
+%mor:	prep|a=to prep|que=than adv|ya=already pro:per:1|lo&masc=him v|habe-1P&PRES=have 
+	part|monta-PPART&MASC=climb_on ? 
+*MIG:	se lo voy a decir .
+%mor:	pro:per|se=itself pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|deci-INF=say 
+	. 
+%com:	va a buscar a la INV para que vea el barco mientras CHI sigue jugando sólo sin darse cuenta de que falta MIG
+*CHI:	mira que tonto está !
+%mor:	co|mira=look prep|que=than n|tonto-MASC=dummy v|esta-3S&PRES=be ! 
+*CHI:	se tiene que ir el barco .
+%mor:	pro:per|se=itself v|tene-3S&PRES=have prep|que=than v|i-INF=go det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*CHI:	se va el barco !
+%mor:	pro:per|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the n|barco-MASC=boat 
+	! 
+*CHI:	lo muevo para aquí .
+%mor:	pro:per:1|lo&masc=him v|move-1S&PRES=move prep|para=for adv|aquí=here 
+	. 
+%com:	MIG vuelve pero sin ganas de seguir jugando con el barco y se pone a enredar con los juguetes de CHI
+*MIG:	cómo se dispara ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|dispara-3S&PRES=shoot ? 
+%com:	coge una pistola de juguete de CHI
+*MIG:	Daniel cómo se dispara esto ?
+%mor:	n:prop|Daniel pro:int|cómo=how pro:per|se=itself v|dispara-3S&PRES=shoot 
+	det:dem|este-MASC=this ? 
+*CHI:	no se dispara !
+%mor:	adv|no=no pro:per|se=itself v|dispara-3S&PRES=shoot ! 
+*CHI:	<se pone> [/] es que se pone .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|se=itself v|pone-3S&PRES=put . 
+*MIG:	cómo se pone ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put ? 
+*CHI:	es que no sabes .
+%mor:	v|se-3S&PRES=be prep|que=than adv|no=no co|sabes=you_know . 
+*MIG:	cómo [/] Daniel cómo se hace Daniel ?
+%mor:	n:prop|Daniel pro:int|cómo=how pro:per|se=itself v|hace-3S&PRES=do n:prop|Daniel 
+	? 
+*MIG:	Daniel !
+%mor:	n:prop|Daniel ! 
+*CHI:	barco !
+%mor:	n|barco-MASC=boat ! 
+%com:	juegan enganchando los dos barcos
+*MIG:	Daniel !
+%mor:	n:prop|Daniel ! 
+*CHI:	qué ?
+%mor:	pro:int|qué=what ? 
+*MIG:	que xxx .
+%mor:	prep|que=than . 
+*MIG:	le voy a decir <a la> [//] a ella que [/] que le voy a decir .
+%mor:	pro:per|le=him v|i-1S&PRES=go prep|a=to v|deci-INF=say prep|a=to pro:per|ello-FEM=he 
+	prep|que=than pro:per|le=him v|i-1S&PRES=go prep|a=to v|deci-INF=say . 
+*MIG:	ya hemos monta(d)o todo el barco .
+%mor:	adv|ya=already v|habe-1P&PRES=have part|monta-PPART&MASC=climb_on det:indef|todo-MASC=all 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+%com:	dirigiéndose a la INV
+*MIG:	está Daniel como una cabra .
+%mor:	v|esta-3S&PRES=be n:prop|Daniel adv|como=like det:art|un-FEM=one n|cabro-FEM=goat 
+	. 
+*INV:	desde luego .
+%mor:	prep|desde=from adv|luego=afterwards . 
+*CHI:	esto aquí .
+%mor:	det:dem|este-MASC=this adv|aquí=here . 
+%com:	sigue con el barco
+*MIG:	xxx .
+*MIG:	puedo poner una cosa ?
+%mor:	v|pode-1S&PRES=can v|pone-INF=put det:art|un-FEM=one n|cosa&fem=thing 
+	? 
+%com:	coge otro juguete de CHI
+*CHI:	lo [*] qué ?
+%mor:	pro:per:1|lo&masc=him pro:int|qué=what ? 
+%com:	CHI se levanta a_ver y a explicarle
+*CHI:	sí (.) pero es para poner por aquí .
+%mor:	co|sí=yes conj|pero=but v|se-3S&PRES=be prep|para=for v|pone-INF=put 
+	prep|por=for adv|aquí=here . 
+*CHI:	pero por aquí se pierde algo ?
+%mor:	conj|pero=but prep|por=for adv|aquí=here pro:per|se=itself v|perde-3S&PRES=lose 
+	pro:dem|algo=something ? 
+*MIG:	que no .
+%mor:	prep|que=than adv|no=no . 
+*MIG:	es para ver si hace ruido (.) pero no hace .
+%mor:	v|se-3S&PRES=be prep|para=for v|ve-INF=see conj|si=if v|hace-3S&PRES=do 
+	n|ruido&masc=noise conj|pero=but adv|no=no v|hace-3S&PRES=do . 
+*CHI:	sí que hace .
+%mor:	adv|sí=yes prep|que=than v|hace-3S&PRES=do . 
+*MIG:	sí que hace pero no el ruido que tiene que hacer .
+%mor:	adv|sí=yes prep|que=than v|hace-3S&PRES=do conj|pero=but adv|no=no det:art|el&MASC&SG=the 
+	n|ruido&masc=noise prep|que=than v|tene-3S&PRES=have prep|que=than v|hace-INF=do 
+	. 
+*CHI:	vamos !
+%mor:	co|vamos=go ! 
+*CHI:	corre !
+%mor:	v|corre-3S&PRES=run ! 
+%com:	vuelven al barco
+*CHI:	que éste se va a lanzar sobre él .
+%mor:	prep|que=than pro:dem|éste=this_one pro:per|se=itself v|i-3S&PRES=go 
+	prep|a=to v|lanza-INF=hurl prep|sobre=above pro:per|él&masc=he . 
+*MIG:	por_qué no jugamos a otra cosa ?
+%mor:	pro:int|por_qué=why adv|no=no v|juga-1P&PRES=play prep|a=to det:indef|otro-FEM=other 
+	n|cosa&fem=thing ? 
+*MIG:	al hockey@s:eng .
+%mor:	prep|a~det|el&MASC L2|hockey . 
+*CHI:	al hockey@s:eng ?
+%mor:	prep|a~det|el&MASC L2|hockey ? 
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	a otra cosa .
+%mor:	prep|a=to det:indef|otro-FEM=other n|cosa&fem=thing . 
+*CHI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*CHI:	se cae .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall . 
+*MIG:	a esto digo .
+%mor:	prep|a=to det:dem|este-MASC=this v|deci-1S&PRES=say . 
+%com:	coge una raqueta
+*CHI:	no .
+%mor:	adv|no=no . 
+*MIG:	y por_qué ?
+%mor:	coord|y=and pro:int|por_qué=why ? 
+*CHI:	porque eso no está bien .
+%mor:	conj|porque=because pro:dem|eso=that_one adv|no=no v|esta-3S&PRES=be adv|bien=well 
+	. 
+*MIG:	a mi sí que me gusta .
+%mor:	prep|a=to det:pos|mi=my adv|sí=yes prep|que=than pro:per|me=me v|gusta-3S&PRES=like 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	vamos a jugar a esto .
+%mor:	co|vamos=go prep|a=to v|juga-INF=play prep|a=to det:dem|este-MASC=this 
+	. 
+%com:	al barco
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	a eso no .
+%mor:	prep|a=to pro:dem|eso=that_one adv|no=no . 
+*MIG:	vamos a jugar a hacer una cosa muy grave .
+%mor:	co|vamos=go prep|a=to v|juga-INF=play prep|a=to v|hace-INF=do det:art|un-FEM=one 
+	n|cosa&fem=thing adv|muy=very adj|grave=grave . 
+*MIG:	xxx .
+*MIG:	no vuela .
+%mor:	adv|no=no v|vola-3S&PRES=fly . 
+%com:	coge un globo y lo lanza al aire
+*MIG:	mira (.) ya verás que bonito con la raqueta (.) y verás que bonito .
+%mor:	co|mira=look adv|ya=already v|ve-2S&FUT=see prep|que=than co:voc|bonito=pretty 
+	prep|con=with det:art|el&FEM&SG=the n|raqueta&fem=racket coord|y=and v|ve-2S&FUT=see 
+	pro:rel|que=that adj|bonito-MASC=pretty . 
+%com:	le da al globo con la raqueta
+*CHI:	ya te has cansa(d)o (.) y mira que tonto estás .
+%mor:	adv|ya=already pro:per|te=you v|habe-2S&PRES=have part|cansa-PPART&MASC=tire 
+	coord|y=and co|mira=look prep|que=than n|tonto-MASC=dummy v|esta-2S&PRES=be 
+	. 
+%com:	coge la barquita
+*MIG:	mira (.) Daniel .
+%mor:	co|mira=look n:prop|Daniel . 
+*CHI:	qué ?
+%mor:	pro:int|qué=what ? 
+*MIG:	tienes que ordenar estos globos .
+%mor:	v|tene-2S&PRES=have prep|que=than v|ordena-INF=order det:dem|este-MASC-PL=this 
+	n|globo&masc-PL=globe . 
+*MIG:	ay (.) ven aquí .
+%mor:	co|ay=ay co|ven=come adv|aquí=here . 
+%com:	se le engancha y le cuesta cogerlo
+*MIG:	ya te tengo .
+%mor:	adv|ya=already pro:per|te=you v|tene-1S&PRES=have . 
+*MIG:	ahora vuela .
+%mor:	adv|ahora=now v|vola-3S&PRES=fly . 
+*CHI:	mejor con la mano (.) porque ya verás con la mano que alto va .
+%mor:	adj|mejor=better prep|con=with det:art|el&FEM&SG=the n|mano&fem=hand conj|porque=because 
+	adv|ya=already v|ve-2S&FUT=see prep|con=with det:art|el&FEM&SG=the n|mano&fem=hand 
+	prep|que=than adj|alto-MASC=tall v|i-3S&PRES=go . 
+%com:	le da al globo
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	yo le doy con la raqueta .
+%mor:	pro:per|yo=I pro:per|le=him v|da-1S&PRES=give prep|con=with det:art|el&FEM&SG=the 
+	n|raqueta&fem=racket . 
+*CHI:	pero con la espada me gusta .
+%mor:	conj|pero=but prep|con=with det:art|el&FEM&SG=the n|espada&fem=sword pro:per|me=me 
+	v|gusta-3S&PRES=like . 
+*MIG:	con la espada ?
+%mor:	prep|con=with det:art|el&FEM&SG=the n|espada&fem=sword ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+%com:	coge una espada
+*CHI:	xxx .
+*MIG:	no .
+%mor:	adv|no=no . 
+*MIG:	con ésta .
+%mor:	prep|con=with pro:dem|éste-FEM=this_one . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	yo con ésta .
+%mor:	pro:per|yo=I prep|con=with pro:dem|éste-FEM=this_one . 
+%com:	coge otra raqueta
+*CHI:	yo con la negra .
+%mor:	pro:per|yo=I prep|con=with det:art|el&FEM&SG=the adj|negro-FEM=black . 
+*CHI:	tú no le das .
+%mor:	pro:per|tú=you adv|no=no pro:per|le=him v|da-2S&PRES=give . 
+*MIG:	Daniel (.) es que los [//] le das muchas veces (.) por eso le das así .
+%mor:	n:prop|Daniel v|se-3S&PRES=be prep|que=than pro:per|le=him v|da-2S&PRES=give 
+	det:indef|mucho-FEM-PL=many n|vez&fem-PL=turn prep|por=for pro:dem|eso=that_one 
+	pro:per|le=him v|da-2S&PRES=give adv|así=thus . 
+*MIG:	le das al techo .
+%mor:	pro:per|le=him v|da-2S&PRES=give prep|a~det|el&MASC n|techo&masc=roof 
+	. 
+*CHI:	yo voy a hacer con esto .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to v|hace-INF=do prep|con=with det:dem|este-MASC=this 
+	. 
+%com:	coge los piratas y sigue jugando
+*CHI:	éste pega 0 [*] bote .
+%mor:	pro:dem|éste=this_one n|pega&fem=cement n|bote&masc=boat . 
+%com:	hace que salta por los aires
+*CHI:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+*MIG:	ahora le voy a dar con las dos raquetas .
+%mor:	adv|ahora=now pro:per|le=him v|i-1S&PRES=go prep|a=to v|da-INF=give prep|con=with 
+	det:art|el&FEM-PL=the det:num|dos=two n|raqueta&fem-PL=racket . 
+*CHI:	ahora pa(ra) que te enteres (.) aunque se caiga el barco .
+%mor:	adv|ahora=now prep|para=for prep|que=than pro:per|te=you v|entera-2S&SUB&PRES=inform 
+	conj|aunque=though pro:per|se=itself v|cae-13S&SUB&PRES=fall det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*CHI:	se va a caer .
+%mor:	pro:per|se=itself v|i-3S&PRES=go prep|a=to v|cae-INF=fall . 
+%com:	cuelga la barca
+*CHI:	se va a hacer daño .
+%mor:	pro:per|se=itself v|i-3S&PRES=go prep|a=to v|hace-INF=do n|daño&masc=damage 
+	. 
+*MIG:	por_qué tú no vienes ?
+%mor:	pro:int|por_qué=why pro:per|tú=you adv|no=no v|veni-2S&PRES=come ? 
+%com:	habla con el balón
+*MIG:	a_ver (.) ya verás (.) toma .
+%mor:	co|a_ver=see adv|ya=already v|ve-2S&FUT=see v|toma-3S&PRES=take . 
+%com:	lanza el balón
+*MIG:	que no se me encale en el mismo sitio .
+%mor:	prep|que=than adv|no=no pro:per|se=itself pro:per|me=me v|encala-13S&SUB&PRES=whitewash 
+	prep|en=in det:art|el&MASC&SG=the adj|mismo-MASC=same n|sitio&masc=place 
+	. 
+*MIG:	toma [/] toma [/] toma [/] toma [/] toma .
+%mor:	v|toma-3S&PRES=take . 
+*CHI:	como te coja +...
+%mor:	adv|como=like pro:per|te=you adj|cojo-FEM=crippled +... 
+%com:	sigue jugando con el barco
+*CHI:	y la deja abierta .
+%mor:	coord|y=and det:art|el&FEM&SG=the v|deja-3S&PRES=leave part|abri-PPART-FEM=open 
+	. 
+*CHI:	como te coja te voy a dar .
+%mor:	adv|como=like pro:per|te=you adj|cojo-FEM=crippled pro:per|te=you v|i-1S&PRES=go 
+	prep|a=to v|da-INF=give . 
+@End

@@ -1,0 +1,741 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CAR Cara Target_Child , ANM Andrea Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|CAR|3;0.24||||Target_Child|||
+@ID:	spa|fernaguado|ANM|3;0.24||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	01-MAR-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CAR y ANM juegan con el barco pirata
+*CAR:	aquí hay un tesoro .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un&masc=one co:voc|tesoro=treasure 
+	. 
+%com:	me enseña el baúl
+*CAR:	a que sí ?
+%mor:	prep|a=to prep|que=than co|sí=yes ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	cómo lo sabes ?
+%mor:	co|cómo pro:per:1|lo&masc=him co|sabes=you_know ? 
+*INV:	que lista !
+%mor:	prep|que=than adj|listo-FEM=ready ! 
+*ANM:	no lo podemos ab(r)ir [*] (.) eh +...
+%mor:	adv|no=no pro:per:1|lo&masc=him v|pode-1P&PRES=can v|abri-INF=open co|eh 
+	+... 
+*INV:	no .
+%mor:	adv|no=no . 
+*ANM:	+, po(r)que [*] está cerrado .
+%mor:	conj|porque=because v|esta-3S&PRES=be part|cerra-PPART&MASC=close . 
+*INV:	claro (.) con llave .
+%mor:	co|claro=obvious prep|con=with n|llave&fem=key . 
+*ANM:	esta no es la llave .
+%mor:	det:dem|este-FEM=this adv|no=no v|se-3S&PRES=be det:art|el&FEM&SG=the 
+	n|llave&fem=key . 
+%com:	me enseña una vela
+*INV:	eso dónde lo ponemos ?
+%mor:	pro:dem|eso=that_one pro:int|dónde=where pro:per:1|lo&masc=him v|pone-1P&PRES=put 
+	? 
+*CAR:	xxx .
+*INV:	dónde lo ponemos ?
+%mor:	pro:int|dónde=where pro:per:1|lo&masc=him v|pone-1P&PRES=put ? 
+*INV:	lo ponemos por ejemplo +...
+%mor:	pro:per:1|lo&masc=him v|pone-1P&PRES=put prep|por=for n|ejemplo&masc=example 
+	+... 
+%com:	las velas
+*CAR:	++ así .
+%mor:	adv|así=thus . 
+*INV:	aquí y éste por ejemplo ahí .
+%mor:	adv|aquí=here coord|y=and pro:dem|éste=this_one prep|por=for n|ejemplo&masc=example 
+	adv|ahí=there . 
+*ANM:	sí .
+%mor:	co|sí=yes . 
+*INV:	muy bien (.) pero aquí hay más cosas .
+%mor:	adv|muy=very adv|bien=well conj|pero=but adv|aquí=here v|habe-3S&PRES&SPEC=have 
+	adv|más=more n|cosa&fem-PL=thing . 
+*CAR:	esto .
+%mor:	det:dem|este-MASC=this . 
+*INV:	pero qué es eso que no se ?
+%mor:	conj|pero=but pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one prep|que=than 
+	adv|no=no pro:per|se=itself ? 
+*CAR:	0 [*] mesa .
+%mor:	n|mesa&fem=table . 
+*INV:	y para qué son las mesas ?
+%mor:	coord|y=and prep|para=for pro:int|qué=what v|se-3P&PRES=be det:art|el&FEM-PL=the 
+	n|mesa&fem-PL=table ? 
+*CAR:	para comer .
+%mor:	prep|para=for v|come-INF=eat . 
+*INV:	pues venga (.) los ponemos a comer ?
+%mor:	co|pues=well co|venga=come_on det:art|el&MASC-PL=the v|pone-1P&PRES=put 
+	prep|a=to v|come-INF=eat ? 
+*ANM:	a comer .
+%mor:	prep|a=to v|come-INF=eat . 
+*INV:	venga (.) qué les ponemos de comer ?
+%mor:	co|venga=come_on pro:int|qué=what pro:per|le-PL=them v|pone-1P&PRES=put 
+	prep|de=of v|come-INF=eat ? 
+*CAR:	macarrones .
+%mor:	n|macarrones&masc=macaroni . 
+*INV:	qué ricos (.) yo también quiero .
+%mor:	pro:int|qué=what adj|rico-MASC-PL=rich pro:per|yo=I adv|también=also 
+	v|quere-1S&PRES=want . 
+*ANM:	no .
+%mor:	adv|no=no . 
+*CAR:	no .
+%mor:	adv|no=no . 
+*ANM:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+%com:	una bala del cañón
+*INV:	ya lo cojo .
+%mor:	adv|ya=already pro:per:1|lo&masc=him adj|cojo-MASC=crippled . 
+*ANM:	ah (.) que se escapa .
+%mor:	co|ah prep|que=than pro:per|se=itself v|escapa-3S&PRES=escape . 
+*CAR:	ah (.) ponela [*] .
+%mor:	co|ah v|pone-2S&IMP~pro:clit|OBJ&FEM . 
+*INV:	a_ver (.) ponla allí .
+%mor:	co|a_ver=see v|pone-2S&IMP~pro:clit|OBJ&FEM adv|allí=there . 
+*CAR:	así no .
+%mor:	adv|así=thus adv|no=no . 
+*INV:	los ponemos a comer a los piratas ?
+%mor:	det:art|el&MASC-PL=the v|pone-1P&PRES=put prep|a=to v|come-INF=eat prep|a=to 
+	det:art|el&MASC-PL=the n|pirata&masc-PL=pirate ? 
+*ANM:	sí .
+%mor:	co|sí=yes . 
+*INV:	en la mesita ?
+%mor:	prep|en=in det:art|el&FEM&SG=the n|mesa-DIM-FEM=table ? 
+*ANM:	sí .
+%mor:	co|sí=yes . 
+*INV:	venga (.) a colocarlos .
+%mor:	co|venga=come_on prep|a=to v|coloca-INF~pro:clit|OBJ&MASC&PL . 
+*CAR:	ahora .
+%mor:	adv|ahora=now . 
+*ANM:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*INV:	pues a ponerlos .
+%mor:	co|pues=well prep|a=to v|pone-INF~pro:clit|OBJ&MASC&PL . 
+*CAR:	espera !
+%mor:	v|espera-3S&PRES=wait ! 
+%com:	discuten por la mesa
+*ANM:	que se ha caído !
+%mor:	prep|que=than pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*CAR:	no !
+%mor:	adv|no=no ! 
+*ANM:	que sí .
+%mor:	prep|que=than co|sí=yes . 
+*INV:	venga (.) a ponerlos a comer .
+%mor:	co|venga=come_on prep|a=to v|pone-INF~pro:clit|OBJ&MASC&PL prep|a=to v|come-INF=eat 
+	. 
+*ANM:	sí .
+%mor:	co|sí=yes . 
+*ANM:	dónde están ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be ? 
+*INV:	cada uno a un sitio .
+%mor:	det:indef|cada=each det:art|un-MASC=one prep|a=to det:art|un&masc=one 
+	n|sitio&masc=place . 
+*INV:	a_ver dónde .
+%mor:	co|a_ver=see pro:int|dónde=where . 
+*ANM:	este pirata no lo he saca(d)o .
+%mor:	det:dem|este=this n|pirata&masc=pirate adv|no=no pro:per:1|lo&masc=him 
+	co|he part|saca-PPART&MASC=bring_out . 
+*ANM:	sabes [/] sabes ?
+%mor:	co|sabes=you_know ? 
+*CAR:	ah (.) que no llego !
+%mor:	co|ah prep|que=than adv|no=no v|llega-1S&PRES=arrive ! 
+%com:	sube el pirata al barco y no alcanza a cogerlo
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CAR:	<que no llego> [/] que no llego !
+%mor:	prep|que=than adv|no=no v|llega-1S&PRES=arrive ! 
+*INV:	a_ver ahora .
+%mor:	co|a_ver=see adv|ahora=now . 
+*CAR:	ya lo cojo .
+%mor:	adv|ya=already pro:per:1|lo&masc=him adj|cojo-MASC=crippled . 
+*ANM:	no tiene ojo .
+%mor:	adv|no=no v|tene-3S&PRES=have co|ojo . 
+*INV:	pues no ve nada .
+%mor:	co|pues=well adv|no=no co|ve=see pro:indef|nada=nothing . 
+*CAR:	a_ver (.) pues tiene (.) <este capitán> [//] el capitán Garfio .
+%mor:	co|a_ver=see co|pues=well v|tene-3S&PRES=have det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio . 
+*ANM:	éste no tiene tampoco .
+%mor:	pro:dem|éste=this_one adv|no=no v|tene-3S&PRES=have adv|tampoco=neither 
+	. 
+*INV:	pues tampoco ve .
+%mor:	co|pues=well adv|tampoco=neither co|ve=see . 
+*CAR:	éste es el capitán Garfio .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*ANM:	<y éste también> [<] .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also . 
+*CAR:	<ah (.) que me caigo> [>] !
+%mor:	co|ah prep|que=than pro:per|me=me v|cae-1S&PRES=fall ! 
+*CAR:	este capitán <se ha caído> [/] se ha caído .
+%mor:	det:dem|este=this n|capitán&masc=captain pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	. 
+*ANM:	ah (.) este cara bola se ha caído !
+%mor:	co|ah det:dem|este=this adj|caro-FEM=dear n|bola&fem=ball pro:per|se=itself 
+	co|ha part|cae-PPART&MASC=fall ! 
+*INV:	tendrá hambre .
+%mor:	v|tene-3S&FUT=have n|hambre&fem=hunger . 
+*CAR:	pues no [/] no tiene boca !
+%mor:	co|pues=well adv|no=no v|tene-3S&PRES=have n|boca&fem=mouth ! 
+*CAR:	se le ha escapa(d)o la boca .
+%mor:	pro:per|se=itself pro:per|le=him co|ha part|escapa-PPART&MASC=escape det:art|el&FEM&SG=the 
+	n|boca&fem=mouth . 
+*INV:	se le ha escapa(d)o ?
+%mor:	pro:per|se=itself pro:per|le=him co|ha part|escapa-PPART&MASC=escape ? 
+*CAR:	mi(r)a [*] .
+%mor:	co|mira=look . 
+%com:	me enseña el muñeco
+*INV:	pues no va a poder comer .
+%mor:	co|pues=well adv|no=no v|i-3S&PRES=go prep|a=to n|poder&masc=power v|come-INF=eat 
+	. 
+*INV:	la tiene debajo de la barba .
+%mor:	det:art|el&FEM&SG=the v|tene-3S&PRES=have adv|debajo=below prep|de=of 
+	det:art|el&FEM&SG=the n|barba&fem=beard . 
+*ANM:	y qué ?
+%mor:	coord|y=and pro:int|qué=what ? 
+*CAR:	mi(r)a [*] .
+%mor:	co|mira=look . 
+%com:	le enseña a AND
+*ANM:	sí .
+%mor:	co|sí=yes . 
+*INV:	sí que nariz más grande tiene éste !
+%mor:	adv|sí=yes prep|que=than n|nariz&fem=nose adv|más=more adj|grande=big 
+	v|tene-3S&PRES=have pro:dem|éste=this_one ! 
+*CAR:	a comer !
+%mor:	prep|a=to v|come-INF=eat ! 
+*INV:	venga .
+%mor:	co|venga=come_on . 
+*CAR:	quiero un xxx .
+%mor:	v|quere-1S&PRES=want det:art|un&masc=one . 
+*CAR:	se ha caído la meza [: mesa] [*] .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|el&FEM&SG=the 
+	n|mesa&fem=table . 
+*INV:	bueno (.) pues la ponemos otra vez bien .
+%mor:	co|bueno=good co|pues=well det:art|el&FEM&SG=the v|pone-1P&PRES=put det:indef|otro-FEM=other 
+	n|vez&fem=turn adv|bien=well . 
+*ANM:	se ha caído la mesa !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|el&FEM&SG=the 
+	n|mesa&fem=table ! 
+*INV:	hay que colocarla .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|coloca-INF~pro:clit|OBJ&FEM . 
+*CAR:	pues aquí .
+%mor:	co|pues=well adv|aquí=here . 
+%com:	la baja del barco y la pone sobre la mesa en la que juegan las dos
+*ANM:	como ahí se cae aquí la ponemos .
+%mor:	adv|como=like adv|ahí=there pro:per|se=itself v|cae-3S&PRES=fall adv|aquí=here 
+	det:art|el&FEM&SG=the v|pone-1P&PRES=put . 
+*CAR:	y éste no tiene boca !
+%mor:	coord|y=and pro:dem|éste=this_one adv|no=no v|tene-3S&PRES=have n|boca&fem=mouth 
+	! 
+*INV:	debajo de la barba .
+%mor:	adv|debajo=below prep|de=of det:art|el&FEM&SG=the n|barba&fem=beard . 
+*CAR:	a_ver .
+%mor:	co|a_ver=see . 
+*ANM:	oh (.) pues es pirata .
+%mor:	co|oh=oh co|pues=well v|se-3S&PRES=be n|pirata&masc=pirate . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*INV:	es un pirata .
+%mor:	v|se-3S&PRES=be det:art|un&masc=one n|pirata&masc=pirate . 
+*ANM:	tampoco no [*] tiene boca .
+%mor:	adv|tampoco=neither adv|no=no v|tene-3S&PRES=have n|boca&fem=mouth . 
+*INV:	no .
+%mor:	adv|no=no . 
+*CAR:	mi(r)a [*] !
+%mor:	co|mira=look ! 
+%com:	me enseña una red que no se ha colocado todavía en el barco
+*INV:	oh (.) hay otra ?
+%mor:	co|oh=oh v|habe-3S&PRES&SPEC=have det:indef|otro-FEM=other ? 
+*CAR:	a ponía [*] .
+%mor:	prep|a=to v|pone-13S&PAS=put . 
+*INV:	a poner (.) a_ver y nos hemos dejado uno que se muere de hambre ahí arriba .
+%mor:	prep|a=to v|pone-INF=put co|a_ver=see coord|y=and pro:per|nos=us v|habe-1P&PRES=have 
+	part|deja-PPART&MASC=leave det:art|un-MASC=one prep|que=than pro:per|se=itself 
+	v|mori-3S&PRES=die prep|de=of n|hambre&fem=hunger adv|ahí=there adv|arriba=above 
+	. 
+%com:	el pirata vigía
+*INV:	ese no come ?
+%mor:	det:dem|ese=that adv|no=no v|come-3S&PRES=eat ? 
+*CAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*INV:	ya está ?
+%mor:	adv|ya=already v|esta-3S&PRES=be ? 
+*CAR:	sí .
+%mor:	co|sí=yes . 
+%com:	pone al pirata vigía en la mesa también para comer
+*ANM:	mi(r)a [*] .
+%mor:	co|mira=look . 
+*INV:	ah (.) muy bien .
+%mor:	co|ah adv|muy=very adv|bien=well . 
+*ANM:	no .
+%mor:	adv|no=no . 
+*ANM:	é(s)tos [*] no co(men) [//] comen +...
+%mor:	pro:dem|éste-MASC-PL=this_one adv|no=no v|come-3P&PRES=eat +... 
+*INV:	no .
+%mor:	adv|no=no . 
+*ANM:	+, po(r)que [*] no t(i)enen [*] boca .
+%mor:	conj|porque=because adv|no=no v|tene-3P&PRES=have n|boca&fem=mouth . 
+*INV:	claro .
+%mor:	co|claro=obvious . 
+*CAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*CAR:	ya han comido todo .
+%mor:	adv|ya=already v|habe-3P&PRES=have part|come-PPART&MASC=eat det:indef|todo-MASC=all 
+	. 
+*INV:	ahora qué hacen ?
+%mor:	adv|ahora=now pro:int|qué=what v|hace-3P&PRES=do ? 
+*CAR:	agarrarse .
+%mor:	v|agarra-INF~pro:clit|3S&REFL . 
+*ANM:	ála (.) sin comer .
+%mor:	co|ála prep|sin=without v|come-INF=eat . 
+*CAR:	no .
+%mor:	adv|no=no . 
+*CAR:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+%com:	me enseña el catalejo
+*INV:	eso para qué es ?
+%mor:	pro:dem|eso=that_one prep|para=for pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	para mirar así .
+%mor:	prep|para=for v|mira-INF=look adv|así=thus . 
+*CAR:	el catalejo !
+%mor:	det:art|el&MASC&SG=the n|catalejo&masc=telescope ! 
+*INV:	eso es !
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be ! 
+*ANM:	quiero ver .
+%mor:	v|quere-1S&PRES=want v|ve-INF=see . 
+*INV:	pero no se ve nada .
+%mor:	conj|pero=but adv|no=no pro:per|se=itself co|ve=see pro:indef|nada=nothing 
+	. 
+*INV:	<sólo ven los muñecos> [/] sólo los muñecos (.) verdad ?
+%mor:	adv|sólo=only det:art|el&MASC-PL=the n|muñeco-MASC-PL=doll co|verdad=right 
+	? 
+*CAR:	hay que hacer un catalejo !
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|hace-INF=do det:art|un&masc=one 
+	n|catalejo&masc=telescope ! 
+*ANM:	no veo .
+%mor:	adv|no=no v|ve-1S&PRES=see . 
+*INV:	mira (.) así .
+%mor:	co|mira=look adv|así=thus . 
+%com:	le enseño como hay que ponerse para ver
+*CAR:	hay que hacer un catalejo de papel !
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|hace-INF=do det:art|un&masc=one 
+	n|catalejo&masc=telescope prep|de=of n|papel&masc=paper ! 
+*INV:	claro .
+%mor:	co|claro=obvious . 
+*CAR:	para que veas así .
+%mor:	prep|para=for prep|que=than v|ve-2S&SUB&PRES=see adv|así=thus . 
+%com:	pone las manos en tubos como si fueran un catalejo
+*INV:	claro (.) y así ves mucho (.) verdad +...
+%mor:	co|claro=obvious coord|y=and adv|así=thus co|ves=see adv|mucho=much co|verdad=right 
+	+... 
+*CAR:	0 [=! asintiendo] .
+*INV:	+, por un agujerito así .
+%mor:	prep|por=for det:art|un&masc=one n|agujero-DIM-MASC=hole adv|así=thus 
+	. 
+*CAR:	0 [=! asintiendo] .
+*CAR:	y ves una vaca .
+%mor:	coord|y=and co|ves=see det:art|un-FEM=one n|vaca&fem=cow . 
+*INV:	una vaca qué miedo !
+%mor:	det:art|un-FEM=one n|vaca&fem=cow pro:int|qué=what n|miedo&masc=fear 
+	! 
+*ANM:	o te comes una vaca [=! riendo] +...
+%mor:	coord|o=or pro:per|te=you v|come-2S&PRES=eat det:art|un-FEM=one n|vaca&fem=cow 
+	+... 
+*INV:	que no ves una vaca .
+%mor:	prep|que=than adv|no=no co|ves=see det:art|un-FEM=one n|vaca&fem=cow . 
+*ANM:	+, o un cerdo .
+%mor:	coord|o=or det:art|un&masc=one n|cerdo&masc=hog . 
+*CAR:	un caballo y se te cae la tripa .
+%mor:	det:art|un&masc=one n|caballo&masc=horse coord|y=and pro:per|se=itself 
+	pro:per|te=you v|cae-3S&PRES=fall det:art|el&FEM&SG=the n|tripa&fem=belly 
+	. 
+*INV:	y mira qué hay aquí .
+%mor:	coord|y=and co|mira=look pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here 
+	. 
+%com:	les intento enseñar la bodega
+*CAR:	y que te comes un tiburón .
+%mor:	coord|y=and prep|que=than pro:per|te=you v|come-2S&PRES=eat det:art|un&masc=one 
+	n|tiburón&masc=shark . 
+%com:	se ríen contínuamente
+*INV:	todo entero ?
+%mor:	det:indef|todo-MASC=all adj|entero-MASC=entire ? 
+*CAR:	<y que te comes una xxx xxx> [<] .
+%mor:	coord|y=and prep|que=than pro:per|te=you v|come-2S&PRES=eat det:art|un-FEM=one 
+	. 
+*ANM:	<que me muerde> [>] !
+%mor:	prep|que=than pro:per|me=me v|morde-3S&PRES=bite ! 
+*INV:	morder (.) mira .
+%mor:	v|morde-INF=bite co|mira=look . 
+*CAR:	ah (.) que no !
+%mor:	co|ah prep|que=than adv|no=no ! 
+*ANM:	la campana !
+%mor:	det:art|el&FEM&SG=the n|campana&fem=bell ! 
+*ANM:	<la pelota> [//] dónde está la pelota ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|pelota&fem=ball 
+	? 
+*CAR:	huy (.) aquí no !
+%mor:	co|huy=oh adv|aquí=here adv|no=no ! 
+*CAR:	xxx [<] .
+*ANM:	<la barca> [>] !
+%mor:	det:art|el&FEM&SG=the n|barco-FEM=boat ! 
+*CAR:	o le pones una cabeza .
+%mor:	coord|o=or pro:per|le=him v|pone-2S&PRES=put det:art|un-FEM=one n|cabeza&fem=head 
+	. 
+*CAR:	oye ponles una flor .
+%mor:	co|oye=listen v|pone-2S&IMP~pro:clit|3P det:art|un-FEM=one n|flor&fem=blossom 
+	. 
+*INV:	todo eso ?
+%mor:	det:indef|todo-MASC=all pro:dem|eso=that_one ? 
+*ANM:	hola .
+%mor:	co|hola=hi . 
+*INV:	hola [/] hola [/] hola .
+%mor:	co|hola=hi . 
+*ANM:	éste es el capitán Garfio .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio . 
+*CAR:	que hace el pirata ?
+%mor:	prep|que=than v|hace-3S&PRES=do det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	? 
+*INV:	dímelo tú (.) qué hace ?
+%mor:	v|deci-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC pro:per|tú=you pro:int|qué=what 
+	v|hace-3S&PRES=do ? 
+*CAR:	está robando e(s)to [*] .
+%mor:	v|esta-3S&PRES=be v|roba-PROG=rob det:dem|este-MASC=this . 
+*INV:	y qué será eso ?
+%mor:	coord|y=and pro:int|qué=what v|se-3S&FUT=be pro:dem|eso=that_one ? 
+*CAR:	yo que se .
+%mor:	pro:per|yo=I prep|que=than pro:per|se=itself . 
+*CAR:	yo aquí .
+%mor:	pro:per|yo=I adv|aquí=here . 
+%com:	coge la barca
+*INV:	oh (.) el catalejo !
+%mor:	co|oh=oh det:art|el&MASC&SG=the n|catalejo&masc=telescope ! 
+%com:	se cae al suelo
+*ANM:	no [/] no [/] no quiero !
+%mor:	adv|no=no v|quere-1S&PRES=want ! 
+%com:	la INV lo recoge y se lo da a AND
+*INV:	no ?
+%mor:	adv|no=no ? 
+*CAR:	no .
+%mor:	adv|no=no . 
+*INV:	cuándo ?
+%mor:	pro:int|cuándo=when ? 
+*INV:	qué ves ?
+%mor:	pro:int|qué=what co|ves=see ? 
+*CAR:	nada .
+%mor:	pro:indef|nada=nothing . 
+*INV:	es para los muñecos .
+%mor:	v|se-3S&PRES=be prep|para=for det:art|el&MASC-PL=the n|muñeco-MASC-PL=doll 
+	. 
+*CAR:	ah (.) voy trepando !
+%mor:	co|ah v|i-1S&PRES=go v|trepa-PROG=scramble ! 
+*INV:	cuándo ?
+%mor:	pro:int|cuándo=when ? 
+*CAR:	xxx [<] .
+*ANM:	<otro catalejo grande> [>] .
+%mor:	pro:indef|otro=other n|catalejo&masc=telescope adj|grande=big . 
+*CAR:	y se me ha pasado .
+%mor:	coord|y=and pro:per|se=itself pro:per|me=me co|ha part|pasa-PPART&MASC=pass 
+	. 
+*CAR:	xxx .
+*CAR:	y xxx xxx xxx .
+%mor:	coord|y=and . 
+*ANM:	mira (.) no tiene zapatos .
+%mor:	co|mira=look co|no=no v|tene-3S&PRES=have n|zapato&masc-PL=shoe . 
+*CAR:	qué quieres zapatos !
+%mor:	pro:int|qué=what v|quere-2S&PRES=want n|zapato&masc-PL=shoe ! 
+*CAR:	un capitán Garfio .
+%mor:	det:art|un&masc=one n|capitán&masc=captain n:prop|Garfio . 
+*CAR:	éste es el capitán Garfio +...
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	n:prop|Garfio +... 
+*CAR:	a que sí ?
+%mor:	prep|a=to prep|que=than co|sí=yes ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CAR:	+, po(r)que [*] mi(r)a [*] se ha roto la pie(r)na [*] .
+%mor:	conj|porque=because co|mira=look pro:per|se=itself co|ha part|rompe-PPART-MASC=break 
+	det:art|el&FEM&SG=the n|pierna&fem=leg . 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CAR:	se 0 [*] ha comi(do) [//] <comi(d)o [*]> [/] comi(d)o [*] el cocod(r)ilo [*] .
+%mor:	pro:per|se=itself co|ha part|come-PPART&MASC=eat det:art|el&MASC&SG=the 
+	n|cocodrilo&masc=crocodile . 
+*INV:	ah (.) el cocodrilo le ha comido una pierna ?
+%mor:	co|ah det:art|el&MASC&SG=the n|cocodrilo&masc=crocodile pro:per|le=him 
+	co|ha part|come-PPART&MASC=eat det:art|un-FEM=one n|pierna&fem=leg ? 
+*CAR:	sí .
+%mor:	co|sí=yes . 
+*CAR:	es eso .
+%mor:	v|se-3S&PRES=be pro:dem|eso=that_one . 
+*ANM:	se escapará .
+%mor:	pro:per|se=itself v|escapa-3S&FUT=escape . 
+*ANM:	se acabó !
+%mor:	pro:per|se=itself v|acaba-3S&PRET=finish ! 
+*INV:	<se acabó> [//] cómo que se acabó ?
+%mor:	co|cómo prep|que=than pro:per|se=itself v|acaba-3S&PRET=finish ? 
+*INV:	algo más .
+%mor:	pro:dem|algo=something adv|más=more . 
+*ANM:	que se acabe !
+%mor:	prep|que=than pro:per|se=itself v|acaba-13S&SUB&PRES=finish ! 
+*INV:	esos piratas están durmiendo (.) mira todos juntos unos encima de otros .
+%mor:	det:dem|ese-MASC-PL=that n|pirata&masc-PL=pirate v|esta-3P&PRES=be v|dormi-PROG=sleep 
+	co|mira=look det:indef|todo-MASC-PL=all adj|junto-MASC-PL=nearby det:art|un-MASC-PL=one 
+	adv|encima=on_top prep|de=of det:indef|otro-MASC-PL=other . 
+*CAR:	oye !
+%mor:	co|oye=listen ! 
+*INV:	no tienen camas ?
+%mor:	adv|no=no v|tene-3P&PRES=have n|cama&fem-PL=bed ? 
+*CAR:	oye (.) yo puedo levantar e(s)te [*] barco !
+%mor:	co|oye=listen pro:per|yo=I v|pode-1S&PRES=can v|levanta-INF=raise det:dem|este=this 
+	n|barco-MASC=boat ! 
+*INV:	sí pero ten cuidado que no se caiga .
+%mor:	co|sí=yes conj|pero=but v|tene-2S&IMP=have n|cuidado&masc=care prep|que=than 
+	adv|no=no pro:per|se=itself v|cae-13S&SUB&PRES=fall . 
+*CAR:	ya verás .
+%mor:	adv|ya=already v|ve-2S&FUT=see . 
+*CAR:	mira .
+%mor:	co|mira=look . 
+*ANM:	ot(r)o [*] pirata en el suelo .
+%mor:	pro:indef|otro=other n|pirata&masc=pirate prep|en=in det:art|el&MASC&SG=the 
+	n|suelo&masc=floor . 
+*CAR:	que se ha acaba(d)o .
+%mor:	prep|que=than pro:per|se=itself co|ha part|acaba-PPART&MASC=finish . 
+*ANM:	mira un pirata en el suelo (.) mira !
+%mor:	co|mira=look det:art|un&masc=one n|pirata&masc=pirate prep|en=in det:art|el&MASC&SG=the 
+	n|suelo&masc=floor co|mira=look ! 
+*ANM:	se ha caído !
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+*INV:	quién está cogiendo el pirata ?
+%mor:	pro:int|quién=who v|esta-3S&PRES=be v|coge-PROG=take det:art|el&MASC&SG=the 
+	n|pirata&masc=pirate ? 
+*INV:	ahí !
+%mor:	adv|ahí=there ! 
+*CAR:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+%com:	se agacha a coger del suelo en el muñeco
+*CAR:	se ha acaba(d)o .
+%mor:	pro:per|se=itself co|ha part|acaba-PPART&MASC=finish . 
+*INV:	ya está ?
+%mor:	adv|ya=already v|esta-3S&PRES=be ? 
+*ANM:	un pirata .
+%mor:	det:art|un&masc=one n|pirata&masc=pirate . 
+*INV:	pero hay una habitación para dormir en ese barco .
+%mor:	conj|pero=but v|habe-3S&PRES&SPEC=have det:art|un-FEM=one n|habitación&fem=dwelling 
+	prep|para=for v|dormi-INF=sleep prep|en=in det:dem|ese=that n|barco-MASC=boat 
+	. 
+*INV:	dónde está la habitación ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|habitación&fem=dwelling 
+	? 
+*CAR:	aquí .
+%mor:	adv|aquí=here . 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	abajo .
+%mor:	adv|abajo=below . 
+*CAR:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*CAR:	aquí .
+%mor:	adv|aquí=here . 
+%com:	la señala
+*INV:	ahí [/] ahí dónde dice Andrea .
+%mor:	adv|ahí=there pro:int|dónde=where v|deci-3S&PRES=say n:prop|Andrea . 
+*CAR:	se van ?
+%mor:	pro:per|se=itself v|i-3P&PRES=go ? 
+%com:	quita a los piratas de la cubierta
+*INV:	dónde estás cerrando Andrea ?
+%mor:	pro:int|dónde=where v|esta-2S&PRES=be v|cerra-PROG=close n:prop|Andrea 
+	? 
+*CAR:	ahí .
+%mor:	adv|ahí=there . 
+*INV:	ahí en la habitación .
+%mor:	adv|ahí=there prep|en=in det:art|el&FEM&SG=the n|habitación&fem=dwelling 
+	. 
+*INV:	ábrelo otra vez .
+%mor:	v|abri-2S&IMP~pro:clit|OBJ&MASC det:indef|otro-FEM=other n|vez&fem=turn 
+	. 
+*INV:	no pero <hay que abrirlo> [/] hay que abrirlo .
+%mor:	co|no=no conj|pero=but v|habe-3S&PRES&SPEC=have prep|que=than v|abri-INF~pro:clit|OBJ&MASC 
+	. 
+*CAR:	abre [/] abre Andrea !
+%mor:	v|abri-3S&PRES=open n:prop|Andrea ! 
+%com:	lo abre
+*CAR:	ay (.) que no puedo .
+%mor:	co|ay=ay prep|que=than adv|no=no v|pode-1S&PRES=can . 
+*INV:	muy bien <ya está> [/] ya está .
+%mor:	adv|muy=very adv|bien=well adv|ya=already v|esta-3S&PRES=be . 
+*ANM:	todos los piratas (.) a babor !
+%mor:	det:indef|todo-MASC-PL=all det:art|el&MASC-PL=the n|pirata&masc-PL=pirate 
+	prep|a=to n|babor&masc=port ! 
+%com:	se pone las manos como si fueran un catalejos mientras CAR mete a todos los muñecos dentro de la habitación
+*INV:	ála (.) todos dentro .
+%mor:	co|ála det:indef|todo-MASC-PL=all adv|dentro=inside . 
+*CAR:	así .
+%mor:	adv|así=thus . 
+*INV:	a_ver [/] a_ver .
+%mor:	co|a_ver=see . 
+*CAR:	dónde e(s)tá [*] el ot(r)o [*] pirata ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&MASC&SG=the pro:indef|otro=other 
+	n|pirata&masc=pirate ? 
+*ANM:	fa(l)ta [*] ot(r)o [*] !
+%mor:	v|falta-3S&PRES=be_lacking pro:indef|otro=other ! 
+*INV:	falta ?
+%mor:	v|falta-3S&PRES=be_lacking ? 
+*INV:	a_ver (.) busca .
+%mor:	co|a_ver=see v|busca-3S&PRES=search . 
+*CAR:	no .
+%mor:	adv|no=no . 
+*CAR:	ya está !
+%mor:	adv|ya=already v|esta-3S&PRES=be ! 
+%com:	lo ve en el puesto del vigía y lo coge
+*INV:	ya está ?
+%mor:	adv|ya=already v|esta-3S&PRES=be ? 
+*ANM:	no .
+%mor:	adv|no=no . 
+*INV:	no está ?
+%mor:	adv|no=no v|esta-3S&PRES=be ? 
+*ANM:	no .
+%mor:	adv|no=no . 
+*ANM:	no está el pirata .
+%mor:	adv|no=no v|esta-3S&PRES=be det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	. 
+*INV:	no está ?
+%mor:	adv|no=no v|esta-3S&PRES=be ? 
+*CAR:	qué falta ?
+%mor:	pro:int|qué=what v|falta-3S&PRES=be_lacking ? 
+%com:	abre la puerta de la bodega
+*INV:	está ahí dentro ?
+%mor:	v|esta-3S&PRES=be adv|ahí=there adv|dentro=inside ? 
+*CAR:	qué falta ?
+%mor:	pro:int|qué=what v|falta-3S&PRES=be_lacking ? 
+*INV:	a_ver (.) qué hay dentro ?
+%mor:	co|a_ver=see pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|dentro=inside 
+	? 
+*CAR:	bolas !
+%mor:	n|bola&fem-PL=ball ! 
+*INV:	cuántas ?
+%mor:	pro:int|cuántas ? 
+*ANM:	dos .
+%mor:	det:num|dos=two . 
+*ANM:	otra y esta pelota .
+%mor:	det:indef|otro-FEM=other coord|y=and det:dem|este-FEM=this n|pelota&fem=ball 
+	. 
+*INV:	muy bien !
+%mor:	adv|muy=very adv|bien=well ! 
+*CAR:	e(s)to [*] no se pone ahí !
+%mor:	det:dem|este-MASC=this adv|no=no pro:per|se=itself v|pone-3S&PRES=put 
+	adv|ahí=there ! 
+%com:	intenta sacar el cañón
+*ANM:	oh (.) se cae el pirata !
+%mor:	co|oh=oh pro:per|se=itself v|cae-3S&PRES=fall det:art|el&MASC&SG=the n|pirata&masc=pirate 
+	! 
+*CAR:	así .
+%mor:	adv|así=thus . 
+%com:	cierra la bodega
+*CAR:	aquí está bien (.) así .
+%mor:	adv|aquí=here v|esta-3S&PRES=be adv|bien=well adv|así=thus . 
+%com:	mete un pirata en la bodega
+*ANM:	oh (.) que se va a caer !
+%mor:	co|oh=oh prep|que=than pro:per|se=itself v|i-3S&PRES=go prep|a=to v|cae-INF=fall 
+	! 
+*CAR:	éste aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here . 
+%com:	mete el pirata en la habitación
+*ANM:	que ya ha caído [=! riendo] !
+%mor:	prep|que=than adv|ya=already co|ha part|cae-PPART&MASC=fall ! 
+*CAR:	se ha caído .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*ANM:	cógela [/] cógela [/] cógela .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&FEM . 
+%com:	le dice a CAR que coja la pelota que se ha caido
+*CAR:	el barco !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat ! 
+*ANM:	el barco es de regalo !
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat v|se-3S&PRES=be prep|de=of n|regalo&masc=present 
+	! 
+*ANM:	no lo podemos mover .
+%mor:	adv|no=no pro:per:1|lo&masc=him v|pode-1P&PRES=can v|move-INF=move . 
+*INV:	no [/] no .
+%mor:	adv|no=no . 
+*ANM:	tampoco .
+%mor:	adv|tampoco=neither . 
+*INV:	no .
+%mor:	adv|no=no . 
+*ANM:	no .
+%mor:	adv|no=no . 
+*ANM:	que no .
+%mor:	prep|que=than adv|no=no . 
+*INV:	<que no> [/] que no .
+%mor:	prep|que=than adv|no=no . 
+*ANM:	tampoco lo hemos movido (.) eh ?
+%mor:	adv|tampoco=neither pro:per:1|lo&masc=him v|habe-1P&PRES=have part|move-PPART&MASC=move 
+	co|eh ? 
+*CAR:	que se me escapa .
+%mor:	prep|que=than pro:per|se=itself pro:per|me=me v|escapa-3S&PRES=escape 
+	. 
+%com:	la pelota
+*ANM:	no lo hemos movido .
+%mor:	adv|no=no pro:per:1|lo&masc=him v|habe-1P&PRES=have part|move-PPART&MASC=move 
+	. 
+*INV:	no .
+%mor:	adv|no=no . 
+*ANM:	no .
+%mor:	adv|no=no . 
+*ANM:	se ha caído <el ca(pitán)> [//] el <capit(án)> [//] el pirata .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall det:art|el&MASC&SG=the 
+	det:art|el&MASC&SG=the n|pirata&masc=pirate . 
+*ANM:	se cae de cabeza el pirata .
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall prep|de=of n|cabeza&fem=head det:art|el&MASC&SG=the 
+	n|pirata&masc=pirate . 
+*ANM:	cógelo que se cae de cabeza !
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&MASC prep|que=than pro:per|se=itself v|cae-3S&PRES=fall 
+	prep|de=of n|cabeza&fem=head ! 
+*ANM:	<se cae> [/] se cae de cabeza !
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall prep|de=of n|cabeza&fem=head ! 
+*ANM:	ya se ha caído .
+%mor:	adv|ya=already pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*ANM:	toma !
+%mor:	v|toma-3S&PRES=take ! 
+%com:	me da el muñeco
+*ANM:	cógelo .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&MASC . 
+*ANM:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*CAR:	<qué es eso> [/] qué es eso ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be pro:dem|eso=that_one ? 
+%com:	pongo un muñeco en la barca y disparo el arpón
+*CAR:	<ahora yo> [/] ahora yo !
+%mor:	adv|ahora=now pro:per|yo=I ! 
+*CAR:	dónde se da ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|da-3S&PRES=give ? 
+*INV:	aquí (.) a_ver Andrea .
+%mor:	adv|aquí=here co|a_ver=see n:prop|Andrea . 
+*CAR:	y luego tú y luego yo (.) vale ?
+%mor:	coord|y=and adv|luego=afterwards pro:per|tú=you coord|y=and adv|luego=afterwards 
+	pro:per|yo=I co|vale=okay ? 
+*INV:	ahora aquí (.) ahí .
+%mor:	adv|ahora=now adv|aquí=here adv|ahí=there . 
+*INV:	oh (.) espera que me has dado en el dedo (.) a_ver .
+%mor:	co|oh=oh v|espera-3S&PRES=wait prep|que=than pro:per|me=me v|habe-2S&PRES=have 
+	part|da-PPART&MASC=give prep|en=in det:art|el&MASC&SG=the n|dedo&masc=finger 
+	co|a_ver=see . 
+*CAR:	con el dedito .
+%mor:	prep|con=with det:art|el&MASC&SG=the n|dedo-DIM-MASC=finger . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*CAR:	ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+*CAR:	mira .
+%mor:	co|mira=look . 
+*ANM:	hemos tira(d)o .
+%mor:	v|habe-1P&PRES=have part|tira-PPART&MASC=throw . 
+%com:	ha tirado un pirata
+*ANM:	otro .
+%mor:	pro:indef|otro=other . 
+%com:	tira otro
+*ANM:	otro .
+%mor:	pro:indef|otro=other . 
+@End

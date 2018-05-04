@@ -1,0 +1,940 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father , MOT Madre Mother
+@ID:	spa , eng|OreaPine|CHI|2;3.17|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@ID:	spa , eng|OreaPine|MOT|||||Mother|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	22-NOV-2001
+@Location:	Madrid
+@Situation:	1 MOT y Juan juegan en la habitación de Juan con un libro de Maisy que se convierte en su casita de papel , FAT está con ellos sin intervenir directamente
+@Time Start:	16:30
+@Situation:	1
+*MOT:	&=q qué es eso ?
+*CHI:	ese es un pajarito .
+*CHI:	de [x 2] noche es [/] es un murciélago .
+*MOT:	un murciélago .
+*MOT:	sí , cariño .
+*FAT:	&=q de noche es un murciélago ? [+ ADS]
+*MOT:	de noche hay murciélagos y por la mañana de día es un pajarito .
+*CHI:	tiene un pajarito .
+*MOT:	hay un pajarito .
+*MOT:	&=q y qué más ?
+*CHI:	un sol .
+*CHI:	un sol .
+*MOT:	&=q un sol ?
+*MOT:	a ver que te voy a quitar la camiseta .
+*CHI:	aquí xxx +/. [+ NON]
+*MOT:	que llevas una de xxx . [+ NON]
+*CHI:	< es ropa > [/] es ropa de Maisy .
+*MOT:	a ver , cariño .
+*MOT:	ven aquí .
+*MOT:	ven aquí < que te quite > [//] que te quito el jersei .
+*CHI:	te quito [x 2] . [+ IMI]
+%act:	se aparta
+*MOT:	ven aquí que te quite el jersei , por+favor .
+*CHI:	xxx .
+*MOT:	Juan .
+*MOT:	&=q me quieres hacer caso ?
+*CHI:	&=e no !
+*FAT:	oye .
+*FAT:	no seas desobediente .
+*MOT:	a que recogemos la casita .
+*FAT:	por+favor , hombre .
+*FAT:	te está diciendo Mamá que te vayas para allá que te va a quitar el jersei .
+*CHI:	0 .
+%act:	se acerca a MOT
+*MOT:	que hace calor , hombre .
+*MOT:	&=q no ves que da el sol aquí ?
+*MOT:	deja un momentito al osito+panda .
+*CHI:	el osito+panda .
+*MOT:	el osito+panda de Maisy .
+*MOT:	ahora .
+*MOT:	ya está .
+%act:	le quita el jersei
+*MOT:	vale .
+*MOT:	hala@i .
+*MOT:	ya está .
+*CHI:	aquí se ducha Maisy .
+*FAT:	0 .
+%act:	cierra la persiana
+*CHI:	ay@i , la luz .
+*FAT:	&=q así mejor ?
+*FAT:	a ver .
+%act:	ha abierto la persiana
+*FAT:	a@x .
+*CHI:	me da el sol .
+%act:	se aparta
+*FAT:	así .
+*MOT:	ahora .
+*MOT:	ya está .
+*FAT:	así mejor .
+*MOT:	ya está .
+*MOT:	&=q vale ?
+*CHI:	le da el sol a Maisy .
+*MOT:	&=q le da el sol a Maisy ? [+ ADS]
+*MOT:	no , mira .
+*MOT:	Maisy está aquí .
+*MOT:	&=q dónde quieres llevar a Maisy ahora ?
+*MOT:	toma .
+*MOT:	xxx .
+*CHI:	xxx .
+*MOT:	&=q quiere ir se a la cama ?
+*CHI:	no .
+*MOT:	&=q dónde quiere ir ?
+*CHI:	a duchar 0 [*] .
+%err:	0 = se $MOR $LOS $SUFFIX
+*MOT:	&=q se va a duchar ?
+*CHI:	se va a duchar . [+ IMI]
+*CHI:	primero [x 3] se cierra la puerta y luego 0 [*] seca con la toallita .
+%err:	0 = se $MOR $LOS $PREFIX
+*CHI:	es una [x 3] toallita .
+*MOT:	&=q y dónde está la toallita ?
+*MOT:	< no la no [x 2] > [/] no la tenemos .
+*MOT:	anda .
+*MOT:	&=q dónde está la toallita ?
+*MOT:	si la teníamos .
+*MOT:	&=q dónde está ?
+*CHI:	&=q dónde está ? [+ IMI]
+*MOT:	&=q se ha perdido la toallita ?
+*CHI:	&=q 0 [*] ha perdido la toallita ? [+ IMI]
+%err:	0 = se $MOR $LOS $PREFIX
+*CHI:	&=q dónde está ?
+*MOT:	pues no tengo ni idea .
+*CHI:	mira [x 2] .
+*MOT:	ahí es la despensa .
+*CHI:	ahora [x 2] los otros primeros [*] .
+%err:	primeros = primero $MOR $ADD $AGA
+*MOT:	&=q los otros quieres ver ahora ?
+*CHI:	sí .
+*MOT:	&=q los xxx ? [+ NON]
+*MOT:	espera .
+*MOT:	pero vamos a ver dónde está la toallita .
+*MOT:	porque tiene que estar .
+*MOT:	porque la quitamos el otro día pero su toalla no está aquí .
+*MOT:	pero bueno , hombre .
+*CHI:	vamos .
+*MOT:	si la dejábamos siempre colgada de aquí .
+*MOT:	&=q pero dónde se ha perdido ?
+*MOT:	aquí está la báscula .
+*MOT:	nada .
+*MOT:	aquí no está aquí .
+*MOT:	< no está > [/] no está .
+*MOT:	< no está > [/] no está .
+*FAT:	oye , Juan .
+*FAT:	&=q qué [x 2] me decías antes en el coche ?
+*FAT:	&=q qué película habías visto el otro día ?
+*FAT:	&=q qué película habías visto en el ordendador ?
+*CHI:	el [/] el [*] de gigantes feos feisos [: feísimos] .
+%err:	el = la $MOR $SUB $AGA
+*FAT:	&=q feos feísimos ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	feos .
+*MOT:	mira .
+*MOT:	está aquí .
+*CHI:	toallita [/] la toallita .
+*CHI:	0 [*] que se seque Maisy .
+%err:	0 = para $SYN $LOS
+*CHI:	xxx .
+*CHI:	&=q < a ver a ver > [/] a ver ?
+*CHI:	&=e a ver , Me(i)si !
+*MOT:	a ver .
+*MOT:	espera [x 3] .
+*FAT:	&=q para que se seque Maisy la toallita ?
+*MOT:	claro .
+*CHI:	la voy a dejar aquí .
+*MOT:	&=q dónde se deja ? [+ COR]
+*MOT:	&=q dónde se deja ?
+*CHI:	aquí .
+*MOT:	&=q el qué ?
+*MOT:	&=q y eso qué es ?
+*CHI:	0 [*] la puerta .
+%err:	0 = en $SYN $LOS
+*MOT:	claro .
+*MOT:	para que la tenga a mano &=q verdad ?
+*CHI:	quie@x [/] quiere comer Maisy .
+*MOT:	ah@i .
+*MOT:	&=q quiere comer ?
+*MOT:	ah@i .
+*MOT:	pues entonces hay que sacar lo de la ducha .
+*FAT:	es una ratita , Mamá .
+*CHI:	ahí no .
+*CHI:	xxx .
+*MOT:	toma .
+*MOT:	hay que sacar la de la ducha .
+*MOT:	otra vez se lo ha vuelto a esconder le el lacito .
+*MOT:	cachis [x 2] .
+*MOT:	nada .
+*MOT:	es que lo tiene escondidillo .
+*MOT:	ya está .
+*CHI:	&=q y la mano ?
+*MOT:	ya las tenemos las dos .
+*MOT:	toma .
+*MOT:	&=q dónde le llevas ?
+*MOT:	< hay que > [//] toma .
+*MOT:	&=q qué [/] qué hay que hacer ahora ?
+*MOT:	&=q qué hay que hacer ahora , Juan ?
+*MOT:	&=q qué hay que hacer ?
+@Situation:	1 MOT y Juan juegan en la habitación de Juan con un libro de Maisy que se convierte en su casita de papel , FAT está con ellos sin intervenir directamente
+@Time Start:	16:30
+@Situation:	1
+*MOT:	&=q qué estás haciendo ?
+*FAT:	ay@i .
+*CHI:	secando 0 [*] .
+%err:	0 = O $SYN $LOS ; $AUXVALID
+*MOT:	&=q secando ? [+ ADS]
+*MOT:	claro .
+*FAT:	&=q estás secando a Maisy ?
+*MOT:	sí .
+*MOT:	porque acaba de salir de la ducha .
+*MOT:	&=q verdad ?
+*MOT:	muy bien .
+*MOT:	ya está seca .
+*MOT:	&=q y ahora dónde dejamos la toalla ?
+*MOT:	&=q dónde dejamos la toalla ?
+*MOT:	&=q aquí para que se seque ?
+*MOT:	&=q vale ?
+*MOT:	&=q le ponemos el trajecito ?
+*CHI:	sí .
+*MOT:	y se va a dormir .
+*MOT:	&=q qué va a hacer ?
+*MOT:	&=q a cenar o desayunar ?
+*CHI:	desayunar . [+ IMI]
+*MOT:	&=q va a desayunar ?
+*MOT:	pues si va a desayunar ya se tiene que poner para ir a la calle .
+*MOT:	si no le tendríamos que poner el camisón .
+*MOT:	&=q vale ?
+*CHI:	no .
+*MOT:	&=q entonces para desayunar ?
+*MOT:	toma .
+*MOT:	ya está vestidita .
+*MOT:	venga .
+*MOT:	va .
+*MOT:	&=q dónde la llevas ?
+*MOT:	&=q dónde la llevas ?
+*CHI:	a [/] a desayunar .
+*MOT:	a desayunar . [+ ADS]
+*MOT:	&=q y dónde desayuna ?
+*CHI:	toma .
+*CHI:	aquí [x 3] desayuna .
+*MOT:	&=q ahí desayuna ?
+*MOT:	&=q y dónde le sientas ?
+*CHI:	< le t(r)aemos > [/] le t(r)aemos un desayuno .
+*MOT:	&=q < y qué > [/] y qué le vamos a poner de desayuno ?
+*MOT:	a ver .
+*MOT:	&=q buscamos a ver qué le ponemos de desayuno ?
+*CHI:	papilla .
+*MOT:	mira .
+*MOT:	a ver qué tenía Maisy para desayunar .
+*MOT:	vamos a buscar .
+%act:	coge un librito que va encajado en una de las piezas del libro grande
+*MOT:	mira .
+*CHI:	no [x 4] quiero ver e(l) cuento .
+*MOT:	sí .
+*MOT:	a ver .
+*MOT:	&=q qué tenía para desayunar Maisy ?
+*CHI:	no [x 2] quiero ver el cuento .
+*MOT:	&=q no quieres ver el cuento ?
+*MOT:	pues venga .
+*MOT:	vamos a guardar lo donde estaba .
+*FAT:	jo@i .
+*FAT:	qué cuento más chulo ese que tenéis ahí .
+*MOT:	sí , verdad .
+*MOT:	mira .
+*MOT:	a Papá le gusta nuestro cuento .
+*FAT:	perdona “nuestro cuento” .
+%add:	MOT
+*FAT:	creo recordar que se lo regalamos nosotros .
+%add:	MOT
+*MOT:	claro .
+*MOT:	nuestro cuento de todos quería decir .
+%add:	FAT
+*CHI:	ahora le t(r)aemos un desayuno .
+*MOT:	venga .
+*MOT:	&=q qué desayuno le traemos ?
+*CHI:	la papilla .
+*MOT:	la papilla . [+ ADS]
+*MOT:	a ver .
+*MOT:	vamos a buscar un plato de papilla .
+*MOT:	a ver .
+*CHI:	un plato de papilla . [+ IMI]
+*MOT:	pues no sé si tiene Maisy un plato de papilla aquí &=q eh@i ?
+*CHI:	xxx .
+*MOT:	creo que no .
+*CHI:	&=e creo que sí !
+*MOT:	mira .
+*MOT:	vamos a coger le esta a lo mejor .
+*CHI:	el plato .
+*MOT:	un plato .
+*MOT:	< un san@x > [/] y un sandwich .
+*MOT:	mira .
+*MOT:	Maisy yo creo que tomaba un huevo duro por la mañana .
+*MOT:	pues vamos a poner le un huevo duro .
+*MOT:	un huevo duro y unas tostadas .
+*MOT:	como Juan .
+*MOT:	tostadas como Juan .
+*MOT:	hala@i .
+*MOT:	un platito ahí para Maisy .
+*MOT:	mira qué rico .
+*FAT:	hala@i qué bien .
+*MOT:	mira .
+*MOT:	huevo duro y tostadas .
+*MOT:	mm@i .
+*MOT:	qué bueno .
+*CHI:	tostadas y huevo duro .
+*MOT:	&=q eso va a desayunar Maisy ?
+*MOT:	&=q te parece bien ?
+*CHI:	eh@i .
+*CHI:	que [/] que se cae Maisy .
+*MOT:	que se cae el plato .
+*CHI:	&=q ahora 0 [*] le traemos ?
+%err:	0 = qué $SYN $LOS
+*MOT:	&=q ahora qué le traemos ? [+ ADS]
+*MOT:	espera .
+*MOT:	&=q qué le cogemos de ahí ?
+*MOT:	es que ahí están las verduras .
+*MOT:	esas hay que cocinar las .
+*CHI:	ahora la traemos aquí la sal .
+*CHI:	ahora la traemos la sal .
+*MOT:	&=q la sal ?
+*CHI:	ahora < la traemos > [/] le traemos la sal .
+*MOT:	&=q la sal para qué ?
+*CHI:	la sal para comer .
+*MOT:	mm@i .
+*MOT:	es verdad que ahí se guardaba la sal .
+*CHI:	mira .
+*MOT:	pero para el desayuno la sal no hace falta &=q no ?
+*MOT:	mejor el azúcar .
+*MOT:	&=q eh@i ?
+*CHI:	quie@x [/] quiere el azúcar .
+*CHI:	Maisy < quiere quiere > [/] quiere algo .
+*MOT:	&=q qué quiere Maisy ?
+*CHI:	este plato no quiere .
+*MOT:	&=q ya no quiere ese plato ?
+*MOT:	pues bueno .
+*MOT:	entonces lo guardamos ese plato .
+*FAT:	pero se lo ha comido ya el plato .
+*MOT:	y ahora buscamos otro .
+*MOT:	a ver .
+*MOT:	&=q qué quieres que coma Maisy ?
+*MOT:	&=q unos espaguetis ?
+*CHI:	uno [*] papilla .
+%err:	una = uno $MOR $SUB $AGA
+*MOT:	&=q papilla ?
+*MOT:	es que papilla no queda , Juan .
+*CHI:	una papilla .
+*MOT:	una tarta .
+*FAT:	pues la hacéis vosotros .
+*MOT:	&=q quieres una tarta ?
+*CHI:	quiero papilla ?
+*MOT:	mira lo que tiene Maisy para comer aquí .
+*MOT:	mira .
+*MOT:	un sandwich .
+*MOT:	unos espaguetis con tomate .
+*MOT:	una tarta .
+*FAT:	hala@i un tarta .
+*MOT:	leche .
+*MOT:	zumo .
+*FAT:	hala@i zumo .
+*MOT:	pan .
+*CHI:	< quiere zumo > [/] quiere zumo .
+*MOT:	&=q quiere zumo Maisy ?
+*MOT:	fenomenal .
+*CHI:	< y este y este y este y este y este > [/] y este .
+*MOT:	vamos a coger le el zumo a Maisy .
+*MOT:	lo que pasa es que este ya no sé si se mantiene de pie .
+*MOT:	mira .
+*MOT:	el vaso de zumo y la botella de zumo .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	vamos a ponér selo aquí a Maisy .
+*MOT:	toma .
+*MOT:	pero no se tiene .
+*MOT:	&=q ves ?
+*MOT:	es que es imposible .
+@Situation:	1 MOT y Juan juegan en la habitación de Juan con un libro de Maisy que se convierte en su casita de papel , FAT está con ellos sin intervenir directamente durante los primeros minutos
+@Time Start:	16:30
+@Situation:	1
+*FAT:	&=q a ver ?
+%act:	se coloca cerca del libro-casita
+*FAT:	a lo mejor se tiene aquí .
+*CHI:	se tiene aquí . [+ IMI]
+*FAT:	se sujeta ahí .
+*FAT:	mira [/] mira .
+*FAT:	&=q ves ?
+*MOT:	hala@i .
+*MOT:	zumo [//] el vaso de Maisy y el zumito .
+*MOT:	y entonces Maisy va tu@o [x 4] .
+*MOT:	lo coge .
+*MOT:	y se lo lleva a la boca .
+*MOT:	mira .
+*CHI:	&=e aquí tiene (l)a boca !
+*CHI:	aquí [x 2] .
+*MOT:	ay@i .
+*MOT:	es verdad .
+*MOT:	que me he colado yo .
+*MOT:	aquí [x 2] .
+*FAT:	no .
+*FAT:	la boca está ahí .
+*MOT:	mira .
+*MOT:	está aquí la boca .
+*MOT:	mira la .
+*MOT:	&=q no ?
+*MOT:	esto es el morrito .
+*FAT:	esa es la nariz .
+*MOT:	es la boca .
+*FAT:	es una ratita .
+*MOT:	la boca es aquí .
+*FAT:	claro .
+*MOT:	tu@o [x 4] .
+%par:	como si comiera
+*MOT:	qué rico .
+*MOT:	mm@i .
+%par:	como si le gustara
+*FAT:	&=q Juan también toma zumo por la mañana ?
+*CHI:	< y ahora y ahora > [/] y ahora tarta .
+*MOT:	&=q y ahora tarta quiere Maisy ?
+*MOT:	menudo desayunazo , por+favor .
+%par:	riéndose
+*MOT:	< qué envidia > [/] qué envidia .
+*MOT:	qué envidia .
+*MOT:	yo quiero también esos desayunos .
+*MOT:	no .
+*MOT:	es aquí .
+*CHI:	envidia . [+ IMI]
+*MOT:	qué envidia , Maisy .
+*MOT:	&=q cómo desayuna ?
+*MOT:	yo también quiero .
+*CHI:	tú también quieres .
+*MOT:	mira .
+*MOT:	mm@i .
+%par:	como si le gustara
+*MOT:	qué rica .
+*FAT:	+" tú también quieres dice .
+%par:	riéndose
+*MOT:	qué pinta tiene esa tarta .
+*FAT:	&=q y tú no ?
+*FAT:	&=q y tú no quieres desayunar así ?
+*FAT:	&=q eh@i ?
+*CHI:	ay@i no 0 [*] pongo .
+%err:	0 = lo $MOR $LOS $PREFIX
+*MOT:	es que aquí < no se > [/] no se tiene , cariño .
+*MOT:	aquí es imposible .
+*MOT:	porque como se dobla es difícil luego que mantenga la posición .
+*MOT:	mira .
+*MOT:	es que no se puede .
+*CHI:	no se puede . [+ IMI]
+*MOT:	no se puede . [+ ADS]
+*MOT:	tiene que ser aquí en la encimera .
+*MOT:	&=q vale ?
+*MOT:	< corta un cachito > [//] ella corta un cachito y se lo come (.) de pie .
+*MOT:	&=q vale ?
+*MOT:	y ahora a meter en un cajón a Maisy .
+*CHI:	no .
+*MOT:	0 .
+%par:	se ríe
+*MOT:	ah@i .
+*MOT:	< que va > [//] está ahí .
+*MOT:	está cogiendo cosas .
+*MOT:	mira .
+*MOT:	y ahí va a coger una fruta que también le gusta una frutita por la mañana .
+*MOT:	mira qué rica .
+*MOT:	ah@i .
+*MOT:	+" quiero un plátano .
+*MOT:	mm@i .
+*MOT:	qué bueno .
+*CHI:	plátano . [+ IMI]
+*MOT:	mira el plátano ahí .
+*MOT:	tiene una [/] una naranja .
+*MOT:	mm@i .
+*MOT:	qué rica .
+*CHI:	naranja . [+ IMI]
+*MOT:	también hay ahí .
+*MOT:	quiero una pera .
+*MOT:	mm@i .
+*MOT:	qué buena .
+*CHI:	pera [x 2] . [+ IMI]
+*MOT:	y hay una chirimolla también .
+*FAT:	has sido tú quién ha dicho chirimolla .
+%par:	canta
+*FAT:	< pero bueno > [/] pero bueno .
+*FAT:	oye .
+*FAT:	y este cuento tan bonito .
+*CHI:	quiero plátanos .
+*FAT:	oye , Juan .
+*CHI:	y [/] y manzana .
+*FAT:	oye , Juan .
+*MOT:	&=q plátano y manzana ?
+*FAT:	&=q y este cuento tan bonito ?
+*FAT:	&=q quién te lo regaló ?
+*FAT:	&=q eh@i ?
+*CHI:	< me lo regaló > [/] me lo regaló Maisy .
+*FAT:	&=q te lo regaló Maisy ?
+*FAT:	&=q ah@i , sí ?
+*MOT:	&=q ah@i , sí ?
+*FAT:	&=q es amiga tuya Maisy ?
+*FAT:	&=q es amiga tuya ?
+*CHI:	le despierta el despertador .
+*MOT:	&=q has visto dónde tenemos el despertador ya ?
+*MOT:	toma .
+*MOT:	&=q dónde lo ponemos el despertador ?
+*MOT:	a ver .
+*MOT:	&=q dónde se pondría el despertador ?
+*MOT:	busca .
+*MOT:	&=q dónde ponem@x +//?
+*CHI:	aquí .
+*MOT:	&=q en la cocina ?
+*CHI:	no .
+*MOT:	&=q dónde tienen los papás el despertador ?
+*CHI:	aquí [x 2] .
+*MOT:	a ver .
+*MOT:	< &=q dónde tienen los papás el vete > [//] vete a buscar el despertador de los papás .
+*MOT:	a ver si lo encuentras .
+*FAT:	no [x 2] .
+*FAT:	no vayas a buscar lo .
+*CHI:	voy a buscar lo .
+*FAT:	&=q vas a buscar lo ?
+*MOT:	claro .
+*MOT:	que viene ahora mismo .
+*CHI:	así .
+*CHI:	ahora vengo .
+*FAT:	hola , Javier .
+%add:	cámara
+%act:	saluda con la mano
+*MOT:	nos hemos quedado solos .
+%add:	cámara
+%par:	riéndose
+*FAT:	hola .
+%add:	cámara
+*MOT:	&=q lo encuentras , Juan ?
+*CHI:	sí .
+*MOT:	pero no hace falta que lo traigas .
+*MOT:	&=q y dónde estaba ?
+*MOT:	&=q < dónde estaba > [/] dónde estaba ?
+*CHI:	aquí .
+*MOT:	&=q y eso qué es ?
+*FAT:	&=q y eso qué es ?
+*CHI:	el depestador [: despertador] .
+*MOT:	sí .
+*MOT:	el despertador . [+ ADS]
+*MOT:	&=q pero qué [/] qué es eso de la casa ?
+*FAT:	&=q en qué habitación estaba ?
+*FAT:	&=q en el baño ?
+*CHI:	no .
+*MOT:	&=q dónde ?
+*FAT:	&=q en la cocina ?
+*CHI:	no .
+*MOT:	cuidado [x 2] .
+*FAT:	&=q en la ducha ?
+*CHI:	no .
+*FAT:	&=q dónde estaba ?
+*CHI:	< en el do@x > [//] en el dormilor [: dormitorio] [*] .
+%err:	dormidor = dormitorio $MOR $SUB $AGA
+*FAT:	en el dor@x +...
+*CHI:	++ despertador .
+*MOT:	en el dormitorio . [+ COR]
+*FAT:	en el dormitorio . [+ COR]
+*FAT:	oye .
+%add:	MOT
+*FAT:	ha dicho “dormilón@c” .
+%add:	MOT
+*FAT:	&=q te has dado cuenta ?
+%add:	MOT
+*MOT:	sí .
+*CHI:	en el dormitorio . [+ IMI]
+*FAT:	en el dormitorio . [+ ADS]
+*MOT:	en el dormitorio . [+ ADS]
+*MOT:	es para dormir .
+*FAT:	&=q en el dormitorio de quién ?
+*FAT:	&=q de quién ?
+*MOT:	de los papás .
+*MOT:	entonces &=q este estaría bien aquí ?
+*MOT:	&=q este qué es ?
+*MOT:	el cuarto de Maisy &=q no ?
+*CHI:	el cuarto .
+*MOT:	pues entonces aquí en el cuarto de Maisy .
+*MOT:	mira qué bien queda ahí el despertador < en la > [/] en la cama de Maisy .
+*MOT:	y lo pone a las siete .
+*MOT:	porque a las siete todos los días se levanta Maisy .
+*FAT:	&=q a las siete ?
+*FAT:	parece los papás .
+@Situation:	1 MOT y Juan juegan en la habitación de Juan con un libro de Maisy que se convierte en su casita de papel , FAT está con ellos sin intervenir directamente
+@Time Start:	16:30
+@Situation:	1
+*MOT:	algunos .
+*CHI:	es de noche .
+*CHI:	aveces < es un > [/] es un murciélago y aveces es pájaro .
+*MOT:	aveces es un murciélago y aveces es un pájaro . [+ ADS]
+*CHI:	se ha caído .
+*MOT:	se ha caído . [+ ADS]
+*FAT:	oye .
+*CHI:	&=q dónde hay un sitio ?
+*MOT:	aquí .
+*MOT:	aquí es el mejor sitio .
+*FAT:	&=q dónde hay un sitio ? [+ ADS]
+%par:	riéndose
+*FAT:	&=q dónde ?
+*MOT:	aquí .
+*MOT:	en la mesita .
+*FAT:	&=q dónde hay un sitio ?
+*FAT:	&=q a ver ?
+*CHI:	aquí . [+ IMI]
+*FAT:	oye .
+*FAT:	&=q y si lo ponemos aquí con este ?
+*FAT:	&=q lo ponemos aquí al lado ?
+*FAT:	mira .
+*FAT:	ya tiene Juan despertador .
+*FAT:	hala@i .
+*FAT:	&=q te gusta ?
+*FAT:	&=q < y suena > [//] cómo suena el despertador ?
+*CHI:	tictac@o [x 2] .
+*MOT:	no .
+%par:	riéndose
+*MOT:	ese no suena tictac@o [x 2] .
+*FAT:	ese suena ring@o .
+*FAT:	y este suena pi@o [x 4] .
+*MOT:	&=q qué dices ?
+%add:	FAT
+*MOT:	este suena rin@o [x 3] .
+*FAT:	este [x 2] .
+%act:	señala el despertador digital que ha traído Juan
+*CHI:	este . [+ IMI]
+*MOT:	&=q a ver ?
+*MOT:	vamos a ver cómo suena .
+%act:	coge el despertador
+*FAT:	ese suena pi@o [x 4] .
+*FAT:	y el de Papá suena < pi@o (.) pi@o (.) > [/] pi@o .
+*CHI:	pi@o .
+*MOT:	vamos a ver cómo suena .
+*CHI:	&=q cómo suena ? [+ IMI]
+*MOT:	ay@i .
+*CHI:	&=q a ver ?
+*MOT:	yo creo que ya no suena .
+*MOT:	yo creo que ya no va a sonar .
+*MOT:	espérate .
+%par:	susurra
+*FAT:	&=q cómo que ya no va a sonar ?
+%add:	MOT
+*MOT:	xxx . [+ NON]
+%par:	susurra
+*MOT:	venga .
+*MOT:	ahora .
+*MOT:	ahora va a sonar .
+*FAT:	< tu madre > [/] tu madre ha descubierto el uso de la técnica , Juan .
+*MOT:	0 .
+%par:	se ríe
+*FAT:	&=e un momento histórico grabado por las cámaras !
+*FAT:	Mamá y la técnica sin pelear se .
+*MOT:	espérate .
+%add:	FAT
+*MOT:	si suena no nos peleamos pero si no suena me peleo .
+*FAT:	tururú@o .
+%par:	canturrea
+*CHI:	este despertador hace tictac [x 2] .
+*MOT:	tictac@o [x 4] .
+*FAT:	tictac@o [x 4] .
+%com:	empieza a sonar el despertador
+*FAT:	uh@i .
+*MOT:	ah@i .
+*MOT:	qué horrible .
+*FAT:	cómo suena &=q eh@i ?
+*CHI:	ah@i .
+*CHI:	ahora le doy aquí .
+*CHI:	ahora le doy aquí .
+*MOT:	ay@i .
+*MOT:	se ha acabado ya .
+%add:	FAT
+*MOT:	se acaba él solito .
+%add:	FAT
+*FAT:	hombre .
+%add:	MOT
+*FAT:	le has tocado tú el rojo .
+%add:	MOT
+*MOT:	no [x 2] .
+%add:	FAT
+*MOT:	yo no he tocado .
+%add:	FAT
+*MOT:	&=q le he tocado ?
+%add:	FAT
+%act:	le coge el despertador a Juan de las manos
+*FAT:	eh@i , Chindasvinto .
+*CHI:	lo ponemos 0 [*] .
+%err:	0 = O $SYN $LOS
+*FAT:	&=e hoy es jueves y mañana es viernes !
+*FAT:	&=q sabes quién va a venir hoy ?
+*CHI:	mm@i .
+*FAT:	&=q sabes quién va a venir hoy ?
+*CHI:	mm@i .
+*FAT:	los avis@f .
+*CHI:	y Celia .
+*FAT:	eh@i .
+*FAT:	no rompas esto .
+*FAT:	no lo rompas , hombre .
+*CHI:	los avis@f y Celia van a venir .
+*FAT:	también va a venir Celia .
+*MOT:	oye .
+*MOT:	&=q dijiste lo de la cinta de Celia ?
+%add:	FAT
+*FAT:	no .
+*MOT:	te lo dije ayer .
+%add:	FAT
+*FAT:	ya .
+*FAT:	ya te lo dije .
+%add:	MOT
+*FAT:	mira .
+*FAT:	esta es para [//] la base para que Maisy se sujete de pie .
+*FAT:	ya verás .
+*FAT:	trae a Maisy .
+*FAT:	< a ver > [/] a ver .
+*CHI:	se mueve con esto .
+*FAT:	claro .
+*FAT:	que Mamá no lo pone y no sabemos muy bien porque no lo pone .
+*MOT:	&=q el qué ?
+*MOT:	sí que lo pongo .
+*MOT:	lo que pasa es que es a él al que no le gusta .
+*MOT:	&=q te digo cómo es ?
+*FAT:	lulu@o [x 3] .
+%par:	canturrea
+*FAT:	yo me llevo bien con la técnica .
+%add:	MOT
+*MOT:	yo también xxx . [+ NON]
+%add:	FAT
+*CHI:	mira [x 2] .
+*FAT:	ten cuidado .
+*FAT:	no lo rompas el vestido , Juan .
+*MOT:	toma .
+*MOT:	tiro eso ahí .
+*FAT:	mucho cuidado .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	eso sí que lo puedes romper .
+%add:	MOT
+*MOT:	toma .
+*MOT:	esto ya no vale .
+*FAT:	pero el vestido no , hombre .
+*FAT:	el vestido no se puede romper .
+*MOT:	mira .
+*MOT:	ya rompió una cosita .
+%add:	FAT
+*MOT:	&=q decimos a Papá lo que hemos visto ayer ?
+*MOT:	en un arrebato que Papá y Mamá ayer no te lo dejó .
+*MOT:	mira .
+*MOT:	la canastita de Maisy .
+*FAT:	oy@i .
+*MOT:	hay que arreglar la .
+*FAT:	&=q rompiste ayer la cestita de frutas ?
+*CHI:	sí .
+*MOT:	y se ha caído el trajecito y hay un cachito que hay que guardar lo .
+*FAT:	pero monotropo@f .
+*MOT:	mira .
+*MOT:	está allí .
+*MOT:	en esa percha .
+*MOT:	está rota .
+*FAT:	uh@i .
+*MOT:	< hay que > [//] es que es muy chiquitino el trozo .
+*MOT:	hay que pegar lo cuanto antes .
+*FAT:	no lo rompas , Juan .
+*FAT:	con cuidado .
+*FAT:	es que esto es de papel todo .
+*MOT:	oye .
+*MOT:	como empieces a tratar lo mal lo guardamos .
+*MOT:	ya lo sabes .
+*FAT:	claro .
+*MOT:	&=q vale ?
+*MOT:	que esto cuando dejes de utilizar lo &=q sabes dónde tienes que poner lo , no ?
+*MOT:	en la canastita de la habitación .
+*CHI:	xxx .
+*FAT:	toma .
+%add:	MOT
+*FAT:	Juan .
+%par:	susurra
+*FAT:	cuidadito .
+%par:	susurra
+*FAT:	Juan .
+%par:	susurra
+*FAT:	cuidadito .
+%par:	susurra
+%act:	le empuja con la cabeza a Juan y éste se cae
+*FAT:	ahí+va .
+*CHI:	0 .
+%par:	lloriquea
+@Situation:	1 MOT y Juan juegan en la habitación de Juan con un libro de Maisy que se convierte en su casita de papel , FAT está con ellos sin intervenir directamente
+@Time Start:	16:30
+@Situation:	1
+*FAT:	ven aquí .
+*FAT:	que te he ido a xxx . [+ NON]
+*FAT:	Chindasvinto@f .
+*FAT:	&=q dónde vas ?
+*FAT:	&=q qué has hecho ?
+*FAT:	a ver .
+*FAT:	cuénta me lo que has hecho .
+*CHI:	me he caído .
+*FAT:	&=q te has caído por el suelo ?
+*FAT:	&=q y has rodado como un guijarro ?
+*CHI:	no .
+*FAT:	no .
+*MOT:	0 .
+%par:	se ríe
+*FAT:	&=q no has rodado como un guijarro ?
+*CHI:	no .
+*FAT:	ah@i .
+*FAT:	&=q has rodado como una pelotilla ?
+*CHI:	no .
+*FAT:	&=q como una albondiguilla ?
+*CHI:	no .
+*FAT:	&=q como una xxx ? [+ NON]
+*CHI:	sí .
+*FAT:	&=q has rodado como una +//?
+*CHI:	&=q qué voy a comer ?
+*FAT:	&=q quieres ir a comer ?
+*FAT:	&=q sí ?
+*MOT:	sí .
+*MOT:	ya hay que ir a merendar .
+*MOT:	&=q vale ?
+*FAT:	hacemos un pis y luego vamos a merendar .
+*FAT:	&=q vale ?
+*MOT:	vamos a recoger este .
+*MOT:	venga .
+*MOT:	recoge todas las cosas , Juan .
+*CHI:	a lo mejor hay cocholate [: chocolate] .
+*MOT:	a lo mejor . [+ ADS]
+*CHI:	a lo mejor . [+ IMI]
+*MOT:	depende de como meriende Juan .
+*FAT:	claro .
+*FAT:	hay una pera riquísima .
+*CHI:	0 .
+%act:	se abraza a MOT
+*FAT:	oy@i [x 3] , madre+mía .
+*FAT:	oy@i qué amoroso .
+*MOT:	a ver .
+*MOT:	a colocar todo en su sitio .
+*CHI:	xxx .
+*CHI:	< ahora ahora estos > [/] ahora estos .
+*MOT:	pero da me todo lo de Maisy que lo guardemos .
+*MOT:	a ver .
+*MOT:	el despertador aquí .
+*MOT:	&=q dónde está el +//?
+*CHI:	&=q qué haces ?
+*MOT:	guardando todo lo de Maisy .
+*MOT:	porque vamos a cerrar lo &=q no ?
+*MOT:	a ver .
+*MOT:	&=q lo de la cocina lo hemos recogido ?
+*CHI:	sí .
+*MOT:	&=q dónde está ?
+*MOT:	no está recogido .
+*CHI:	allí [?] . [+ NON]
+*MOT:	hay que recoger lo todo .
+*MOT:	mira .
+*MOT:	aquí lo vamos a recoger todo .
+*MOT:	&=q vale ?
+*MOT:	mira .
+*MOT:	aquí el vaso de zumo .
+*MOT:	la botella de zumo .
+*MOT:	y la carta .
+*MOT:	&=q vale ?
+*MOT:	todo ahí .
+*MOT:	en esta canastilla podemos poner más cosas .
+*MOT:	pero como ahora está rota +/.
+*MOT:	ah@i [x 2] .
+*MOT:	así [//] ahora sí .
+*MOT:	ya está .
+*MOT:	&=q vale ?
+*MOT:	ya la guardamos .
+*CHI:	una (ex)cavadora .
+*CHI:	un t(r)actor .
+*MOT:	a ver .
+%act:	coge toda la casa-libro en sus brazos
+*CHI:	< quiero ver quiero ver > [/] yo quiero ver esto .
+*CHI:	yo quiero ver esto .
+*MOT:	&=q qué quieres ver ?
+*MOT:	&=q este ?
+*CHI:	la cama de Maisy .
+*MOT:	mira .
+*MOT:	&=q ves ?
+*MOT:	la casita .
+*MOT:	ahí está la casita .
+*MOT:	mira .
+*MOT:	&=q ves ?
+*MOT:	mira dónde está el osito+panda .
+*MOT:	&=q ves el despertador ?
+*MOT:	y el vaso de zumo lo tiene ahí en la mesita también .
+*MOT:	&=q y qué más tiene ?
+*MOT:	mira .
+*MOT:	&=q ves ?
+*CHI:	quiero (di)bujos .
+*MOT:	está en pijama .
+*MOT:	se va a dormir .
+*MOT:	no .
+*MOT:	se acaba de levantar .
+*MOT:	porque mira .
+*MOT:	es de día .
+*FAT:	quiquiriquí@o .
+*FAT:	es la hora de merendar .
+*CHI:	mira .
+*MOT:	&=q y aquí ?
+*CHI:	&=q qué es eso ?
+*MOT:	la ventana de su casa .
+*MOT:	es que está justo en la entrada .
+*MOT:	y entonces cuando abrimos nos la enseña .
+*MOT:	nos enseña la cocina .
+*MOT:	nos enseña la habitación .
+*MOT:	y nos enseña el baño .
+*FAT:	oye .
+*FAT:	&=q y cuando venga el hermanito tú le vas a enseñar la casa ?
+*MOT:	xxx &=q verdad ? [+ NON]
+*FAT:	&=q sí ?
+*MOT:	sí .
+*MOT:	lo que pasa es que va a ser un poco pequeñurrio@f .
+*FAT:	oy@i .
+*FAT:	pero cuando nació Juan lo primero que hicimos fue enseñar le la casa .
+*MOT:	es verdad .
+*MOT:	la casa .
+*MOT:	creí que era la casa de Maisy .
+*MOT:	no .
+*MOT:	era la casa nuestra &=q verdad ?
+*CHI:	toma .
+%act:	le da un libro a MOT
+*FAT:	silencio al respecto .
+%add:	MOT
+*MOT:	se hace el loco .
+%add:	FAT
+*CHI:	toma .
+%act:	le da otro libro a MOT
+*MOT:	se hace < el_Loco_Loqueras@f > [/] el_Loco_Loqueras@f .
+*CHI:	este .
+*MOT:	a ver .
+*MOT:	&=q el de la guardería ?
+*CHI:	sí .
+*CHI:	la guardería . [+ IMI]
+%err:	0 = el $SYN $LOS ; 0 = de $SYN $LOS
+*MOT:	esto tenemos que guardar lo .
+*FAT:	oye .
+*FAT:	yo creo que podríamos bajar a merendar &=q eh@i ?
+*MOT:	yo creo que sí .
+*MOT:	luego seguimos viéndo lo .
+*FAT:	venga .
+*MOT:	no .
+*MOT:	cuidado con eso cariño que lo tengo que pegar .
+*MOT:	hay que [x 3] guardar lo muy bien .
+*FAT:	oye .
+*FAT:	da le un beso muy grande a Mamá que ha estado jugando contigo y con la casita de Maisy .
+*FAT:	da le un beso anda .
+*FAT:	un beso enor:me .
+*CHI:	0 .
+%act:	abraza a MOT y la besa
+*FAT:	enor:me .
+*MOT:	hala@i .
+*MOT:	qué besote .
+*MOT:	madre+mía .
+*FAT:	venga .
+*FAT:	vamos a merendar , guapísimo .
+*FAT:	&=q vamos a merendar ?
+*CHI:	no .
+*MOT:	venga .
+*MOT:	vamos .
+*FAT:	no .
+*CHI:	el cuento .
+*FAT:	&=q nos comemos el cuento ?
+@End

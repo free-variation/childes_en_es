@@ -1,0 +1,296 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father
+@ID:	spa , eng|OreaPine|CHI|||||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	14-AUG-2001
+@Location:	Madrid
+@Situation:	1 Por la mañana , FAT le da el desayuno a Juan en la terraza
+@Situation:	1
+@Time Start:	08:30
+*CHI:	siéntate tú .
+*CHI:	xxx .
+%act:	mientras se sube a la silla para sentarse en ella
+*FAT:	&=q me siento yo también ?
+*FAT:	ya voy con la leche caliente .
+*FAT:	buenos+días .
+%act:	coloca el tazón de leche sobre la mesa
+*CHI:	0 [*] 0 [*] hecho [*] pupa .
+%err:	0 = me $MOR $LOS $PREFIX ; 0 = he $SYN $LOS $AUXH
+%act:	se toca el pie
+*FAT:	&=q te has hecho pupa ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q quién te lo ha hecho ?
+*CHI:	Mónica .
+*FAT:	&=q Mónica ?
+%par:	extrañado
+*CHI:	sí , Mónica 0 [*] mala .
+%err:	0 = es $SYN $LOS
+*FAT:	&=q Mónica es mala ? [+ COR]
+*CHI:	sí .
+*FAT:	no .
+*FAT:	no digas eso .
+*CHI:	xxx Mónica . [+ NON]
+*FAT:	Mónica no te ha hecho pupa , hombre .
+*CHI:	yo [/] yo echa [*] agua a (l)os niños .
+%err:	echa = echo $MOR $SUB $NFL 3s/1s:YO
+*FAT:	&=q tú has echado agua a los niños ? [+ COR]
+*CHI:	sí .
+*FAT:	&=q en la playa ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*CHI:	sí .
+*CHI:	0 [*] playa . [+ IMI]
+%err:	0 = < en la > $SYN $LOS
+*CHI:	allí e(n) (l)as (n)ubes .
+%act:	señala hacia la calle
+*FAT:	había unos niños con una barca &=q verdad ?
+*FAT:	ayer .
+*CHI:	sí .
+*FAT:	y luego vinieron a jugar con nosotros al castillo &=q verdad ?
+%act:	le coloca el babero
+*FAT:	&=q sí ?
+*CHI:	pupa .
+*FAT:	&=q tienes pupa ?
+*FAT:	&=q dónde ?
+*CHI:	me 0 [*] hecho [/] hecho Mónica .
+%err:	0 = lo $MOR $LOS $PREFIX ; 0 = ha $SYN $LOS $AUXH
+*FAT:	&=q te lo ha hecho Mónica ?
+*CHI:	e(s) mala .
+*FAT:	no .
+*FAT:	Mónica no es mala , Juan .
+*CHI:	mira .
+*CHI:	el señor Apellido .
+%act:	mira hacia la calle
+*FAT:	el señor Apellido .
+*CHI:	el señor Apellido .
+*FAT:	está barriendo el señor Apellido .
+*CHI:	(es)tá bar(r)iendo el señor Apellido . [+ IMI]
+*FAT:	dile “buenos+días , señor Apellido” .
+*FAT:	díselo .
+*CHI:	(d)ías .
+%par:	susurra
+*FAT:	no te oye .
+*CHI:	(bue)nos+días , señor Apellido .
+*FAT:	mira [x 5] .
+%act:	está echando galletas de tipo María en el tazón de leche
+*CHI:	mira [x 3] . [+ IMI]
+%act:	echa él otra galleta
+*CHI:	mira [x 3] .
+*CHI:	mira el señor Apellido .
+*CHI:	0 [*] 0 [*] hecho pupa ahí .
+%err:	0 = me $MOR $LOS $PREFIX ; 0 = he $SYN $LOS $AUXH
+%act:	se mira la pierna
+*FAT:	pero esa pupa no te la ha hecho Mónica , Juan .
+*FAT:	esa pupa te la has hecho tú en la playa jugando .
+*FAT:	pobre Mónica .
+*FAT:	encima que no ha venido a la playa .
+*FAT:	toma , Juan .
+%act:	le deja dos pinzas de tender la ropa sobre la mesa para que juegue con ellas
+*CHI:	es [*] c(ali)ente .
+%err:	es = está $SYN $SUB
+*CHI:	(cali)ente [/] ca(li)ente .
+*FAT:	no .
+*FAT:	no está caliente , Juan .
+*CHI:	0 .
+%act:	mira debajo de la mesa
+*FAT:	&=q qué hay ahí ?
+*CHI:	pupa .
+*FAT:	&=q otra pupa ?
+*CHI:	sí .
+*FAT:	&=q y esta vez quién te la ha hecho ?
+*CHI:	Juan .
+*FAT:	&=q Juan se la ha hecho ?
+*CHI:	sí .
+*FAT:	&=q cuándo ?
+*FAT:	&=q cuándo te la has hecho ?
+*CHI:	ayer .
+*FAT:	&=q ayer ?
+*FAT:	&=q sí ?
+*CHI:	hay torizo [: chorizo] .
+%act:	señala sobre la mesa
+*FAT:	&=q hay chorizo ?
+*FAT:	&=q dónde hay chorizo ?
+*CHI:	allí .
+*FAT:	&=q allí dónde ?
+*CHI:	en tu burro (.) Perico .
+*FAT:	&=q tu burro perico ?
+*FAT:	&=q qué hace el burro Perico ?
+*CHI:	tiraba [x 2] .
+*FAT:	con grandes +...
+*CHI:	++ orejas .
+*FAT:	y buen +...
+*CHI:	++ co@x [/] corazón .
+*FAT:	corazón .
+*FAT:	&=q cantamos la canción ?
+*CHI:	sí .
+*FAT:	el burro perico tiraba y tiraba con grandes orejas y buen corazón .
+%par:	canta
+*FAT:	&=q quién te canta esa canción ?
+*FAT:	&=q quién te canta esa canción ?
+*CHI:	Mamá .
+*FAT:	Mamá .
+*FAT:	&=q y Mamá dónde está ahora ?
+*CHI:	do(r)mida .
+%act:	ha señalado al interior de la casa
+*FAT:	&=q está dormida ?
+*CHI:	sí .
+*FAT:	está cansada .
+*CHI:	sí .
+*FAT:	claro .
+*CHI:	Papá es [*] do(r)mido .
+%err:	es = está $SYN $SUB
+*FAT:	&=q Papá está dormido ? [+ COR]
+%par:	extrañado
+*CHI:	no .
+*CHI:	0 [*] (des)pe(r)tado [*] .
+%err:	0 = está $SYN $LOS $AUXH ; depertado = despierto $MOR $SUB $REG
+*FAT:	está despertado . [+ COR]
+*CHI:	sí .
+*FAT:	está despierto . [+ COR]
+%act:	se le cae un poco de leche con galletas sobre el brazo de Juan
+@Situation:	1 Por la mañana , FAT le da el desayuno a Juan en la terraza
+@Situation:	1
+@Time Start:	08:30
+*FAT:	ay@i .
+*FAT:	espera que voy a por servilletas .
+*FAT:	quieto &=q eh@i ?
+*FAT:	no te manches .
+%act:	se mete en el interior de la casa
+*CHI:	se(rv)illeta . [+ IMI]
+*FAT:	&=q qué suena por ahí ?
+%act:	se ha vuelto a sentar junto a Juan
+*FAT:	&=q una máquina grande ?
+*CHI:	una máquina grande . [+ IMI]
+*FAT:	oye .
+*FAT:	&=q < dónde pongo la pinza > [/] dónde pongo la pinza ?
+*CHI:	allí .
+%act:	señala hacia algún lugar de la terraza
+*FAT:	&=q qué hago con ella ?
+*CHI:	xxx .
+*FAT:	&=q cómo ?
+*CHI:	xxx .
+*FAT:	&=q una casita de pintura la pinza ?
+*CHI:	sí .
+*CHI:	xxx .
+*CHI:	da me la ot(r)o [*] .
+%err:	otro = otra $MOR $SUB $AGA
+%act:	señala otra pinza que hay sobre la mesa , más alejada
+*CHI:	dá mela [*] esta .
+%err:	la = 0 $MOR $ADD $SUFFIX
+%act:	sigue señalando la otra pinza
+*FAT:	&=q que te dé +..?
+*CHI:	la [*] una .
+%err:	la = 0 $SYN $ADD
+*FAT:	&=q una pinza más ?
+%act:	le da la otra pinza
+*CHI:	0 [*] pinza más . [+ IMI]
+%err:	0 = una $SYN $LOS
+*CHI:	poner [*] las .
+%err:	poner = pon $MOR $SUB $ROOT
+*CHI:	xxx .
+*FAT:	&=q cómo has dicho ?
+*CHI:	mira .
+%act:	señala las pinzas
+%par:	alegre
+*CHI:	mira .
+*FAT:	&=q qué has hecho ?
+*CHI:	una casita .
+*FAT:	&=q una casita ?
+*CHI:	una casita abierta .
+%act:	coloca las manos en forma de casita
+*FAT:	&=q una casita abierta ?
+*FAT:	+" hola , soy el dedo que viene a esta casita .
+%act:	juega con su dedo en las manos de Juan
+%par:	cambia la voz
+*FAT:	+" &=q te puedo hacer cosquillas ?
+*CHI:	sí .
+*FAT:	chiqui@o [x 4] .
+%act:	le hace cosquillas
+*FAT:	&=q está buena la leche con galletas ?
+*CHI:	mete el dedo .
+*FAT:	&=q meto el dedo entonces ?
+*FAT:	+" hola .
+%par:	pone voz de marioneta
+*FAT:	+" soy el dedo que vive en esta casita .
+*FAT:	+" &=q te puedo hacer cosquillas ?
+*CHI:	sí .
+*FAT:	chiqui@o [x 4] .
+%act:	le hace cosquillas
+*CHI:	ya .
+*FAT:	&=q ya ?
+*CHI:	ya .
+*FAT:	cuidado , Juan .
+*FAT:	toma .
+*FAT:	cuidado .
+*CHI:	quita .
+%act:	se aparta porque FAT intenta colocarle bien en la silla
+*FAT:	ponte bien , anda .
+*CHI:	to@o [x 9] .
+%par:	canturrea
+*FAT:	toma .
+*CHI:	0 .
+%act:	juega con las pinzas de la ropa
+*FAT:	&=q qué haces ?
+*CHI:	nada .
+*FAT:	&=q qué haces ?
+*CHI:	castillos .
+*FAT:	&=q un castillo ?
+*CHI:	ia@i .
+*FAT:	&=q con las pinzas ?
+*CHI:	xxx .
+%act:	hace como si la pinza diera saltitos
+*FAT:	&=q qué hace la pinza ?
+*CHI:	trota .
+*FAT:	&=q trota ?
+*CHI:	sí .
+*FAT:	&=q o está rota ?
+*FAT:	&=q qué es lo que me has dicho ?
+*CHI:	rota . [+ IMI]
+*FAT:	no sé .
+*FAT:	me parece raro que haya dicho trota .
+%add:	para sí mismo
+*CHI:	0 .
+%act:	ahora hace saltar las dos pinzas
+*FAT:	&=q qué hacen las pinzas ?
+*CHI:	saltan .
+*FAT:	saltan .
+@Situation:	1 Por la mañana , FAT le da el desayuno a Juan en la terraza
+@Situation:	1
+@Time Start:	08:30
+*FAT:	a ver .
+*FAT:	otra cosa más .
+*FAT:	uy@i .
+*FAT:	ten cuidado que se va a romper el mantel , Juan .
+*CHI:	0 [*] romper el mantel . [+ IMI]
+%err:	0 = < se va a > $SYN $LOS
+*FAT:	< se rompe > [//] así se rompe el mantel .
+*FAT:	&=q por qué no juegas a que las pinzas eran coches ?
+*FAT:	&=q a ver cómo hacen como si fueran coches ?
+*CHI:	pi@o [x 2] .
+*FAT:	pi@o [x 2] .
+*CHI:	pi@o [x 2] .
+*FAT:	pi@o [x 2] .
+*CHI:	< aque@x una > [//] se cae [*] una .
+%err:	cae = < ha caído > $MOR $SUB $NFL 3s/PREX3s
+%act:	se le ha caido una pinza al suelo
+*FAT:	&=q se ha caído una ?
+*CHI:	xxx .
+%par:	intenta repetir lo que ha dicho FAT
+*FAT:	toma .
+%act:	se levanta y se las da
+*FAT:	espera que voy a por otra más .
+%act:	se mete en el inerior
+*CHI:	ot(r)a más . [+ IMI]
+*CHI:	ot(r)a más .
+%act:	coge otras dos pinzas de colores que FAT acaba de dejar sobre la mesa
+*CHI:	ot(r)a más .
+%par:	muy contento
+*CHI:	< toma > [/] toma esta .
+*FAT:	déja la ahí .
+*FAT:	pon la ahí .
+*CHI:	amarilla .
+%act:	coge una pinza amarilla
+@End

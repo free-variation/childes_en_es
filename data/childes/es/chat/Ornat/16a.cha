@@ -1,0 +1,332 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , MAD Mother , PAD Father
+@ID:	spa|ornat|CHI|3;7.||||Target_Child|||
+@ID:	spa|ornat|MAD|||||Mother|||
+@ID:	spa|ornat|PAD|||||Father|||
+@Media:	16a, video
+@Tape Location:	Z-3;07-610
+@Comment:	DV Tape is maria16-01.mov
+@Situation:	María en el salón jugando con construcciones.
+*PAD:	María , ataca de nuevo . 0_3481
+%mor:	n:prop|María cm|cm v|ataca-3S&PRES=attack prep|de=of adj|nuevo-MASC=new
+	.
+*CHI:	no , María Herranz , Teo , que yo me llamo Teo , que soy un niño . 3481_10206
+%mor:	adv|no=no cm|cm n:prop|María n:prop|Herranz cm|cm n:prop|Teo cm|cm prep|que=than
+	pro:per|yo=I pro:per|me=me v|llama-1S&PRES=call n:prop|Teo cm|cm prep|que=than
+	v|se-1S&PRES=be det:art|un&masc=one co:voc|niño=child .
+*CHI:	ahora me he cambia(d)o de nombre porque estamos jugando , estamos jugando y ahora yo he hecho una casita . 10206_25250
+%mor:	adv|ahora=now pro:per|me=me co|he part|cambia-PPART&MASC=change prep|de=of
+	n|nombre&masc=name conj|porque=because v|esta-1P&PRES=be v|juga-PROG=play
+	cm|cm v|esta-1P&PRES=be v|juga-PROG=play coord|y=and adv|ahora=now pro:per|yo=I
+	co|he n|hecho&masc=action det:art|un-FEM=one n|casa-DIM-FEM=house .
+*CHI:	mira que bonita . 25250_27041
+%mor:	co|mira=look prep|que=than co:voc|bonita=pretty .
+*MAD:	a qué estás jugando , Maniña ? 27041_28415
+%mor:	prep|a=to pro:int|qué=what v|esta-2S&PRES=be v|juga-PROG=play cm|cm n:prop|Maniña
+	?
+*PAD:	www [= habla con Mamá] . 28415_54370
+*CHI:	0 [% no contesta y sigue jugando] [% coge una pieza] Mamá , mira , ahora voy a poner un puente y hago así [% une dos piezas] , voy a poner un puente +... 54370_65343
+%mor:	n:prop|Mamá cm|cm co|mira=look cm|cm adv|ahora=now v|i-1S&PRES=go prep|a=to
+	v|pone-INF=put det:art|un&masc=one n|puente&fem=bridge coord|y=and v|hace-1S&PRES=do
+	adv|así=thus cm|cm v|i-1S&PRES=go prep|a=to v|pone-INF=put det:art|un&masc=one
+	n|puente&fem=bridge +...
+%com:	lo pone
+*MAD:	www [= habla con Papá] . 65343_76693
+*CHI:	Mamá ! 76693_78550
+%mor:	n:prop|Mamá !
+*MAD:	qué ? 78550_79446
+%mor:	pro:int|qué=what ?
+*CHI:	mira cuántos pequeñitos [% se refiere a piezas pequeñas] . 79446_82715
+%mor:	co|mira=look pro:int|cuánto-PL=how_much adj|pequeño-DIM-MASC-PL=small
+	.
+*CHI:	xxx . 82715_89483
+*CHI:	mira cuántos tengo . 89483_90681
+%mor:	co|mira=look pro:int|cuánto-PL=how_much v|tene-1S&PRES=have .
+*CHI:	cuántos tengo ? 90681_92405
+%mor:	pro:int|cuánto-PL=how_much v|tene-1S&PRES=have ?
+%com:	los enseña
+*MAD:	cuatro . 92405_93340
+%mor:	det:num|cuatro=four .
+*CHI:	cuat(r)o . 93340_94018
+%mor:	det:num|cuatro=four .
+*CHI:	el suelo . 94018_97436
+%mor:	det:art|el&MASC&SG=the n|suelo&masc=floor .
+*CHI:	este es para el suelo Mamá , para el suelo de la cocina . 97436_105553
+%mor:	det:dem|este=this v|se-3S&PRES=be prep|para=for det:art|el&MASC&SG=the
+	n|suelo&masc=floor n:prop|Mamá cm|cm prep|para=for det:art|el&MASC&SG=the
+	n|suelo&masc=floor prep|de=of det:art|el&FEM&SG=the n|cocina&fem=kitchen
+	.
+%com:	mira a Papá que está comiendo algo
+*CHI:	te estás manchando ? 105553_109345
+%mor:	pro:per|te=you v|esta-2S&PRES=be v|mancha-PROG=stain ?
+*PAD:	anda , pues sí . 109345_110956
+%mor:	co|anda=come_on cm|cm co|pues=well co|sí=yes .
+*PAD:	pero son miguitas sólo . 110956_114448
+%mor:	conj|pero=but v|se-3P&PRES=be n|miga-DIM-FEM-PL=crumb adv|sólo=only .
+*MAD:	xxx . 114448_119495
+*CHI:	mira que suelo tan grande . 119495_121818
+%mor:	co|mira=look prep|que=than n|suelo&masc=floor adv|tan=such adj|grande=big
+	.
+%com:	juega
+@Tape Location:	Z-3;07-611
+@Situation:	María en el salón haciendo casitas. Papá y mamá hablan.
+*MAD:	www [= habla con Papá] . 121818_138303
+*MAD:	María se ha tomado dos medias noches con jamón y dos galletas de chocolate . 138303_141026
+%mor:	n:prop|María pro:per|se=itself co|ha part|toma-PPART&MASC=take det:num|dos=two
+	n|media&fem-PL=stocking n|noche&fem-PL=night prep|con=with n|jamón&masc=ham
+	coord|y=and det:num|dos=two n|galleta&fem-PL=biscuit prep|de=of n|chocolate&masc=chocolate
+	.
+*MAD:	de qué eran las medianoches , de jamón las dos ? 141026_145083
+%mor:	prep|de=of pro:int|qué=what v|se-3P&PAS=be det:art|el&FEM-PL=the n|medianoche&fem-PL=midnight
+	cm|cm prep|de=of n|jamón&masc=ham det:art|el&FEM-PL=the det:num|dos=two
+	?
+*CHI:	sí , la(s) , las dos de jamón . 145083_150570
+%mor:	adv|sí=yes cm|cm det:art|el&FEM-PL=the cm|cm det:art|el&FEM-PL=the det:num|dos=two
+	prep|de=of n|jamón&masc=ham .
+*CHI:	0 [% juega] cucu@wp , cucu@wp , cucu@wp , cucu@wp [% cantando] . 150570_169080
+%mor:	wplay|cucu cm|cm wplay|cucu cm|cm wplay|cucu cm|cm wplay|cucu .
+*CHI:	esperate xxx , espera , voy [% cantando] . 169080_178490
+%mor:	v|espera-2S&IMP~pro:clit|2S cm|cm v|espera-3S&PRES=wait cm|cm v|i-1S&PRES=go
+	.
+*MAD:	⌈xxx⌉ [% a Papá] . 178490_182185
+*CHI:	⌊esperate jo mi niño⌋ [% cantando] . 182185_189336
+%mor:	v|espera-2S&IMP~pro:clit|2S co|jo=whoa det:pos|mi=my co:voc|niño=child
+	.
+*MAD:	www [= habla con Papá] . 189336_210000
+*CHI:	Mamá , mira qué tejado y mira qué casa . 210000_216271
+%mor:	n:prop|Mamá cm|cm co|mira=look pro:int|qué=what n|tejado&masc=roof coord|y=and
+	co|mira=look pro:int|qué=what n|casa&fem=house .
+*MAD:	uy , qué bonito ! 216271_219303
+%mor:	co|uy cm|cm pro:int|qué=what adj|bonito-MASC=pretty !
+*PAD:	a_ver , hacemos una pelí(cula) a tu casa ? 219303_224940
+%mor:	co|a_ver=see cm|cm v|hace-1P&PRES=do det:art|un-FEM=one n|película&fem=film
+	prep|a=to det:pos|tu=your n|casa&fem=house ?
+*CHI:	sí , pero mi casa no es para hacer pelí(cula)s . 224940_230538
+%mor:	adv|sí=yes cm|cm conj|pero=but det:pos|mi=my n|casa&fem=house co|no=no
+	v|se-3S&PRES=be prep|para=for v|hace-INF=do n|película&fem-PL=film .
+*PAD:	no es para hacer pelí(cula)s ? 230538_231738
+%mor:	adv|no=no v|se-3S&PRES=be prep|para=for v|hace-INF=do n|película&fem-PL=film
+	?
+*CHI:	mi casa es para hacer pelí(cula)s . 231738_233673
+%mor:	det:pos|mi=my n|casa&fem=house v|se-3S&PRES=be prep|para=for v|hace-INF=do
+	n|película&fem-PL=film .
+*PAD:	eh ? 233673_234250
+%mor:	co|eh ?
+*CHI:	mi casa es para hacer pelí(cula)s . 234250_236098
+%mor:	det:pos|mi=my n|casa&fem=house v|se-3S&PRES=be prep|para=for v|hace-INF=do
+	n|película&fem-PL=film .
+*PAD:	pues , eso decía yo como es bonita , pudiéramos hacer una película . 236098_240083
+%mor:	co|pues=well cm|cm pro:dem|eso=that_one v|deci-13S&PAS=say pro:per|yo=I
+	adv|como=like v|se-3S&PRES=be co:voc|bonita=pretty cm|cm v|pode-1P&SUB&PAS=can
+	v|hace-INF=do det:art|un-FEM=one n|película&fem=film .
+*CHI:	Mamá , mira el techo . 240083_242618
+%mor:	n:prop|Mamá cm|cm co|mira=look det:art|el&MASC&SG=the n|techo&masc=roof
+	.
+*MAD:	um , qué bonito . 242618_244683
+%mor:	co|um cm|cm pro:int|qué=what adj|bonito-MASC=pretty .
+*CHI:	esto &señala . 244683_246995
+%mor:	det:dem|este-MASC=this .
+*CHI:	esto es un columpio , es un columpio . 246995_250771
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be det:art|un&masc=one n|columpio&masc=swing
+	cm|cm v|se-3S&PRES=be det:art|un&masc=one n|columpio&masc=swing .
+*MAD:	es precioso hija . 250771_252185
+%mor:	v|se-3S&PRES=be adj|precioso-MASC=precious co:voc|hija=child .
+*CHI:	un columpio , mío de cuando era bebé y me sentaba aquí , acá arriba , me subía por aquí y me sentaba y luego me subía por aquí y me sentaba aquí . 252185_263561
+%mor:	det:art|un&masc=one n|columpio&masc=swing cm|cm pro:pos|mío-MASC=mine
+	prep|de=of conj|cuando=when v|se-13S&PAS=be n|bebé&masc=baby coord|y=and
+	pro:per|me=me v|senta-13S&PAS=sit adv|aquí=here cm|cm adv|acá=there adv|arriba=above
+	cm|cm pro:per|me=me v|subi-13S&PAS=go_up prep|por=for adv|aquí=here coord|y=and
+	pro:per|me=me v|senta-13S&PAS=sit coord|y=and adv|luego=afterwards pro:per|me=me
+	v|subi-13S&PAS=go_up prep|por=for adv|aquí=here coord|y=and pro:per|me=me
+	v|senta-13S&PAS=sit adv|aquí=here .
+%com:	ríe
+@Tape Location:	Z-3;07-612
+@Situation:	María en el salón jugando con sus construcciones.
+*MAD:	oye , di la poesía del día del padre anda que xxx . 263561_269323
+%mor:	co|oye=listen cm|cm v|da-1S&PRET=give det:art|el&FEM&SG=the n|poesía&fem=poetry
+	prep|de~det|el&MASC n|día&masc=day prep|de~det|el&MASC n|padre&masc=father
+	co|anda=come_on prep|que=than .
+*MAD:	mírale a Papá y díselo . 269323_271380
+%mor:	v|mira-2S&IMP~pro:clit|3S prep|a=to n:prop|Papá coord|y=and v|deci-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC
+	.
+*CHI:	tú sabes Papaíto cuanto te quiero , te he dicho mil veces sólo con besos pero hoy es tu fiesta no puede ser quieto , te quiero Papíto aquí hasta el cielo [% dice la poesía] . 271380_288871
+%mor:	pro:per|tú=you co|sabes=you_know n:prop|Papaíto pro:indef|cuanto=how_much
+	pro:per|te=you v|quere-1S&PRES=want cm|cm pro:per|te=you co|he part|deci-PPART-MASC=say
+	det:num|mil=thousand n|vez&fem-PL=turn adv|sólo=only prep|con=with n|beso&masc-PL=kiss
+	conj|pero=but adv|hoy=today v|se-3S&PRES=be det:pos|tu=your n|fiesta&fem=festival
+	co|no=no v|pode-3S&PRES=can n|ser&masc=being adj|quieto-MASC=still cm|cm
+	pro:per|te=you v|quere-1S&PRES=want n:prop|Papíto adv|aquí=here prep|hasta=until
+	det:art|el&MASC&SG=the co:voc|cielo=angel .
+*MAD:	cuenta lo que le regalaste a Papá . 288871_299473
+%mor:	co|cuenta pro:per:1|lo&masc=him prep|que=than pro:per|le=him v|regala-2S&PRET=give_present
+	prep|a=to n:prop|Papá .
+*PAD:	www [= habla con Mamá] . 299473_333450
+*CHI:	0 [% sigue jugando] Mamá ! 333450_335905
+%mor:	n:prop|Mamá !
+*MAD:	qué , amor ? 335905_336705
+%mor:	pro:int|qué=what cm|cm co:voc|amor=love ?
+*CHI:	mira , y aquí [% señala] encima cuando yo era pequeña tenía un puente . 336705_342273
+%mor:	co|mira=look cm|cm coord|y=and adv|aquí=here adv|encima=on_top conj|cuando=when
+	pro:per|yo=I v|se-13S&PAS=be adj|pequeño-FEM=small v|tene-13S&PAS=have
+	det:art|un&masc=one n|puente&fem=bridge .
+*MAD:	claro . 342273_342970
+%mor:	co|claro=obvious .
+*CHI:	a que tú nunca has visto un columpio que tenía un puente encima ? 342970_349615
+%mor:	prep|a=to prep|que=than pro:per|tú=you adv|nunca=never v|habe-2S&PRES=have
+	v|vesti-1S&PRES=dress det:art|un&masc=one n|columpio&masc=swing prep|que=than
+	v|tene-13S&PAS=have det:art|un&masc=one n|puente&fem=bridge adv|encima=on_top
+	?
+*CHI:	no ? 349615_351035
+%mor:	adv|no=no ?
+*MAD:	nunca jamás . 351035_352255
+%mor:	adv|nunca=never adv|jamás=never .
+*CHI:	nunca ? 352255_353170
+%mor:	adv|nunca=never ?
+*CHI:	pues hoy ⌈lo has visto⌉ . 353170_354395
+%mor:	co|pues=well adv|hoy=today pro:per:1|lo&masc=him v|habe-2S&PRES=have v|vesti-1S&PRES=dress
+	.
+*MAD:	⌊hoy lo he visto⌋ . 354395_354738
+%mor:	adv|hoy=today pro:per:1|lo&masc=him co|he v|vesti-1S&PRES=dress .
+*CHI:	hoy , hoy lo has visto porque lo he hecho yo uno para ti . 354738_359026
+%mor:	adv|hoy=today cm|cm adv|hoy=today pro:per:1|lo&masc=him v|habe-2S&PRES=have
+	v|vesti-1S&PRES=dress conj|porque=because pro:per:1|lo&masc=him co|he n|hecho&masc=action
+	pro:per|yo=I det:art|un-MASC=one prep|para=for pro:per|ti=you .
+*CHI:	oye ! 359026_361145
+%mor:	co|oye=listen !
+*CHI:	este columpio es para ti . 361145_362495
+%mor:	det:dem|este=this n|columpio&masc=swing v|se-3S&PRES=be prep|para=for
+	pro:per|ti=you .
+*CHI:	es tuyo . 362495_363650
+%mor:	v|se-3S&PRES=be pro:pos|tuyo-MASC=yours .
+*CHI:	es tuyo este columpio . 363650_365450
+%mor:	v|se-3S&PRES=be pro:pos|tuyo-MASC=yours det:dem|este=this n|columpio&masc=swing
+	.
+*MAD:	me lo vas a regalar ? 365450_366548
+%mor:	pro:per|me=me pro:per:1|lo&masc=him v|i-2S&PRES=go prep|a=to v|regala-INF=give_present
+	?
+*CHI:	sí . 366548_367116
+%mor:	co|sí=yes .
+*MAD:	vale . 367116_367725
+%mor:	co|vale=okay .
+@Tape Location:	Z-3;07-613
+@Situation:	María en el salón haciendo casitas.
+*CHI:	0 [% coge piezas del cubo] tengo muchos amarillos . 367725_376996
+%mor:	v|tene-1S&PRES=have det:indef|mucho-MASC-PL=many adj|amarillo-MASC-PL=yellow
+	.
+*CHI:	0 [% coloca piezas y saca un pianito] . 376996_414000
+*CHI:	y esto es el piano para tocar así , túnturutulutulu@o . 414000_421246
+%mor:	coord|y=and det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|piano&masc=piano prep|para=for v|toca-INF=touch adv|así=thus cm|cm on|túnturutulutulu
+	.
+*PAD:	se estropeó , no ? 421246_421945
+%mor:	pro:per|se=itself v|estropea-3S&PRET=damage cm|cm co|no=no ?
+*PAD:	lo arreglé pero se volvió a estropear , no fue ? 421945_425140
+%mor:	pro:per:1|lo&masc=him v|arregla-1S&PRET=order conj|pero=but pro:per|se=itself
+	v|volve-3S&PRET=turn prep|a=to v|estropea-INF=damage cm|cm adv|no=no v|se-1S&PRET=be
+	?
+*CHI:	sí . 425140_425880
+%mor:	co|sí=yes .
+*MAD:	xxx a que no sabes de dónde lo trajimos ? 425880_430326
+%mor:	prep|a=to prep|que=than adv|no=no co|sabes=you_know prep|de=of pro:int|dónde=where
+	pro:per:1|lo&masc=him v|trae-1P&PRET=drag ?
+*CHI:	no . 430326_430996
+%mor:	adv|no=no .
+*MAD:	de Canarias , cuando fuimos a Canarias . 430996_434470
+%mor:	prep|de=of n:prop|Canarias cm|cm conj|cuando=when
+	v|i-1P&PRET=go prep|a=to n:prop|Canarias  .
+*CHI:	ese , ese , ese piano es de los policías . 434470_442506
+%mor:	det:dem|ese=that cm|cm det:dem|ese=that cm|cm det:dem|ese=that n|piano&masc=piano
+	v|se-3S&PRES=be prep|de=of det:art|el&MASC-PL=the n|policía&fem-PL=police
+	.
+%com:	saca una cajita con dibujo
+*CHI:	y esto es la tarjeta de los policías . 442506_446463
+%mor:	coord|y=and det:dem|este-MASC=this v|se-3S&PRES=be det:art|el&FEM&SG=the
+	n|tarjeta&fem=card prep|de=of det:art|el&MASC-PL=the n|policía&fem-PL=police
+	.
+*CHI:	xxx aquí la tarjeta de pie . 446463_453538
+%mor:	adv|aquí=here det:art|el&FEM&SG=the n|tarjeta&fem=card prep|de=of n|pie&masc=foot
+	.
+*CHI:	0 [% saca una placa rota] mira , se rompió . 453538_460030
+%mor:	co|mira=look cm|cm pro:per|se=itself v|rompe-3S&PRET=break .
+*PAD:	el qué se rompió , cariño ? 460030_462205
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what pro:per|se=itself v|rompe-3S&PRET=break
+	cm|cm co:voc|cariño=affection ?
+*CHI:	es de esto , pero esto es para jugar . 462205_467493
+%mor:	v|se-3S&PRES=be prep|de=of det:dem|este-MASC=this cm|cm conj|pero=but
+	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|juga-INF=play .
+*CHI:	xxx esto es para jugar . 467493_471878
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be prep|para=for v|juga-INF=play .
+*CHI:	haces así [% se lo acerca] a los ríos carboroto(s)@wp que tenemos un par de piloto(s) . 471878_481398
+%mor:	v|hace-2S&PRES=do adv|así=thus prep|a=to det:art|el&MASC-PL=the n|río&masc-PL=river
+	wplay|carborotos prep|que=than v|tene-1P&PRES=have det:art|un&masc=one
+	n|par&masc=pair prep|de=of n|piloto-MASC-PL=pilot .
+%com:	voz ronca
+*CHI:	así , grabamos la sonrisa de María [% pone sonrisita] o de Teo . 481398_493516
+%mor:	adv|así=thus cm|cm v|graba-1P&PRES=engrave det:art|el&FEM&SG=the n|sonrisa&fem=smile
+	prep|de=of n:prop|María v|oí-1S&PRET=hear prep|de=of n:prop|Teo .
+*MAD:	qué dice ? 493516_494303
+%mor:	pro:int|qué=what v|deci-3S&PRES=say ?
+*PAD:	que así grabamos la sonrisa de María y pone cara de ratón . 494303_497781
+%mor:	prep|que=than adv|así=thus v|graba-1P&PRES=engrave det:art|el&FEM&SG=the
+	n|sonrisa&fem=smile prep|de=of n:prop|María coord|y=and v|pone-3S&PRES=put
+	n|cara&fem=face prep|de=of n|rato-AUG=rat .
+*MAD:	qué cosas dice , es una cosa ! 497781_500811
+%mor:	pro:int|qué=what n|cosa&fem-PL=thing v|deci-3S&PRES=say cm|cm v|se-3S&PRES=be
+	det:art|un-FEM=one n|cosa&fem=thing !
+@Tape Location:	Z-3;07-614
+@Situation:	María juega en el salón con una placa.
+*CHI:	mira . 500811_502196
+%mor:	co|mira=look .
+%com:	da la vuelta a la placa
+*MAD:	has destripa(d)o la calculadora , hija ? 502196_506493
+%mor:	v|habe-2S&PRES=have part|destripa-PPART&MASC=mangle det:art|el&FEM&SG=the
+	n|calculadora&fem=calculator cm|cm co:voc|hija=child ?
+*CHI:	eh ? 506493_507451
+%mor:	co|eh ?
+*MAD:	que si has destripa(d)o la calculadora esa , del pianito . 507451_510758
+%mor:	prep|que=than conj|si=if v|habe-2S&PRES=have part|destripa-PPART&MASC=mangle
+	det:art|el&FEM&SG=the n|calculadora&fem=calculator det:dem|ese-FEM=that
+	cm|cm prep|de~det|el&MASC n|piano-DIM-MASC=piano .
+*CHI:	yo no , se ha roto sola . 510758_514590
+%mor:	pro:per|yo=I adv|no=no cm|cm pro:per|se=itself co|ha part|rompe-PPART-MASC=break
+	adj|solo-FEM=alone .
+*CHI:	es que cuando yo era pequeña la rompí . 514590_517345
+%mor:	v|se-3S&PRES=be prep|que=than conj|cuando=when pro:per|yo=I v|se-13S&PAS=be
+	adj|pequeño-FEM=small det:art|el&FEM&SG=the v|rompe-1S&PRET=break .
+*MAD:	ah , cuando xxx . 517345_521516
+%mor:	co|ah cm|cm conj|cuando=when .
+*CHI:	mira Mamá . 521516_529175
+%mor:	co|mira=look n:prop|Mamá .
+%com:	aprieta la placa del piano y suena algo
+*CHI:	qué ha sona(d)o ? 529175_532995
+%mor:	pro:int|qué=what co|ha part|sona-PPART&MASC=sound ?
+*CHI:	qué ha sona(d)o ? 532995_533565
+%mor:	pro:int|qué=what co|ha part|sona-PPART&MASC=sound ?
+*PAD:	el piano . 533565_534205
+%mor:	det:art|el&MASC&SG=the n|piano&masc=piano .
+*CHI:	qué ha sona(d)o ? 534205_535481
+%mor:	pro:int|qué=what co|ha part|sona-PPART&MASC=sound ?
+*MAD:	el pianito , de repente lo has dado y ha sona(d)o . 535481_537846
+%mor:	det:art|el&MASC&SG=the n|piano-DIM-MASC=piano cm|cm prep|de=of n|repente&masc=suddenness
+	pro:per:1|lo&masc=him v|habe-2S&PRES=have part|da-PPART&MASC=give coord|y=and
+	co|ha part|sona-PPART&MASC=sound .
+*CHI:	0 [% aprieta de nuevo la placa] ya no vuelve a sonar . 537846_543121
+%mor:	adv|ya=already adv|no=no v|volve-3S&PRES=turn prep|a=to v|sona-INF=sound
+	.
+*MAD:	qué ? 543121_544153
+%mor:	pro:int|qué=what ?
+*CHI:	Mamá , Mamita ! 544153_548576
+%mor:	n:prop|Mamá cm|cm n:prop|Mamita !
+*MAD:	qué ? 548576_549616
+%mor:	pro:int|qué=what ?
+*CHI:	mira , si le das a este botón , esto suena . 549616_554945
+%mor:	v|mira-2S&IMP=look cm|cm conj|si=if pro:per|le=him v|da-2S&PRES=give prep|a=to
+	det:dem|este=this n|botón&masc=button cm|cm det:dem|este-MASC=this v|sona-3S&PRES=sound
+	.
+*MAD:	dale , a_ver . 554945_556105
+%mor:	v|da-2S&IMP~pro:clit|3S cm|cm co|a_ver=see .
+*CHI:	0 [% da] no suena . 556105_559160
+%mor:	adv|no=no v|sona-3S&PRES=sound .
+@End

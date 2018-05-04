@@ -1,0 +1,111 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CAR Carlos Target_Child , INT Investigator
+@ID:	spa|becasesno|CAR|3;8.06||||Target_Child|||
+@ID:	spa|becasesno|INT|||||Investigator|||
+@Date:	05-APR-1994
+@Location:	Spain
+@Situation:	es una situación estructurada en la que el niño cuenta un cuento.
+*CAR:	el cuento de los caballitos [*] .
+%err:	cabritillos = cabritillos $PHO;
+*INT:	venga !
+*INT:	el cuento de los cabritillos .
+*INT:	venga , cuéntamelo .
+*INT:	sientate y cuéntamelo .
+*CAR:	era una ve [*] +//.
+%err:	ve = vez SPHO;
+*CAR:	no , no suena .
+*INT:	si no hace falta que (.) lo tengas aquí (.) con q (.) lo tengas aquí (.) ya suena (.) vaya , tu hablalé !
+*CAR:	era una ve(z) un un un eh (.) una mamá cab(r)a que le tenía (.) que hace(r) a(l) bo(s)que comidita .
+*CAR:	y luego le (.) le dijo a su(s) hijito(s) +"/.
+*CAR:	+" mira hijito (.) yo tengo que ir (.) a(l) bo(s)que (.) po(r) comida .
+*CAR:	+" tu [*] e [*] quereis [*] aquí (.) a [*] casa .
+%err:	tu = vosotros $MOR ; e = os $SYN ; quereis = quedais $PHO ; a = en $LEX ;
+*CAR:	+" yo (.) uyo que ir a(l) bo(s)que (.) po(r) comida .
+*CAR:	tu le [*] quedais (.) solo(s) sin abi [*] la <porta [*]> [//] la puerta .
+%err:	tu le = vosotros os $MOR ; abi = abrir $PHO ; porta = puerta
+*CAR:	sale un lobo (.) lobo (.) no +//.
+*CAR:	+" no abi [*] la puerta a nadie , vale .
+%err:	abi = abrir $PHO ;
+*CAR:	<luego xxx> [/] eh (.) luego cuando un rato +//.
+*CAR:	+" no abi [*] la puerta a nadie .
+%err:	abi = abrir $PHO
+*CAR:	luego cuando estaba jugando (.) suena (.) la (.) pueta +"/.
+*CAR:	+" ton (.) ton .
+*CAR:	+" quiés es ?
+%com:	con voz fina de los hijitos
+*CAR:	+" abí hijitos que vengo muy cansarita [*] .
+%err:	abi = abrir $PHO ; cansarita = cansadita $PHO ;
+%com:	imita la voz ronca del lobo
+*CAR:	tu no eres (.) mi mama (.) ere(s) el lobo .
+%com:	con voz fina de hijitos .
+*CAR:	+" me lo pagaréis (.) cab(r)itos (.) tonta .
+*CAR:	y luego le fue (.) al (.) eh el lobo (.) al g(r)anjero .
+*CAR:	dijo al g(r)anjero +"/.
+*CAR:	g(r)anjero (.) dame (.) toro [*] lo huevo (.) que ha puesto (.) su gallina .
+*CAR:	y lobo , dice no +"/.
+*CAR:	+" seño(r) pa(r)a que quiere (.) una (.) los huevos que ha puesto mi gallina ?
+*CAR:	para ir una fie(s)ta g(r)andota (.) g(r)andota .
+*CAR:	y luego pa(ra) que toma y se fue corriendo a casa de los cab(r)itillos ota vez .
+*CAR:	+" abrir hijitos .
+*CAR:	no .
+*CAR:	y sonó la pue(r)ta pon^pon@o .
+*CAR:	+" quien es ?
+*CAR:	+" hab(r)i(d) hijo(s) mio(s) que vengo mu(y) cansarita [*] .
+%err:	cansarita = cansadita $PHO ;
+*CAR:	(en)señanos la patita así .
+*CAR:	ah (.) no es nue(s)t(r)a mama era el lobo .
+%err:	era el lobo = es el lobo $MOR ;
+*CAR:	y luego se fué a una g(r)anja el lobo rapido (.) rapido .
+*CAR:	+" dame toda la arena que ha puesto en la playa .
+*CAR:	para que qu(i)e(r)es .
+*CAR:	+" para ir a una fi(e)sta g(r)andota (.) g(r)andota .
+*CAR:	y luego le daron [*] los huevos al lobo y luego <le comió con cascara> [/] le comio con cascara .
+%err:	daron = dieron $MOR
+*CAR:	y luego (..) le fué al granjero .
+*INT:	creo que volvió a la casa de los cabritillos , no ?
+*CAR:	si le pasa la patita b(l)anca +//.
+*CAR:	+" ab(r)i(d) hijos míos que vengo mu(y) cansarita .
+%err:	cansarita = cansadita $PHO ;
+*CAR:	+" e(n)señanos la patita .
+*CAR:	+" a (.) <si e(s)ta es mi mama> [/] si esta e(s) mama .
+*CAR:	vamos ab(r)i(r) la pue(r)ta .
+*CAR:	+" ay (.) ay am (.) uno am (.) dos am (.) t(r)es am (.) rico am (.) sies .
+*CAR:	y luego le ve mira .
+%act:	hace que está comiendo .
+*CAR:	+" ya me he comiro [*] la cenita .
+%err:	comiro = comido $PHO ;
+*CAR:	+" y luego a do(r)mi(r) .
+*CAR:	rum^rum@wp .
+%com:	hace que ronca
+*CAR:	y viniero(n) [*] .
+%err:	viniero = vino MOR;
+*CAR:	+" cuan (.) hijito(s) donde e(s)ta [*] .
+%err:	está=estais MOR;
+*CAR:	y xxx volver a preguntar +"/.
+*CAR:	+" hijito(s) dónde e(s)tais .
+*CAR:	y contesta el más pequeñito +"/.
+*CAR:	+" ma (.) mamá le he comi(d)o a a mis hermanos (.) a mis hermanitos .
+*CAR:	y luego +"/.
+*CAR:	+" vamos a toger [*] un (.) ah (.) tijeras (.) hilo (.) y vamos a buscar todo corriendo , vale ?
+%err:	toger = coger PHO;
+*CAR:	tan^ta^tan^ta^tan@o .
+%com:	hace ruido como si corriese .
+*CAR:	ahora lo guar(d)o en el bolsillo .
+*CAR:	en al ce(s)ta .
+*CAR:	xxx callaito , callaito .
+*CAR:	xxx .
+*CAR:	y luego .
+*CAR:	t(r)es , cuat(r)o , seis .
+*CAR:	xxx .
+*CAR:	y luego se de(s)pe(r)to +"/.
+*CAR:	+" parece que me he comi(d)o pieras [*] .
+%err:	pieras = piedras PHO;
+*CAR:	+" algo más xxx .
+*CAR:	me beberé tora [*] la agua de lacuna [*] .
+%err:	tora = toda PHO; lacuna = laguna PHO;
+*CAR:	pum (.) .
+*CAR:	bua (.) .
+*CAR:	xxx eh (.) mueto .
+@End

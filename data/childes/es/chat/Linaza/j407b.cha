@@ -1,0 +1,449 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	JAI Jaime Brother , CHI Juan Target_Child , PAD Padre Father
+@ID:	spa|linaza|CHI|4;7.05||||Target_Child|||
+@ID:	spa|linaza|JAI|2;4.16||||Brother|||
+@ID:	spa|linaza|PAD|||||Father|||
+@Tape Location:	tape 5
+@Comment:	J. Linaza , MJ. CACHO
+@Situation:	JUAN Y JAIME VIENDO UN CUENTO
+*JAI:	no .
+%mor:	adv|no=no . 
+%com:	Jaime tiene el cuento en sus manos .
+*CHI:	no no .
+%mor:	adv|no=no adv|no=no . 
+*JAI:	Juan Juan .
+%mor:	n:prop|Juan n:prop|Juan . 
+*CHI:	no te voy a dar más cuentos .
+%mor:	adv|no=no pro:per|te=you v|i-1S&PRES=go prep|a=to v|da-INF=give adv|más=more 
+	n|cuento&masc-PL=story . 
+*PAD:	quien ha roto ese cuento ?
+%mor:	pro:rel|quien=who co|ha part|rompe-PPART-MASC=break det:dem|ese=that n|cuento&masc=story 
+	? 
+*PAD:	quien lo ha roto .
+%mor:	pro:rel|quien=who pro:per:1|lo&masc=him co|ha part|rompe-PPART-MASC=break 
+	. 
+*CHI:	Jaime .
+%mor:	n:prop|Jaime . 
+%com:	Juan intenta quitar el cuento a j .
+*JAI:	Juan (.) Juan Juan Juan .
+%mor:	n:prop|Juan n:prop|Juan n:prop|Juan n:prop|Juan . 
+*CHI:	Jaime Jaime Jaime .
+%mor:	n:prop|Jaime n:prop|Jaime n:prop|Jaime . 
+*JAI:	no .
+%mor:	adv|no=no . 
+%com:	Juan levanta la mano para pegar a j .
+*CHI:	te pego .
+%mor:	pro:per|te=you v|pega-1S&PRES=hit_adhere . 
+*PAD:	a_ver .
+%mor:	co|a_ver=see . 
+*CHI:	le ha roto Jaime .
+%mor:	pro:per|le=him co|ha part|rompe-PPART-MASC=break n:prop|Jaime . 
+*JAI:	Juan .
+%mor:	n:prop|Juan . 
+%com:	Jaime hojea el libro mientras Juan le mira .
+*CHI:	Jaime .
+%mor:	n:prop|Jaime . 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	ay .
+%mor:	co|ay=ay . 
+*JAI:	Juan .
+%mor:	n:prop|Juan . 
+*CHI:	Jaime .
+%mor:	n:prop|Jaime . 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	ay .
+%mor:	co|ay=ay . 
+*JAI:	Juan .
+%mor:	n:prop|Juan . 
+*CHI:	Jaime .
+%mor:	n:prop|Jaime . 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+%com:	pasa hojas buscando un cuento .
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	ay !
+%mor:	co|ay=ay ! 
+*PAD:	(.) ahora lo arreglamos .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|arregla-1P&PRES=order . 
+*PAD:	vamos a_ver , vamos a_ver .
+%mor:	co|vamos=go co|a_ver=see cm|cm co|vamos=go co|a_ver=see . 
+*JAI:	no , no , no xxx este xxx .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm co|no=no det:dem|este=this . 
+%com:	Juan y Jaime miran el libro .
+*PAD:	espera , espera este es el de las cabras que dice Juan .
+%mor:	v|espera-3S&PRES=wait cm|cm v|espera-3S&PRES=wait det:dem|este=this v|se-3S&PRES=be 
+	det:art|el&MASC&SG=the prep|de=of det:art|el&FEM-PL=the n|cabro-FEM-PL=goat 
+	prep|que=than v|deci-3S&PRES=say n:prop|Juan . 
+*JAI:	no .
+%mor:	adv|no=no . 
+*PAD:	espera , el que yo digo .
+%mor:	v|espera-3S&PRES=wait cm|cm det:art|el&MASC&SG=the prep|que=than pro:per|yo=I 
+	v|deci-1S&PRES=say . 
+*PAD:	uy cual está aquí .
+%mor:	co|uy pro:rel|cual=which v|esta-3S&PRES=be adv|aquí=here . 
+*JAI:	no , no , no , no xxx .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm adv|no=no cm|cm co|no=no . 
+%com:	con el libro delante se mueve y .
+*PAD:	que .
+%mor:	prep|que=than . 
+*JAI:	no , no , xxx .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm . 
+*PAD:	cual quieres .
+%mor:	pro:rel|cual=which v|quere-2S&PRES=want . 
+*JAI:	no , no .
+%mor:	adv|no=no cm|cm co|no=no . 
+%com:	lloriquea .
+*PAD:	cual .
+%mor:	pro:rel|cual=which . 
+*JAI:	no , no , no , no .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm adv|no=no cm|cm co|no=no . 
+*PAD:	mira el del lobo y este .
+%mor:	co|mira=look det:art|el&MASC&SG=the prep|de~det|el&MASC n|lobo-MASC=wolf 
+	coord|y=and det:dem|este=this . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	a_ver como es este ?
+%mor:	co|a_ver=see adv|como=like v|se-3S&PRES=be det:dem|este=this ? 
+*PAD:	había una vez .
+%mor:	v|habe-13S&PAS=have det:art|un-FEM=one n|vez&fem=turn . 
+*CHI:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+%com:	Juan quita el libro a j .
+*JAI:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+%com:	Jaime quita el libro a J .
+*CHI:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+*JAI:	es mío .
+%mor:	v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+*PAD:	tu lo oyes también .
+%mor:	det:pos|tu=your pro:per:1|lo&masc=him v|oí-2S&PRES=hear adv|también=also 
+	. 
+*PAD:	ponte ahí .
+%mor:	v|pone-2S&IMP~pro:clit|2S adv|ahí=there . 
+*PAD:	sientate aquí y lo oyes también .
+%mor:	v|senti-3S&IMP~pro:clit|2S adv|aquí=here coord|y=and pro:per:1|lo&masc=him 
+	v|oí-2S&PRES=hear adv|también=also . 
+*CHI:	no , yo quiero .
+%mor:	adv|no=no cm|cm pro:per|yo=I v|quere-1S&PRES=want . 
+%com:	Juan se sienta aparte .
+*PAD:	tu te lo sabes .
+%mor:	det:pos|tu=your pro:per|te=you pro:per:1|lo&masc=him co|sabes=you_know 
+	. 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	pues cuéntaselo a Jaime .
+%mor:	co|pues=well v|conta-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC prep|a=to 
+	n:prop|Jaime . 
+*PAD:	a_ver .
+%mor:	co|a_ver=see . 
+*CHI:	no se lo voy a contar .
+%mor:	adv|no=no pro:per|se=itself pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to 
+	v|conta-INF=count_tell . 
+*PAD:	bueno , había una vez .
+%mor:	co|bueno=good cm|cm v|habe-13S&PAS=have det:art|un-FEM=one n|vez&fem=turn 
+	. 
+*CHI:	no porque no me lo das .
+%mor:	co|no=no conj|porque=because adv|no=no pro:per|me=me pro:per:1|lo&masc=him 
+	v|da-2S&PRES=give . 
+%com:	Juan se acerca mira el cuento y se va otra vez . Jaime mira a P .
+*PAD:	no pero si se puede ver así , el lo .
+%mor:	co|no=no conj|pero=but conj|si=if pro:per|se=itself v|pode-3S&PRES=can 
+	v|ve-INF=see adv|así=thus cm|cm det:art|el&MASC&SG=the pro:per:1|lo&masc=him 
+	. 
+%com:	Juan se acerca de nuevo y se vuelve a separar . Jaime mira a J . sujeta en el medio , tu estás en un lado y yo en el otro , vale .
+*CHI:	no , no , y no .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm coord|y=and co|no=no . 
+*PAD:	porque no .
+%mor:	conj|porque=because adv|no=no . 
+*CHI:	yo lo quiero sujetar .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him v|quere-1S&PRES=want v|sujeta-INF=subject 
+	. 
+*PAD:	tu lo quieres .
+%mor:	det:pos|tu=your pro:per:1|lo&masc=him v|quere-2S&PRES=want . 
+*CHI:	sujetar .
+%mor:	v|sujeta-INF=subject . 
+*PAD:	a_ver , bueno , pues luego lo sujetas tu , este lo sujeta Jaime y el siguiente lo sujetas tu .
+%mor:	co|a_ver=see cm|cm co|bueno=good cm|cm co|pues=well adv|luego=afterwards 
+	pro:per:1|lo&masc=him v|sujeta-2S&PRES=subject det:pos|tu=your cm|cm det:dem|este=this 
+	pro:per:1|lo&masc=him v|sujeta-3S&PRES=subject n:prop|Jaime coord|y=and 
+	det:art|el&MASC&SG=the adj|siguiente=successive pro:per:1|lo&masc=him v|sujeta-2S&PRES=subject 
+	det:pos|tu=your . 
+*CHI:	no , no , y no , no .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm coord|y=and adv|no=no cm|cm co|no=no . 
+*PAD:	a_ver , había una vez .
+%mor:	co|a_ver=see cm|cm v|habe-13S&PAS=have det:art|un-FEM=one n|vez&fem=turn 
+	. 
+*CHI:	no pues yo me voy y apago la luz .
+%mor:	co|no=no co|pues=well pro:per|yo=I pro:per|me=me v|i-1S&PRES=go coord|y=and 
+	v|apaga-1S&PRES=extinguish det:art|el&FEM&SG=the n|luz&fem=light . 
+%com:	Juan se arrodilla de espaldas a la camara y luego mira a Padre . Jaime mira a Juan .
+*PAD:	apagas la luz .
+%mor:	v|apaga-2S&PRES=extinguish det:art|el&FEM&SG=the n|luz&fem=light . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	bueno pues apaga la luz , una cabra que vivía en el bosque en una casa .
+%mor:	co|bueno=good co|pues=well v|apaga-3S&PRES=extinguish det:art|el&FEM&SG=the 
+	n|luz&fem=light cm|cm det:art|un-FEM=one n|cabro-FEM=goat prep|que=than 
+	v|vivi-13S&PAS=live prep|en=in det:art|el&MASC&SG=the n|bosque&masc=forest 
+	prep|en=in det:art|un-FEM=one n|casa&fem=house . 
+*CHI:	no , yo quiero .
+%mor:	adv|no=no cm|cm pro:per|yo=I v|quere-1S&PRES=want . 
+*PAD:	y este quien era .
+%mor:	coord|y=and det:dem|este=this pro:rel|quien=who v|se-13S&PAS=be . 
+*JAI:	nana [: lobo] [*] .
+%mor:	n|lobo-MASC=wolf . 
+%com:	lobo . mirando a P .
+*PAD:	el lobo ?
+%mor:	det:art|el&MASC&SG=the n|lobo-MASC=wolf ? 
+*PAD:	el lobo ?
+%mor:	det:art|el&MASC&SG=the n|lobo-MASC=wolf ? 
+*PAD:	entonces cuando se fue la cabra a buscar comida que paso .
+%mor:	co|entonces conj|cuando=when pro:per|se=itself v|i-3S&PRET=go det:art|el&FEM&SG=the 
+	n|cabro-FEM=goat prep|a=to v|busca-INF=search n|comida&fem=food prep|que=than 
+	n|paso&masc=step . 
+*JAI:	nana [: lobo] [*] .
+%mor:	n|lobo-MASC=wolf . 
+%com:	lobo . mirando a P .
+*PAD:	vino el lobo y que hizo ?
+%mor:	n|vino&masc=wine det:art|el&MASC&SG=the n|lobo-MASC=wolf coord|y=and prep|que=than 
+	v|hace-3S&PRET=do ? 
+*PAD:	llamo (.) pom@o pom@o quien es .
+%mor:	v|llama-1S&PRES=call on|pom on|pom pro:rel|quien=who v|se-3S&PRES=be . 
+*CHI:	y soplo .
+%mor:	coord|y=and v|sopla-1S&PRES=blow . 
+%com:	Juan mira a Jaime .
+*JAI:	no .
+%mor:	adv|no=no . 
+%com:	Juan mira a Padre .
+*PAD:	no este es el de los cabritos .
+%mor:	co|no=no det:dem|este=this v|se-3S&PRES=be det:art|el&MASC&SG=the prep|de=of 
+	det:art|el&MASC-PL=the n|cabro-DIM-MASC-PL=goat . 
+%com:	Juan y Jaime mirando al libro .
+*PAD:	llamo y dijo soy vuestra madre .
+%mor:	v|llama-1S&PRES=call coord|y=and v|deci-3S&PRET=say v|se-1S&PRES=be pro:pos|vuestro-FEM=yours 
+	n|madre&fem=mother . 
+*PAD:	abrid me y dijeron los cabritillos .
+%mor:	v|abri-2P&IMP=open pro:per|me=me coord|y=and v|deci-3P&PRET=say det:art|el&MASC-PL=the 
+	n|cabro-DIM-DIM-MASC-PL=goat . 
+*PAD:	no , no tiene la voz muy suave .
+%mor:	adv|no=no cm|cm adv|no=no v|tene-3S&PRES=have det:art|el&FEM&SG=the n|voz&fem=voice 
+	adv|muy=very adj|suave=smooth . 
+*PAD:	se fue .
+%mor:	pro:per|se=itself v|i-3S&PRET=go . 
+*PAD:	comió muchos huevos y volvió .
+%mor:	v|come-3S&PRET=eat det:indef|mucho-MASC-PL=many n|huevo&masc-PL=egg coord|y=and 
+	v|volve-3S&PRET=turn . 
+*PAD:	quien es ?
+%mor:	pro:rel|quien=who v|se-3S&PRES=be ? 
+*PAD:	soy yo vuestra madre .
+%mor:	v|se-1S&PRES=be pro:per|yo=I pro:pos|vuestro-FEM=yours n|madre&fem=mother 
+	. 
+@New Episode
+@Activities:	JAIME TIENE UN TROZO DE UNA HOJA EN LA MANO.
+*PAD:	a_ver , de donde es eso .
+%mor:	co|a_ver=see cm|cm prep|de=of pro:rel|donde=where v|se-3S&PRES=be pro:dem|eso=that_one 
+	. 
+*JAI:	ah .
+%mor:	co|ah . 
+*PAD:	se ha roto .
+%mor:	pro:per|se=itself co|ha part|rompe-PPART-MASC=break . 
+%com:	Jaime mira el trozo de hoja de su mano .
+*JAI:	ah .
+%mor:	co|ah . 
+*PAD:	a_ver , quien está aquí .
+%mor:	co|a_ver=see cm|cm pro:rel|quien=who v|esta-3S&PRES=be adv|aquí=here 
+	. 
+*JAI:	cual .
+%mor:	pro:rel|cual=which . 
+*PAD:	quien era este .
+%mor:	pro:rel|quien=who v|se-13S&PAS=be det:dem|este=this . 
+*JAI:	nana [: lobo] [*] .
+%mor:	n|lobo-MASC=wolf . 
+%com:	lobo . mirando a P .
+*PAD:	los cerditos .
+%mor:	det:art|el&MASC-PL=the n|cerdo-DIM-MASC-PL=hog . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	que pasaba ?
+%mor:	prep|que=than v|pasa-13S&PAS=pass ? 
+%com:	Jaime mira el dibujo .
+*PAD:	se hacían una casa .
+%mor:	pro:per|se=itself v|hace-3P&PAS=do det:art|un-FEM=one n|casa&fem=house 
+	. 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	y entonces .
+%mor:	coord|y=and co|entonces . 
+*JAI:	ahí .
+%mor:	adv|ahí=there . 
+*PAD:	tenía una de leña y otra .
+%mor:	v|tene-13S&PAS=have det:art|un-FEM=one prep|de=of n|leña&fem=firewood 
+	coord|y=and det:indef|otro-FEM=other . 
+*JAI:	ahí .
+%mor:	adv|ahí=there . 
+%com:	Jaime senala otro dibujo y mira a P .
+*PAD:	esa es una de leña .
+%mor:	det:dem|ese-FEM=that v|se-3S&PRES=be det:art|un-FEM=one prep|de=of n|leña&fem=firewood 
+	. 
+*JAI:	y esta .
+%mor:	coord|y=and det:dem|este-FEM=this . 
+*PAD:	esa otra de paja y entonces viene el lobo y que pasa .
+%mor:	det:dem|ese-FEM=that det:indef|otro-FEM=other prep|de=of n|paja&fem=straw 
+	coord|y=and adv|entonces=then v|veni-3S&PRES=come det:art|el&MASC&SG=the 
+	n|lobo-MASC=wolf coord|y=and prep|que=than v|pasa-3S&PRES=pass . 
+*JAI:	na@b .
+%mor:	bab|na . 
+*PAD:	como llama .
+%mor:	adv|como=like n|llama&fem=flame . 
+*JAI:	ay .
+%mor:	co|ay=ay . 
+*PAD:	pom@o pom@o .
+%mor:	on|pom on|pom . 
+*JAI:	que es .
+%mor:	prep|que=than v|se-3S&PRES=be . 
+%com:	quien es ? .
+*PAD:	quien es ?
+%mor:	pro:rel|quien=who v|se-3S&PRES=be ? 
+*PAD:	soy yo .
+%mor:	v|se-1S&PRES=be pro:per|yo=I . 
+*PAD:	abridme y dicen los cerditos .
+%mor:	v|abri-2P&IMP~pro:clit|1S coord|y=and v|deci-3P&PRES=say det:art|el&MASC-PL=the 
+	n|cerdo-DIM-MASC-PL=hog . 
+*JAI:	no no .
+%mor:	adv|no=no adv|no=no . 
+%com:	Jaime levanta el brazo .
+*PAD:	no no y entonces el lobo .
+%mor:	adv|no=no adv|no=no coord|y=and adv|entonces=then det:art|el&MASC&SG=the 
+	n|lobo-MASC=wolf . 
+*JAI:	nana [: lobo] [*] .
+%mor:	n|lobo-MASC=wolf . 
+%com:	lobo .
+*PAD:	que hace .
+%mor:	prep|que=than v|hace-3S&PRES=do . 
+%com:	Jaime alarga el otro brazo .
+*JAI:	na@b .
+%mor:	bab|na . 
+*PAD:	que hace para romper la casa .
+%mor:	prep|que=than v|hace-3S&PRES=do prep|para=for v|rompe-INF=break det:art|el&FEM&SG=the 
+	n|casa&fem=house . 
+*JAI:	ah ah .
+%mor:	co|ah co|ah . 
+*PAD:	sopla .
+%mor:	v|sopla-3S&PRES=blow . 
+*JAI:	sí ahí .
+%mor:	co|sí=yes adv|ahí=there . 
+%com:	Jaime cierra el libro , mira lo que hay delan te de el y lo coge .
+*PAD:	esas son mía .
+%mor:	det:dem|ese-FEM-PL=that v|se-3P&PRES=be pro:pos|mío-FEM=mine . 
+*PAD:	son mías esas pesetas .
+%mor:	v|se-3P&PRES=be pro:pos|mío-FEM-PL=mine det:dem|ese-FEM-PL=that n|peseta&fem-PL=spanish_money 
+	. 
+*JAI:	la .
+%mor:	det:art|el&FEM&SG=the . 
+*PAD:	de quien es .
+%mor:	prep|de=of pro:rel|quien=who v|se-3S&PRES=be . 
+*JAI:	mías .
+%mor:	pro:pos|mío-FEM-PL=mine . 
+*PAD:	de quien son .
+%mor:	prep|de=of pro:rel|quien=who v|se-3P&PRES=be . 
+*JAI:	de Juan .
+%mor:	prep|de=of n:prop|Juan . 
+%com:	mirando a P .
+*PAD:	son de Juan .
+%mor:	v|se-3P&PRES=be prep|de=of n:prop|Juan . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*PAD:	para que las quieres ?
+%mor:	prep|para=for prep|que=than det:art|el&FEM-PL=the v|quere-2S&PRES=want 
+	? 
+*PAD:	que vas a comprar .
+%mor:	prep|que=than v|i-2S&PRES=go prep|a=to v|compra-INF=buy . 
+*JAI:	sugus .
+%mor:	n|sugus&masc=candy . 
+%com:	mirando a P , sube los brazos y el cuerpo .
+*PAD:	sugus .
+%mor:	n|sugus&masc=candy . 
+*CHI:	no , no yo el dinero , el dinero es mío , eh !
+%mor:	adv|no=no cm|cm adv|no=no pro:per|yo=I det:art|el&MASC&SG=the n|dinero&masc=coin 
+	cm|cm det:art|el&MASC&SG=the n|dinero&masc=coin v|se-3S&PRES=be pro:pos|mío-MASC=mine 
+	cm|cm co|eh ! 
+%com:	Jaime mira a J .
+*CHI:	deja el dinero .
+%mor:	v|deja-3S&PRES=leave det:art|el&MASC&SG=the n|dinero&masc=coin . 
+*JAI:	xxx tu , tu .
+%mor:	det:pos|tu=your cm|cm det:pos|tu=your . 
+*CHI:	no es mío .
+%mor:	adv|no=no v|se-3S&PRES=be pro:pos|mío-MASC=mine . 
+*PAD:	que vas a comprar Juan ?
+%mor:	prep|que=than v|i-2S&PRES=go prep|a=to v|compra-INF=buy n:prop|Juan ? 
+*PAD:	que va a comprar con ese dinero Juan .
+%mor:	prep|que=than v|i-3S&PRES=go prep|a=to v|compra-INF=buy prep|con=with 
+	det:dem|ese=that n|dinero&masc=coin n:prop|Juan . 
+*CHI:	yo chicles .
+%mor:	pro:per|yo=I n|chicle&masc-PL=chewing_gum . 
+%com:	Juan se sienta junto a Jaime y coge el dinero Jaime le mira .
+*JAI:	yo .
+%mor:	pro:per|yo=I . 
+*PAD:	y Jaime .
+%mor:	coord|y=and n:prop|Jaime . 
+*JAI:	sugus .
+%mor:	n|sugus&masc=candy . 
+*PAD:	sugus .
+%mor:	n|sugus&masc=candy . 
+*CHI:	y no te voy a dar .
+%mor:	coord|y=and adv|no=no pro:per|te=you v|i-1S&PRES=go prep|a=to v|da-INF=give 
+	. 
+*JAI:	no .
+%mor:	adv|no=no . 
+*PAD:	porque .
+%mor:	conj|porque=because . 
+*CHI:	porque el xxx y ya tengo tres .
+%mor:	conj|porque=because det:art|el&MASC&SG=the coord|y=and adv|ya=already 
+	v|tene-1S&PRES=have det:num|tres=three . 
+%com:	Juan se aleja , de rodillas , hacia atras y mira desde allí .
+*PAD:	porque .
+%mor:	conj|porque=because . 
+*CHI:	ya tengo , ya tengo cuatro .
+%mor:	adv|ya=already v|tene-1S&PRES=have cm|cm adv|ya=already v|tene-1S&PRES=have 
+	det:num|cuatro=four . 
+*JAI:	que .
+%mor:	prep|que=than . 
+*CHI:	tengo cinco antes del día seis (.) mirales cinco ahora seis .
+%mor:	v|tene-1S&PRES=have det:num|cinco=five adv|antes=before prep|de~det|el&MASC 
+	n|día&masc=day det:num|seis=six v|mira-2S&IMP~pro:clit|3P det:num|cinco=five 
+	adv|ahora=now det:num|seis=six . 
+*PAD:	y tu cuantos tienes Jaime .
+%mor:	coord|y=and det:pos|tu=your det:indef|cuanto-MASC-PL=how_much v|tene-2S&PRES=have 
+	n:prop|Jaime . 
+*JAI:	dos .
+%mor:	det:num|dos=two . 
+*PAD:	pero no digo años , digo pesetas .
+%mor:	conj|pero=but adv|no=no v|deci-1S&PRES=say n|año&masc-PL=year cm|cm v|deci-1S&PRES=say 
+	n|peseta&fem-PL=spanish_money . 
+%com:	Jaime mira a P .
+*JAI:	eh .
+%mor:	co|eh . 
+*PAD:	cuantas pesetas tienes .
+%mor:	det:indef|cuanto-FEM-PL=how_much n|peseta&fem-PL=spanish_money v|tene-2S&PRES=have 
+	. 
+*JAI:	tres .
+%mor:	det:num|tres=three . 
+*PAD:	tres .
+%mor:	det:num|tres=three . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	jope !
+%mor:	co|jope=get_out ! 
+*CHI:	y xxx .
+%mor:	coord|y=and . 
+@End

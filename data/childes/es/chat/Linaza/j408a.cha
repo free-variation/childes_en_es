@@ -1,0 +1,518 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	JAI Jaime Brother , CHI Juan Target_Child , PAD Padre Father
+@ID:	spa|linaza|CHI|4;8.12||||Target_Child|||
+@ID:	spa|linaza|JAI|2;6.02||||Brother|||
+@ID:	spa|linaza|PAD|||||Father|||
+@Comment:	J Linaza and MJ Cacho are the investigators.
+@Situation:	Juan y Jaime sentados en el suelo con la olla spress , a la izquierda hay un sofa lleno de juguetes
+*JAI:	chis .
+%mor:	co|chis=silence . 
+%com:	Jaime da vueltas al pitorro y lo levanta .
+*CHI:	a_ver lo que hay .
+%mor:	co|a_ver=see pro:per:1|lo&masc=him prep|que=than v|habe-3S&PRES&SPEC=have 
+	. 
+%com:	se acerca y mira la olla .
+*JAI:	que hay .
+%mor:	prep|que=than v|habe-3S&PRES&SPEC=have . 
+%com:	tapa el pitorro con el dedo .
+*PAD:	que es eso .
+%mor:	prep|que=than v|se-3S&PRES=be pro:dem|eso=that_one . 
+*CHI:	un pájaro .
+%mor:	det:art|un&masc=one n|pájaro&masc=bird . 
+*PAD:	Jaime .
+%mor:	n:prop|Jaime . 
+*CHI:	un pájaro .
+%mor:	det:art|un&masc=one n|pájaro&masc=bird . 
+*JAI:	chis a ma tu .
+%mor:	co|chis=silence prep|a=to co|ma det:pos|tu=your . 
+%com:	mira la olla y la abre .
+*CHI:	uy !
+%mor:	co|uy ! 
+%com:	Juan y Jaime miran el interior de la olla .
+*CHI:	no hay ningún pájaro !
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have det:indef|ningún&masc=none n|pájaro&masc=bird 
+	! 
+*CHI:	no lo veo !
+%mor:	adv|no=no pro:per:1|lo&masc=him v|ve-1S&PRES=see ! 
+*CHI:	se ha ido volando .
+%mor:	pro:per|se=itself co|ha part|i-PPART-MASC=go v|vola-PROG=fly . 
+*JAI:	uy !
+%mor:	co|uy ! 
+%com:	Jaime senala con el dedo hacia la camara y Juan mira hacia ella .
+*JAI:	ahí .
+%mor:	adv|ahí=there . 
+*CHI:	no se teníamos pegatinas .
+%mor:	adv|no=no pro:per|se=itself v|tene-1P&PAS=have n|pegatina&fem-PL=sticker 
+	. 
+*JAI:	la onta@c ta ta tan .
+%mor:	det:art|el&FEM&SG=the chi|onta co|ta co|ta adv|tan=such . 
+%com:	Jaime se levanta y va hacia la derecha de la camara . Juan le mira .
+*CHI:	un arma quiere .
+%mor:	det:art|un&masc=one n|arma&fem=weapon v|quere-3S&PRES=want . 
+%com:	Jaime coge una escopeta y se va hacia el lado contrario .
+*JAI:	sí (.) ta na@b ta &to toma Tomallin ah !
+%mor:	co|sí=yes co|ta bab|na co|ta v|toma-3S&PRES=take n:prop|Tomallin co|ah 
+	! 
+*JAI:	quita .
+%mor:	v|quita-3S&PRES=remove . 
+*CHI:	cazador da un disparo y cazalo .
+%mor:	n:v|caza&masc-AGT&MASC=hunt v|da-3S&PRES=give det:art|un&masc=one n|disparo&masc=shot 
+	coord|y=and v|caza-2S&IMP~pro:clit|OBJ&MASC . 
+%com:	Juan sigue sentado mirando a j .
+*PAD:	ya ya le has cazado .
+%mor:	adv|ya=already adv|ya=already pro:per|le=him v|habe-2S&PRES=have part|caza-PPART&MASC=hunt 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	no .
+%mor:	adv|no=no . 
+*CHI:	no porque no le vemos (.) no veo ningún pájaro volando (.) se le han muerto (.) has matado a un pájaro .
+%mor:	co|no=no conj|porque=because adv|no=no pro:per|le=him v|ve-1P&PRES=see 
+	adv|no=no v|ve-1S&PRES=see det:indef|ningún&masc=none n|pájaro&masc=bird 
+	v|vola-PROG=fly pro:per|se=itself pro:per|le=him v|habe-3P&PRES=have part|mori-PPART-MASC=die 
+	v|habe-2S&PRES=have part|mata-PPART&MASC=kill prep|a=to det:art|un&masc=one 
+	n|pájaro&masc=bird . 
+*JAI:	sí (.) mira .
+%mor:	co|sí=yes co|mira=look . 
+%com:	Jaime va hacia Juan y le ensena algo .
+*CHI:	era el pájaro .
+%mor:	v|se-13S&PAS=be det:art|el&MASC&SG=the n|pájaro&masc=bird . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+%com:	los dos van hacia el sofa .
+*CHI:	este era un pájaro (.) volando volando .
+%mor:	det:dem|este=this v|se-13S&PAS=be det:art|un&masc=one n|pájaro&masc=bird 
+	v|vola-PROG=fly v|vola-PROG=fly . 
+%com:	Juan coge un trapo rojo y lo levanta con las brazos y lo mueve , coge la espada , tira el trapo al aire e intenta clavarle la espada el trapo cae al suelo . Juan lo recoge y se lo echa al hombro .
+*CHI:	era un pájaro con alas .
+%mor:	v|se-13S&PAS=be det:art|un&masc=one n|pájaro&masc=bird prep|con=with 
+	n|ala&fem-PL=brim . 
+*CHI:	pss xxx (.) muerto .
+%mor:	co|pss part|mori-PPART-MASC=die . 
+*CHI:	toma un pajarillo .
+%mor:	v|toma-3S&PRES=take det:art|un&masc=one n|pájaro-DIM-MASC=bird . 
+*CHI:	es , la piel .
+%mor:	v|se-3S&PRES=be cm|cm det:art|el&FEM&SG=the n|piel&fem=skin . 
+*JAI:	oh !
+%mor:	co|oh=oh ! 
+%com:	Jaime lo coge del hombro de J , lo abraza y lo acaricia .
+*JAI:	yo ah !
+%mor:	pro:per|yo=I co|ah ! 
+*JAI:	ay !
+%mor:	co|ay=ay ! 
+*CHI:	está muerto .
+%mor:	v|esta-3S&PRES=be part|mori-PPART-MASC=die . 
+%com:	Juan se lo wuita y se lo echa al hombro de nuevo .
+*CHI:	es la piel .
+%mor:	v|se-3S&PRES=be det:art|el&FEM&SG=the n|piel&fem=skin . 
+*JAI:	nananana@b .
+%mor:	bab|nananana . 
+%com:	Jaime coge la escopeta y apunta al trapo .
+*CHI:	no le hagas nada .
+%mor:	adv|no=no pro:per|le=him v|hace-2S&SUB&PRES=do pro:indef|nada=nothing 
+	. 
+%com:	Jaime dispara al trapo .
+*JAI:	ou [: oy] !
+%mor:	co|oy ! 
+%com:	mirando de cerca a Juan .
+*JAI:	(.) sí ah !
+%mor:	co|sí=yes co|ah ! 
+*JAI:	oy !
+%mor:	co|oy ! 
+*JAI:	(.) yo .
+%mor:	pro:per|yo=I . 
+*CHI:	está muerto .
+%mor:	v|esta-3S&PRES=be part|mori-PPART-MASC=die . 
+%com:	Jaime se va con la escopeta y Juan le mira .
+*JAI:	sí sí .
+%mor:	co|sí=yes co|sí=yes . 
+*CHI:	lo has cazado tu .
+%mor:	pro:per:1|lo&masc=him v|habe-2S&PRES=have part|caza-PPART&MASC=hunt det:pos|tu=your 
+	. 
+*JAI:	yo .
+%mor:	pro:per|yo=I . 
+%com:	acercandose a Juan .
+*CHI:	no .
+%mor:	adv|no=no . 
+*JAI:	no .
+%mor:	adv|no=no . 
+%com:	alejandose de Juan .
+*CHI:	no no tu no .
+%mor:	adv|no=no adv|no=no det:pos|tu=your adv|no=no . 
+%com:	Jaime senala el trapo .
+*JAI:	este .
+%mor:	det:dem|este=this . 
+*CHI:	si lo caze yo .
+%mor:	conj|si=if pro:per:1|lo&masc=him v|caza-3S&IMP=hunt pro:per|yo=I . 
+%com:	Jaime senala otro objeto .
+*JAI:	y este .
+%mor:	coord|y=and det:dem|este=this . 
+*CHI:	también lo caze yo .
+%mor:	adv|también=also pro:per:1|lo&masc=him v|caza-3S&IMP=hunt pro:per|yo=I 
+	. 
+*JAI:	y este .
+%mor:	coord|y=and det:dem|este=this . 
+%com:	alejandose del sofa .
+*CHI:	luchaba con la espada .
+%mor:	v|lucha-13S&PAS=fight prep|con=with det:art|el&FEM&SG=the n|espada&fem=sword 
+	. 
+*CHI:	yo lo he mata(d)o con la espada .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him co|he part|mata-PPART&MASC=kill prep|con=with 
+	det:art|el&FEM&SG=the n|espada&fem=sword . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+%com:	yendo hacia Juan .
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*JAI:	sí ahí .
+%mor:	co|sí=yes adv|ahí=there . 
+%com:	Jaime senala lo que ha cazado .
+*CHI:	a_ver .
+%mor:	co|a_ver=see . 
+*JAI:	ven ven (.) mira ahí .
+%mor:	co|ven=come co|ven=come co|mira=look adv|ahí=there . 
+%com:	Jaime intenta dar la mano a Juan para llevarle Juan se levanta y le sigue . Juan sentado delante de un armario de zapatos .
+*CHI:	yo me voy a poner .
+%mor:	pro:per|yo=I pro:per|me=me v|i-1S&PRES=go prep|a=to v|pone-INF=put . 
+*JAI:	alto !
+%mor:	adj|alto-MASC=tall ! 
+%com:	Jaime a la espalda de Juan con la escopeta y la espada levantada .
+*JAI:	alto !
+%mor:	adj|alto-MASC=tall ! 
+*JAI:	alto .
+%mor:	adj|alto-MASC=tall . 
+*CHI:	zapatillas me voy a poner .
+%mor:	n|zapatilla&fem-PL=slipper pro:per|me=me v|i-1S&PRES=go prep|a=to v|pone-INF=put 
+	. 
+*JAI:	toma y toma xxx .
+%mor:	v|toma-3S&PRES=take coord|y=and v|toma-3S&PRES=take . 
+%com:	Jaime mueve la espada en el aire . Juan busca zapatos .
+*CHI:	toma ya !
+%mor:	v|toma-3S&PRES=take adv|ya=already ! 
+%com:	Jaime se va y Juan intenta sacar una bota de un cajon sin abrirlo . Lo consigue .
+*CHI:	me voy a poner tres .
+%mor:	pro:per|me=me v|i-1S&PRES=go prep|a=to v|pone-INF=put det:num|tres=three 
+	. 
+*JAI:	sí sí .
+%mor:	co|sí=yes co|sí=yes . 
+%com:	Jaime vuelve .
+*CHI:	las botas de agua con el (.) toma ya .
+%mor:	det:art|el&FEM-PL=the n|bota&fem-PL=wine_bag prep|de=of n|agua&fem=water 
+	prep|con=with det:art|el&MASC&SG=the v|toma-3S&PRES=take adv|ya=already 
+	. 
+%com:	Jaime se arrodilla al lado de Juan y mira hacia dentro del armario .
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	voy a ponerme estas .
+%mor:	v|i-1S&PRES=go prep|a=to v|pone-INF~pro:clit|1S det:dem|este-FEM-PL=this 
+	. 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*JAI:	ah .
+%mor:	co|ah . 
+*CHI:	tu .
+%mor:	det:pos|tu=your . 
+*JAI:	tu .
+%mor:	det:pos|tu=your . 
+*CHI:	los calcetines .
+%mor:	det:art|el&MASC-PL=the n|calcetín&masc-PL=sock . 
+%com:	Juan intenta ponerse un calcetín y canta .
+*CHI:	Iribar es cojonudo , como Iribar no hay ninguno , Iribar , Iribar es cojonudo , como Iribar no hay ninguno .
+%mor:	n:prop|Iribar v|se-3S&PRES=be adj|cojonudo-MASC=excellent cm|cm adv|como=like 
+	n:prop|Iribar adv|no=no v|habe-3S&PRES&SPEC=have det:indef|ningún-MASC=none 
+	cm|cm n:prop|Iribar cm|cm n:prop|Iribar v|se-3S&PRES=be adj|cojonudo-MASC=excellent 
+	cm|cm adv|como=like n:prop|Iribar adv|no=no v|habe-3S&PRES&SPEC=have det:indef|ningún-MASC=none 
+	. 
+*JAI:	a_ver .
+%mor:	co|a_ver=see . 
+%com:	Jaime se quita su zapatilla y mira su pie descalzo , dedo por dedo con atención .
+*CHI:	las botas de agua tuyas , las rojas .
+%mor:	det:art|el&FEM-PL=the n|bota&fem-PL=wine_bag prep|de=of n|agua&fem=water 
+	pro:pos|tuyo-FEM-PL=yours cm|cm det:art|el&FEM-PL=the adj|rojo-FEM-PL=red 
+	. 
+*PAD:	que te pasa en el pie Jaime .
+%mor:	prep|que=than pro:per|te=you v|pasa-3S&PRES=pass prep|en=in det:art|el&MASC&SG=the 
+	n|pie&masc=foot n:prop|Jaime . 
+*JAI:	ay !
+%mor:	co|ay=ay ! 
+%com:	dandose palmaditas en el pie .
+*PAD:	está sucio (.) .
+%mor:	v|esta-3S&PRES=be adj|sucio-MASC=dirty . 
+*PAD:	ah .
+%mor:	co|ah . 
+*JAI:	ah .
+%mor:	co|ah . 
+%com:	afirmando con la cabeza .
+*PAD:	ah .
+%mor:	co|ah . 
+*JAI:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*JAI:	a_ver este .
+%mor:	co|a_ver=see det:dem|este=this . 
+*CHI:	está muy sucio , un poco (.) a_ver .
+%mor:	v|esta-3S&PRES=be adv|muy=very adj|sucio-MASC=dirty cm|cm det:art|un&masc=one 
+	adv|poco=few co|a_ver=see . 
+%com:	Jaime se quita la otra zapatilla y la tira al armario .
+*CHI:	yo no me pongo mis botas de agua .
+%mor:	pro:per|yo=I adv|no=no pro:per|me=me v|pone-1S&PRES=put det:pos|mi-PL=my 
+	n|bota&fem-PL=wine_bag prep|de=of n|agua&fem=water . 
+%com:	Jaime se mira el otro pie .
+*JAI:	mira eh .
+%mor:	co|mira=look co|eh . 
+*PAD:	como está .
+%mor:	adv|como=like v|esta-3S&PRES=be . 
+*JAI:	(limp)io .
+%mor:	adj|limpio-MASC=clean . 
+*PAD:	tiene queso .
+%mor:	v|tene-3S&PRES=have n|queso&masc=cheese . 
+*JAI:	no .
+%mor:	adv|no=no . 
+*CHI:	como el de papa .
+%mor:	adv|como=like det:art|el&MASC&SG=the prep|de=of n|papa&masc=pope . 
+*CHI:	esas no son botas de agua .
+%mor:	det:dem|ese-FEM-PL=that adv|no=no v|se-3P&PRES=be n|bota&fem-PL=wine_bag 
+	prep|de=of n|agua&fem=water . 
+%com:	Jaime coge unas botas de invierno .
+*JAI:	no está sí .
+%mor:	adv|no=no v|esta-3S&PRES=be co|sí=yes . 
+*CHI:	son ?
+%mor:	v|se-3P&PRES=be ? 
+%com:	Juan le saca unas botas de agua .
+*CHI:	mira esas no son .
+%mor:	co|mira=look det:dem|ese-FEM-PL=that adv|no=no v|se-3P&PRES=be . 
+*CHI:	son estas .
+%mor:	v|se-3P&PRES=be det:dem|este-FEM-PL=this . 
+*PAD:	madre mía como estás poniendo eso !
+%mor:	n|madre&fem=mother pro:pos|mío-FEM=mine adv|como=like v|esta-2S&PRES=be 
+	v|pone-PROG=put pro:dem|eso=that_one ! 
+*PAD:	eh .
+%mor:	co|eh . 
+*CHI:	quiero ponerme las botas de agua .
+%mor:	v|quere-1S&PRES=want v|pone-INF~pro:clit|1S det:art|el&FEM-PL=the n|bota&fem-PL=wine_bag 
+	prep|de=of n|agua&fem=water . 
+%com:	cada uno se va calzando con las botas que ha cogido .
+*PAD:	pero si hoy hace mucho calor .
+%mor:	conj|pero=but conj|si=if adv|hoy=today v|hace-3S&PRES=do adv|mucho=much 
+	n|calor&masc=heat . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*PAD:	vamos a ir a la piscina .
+%mor:	co|vamos=go prep|a=to v|i-INF=go prep|a=to det:art|el&FEM&SG=the n|piscina&fem=swiming_pool 
+	. 
+*JAI:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+*PAD:	estamos ya a diez de junio hoy .
+%mor:	v|esta-1P&PRES=be adv|ya=already prep|a=to det:num|diez=ten prep|de=of 
+	n|junio&masc=June adv|hoy=today . 
+*JAI:	no .
+%mor:	adv|no=no . 
+*PAD:	sí .
+%mor:	co|sí=yes . 
+*CHI:	va !
+%mor:	v|i-3S&PRES=go ! 
+%com:	Juan cambia de zapatos e intenta ponerselos .
+*CHI:	pues me pongo esto .
+%mor:	co|pues=well pro:per|me=me v|pone-1S&PRES=put det:dem|este-MASC=this . 
+*JAI:	le le &re le le le le .
+%mor:	pro:per|le=him pro:per|le=him pro:per|le=him pro:per|le=him pro:per|le=him 
+	pro:per|le=him . 
+*CHI:	no tengo calcetines .
+%mor:	adv|no=no v|tene-1S&PRES=have n|calcetín&masc-PL=sock . 
+*CHI:	oye .
+%mor:	co|oye=listen . 
+*CHI:	estamos descalzos ?
+%mor:	v|esta-1P&PRES=be adj|descalzo-MASC-PL=barefoot ? 
+*CHI:	vamos descalzos ?
+%mor:	co|vamos=go adj|descalzo-MASC-PL=barefoot ? 
+*CHI:	vamos a quitarnos los zapatos .
+%mor:	co|vamos=go prep|a=to v|quita-INF~pro:clit|1P det:art|el&MASC-PL=the n|zapato&masc-PL=shoe 
+	. 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+%com:	Juan tira los zapatos al armario .
+*CHI:	vale allí vamos venga venga (.) bien !
+%mor:	co|vale=okay adv|allí=there co|vamos=go co|venga=come_on co|venga=come_on 
+	adv|bien=well ! 
+%com:	Jaime sigue con los zapatos puestos .
+*CHI:	descalzos .
+%mor:	adj|descalzo-MASC-PL=barefoot . 
+*CHI:	tu no te los quitas ?
+%mor:	det:pos|tu=your adv|no=no pro:per|te=you det:art|el&MASC-PL=the v|quita-2S&PRES=remove 
+	? 
+*CHI:	quítatelos .
+%mor:	v|quita-2S&IMP~pro:clit|2S~pro:clit|OBJ&MASC&PL . 
+*CHI:	pero lleva torta pi pi pi (.) en el coche de papa iremos .
+%mor:	conj|pero=but v|lleva-3S&PRES=carry n|torta&fem=tart co|pi co|pi co|pi 
+	prep|en=in det:art|el&MASC&SG=the n|coche&masc=car prep|de=of n|papa&masc=pope 
+	v|i-1P&FUT=go . 
+%com:	Juan coge una bolsa del armario .
+*CHI:	ay !
+%mor:	co|ay=ay ! 
+*CHI:	yo me pongo esto (.) en el coche de papa nos iremos a pasear en el coche .
+%mor:	pro:per|yo=I pro:per|me=me v|pone-1S&PRES=put det:dem|este-MASC=this prep|en=in 
+	det:art|el&MASC&SG=the n|coche&masc=car prep|de=of n|papa&masc=pope pro:per|nos=us 
+	v|i-1P&FUT=go prep|a=to v|pasea-INF=stroll prep|en=in det:art|el&MASC&SG=the 
+	n|coche&masc=car . 
+@Situation:	JUAN Y JAIME SENTADOS EN LA ALFOMBRA JUEGAN CON ANIMALES DE JUGUETE.
+@Comment:	Juan va dando animales a Jaime
+*CHI:	venga un ciervo .
+%mor:	co|venga=come_on det:art|un&masc=one n|ciervo&masc=deer . 
+*CHI:	toma un oso .
+%mor:	v|toma-3S&PRES=take det:art|un&masc=one n|oso-MASC=bear . 
+*CHI:	toma toma ya !
+%mor:	v|toma-3S&PRES=take v|toma-3S&PRES=take adv|ya=already ! 
+*CHI:	otro tigre .
+%mor:	pro:indef|otro=other n|tigre&masc=tiger . 
+*CHI:	este tigre es peligroso .
+%mor:	det:dem|este=this n|tigre&masc=tiger v|se-3S&PRES=be adj|peligroso-MASC=dangerous 
+	. 
+*CHI:	toma un caballito .
+%mor:	v|toma-3S&PRES=take det:art|un&masc=one n|caballo-DIM-MASC=horse . 
+*CHI:	este es tuyo tuyo tuyo tuyo .
+%mor:	det:dem|este=this v|se-3S&PRES=be pro:pos|tuyo-MASC=yours pro:pos|tuyo-MASC=yours 
+	pro:pos|tuyo-MASC=yours pro:pos|tuyo-MASC=yours . 
+*CHI:	te lo resgalo [: regalo] [*] te lo regalo .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present pro:per|te=you 
+	pro:per:1|lo&masc=him n|regalo&masc=present . 
+*CHI:	te lo regalo y te lo regalo este .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present coord|y=and 
+	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present det:dem|este=this 
+	. 
+*CHI:	ya es tuyo .
+%mor:	adv|ya=already v|se-3S&PRES=be pro:pos|tuyo-MASC=yours . 
+*CHI:	te lo regalo tuyo .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present pro:pos|tuyo-MASC=yours 
+	. 
+*CHI:	mira esto se lo regalo a mi hermano .
+%mor:	co|mira=look det:dem|este-MASC=this pro:per|se=itself pro:per:1|lo&masc=him 
+	n|regalo&masc=present prep|a=to det:pos|mi=my n|hermano-MASC=sibling . 
+%com:	coge el animal en la mano .
+*PAD:	se lo regalas a tu hermano .
+%mor:	pro:per|se=itself pro:per:1|lo&masc=him v|regala-2S&PRES=give_present 
+	prep|a=to det:pos|tu=your n|hermano-MASC=sibling . 
+*CHI:	sí por que sino toma .
+%mor:	adv|sí=yes prep|por=for prep|que=than conj|sino=except v|toma-3S&PRES=take 
+	. 
+*JAI:	ganan !
+%mor:	v|gana-3P&PRES=win ! 
+*CHI:	quien gasna [: gana] [*] .
+%mor:	pro:rel|quien=who n|gana&fem=feeling . 
+*JAI:	estos .
+%mor:	det:dem|este-MASC-PL=this . 
+*CHI:	a que estos van a la selva .
+%mor:	prep|a=to prep|que=than det:dem|este-MASC-PL=this v|i-3P&PRES=go prep|a=to 
+	det:art|el&FEM&SG=the n|selva&fem=forest . 
+*JAI:	a ah .
+%mor:	prep|a=to co|ah . 
+*CHI:	adivine a que somos hermanitos .
+%mor:	v|adivina-13S&SUB&PRES=divine prep|a=to prep|que=than v|se-1P&PRES=be 
+	n|hermano-DIM-MASC-PL=sibling . 
+*CHI:	este mira como corre .
+%mor:	det:dem|este=this co|mira=look adv|como=like v|corre-3S&PRES=run . 
+*CHI:	mira este te ataca con las unas .
+%mor:	co|mira=look det:dem|este=this pro:per|te=you v|ataca-3S&PRES=attack prep|con=with 
+	det:art|el&FEM-PL=the det:art|un-FEM-PL=one . 
+*CHI:	y le come aum !
+%mor:	coord|y=and pro:per|le=him v|come-3S&PRES=eat co|aum=yum ! 
+*CHI:	(.) y este le come al perro vale .
+%mor:	coord|y=and det:dem|este=this pro:per|le=him v|come-3S&PRES=eat prep|a~det|el&MASC 
+	n|perro-MASC=dog co|vale=okay . 
+*JAI:	nanana@b .
+%mor:	bab|nanana . 
+%com:	come .
+*CHI:	es más peligroso este (.) ha ganado este vale .
+%mor:	v|se-3S&PRES=be adv|más=more adj|peligroso-MASC=dangerous det:dem|este=this 
+	co|ha part|gana-PPART&MASC=win det:dem|este=this co|vale=okay . 
+*JAI:	eh .
+%mor:	co|eh . 
+*CHI:	deja este con el otro xxx .
+%mor:	v|deja-3S&PRES=leave det:dem|este=this prep|con=with det:art|el&MASC&SG=the 
+	pro:indef|otro=other . 
+*CHI:	estos son los míos .
+%mor:	det:dem|este-MASC-PL=this v|se-3P&PRES=be det:art|el&MASC-PL=the pro:pos|mío-MASC-PL=mine 
+	. 
+*CHI:	este no .
+%mor:	v|esta-13S&SUB&PRES=be co|no=no . 
+*CHI:	ni este .
+%mor:	coord|ni=nor det:dem|este=this . 
+*CHI:	ni este .
+%mor:	coord|ni=nor det:dem|este=this . 
+*CHI:	estos sí este .
+%mor:	det:dem|este-MASC-PL=this co|sí=yes det:dem|este=this . 
+*JAI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	si te los regalo .
+%mor:	conj|si=if pro:per|te=you det:art|el&MASC-PL=the n|regalo&masc=present 
+	. 
+*JAI:	a rum@o rum@o ah .
+%mor:	prep|a=to on|rum on|rum co|ah . 
+%com:	Juan saca muchos juguetes de un bombo .
+*CHI:	todos para mi o que ?
+%mor:	det:indef|todo-MASC-PL=all prep|para=for det:pos|mi=my coord|o=or prep|que=than 
+	? 
+*CHI:	toma te los regalo .
+%mor:	v|toma-3S&PRES=take pro:per|te=you det:art|el&MASC-PL=the n|regalo&masc=present 
+	. 
+*CHI:	te lo regalo .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present . 
+*JAI:	ah sí .
+%mor:	co|ah co|sí=yes . 
+%com:	Jaime coge un cocodrilo y lo mira .
+*CHI:	te gusta (.) .
+%mor:	pro:per|te=you v|gusta-3S&PRES=like . 
+*CHI:	ay toma .
+%mor:	co|ay=ay v|toma-3S&PRES=take . 
+*CHI:	te lo regalo .
+%mor:	pro:per|te=you pro:per:1|lo&masc=him n|regalo&masc=present . 
+*JAI:	ah ya ah ya (es)tá loco .
+%mor:	co|ah adv|ya=already co|ah adv|ya=already v|esta-3S&PRES=be adj|loco-MASC=crazy 
+	. 
+*CHI:	no .
+%mor:	adv|no=no . 
+*JAI:	que hace .
+%mor:	prep|que=than v|hace-3S&PRES=do . 
+*CHI:	xxx estos xxx .
+%mor:	det:dem|este-MASC-PL=this . 
+%com:	Jaime sujeta animales en las manos y las mueve cantando .
+*CHI:	estos son amigos [/] son amigos .
+%mor:	det:dem|este-MASC-PL=this v|se-3P&PRES=be v|se-3P&PRES=be n|amigo-MASC-PL=friend 
+	. 
+*JAI:	le le le le .
+%mor:	pro:per|le=him pro:per|le=him pro:per|le=him pro:per|le=him . 
+*CHI:	no mira .
+%mor:	co|no=no co|mira=look . 
+*CHI:	esto no se hace así ay .
+%mor:	det:dem|este-MASC=this adv|no=no pro:per|se=itself v|hace-3S&PRES=do adv|así=thus 
+	co|ay=ay . 
+*JAI:	ala !
+%mor:	n|ala&fem=brim ! 
+*JAI:	se dan besitos estos tres .
+%mor:	pro:per|se=itself v|da-3P&PRES=give n|beso-DIM-MASC-PL=kiss det:dem|este-MASC-PL=this 
+	det:num|tres=three . 
+*JAI:	a que sí .
+%mor:	prep|a=to prep|que=than co|sí=yes . 
+*JAI:	ba@o ba@o ba@o a a una bebe ama bebe .
+%mor:	on|ba on|ba on|ba prep|a=to prep|a=to det:art|un-FEM=one v|bebe-3S&PRES=drink 
+	n|ama&fem=housekeeper v|bebe-3S&PRES=drink . 
+*CHI:	estos son amiguitos .
+%mor:	det:dem|este-MASC-PL=this v|se-3P&PRES=be n|amigo-DIM-MASC-PL=friend . 
+*CHI:	vale .
+%mor:	co|vale=okay . 
+*CHI:	toma toma y toma ay !
+%mor:	v|toma-3S&PRES=take v|toma-3S&PRES=take coord|y=and v|toma-3S&PRES=take 
+	co|ay=ay ! 
+%com:	Juan da un manotazo a Jaime y tira los animales .
+*CHI:	au !
+%mor:	co|au=ow ! 
+*CHI:	au !
+%mor:	co|au=ow ! 
+*CHI:	ggrss@o .
+%mor:	on|ggrss . 
+*CHI:	pum@o (.) ya no me lo quita nadie paum@o .
+%mor:	on|pum adv|ya=already adv|no=no pro:per|me=me pro:per:1|lo&masc=him v|quita-3S&PRES=remove 
+	pro:per|nadie=nobody on|paum . 
+@End

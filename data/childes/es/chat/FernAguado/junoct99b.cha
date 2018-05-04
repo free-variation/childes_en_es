@@ -1,0 +1,658 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	JUN Julen Target_Child , AND Ander Brother , INV Marta Investigator
+@ID:	spa|fernaguado|JUN|3;6.08||||Target_Child|||
+@ID:	spa|fernaguado|AND|8;2.17||||Brother|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	20-OCT-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	JUN y AND juegan con el barco pirata
+*AND:	Julen .
+%mor:	n:prop|Julen . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*AND:	Julen .
+%mor:	n:prop|Julen . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*AND:	pon esto aquí .
+%mor:	v|pone-2S&IMP=put det:dem|este-MASC=this adv|aquí=here . 
+%com:	el mástil
+*AND:	venga ponlo .
+%mor:	co|venga=come_on v|pone-2S&IMP~pro:clit|OBJ&MASC . 
+*AND:	pon tú .
+%mor:	v|pone-2S&IMP=put pro:per|tú=you . 
+*AND:	aquí esto toma .
+%mor:	adv|aquí=here det:dem|este-MASC=this v|toma-3S&PRES=take . 
+*AND:	mira Julen pon esto aquí .
+%mor:	co|mira=look n:prop|Julen v|pone-2S&IMP=put det:dem|este-MASC=this adv|aquí=here 
+	. 
+*AND:	no se puede ?
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can ? 
+*AND:	no .
+%mor:	adv|no=no . 
+*AND:	así Julen .
+%mor:	adv|así=thus n:prop|Julen . 
+*AND:	ponlo tú .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&MASC pro:per|tú=you . 
+*AND:	ya está (.) muy bien .
+%mor:	adv|ya=already v|esta-3S&PRES=be adv|muy=very adv|bien=well . 
+*AND:	ahora <pon esto así> [/] pon esto así .
+%mor:	adv|ahora=now v|pone-2S&IMP=put det:dem|este-MASC=this adv|así=thus . 
+%com:	una vela
+*JUN:	no .
+%mor:	adv|no=no . 
+*JUN:	tú .
+%mor:	pro:per|tú=you . 
+*AND:	no .
+%mor:	adv|no=no . 
+*AND:	tú .
+%mor:	pro:per|tú=you . 
+*AND:	vale pues tú pones ésta (.) vale ?
+%mor:	co|vale=okay co|pues=well pro:per|tú=you v|pone-2S&PRES=put pro:dem|éste-FEM=this_one 
+	co|vale=okay ? 
+*AND:	venga pon .
+%mor:	co|venga=come_on v|pone-2S&IMP=put . 
+*JUN:	cómo se pone ?
+%mor:	pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put ? 
+*AND:	éste está roto .
+%mor:	pro:dem|éste=this_one v|esta-3S&PRES=be part|rompe-PPART-MASC=break . 
+%com:	una vela
+*INV:	no pasa nada .
+%mor:	adv|no=no v|pasa-3S&PRES=pass pro:indef|nada=nothing . 
+*INV:	si está roto no lo pongas .
+%mor:	conj|si=if v|esta-3S&PRES=be part|rompe-PPART-MASC=break adv|no=no pro:per:1|lo&masc=him 
+	v|pone-2S&SUB&PRES=put . 
+*JUN:	pues pon eso .
+%mor:	co|pues=well v|pone-2S&IMP=put pro:dem|eso=that_one . 
+%com:	la bandera
+*AND:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	vale (.) esto aquí .
+%mor:	co|vale=okay det:dem|este-MASC=this adv|aquí=here . 
+*AND:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+%com:	el cofre
+*JUN:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+*AND:	mira (.) y esto ponlo tú .
+%mor:	co|mira=look coord|y=and det:dem|este-MASC=this v|pone-2S&IMP~pro:clit|OBJ&MASC 
+	pro:per|tú=you . 
+*AND:	aquí dentro ponlo tú .
+%mor:	adv|aquí=here adv|dentro=inside v|pone-2S&IMP~pro:clit|OBJ&MASC pro:per|tú=you 
+	. 
+*JUN:	no .
+%mor:	adv|no=no . 
+*AND:	mira Julen mételo aquí [/] aquí .
+%mor:	co|mira=look n:prop|Julen v|mete-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here 
+	. 
+*AND:	eso ahí .
+%mor:	pro:dem|eso=that_one adv|ahí=there . 
+*JUN:	falta eso (.) eh ?
+%mor:	v|falta-3S&PRES=be_lacking pro:dem|eso=that_one co|eh ? 
+%com:	redes
+*JUN:	esto falta .
+%mor:	det:dem|este-MASC=this v|falta-3S&PRES=be_lacking . 
+*JUN:	toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	se las das
+*AND:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*AND:	a_ver Julen eso lo pongo yo que es difícil .
+%mor:	co|a_ver=see n:prop|Julen pro:dem|eso=that_one pro:per:1|lo&masc=him v|pone-1S&PRES=put 
+	pro:per|yo=I prep|que=than v|se-3S&PRES=be adj|difícil=difficult . 
+*AND:	ésta aquí .
+%mor:	pro:dem|éste-FEM=this_one adv|aquí=here . 
+*JUN:	toma (.) una pelota .
+%mor:	v|toma-3S&PRES=take det:art|un-FEM=one n|pelota&fem=ball . 
+*AND:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*AND:	esto dónde es ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where v|se-3S&PRES=be ? 
+*AND:	el cañón .
+%mor:	det:art|el&MASC&SG=the n|cañón&masc=cannon . 
+*AND:	esto es aquí .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here . 
+%com:	la pelota
+*AND:	mira .
+%mor:	co|mira=look . 
+%com:	dispara
+*JUN:	no !
+%mor:	adv|no=no ! 
+*JUN:	mío !
+%mor:	pro:pos|mío-MASC=mine ! 
+*AND:	no es tuya .
+%mor:	adv|no=no v|se-3S&PRES=be pro:pos|tuyo-FEM=yours . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	a_ver (.) Julen pero quita el muñeco (.) eh ?
+%mor:	co|a_ver=see n:prop|Julen conj|pero=but v|quita-3S&PRES=remove det:art|el&MASC&SG=the 
+	n|muñeco-MASC=doll co|eh ? 
+*AND:	móntalo tú también (.) eh Julen ?
+%mor:	v|monta-2S&IMP~pro:clit|OBJ&MASC pro:per|tú=you adv|también=also co|eh 
+	n:prop|Julen ? 
+*AND:	que lo tiras .
+%mor:	prep|que=than pro:per:1|lo&masc=him v|tira-2S&PRES=throw . 
+*AND:	cómo va esto ?
+%mor:	co|cómo v|i-3S&PRES=go det:dem|este-MASC=this ? 
+*AND:	<esto no se cómo se pone> [//] no se cómo se pone esto .
+%mor:	adv|no=no pro:per|se=itself pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put 
+	det:dem|este-MASC=this . 
+%com:	las redes
+*INV:	eso lo tienes que poner en el mástil antes que lo demás .
+%mor:	pro:dem|eso=that_one pro:per:1|lo&masc=him v|tene-2S&PRES=have prep|que=than 
+	v|pone-INF=put prep|en=in det:art|el&MASC&SG=the n|mástil&masc=mast adv|antes=before 
+	prep|que=than pro:per:1|lo&masc=him adj|demás=remaining . 
+*AND:	mira Julen .
+%mor:	co|mira=look n:prop|Julen . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*AND:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+*AND:	para hacer esto lo ponemos aquí .
+%mor:	prep|para=for v|hace-INF=do det:dem|este-MASC=this pro:per:1|lo&masc=him 
+	v|pone-1P&PRES=put adv|aquí=here . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	para hacer esto lo ponemos aquí sólo (.) vale ?
+%mor:	prep|para=for v|hace-INF=do det:dem|este-MASC=this pro:per:1|lo&masc=him 
+	v|pone-1P&PRES=put adv|aquí=here adv|sólo=only co|vale=okay ? 
+%com:	le enseña a disparar el arpón
+*AND:	y luego esto se pone así y se hace pum@o y se tira (.) vale .
+%mor:	coord|y=and adv|luego=afterwards det:dem|este-MASC=this pro:per|se=itself 
+	v|pone-3S&PRES=put adv|así=thus coord|y=and pro:per|se=itself v|hace-3S&PRES=do 
+	on|pum coord|y=and pro:per|se=itself v|tira-3S&PRES=throw co|vale=okay 
+	. 
+*JUN:	a_ver ?
+%mor:	co|a_ver=see ? 
+*AND:	luego esto es aquí .
+%mor:	adv|luego=afterwards det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here 
+	. 
+*AND:	ahora .
+%mor:	adv|ahora=now . 
+%com:	pone el puesto del vigía
+*JUN:	así .
+%mor:	adv|así=thus . 
+*AND:	Julen .
+%mor:	n:prop|Julen . 
+*JUN:	qué ?
+%mor:	pro:int|qué=what ? 
+%com:	juega con la barca y no hace caso de AND
+*AND:	esto ponlo aquí [/] aquí mira .
+%mor:	det:dem|este-MASC=this v|pone-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here 
+	co|mira=look . 
+*JUN:	tú .
+%mor:	pro:per|tú=you . 
+*AND:	Julen mira (.) tú pon esto aquí .
+%mor:	n:prop|Julen co|mira=look pro:per|tú=you v|pone-2S&IMP=put det:dem|este-MASC=this 
+	adv|aquí=here . 
+*AND:	no .
+%mor:	adv|no=no . 
+*AND:	Julen esto es aquí y pon esto aquí .
+%mor:	n:prop|Julen det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here coord|y=and 
+	v|pone-2S&IMP=put det:dem|este-MASC=this adv|aquí=here . 
+*AND:	ponlo aquí tú solo .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here pro:per|tú=you adj|solo-MASC=alone 
+	. 
+*AND:	dónde está ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be ? 
+*JUN:	aquí no .
+%mor:	adv|aquí=here adv|no=no . 
+*JUN:	<no es ahí> [//] aquí no es .
+%mor:	adv|aquí=here adv|no=no v|se-3S&PRES=be . 
+*AND:	sí es .
+%mor:	adv|sí=yes v|se-3S&PRES=be . 
+*JUN:	ese es así .
+%mor:	det:dem|ese=that v|se-3S&PRES=be adv|así=thus . 
+*AND:	no .
+%mor:	adv|no=no . 
+*AND:	ese no es .
+%mor:	det:dem|ese=that adv|no=no v|se-3S&PRES=be . 
+*AND:	<éste es> [/] éste es aquí .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adv|aquí=here . 
+%com:	colocan los piratas
+*AND:	si quieres éste lo ponemos aquí (.) vale ?
+%mor:	conj|si=if v|quere-2S&PRES=want pro:dem|éste=this_one pro:per:1|lo&masc=him 
+	v|pone-1P&PRES=put adv|aquí=here co|vale=okay ? 
+*JUN:	así .
+%mor:	adv|así=thus . 
+*AND:	y así conduce .
+%mor:	coord|y=and adv|así=thus v|conduci-3S&PRES=drive . 
+*JUN:	no se cae .
+%mor:	adv|no=no pro:per|se=itself v|cae-3S&PRES=fall . 
+*AND:	a_ver cuál es ?
+%mor:	co|a_ver=see pro:int|cuál=which v|se-3S&PRES=be ? 
+*JUN:	a_ver ?
+%mor:	co|a_ver=see ? 
+*AND:	aquí hay una .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one . 
+%com:	red
+*AND:	esto es aquí .
+%mor:	det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here . 
+*AND:	ay (.) Julen que se cae .
+%mor:	co|ay=ay n:prop|Julen prep|que=than pro:per|se=itself v|cae-3S&PRES=fall 
+	. 
+%com:	JUN le da una patada sin querer al barco
+*JUN:	que susto (.) eh ?
+%mor:	prep|que=than n|susto&masc=fright co|eh ? 
+*JUN:	está aquí .
+%mor:	v|esta-3S&PRES=be adv|aquí=here . 
+%com:	un pirata
+*JUN:	que se va .
+%mor:	prep|que=than pro:per|se=itself v|i-3S&PRES=go . 
+*AND:	a_ver (.) así .
+%mor:	co|a_ver=see adv|así=thus . 
+*AND:	ay (.) que se cae .
+%mor:	co|ay=ay prep|que=than pro:per|se=itself v|cae-3S&PRES=fall . 
+*AND:	luego esto es aquí .
+%mor:	adv|luego=afterwards det:dem|este-MASC=this v|se-3S&PRES=be adv|aquí=here 
+	. 
+*JUN:	éste ?
+%mor:	pro:dem|éste=this_one ? 
+*AND:	bueno éste es aquí .
+%mor:	co|bueno=good pro:dem|éste=this_one v|se-3S&PRES=be adv|aquí=here . 
+*AND:	no [/] no .
+%mor:	adv|no=no . 
+*AND:	éste es aquí .
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adv|aquí=here . 
+*JUN:	móntale .
+%mor:	v|monta-2S&IMP~pro:clit|3S . 
+*AND:	<ya está> [/] ya está monta(d)o .
+%mor:	adv|ya=already v|esta-3S&PRES=be part|monta-PPART&MASC=climb_on . 
+*JUN:	y éste cómo ?
+%mor:	coord|y=and pro:dem|éste=this_one co|cómo ? 
+*JUN:	no es así .
+%mor:	adv|no=no v|se-3S&PRES=be adv|así=thus . 
+*AND:	ahora lo pongo .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|pone-1S&PRES=put . 
+*AND:	ya se ha monta(d)o .
+%mor:	adv|ya=already pro:per|se=itself co|ha part|monta-PPART&MASC=climb_on 
+	. 
+*INV:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*INV:	bueno pues ahora jugar con él un rato .
+%mor:	co|bueno=good co|pues=well adv|ahora=now v|juga-INF=play prep|con=with 
+	pro:per|él&masc=he det:art|un&masc=one n|rato-MASC=rat . 
+*AND:	eh ?
+%mor:	co|eh ? 
+*INV:	jugad con él un rato .
+%mor:	v|juga-2P&IMP=play prep|con=with pro:per|él&masc=he det:art|un&masc=one 
+	n|rato-MASC=rat . 
+*AND:	jo (.) yo quiero ir con mis amigos .
+%mor:	co|jo=whoa pro:per|yo=I v|quere-1S&PRES=want v|i-INF=go prep|con=with 
+	det:pos|mi-PL=my n|amigo-MASC-PL=friend . 
+*AND:	Julen (.) mira tú eres éste (.) vale ?
+%mor:	n:prop|Julen co|mira=look pro:per|tú=you v|se-2S&PRES=be pro:dem|éste=this_one 
+	co|vale=okay ? 
+*AND:	yo soy el capitán y ahora sacamos nuestra arma secreta (.) vale Julen ?
+%mor:	pro:per|yo=I v|se-1S&PRES=be det:art|el&MASC&SG=the n|capitán&masc=captain 
+	coord|y=and adv|ahora=now v|saca-1P&PRES=bring_out pro:pos|nuestro-FEM=ours 
+	n|arma&fem=weapon adj|secreto-FEM=secret co|vale=okay n:prop|Julen ? 
+*AND:	este cañón y ahora mira .
+%mor:	det:dem|este=this n|cañón&masc=cannon coord|y=and adv|ahora=now co|mira=look 
+	. 
+%com:	JUN dispara
+*AND:	ála (.) has matado a todos (.) Julen .
+%mor:	co|ála v|habe-2S&PRES=have part|mata-PPART&MASC=kill prep|a=to det:indef|todo-MASC-PL=all 
+	n:prop|Julen . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	ahora tenemos un barquito pequeño (.) vale ?
+%mor:	adv|ahora=now v|tene-1P&PRES=have det:art|un&masc=one n|barco-DIM-MASC=boat 
+	adj|pequeño-MASC=small co|vale=okay ? 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	ese [/] ese [/] ese [/] ese .
+%mor:	det:dem|ese=that . 
+*AND:	venga (.) capitán lo tenemos que cargar .
+%mor:	co|venga=come_on n|capitán&masc=captain pro:per:1|lo&masc=him v|tene-1P&PRES=have 
+	prep|que=than v|carga-INF=load . 
+*JUN:	toma [/] toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	le da un pirata
+*AND:	no caben .
+%mor:	adv|no=no v|cabe-3P&PRES=fit . 
+*AND:	lo tenemos que cargar .
+%mor:	pro:per:1|lo&masc=him v|tene-1P&PRES=have prep|que=than v|carga-INF=load 
+	. 
+*AND:	ahora cargan el cañón .
+%mor:	adv|ahora=now v|carga-3P&PRES=load det:art|el&MASC&SG=the n|cañón&masc=cannon 
+	. 
+*JUN:	y aquí una +//.
+%mor:	coord|y=and adv|aquí=here det:art|un-FEM=one +//. 
+*JUN:	quita [//] que voy a hacer (.) quita .
+%mor:	prep|que=than v|i-1S&PRES=go prep|a=to v|hace-INF=do v|quita-3S&PRES=remove 
+	. 
+%com:	dispara el cañón
+*AND:	venga (.) Julen que son malos (.) vale ?
+%mor:	co|venga=come_on n:prop|Julen prep|que=than v|se-3P&PRES=be n|malo&masc-PL=devil 
+	co|vale=okay ? 
+%com:	los de la barca
+*AND:	éstos son malos .
+%mor:	pro:dem|éste-MASC-PL=this_one v|se-3P&PRES=be n|malo&masc-PL=devil . 
+*JUN:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*AND:	mucho rato jugar ?
+%mor:	adv|mucho=much n|rato-MASC=rat v|juga-INF=play ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*AND:	cuánto ?
+%mor:	pro:int|cuánto=how_much ? 
+*INV:	cinco minutos .
+%mor:	det:num|cinco=five n|minuto&masc-PL=minute . 
+*AND:	vale (.) venga Julen vamos !
+%mor:	co|vale=okay co|venga=come_on n:prop|Julen co|vamos=go ! 
+*AND:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*AND:	ya hemos llegado .
+%mor:	adv|ya=already v|habe-1P&PRES=have part|llega-PPART&MASC=arrive . 
+*AND:	ahora tenemos que ponernos +//.
+%mor:	adv|ahora=now v|tene-1P&PRES=have prep|que=than v|pone-INF~pro:clit|1P 
+	+//. 
+*AND:	ah (.) que me he liado !
+%mor:	co|ah prep|que=than pro:per|me=me co|he part|lia-PPART&MASC=tie ! 
+*AND:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*AND:	venga Julen ahora se tiene que volver este barco que es muy malo .
+%mor:	co|venga=come_on n:prop|Julen adv|ahora=now pro:per|se=itself v|tene-3S&PRES=have 
+	prep|que=than v|volve-INF=turn det:dem|este=this n|barco-MASC=boat prep|que=than 
+	v|se-3S&PRES=be adv|muy=very adj|malo-MASC=bad . 
+*AND:	venga (.) dale con la bola .
+%mor:	co|venga=come_on v|da-2S&IMP~pro:clit|3S prep|con=with det:art|el&FEM&SG=the 
+	n|bola&fem=ball . 
+*AND:	mátale .
+%mor:	v|mata-2S&IMP~pro:clit|3S . 
+*AND:	oh (.) ya está muerto .
+%mor:	co|oh=oh adv|ya=already v|esta-3S&PRES=be part|mori-PPART-MASC=die . 
+*AND:	ahora le enterraremos aquí abajo .
+%mor:	adv|ahora=now pro:per|le=him v|enterra-1P&FUT=bury adv|aquí=here adv|abajo=below 
+	. 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	abre esto .
+%mor:	v|abri-3S&PRES=open det:dem|este-MASC=this . 
+%com:	la bodega
+*JUN:	abro .
+%mor:	v|abri-1S&PRES=open . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	si está muerto .
+%mor:	conj|si=if v|esta-3S&PRES=be part|mori-PPART-MASC=die . 
+*AND:	y ahora los metemos aquí y así no podrán salir porque son malos .
+%mor:	coord|y=and adv|ahora=now det:art|el&MASC-PL=the v|mete-1P&PRES=put adv|aquí=here 
+	coord|y=and adv|así=thus adv|no=no v|pode-3P&FUT=can v|sali-INF=leave 
+	conj|porque=because v|se-3P&PRES=be n|malo&masc-PL=devil . 
+*JUN:	son malos sí .
+%mor:	v|se-3P&PRES=be n|malo&masc-PL=devil co|sí=yes . 
+*AND:	sí .
+%mor:	co|sí=yes . 
+*JUN:	y éste también .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also . 
+*AND:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*AND:	nadie más hay que meter .
+%mor:	pro:per|nadie=nobody adv|más=more v|habe-3S&PRES&SPEC=have prep|que=than 
+	v|mete-INF=put . 
+*AND:	aquí están todos .
+%mor:	adv|aquí=here v|esta-3P&PRES=be det:indef|todo-MASC-PL=all . 
+*AND:	éste [//] es bueno (.) éste porque tiene que ser el vigilante aquí .
+%mor:	v|se-3S&PRES=be co|bueno=good pro:dem|éste=this_one conj|porque=because 
+	v|tene-3S&PRES=have prep|que=than n|ser&masc=being det:art|el&MASC&SG=the 
+	adj|vigilante=watchful adv|aquí=here . 
+*JUN:	y lo ponemos en la mesa ?
+%mor:	coord|y=and pro:per:1|lo&masc=him v|pone-1P&PRES=put prep|en=in det:art|el&FEM&SG=the 
+	n|mesa&fem=table ? 
+*AND:	y éste [//] también (.) éste es bueno .
+%mor:	coord|y=and adv|también=also pro:dem|éste=this_one v|se-3S&PRES=be co|bueno=good 
+	. 
+*AND:	y la mesita aquí para que hagan cosas y ya está .
+%mor:	coord|y=and det:art|el&FEM&SG=the n|mesa-DIM-FEM=table adv|aquí=here 
+	prep|para=for prep|que=than v|hace-3P&SUB&PRES=do n|cosa&fem-PL=thing coord|y=and 
+	adv|ya=already v|esta-3S&PRES=be . 
+*AND:	y ahora este barco .
+%mor:	coord|y=and adv|ahora=now det:dem|este=this n|barco-MASC=boat . 
+*JUN:	así (.) encima .
+%mor:	adv|así=thus adv|encima=on_top . 
+*AND:	disparamos a éste que le mata .
+%mor:	v|dispara-1P&PRES=shoot prep|a=to pro:dem|éste=this_one prep|que=than 
+	pro:per|le=him adj|mate-FEM=mate . 
+*AND:	oh (.) le ha dado pero no le ha hecho daño .
+%mor:	co|oh=oh pro:per|le=him co|ha part|da-PPART&MASC=give conj|pero=but adv|no=no 
+	pro:per|le=him co|ha n|hecho&masc=action n|daño&masc=damage . 
+*JUN:	dispárale mucho .
+%mor:	v|dispara-2S&IMP~pro:clit|3S adv|mucho=much . 
+*AND:	otra vez ?
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn ? 
+*AND:	oh (.) se ha caído .
+%mor:	co|oh=oh pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*AND:	ahora tenemos que tirarle a los tiburones .
+%mor:	adv|ahora=now v|tene-1P&PRES=have prep|que=than v|tira-INF~pro:clit|3S 
+	prep|a=to det:art|el&MASC-PL=the n|tiburón&masc-PL=shark . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	aquí hay uno !
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-MASC=one ! 
+*AND:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	y eres muy malo .
+%mor:	coord|y=and v|se-2S&PRES=be adv|muy=very adj|malo-MASC=bad . 
+*AND:	oh (.) se ha caído .
+%mor:	co|oh=oh pro:per|se=itself co|ha part|cae-PPART&MASC=fall . 
+*JUN:	venga (.) pónmelo aquí .
+%mor:	co|venga=come_on v|pone-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC adv|aquí=here 
+	. 
+*JUN:	aquí sí se cae .
+%mor:	adv|aquí=here co|sí=yes pro:per|se=itself v|cae-3S&PRES=fall . 
+%com:	en el trampolín
+*JUN:	aquí corre .
+%mor:	adv|aquí=here v|corre-3S&PRES=run . 
+*AND:	ahora lo tenemos que echar .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|tene-1P&PRES=have prep|que=than 
+	v|echa-INF=throw . 
+*AND:	oh (.) no le he da(d)o .
+%mor:	co|oh=oh adv|no=no pro:per|le=him co|he part|da-PPART&MASC=give . 
+*AND:	ahora tenemos que matarle .
+%mor:	adv|ahora=now v|tene-1P&PRES=have prep|que=than v|mata-INF~pro:clit|3S 
+	. 
+*JUN:	no le has dado .
+%mor:	adv|no=no pro:per|le=him v|habe-2S&PRES=have part|da-PPART&MASC=give . 
+*JUN:	uno dos tres cuatro (.) ahora sí .
+%mor:	det:art|un-MASC=one det:num|dos=two det:num|tres=three det:num|cuatro=four 
+	adv|ahora=now co|sí=yes . 
+*JUN:	aquí está .
+%mor:	adv|aquí=here v|esta-3S&PRES=be . 
+*AND:	Julen corre (.) tenemos que matarlo con éste .
+%mor:	n:prop|Julen v|corre-3S&PRES=run v|tene-1P&PRES=have prep|que=than v|mata-INF~pro:clit|OBJ&MASC 
+	prep|con=with pro:dem|éste=this_one . 
+%com:	con el cañón
+*AND:	con esta cosa .
+%mor:	prep|con=with det:dem|este-FEM=this n|cosa&fem=thing . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	corre .
+%mor:	v|corre-3S&PRES=run . 
+*AND:	bien (.) le hemos matado .
+%mor:	adv|bien=well pro:per|le=him v|habe-1P&PRES=have part|mata-PPART&MASC=kill 
+	. 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	ahora falta el vigilante .
+%mor:	adv|ahora=now v|falta-3S&PRES=be_lacking det:art|el&MASC&SG=the adj|vigilante=watchful 
+	. 
+*AND:	es <el [*] que más> [/] el [*] que más va a costar matarle .
+%mor:	v|se-3S&PRES=be det:art|el&MASC&SG=the prep|que=than adv|más=more v|i-3S&PRES=go 
+	prep|a=to v|costa-INF=cost v|mata-INF~pro:clit|3S . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	venga (.) vamos tenemos que coger este cañón .
+%mor:	co|venga=come_on co|vamos=go v|tene-1P&PRES=have prep|que=than v|coge-INF=take 
+	det:dem|este=this n|cañón&masc=cannon . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	vamos a coger éste .
+%mor:	co|vamos=go prep|a=to v|coge-INF=take pro:dem|éste=this_one . 
+*AND:	tenemos que coger este cañón a_ver si llega si no igual nos hundimos .
+%mor:	v|tene-1P&PRES=have prep|que=than v|coge-INF=take det:dem|este=this n|cañón&masc=cannon 
+	co|a_ver=see conj|si=if v|llega-2S&IMP=arrive conj|si=if adv|no=no co|igual=equal 
+	pro:per|nos=us v|hundi-1P&PRES=sink . 
+*JUN:	hay un tiburón !
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|tiburón&masc=shark ! 
+*AND:	ay (.) no puede .
+%mor:	co|ay=ay co|no=no v|pode-3S&PRES=can . 
+*AND:	no se puede corre .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|corre-3S&PRES=run . 
+*AND:	tenemos que hacer una cosa .
+%mor:	v|tene-1P&PRES=have prep|que=than v|hace-INF=do det:art|un-FEM=one n|cosa&fem=thing 
+	. 
+*AND:	yo ya se .
+%mor:	pro:per|yo=I adv|ya=already pro:per|se=itself . 
+*JUN:	aquí hay un tiburón (.) corre !
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|tiburón&masc=shark 
+	v|corre-3S&PRES=run ! 
+*JUN:	mira .
+%mor:	co|mira=look . 
+*AND:	hay un tiburón .
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un&masc=one n|tiburón&masc=shark . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	entonces vamos (.) tenemos que coger a uno .
+%mor:	co|entonces co|vamos=go v|tene-1P&PRES=have prep|que=than v|coge-INF=take 
+	prep|a=to det:art|un-MASC=one . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	entonces ahora tiene que subir .
+%mor:	adv|entonces=then adv|ahora=now v|tene-3S&PRES=have prep|que=than v|subi-INF=go_up 
+	. 
+*AND:	y ahora (.) se ha caído corre .
+%mor:	coord|y=and adv|ahora=now pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	v|corre-3S&PRES=run . 
+*AND:	ahora tenemos que ir con el barco a matarle .
+%mor:	adv|ahora=now v|tene-1P&PRES=have prep|que=than v|i-INF=go prep|con=with 
+	det:art|el&MASC&SG=the n|barco-MASC=boat prep|a=to v|mata-INF~pro:clit|3S 
+	. 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*JUN:	ya voy .
+%mor:	adv|ya=already v|i-1S&PRES=go . 
+*JUN:	disparo .
+%mor:	n|disparo&masc=shot . 
+%com:	el cañón
+*AND:	ya está .
+%mor:	adv|ya=already v|esta-3S&PRES=be . 
+*AND:	está muerto .
+%mor:	v|esta-3S&PRES=be part|mori-PPART-MASC=die . 
+*JUN:	eh (.) mira le he matado (.) mira .
+%mor:	co|eh co|mira=look pro:per|le=him co|he part|mata-PPART&MASC=kill co|mira=look 
+	. 
+*AND:	ah (.) sí .
+%mor:	co|ah co|sí=yes . 
+*JUN:	tengo una bola para matar .
+%mor:	v|tene-1S&PRES=have det:art|un-FEM=one n|bola&fem=ball prep|para=for v|mata-INF=kill 
+	. 
+*AND:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ? 
+*AND:	se ha metido .
+%mor:	pro:per|se=itself co|ha adj|metido-MASC=lodged . 
+*AND:	venga (.) tírala .
+%mor:	co|venga=come_on v|tira-2S&IMP~pro:clit|OBJ&FEM . 
+*JUN:	aquí dentro .
+%mor:	adv|aquí=here adv|dentro=inside . 
+*AND:	eh (.) hay que bajar la ancla .
+%mor:	co|eh v|habe-3S&PRES&SPEC=have prep|que=than v|baja-INF=come_down det:art|el&FEM&SG=the 
+	n|ancla&fem=anchor . 
+*AND:	<ahora tenemos> [/] <tenemos ahora> [//] aquí tenemos que estar en una prueba .
+%mor:	adv|aquí=here v|tene-1P&PRES=have prep|que=than v|esta-INF=be prep|en=in 
+	det:art|un-FEM=one n|prueba&fem=proof . 
+*JUN:	aquí uno .
+%mor:	adv|aquí=here det:art|un-MASC=one . 
+%com:	pirata
+*AND:	ah (.) sí (.) en una prueba .
+%mor:	co|ah co|sí=yes prep|en=in det:art|un-FEM=one n|prueba&fem=proof . 
+*JUN:	aquí otro .
+%mor:	adv|aquí=here pro:indef|otro=other . 
+*AND:	en una prueba tenemos que darle a éste gris nada más .
+%mor:	prep|en=in det:art|un-FEM=one n|prueba&fem=proof v|tene-1P&PRES=have prep|que=than 
+	v|da-INF~pro:clit|3S prep|a=to pro:dem|éste=this_one adj|gris=grey pro:indef|nada=nothing 
+	adv|más=more . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	a estos dos nada más .
+%mor:	prep|a=to det:dem|este-MASC-PL=this det:num|dos=two pro:indef|nada=nothing 
+	adv|más=more . 
+*JUN:	sí .
+%mor:	co|sí=yes . 
+*AND:	hay que darle a dos personas .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|da-INF~pro:clit|3S prep|a=to 
+	det:num|dos=two n|persona&fem-PL=person . 
+*JUN:	así [//] no sube así .
+%mor:	adv|no=no v|subi-3S&PRES=go_up adv|así=thus . 
+*JUN:	más fuerte (.) eh ?
+%mor:	adv|más=more adj|fuerte=strong co|eh ? 
+*JUN:	toma [/] toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	le acerca el barco
+*AND:	a_ver (.) no .
+%mor:	co|a_ver=see co|no=no . 
+*AND:	déjalo aquí .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here . 
+*AND:	no importa .
+%mor:	adv|no=no v|importa-3S&PRES=matter . 
+*AND:	ahora aquí le tenemos que dar .
+%mor:	adv|ahora=now adv|aquí=here pro:per|le=him v|tene-1P&PRES=have prep|que=than 
+	v|da-INF=give . 
+*JUN:	no [/] no .
+%mor:	adv|no=no . 
+*AND:	<ahora tú Julen> [/] ahora tú tienes que darles .
+%mor:	adv|ahora=now pro:per|tú=you v|tene-2S&PRES=have prep|que=than v|da-INF~pro:clit|3P 
+	. 
+*JUN:	yo voy a tirar a ese .
+%mor:	pro:per|yo=I v|i-1S&PRES=go prep|a=to v|tira-INF=throw prep|a=to det:dem|ese=that 
+	. 
+*AND:	vale .
+%mor:	co|vale=okay . 
+*AND:	ah (.) casi [/] casi le das pero no le has da(d)o .
+%mor:	co|ah adv|casi=almost pro:per|le=him v|da-2S&PRES=give conj|pero=but adv|no=no 
+	pro:per|le=him v|habe-2S&PRES=have part|da-PPART&MASC=give . 
+*AND:	a_ver (.) quita .
+%mor:	co|a_ver=see v|quita-3S&PRES=remove . 
+*AND:	a_ver (.) toma le hemos dado .
+%mor:	co|a_ver=see v|toma-3S&PRES=take pro:per|le=him v|habe-1P&PRES=have part|da-PPART&MASC=give 
+	. 
+*JUN:	ahora yo !
+%mor:	adv|ahora=now pro:per|yo=I ! 
+*AND:	venga (.) a_ver si le matas .
+%mor:	co|venga=come_on co|a_ver=see conj|si=if pro:per|le=him adj|mate-FEM-PL=mate 
+	. 
+*AND:	venga (.) tira .
+%mor:	co|venga=come_on v|tira-3S&PRES=throw . 
+*JUN:	a ese .
+%mor:	prep|a=to det:dem|ese=that . 
+*AND:	venga .
+%mor:	co|venga=come_on . 
+*JUN:	voy a ponerlo para allá un poco .
+%mor:	v|i-1S&PRES=go prep|a=to v|pone-INF~pro:clit|OBJ&MASC prep|para=for adv|allá=there 
+	det:art|un&masc=one adv|poco=few . 
+*AND:	así .
+%mor:	adv|así=thus . 
+*JUN:	ya [/] ya .
+%mor:	adv|ya=already . 
+*AND:	ah (.) casi [/] casi le das .
+%mor:	co|ah adv|casi=almost pro:per|le=him v|da-2S&PRES=give . 
+*AND:	ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+*AND:	ay (.) no le he dado .
+%mor:	co|ay=ay adv|no=no pro:per|le=him co|he part|da-PPART&MASC=give . 
+*JUN:	ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+*JUN:	ahora yo (.) eh ?
+%mor:	adv|ahora=now pro:per|yo=I co|eh ? 
+*AND:	ah (.) casi [/] casi le das .
+%mor:	co|ah adv|casi=almost pro:per|le=him v|da-2S&PRES=give . 
+@End

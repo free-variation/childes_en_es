@@ -1,0 +1,305 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	RUB Ruben Target_Child , ENE Eneko Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|RUB|2;11.07||||Target_Child|||
+@ID:	spa|fernaguado|ENE|3;1.17||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	22-MAR-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	RUB y ENE juegan con el barco pirata
+*RUB:	hay más .
+%mor:	v|habe-3S&PRES&SPEC=have adv|más=more . 
+%com:	piratas
+*RUB:	ahora a mi me toca .
+%mor:	adv|ahora=now prep|a=to det:pos|mi=my pro:per|me=me v|toca-3S&PRES=touch 
+	. 
+%com:	coge una de las bolas y la tira con el puesto del vigía que parece un vaso
+*ENE:	sí .
+%mor:	co|sí=yes . 
+*ENE:	a ti .
+%mor:	prep|a=to pro:per|ti=you . 
+*RUB:	ahora a ti te toca esto .
+%mor:	adv|ahora=now prep|a=to pro:per|ti=you pro:per|te=you v|toca-3S&PRES=touch 
+	det:dem|este-MASC=this . 
+%com:	le pasa el puesto del vigía
+*ENE:	sí ?
+%mor:	co|sí=yes ? 
+*RUB:	una bola (.) otra bola .
+%mor:	det:art|un-FEM=one n|bola&fem=ball det:indef|otro-FEM=other n|bola&fem=ball 
+	. 
+*RUB:	toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	le da la pelota
+*RUB:	ahora yo .
+%mor:	adv|ahora=now pro:per|yo=I . 
+%com:	vuelve a coger el puesto del vigía y le da una bola
+*RUB:	toma .
+%mor:	v|toma-3S&PRES=take . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	vale .
+%mor:	co|vale=okay . 
+*ENE:	vale ?
+%mor:	co|vale=okay ? 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	vamos .
+%mor:	co|vamos=go . 
+%com:	mira el dibujo del barco mientras ENE juega con los piratas
+*RUB:	uno dos .
+%mor:	det:art|un-MASC=one det:num|dos=two . 
+*RUB:	oye !
+%mor:	co|oye=listen ! 
+*RUB:	aquí .
+%mor:	adv|aquí=here . 
+*RUB:	pelotita ?
+%mor:	n|pelota-DIM-FEM=ball ? 
+*RUB:	dónde está la pelotita ?
+%mor:	pro:int|dónde=where v|esta-3S&PRES=be det:art|el&FEM&SG=the n|pelota-DIM-FEM=ball 
+	? 
+*RUB:	eh (.) allí lo tengo .
+%mor:	co|eh adv|allí=there pro:per:1|lo&masc=him v|tene-1S&PRES=have . 
+*ENE:	qué ?
+%mor:	pro:int|qué=what ? 
+*RUB:	no tengo .
+%mor:	adv|no=no v|tene-1S&PRES=have . 
+*RUB:	dame .
+%mor:	v|da-2S&IMP~pro:clit|1S . 
+%com:	la pelota
+*RUB:	aquí .
+%mor:	adv|aquí=here . 
+*ENE:	no .
+%mor:	adv|no=no . 
+*RUB:	ponla .
+%mor:	v|pone-2S&IMP~pro:clit|OBJ&FEM . 
+*RUB:	todo así (.) sí .
+%mor:	det:indef|todo-MASC=all adv|así=thus co|sí=yes . 
+*RUB:	no .
+%mor:	adv|no=no . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	mira la pelotita .
+%mor:	co|mira=look det:art|el&FEM&SG=the n|pelota-DIM-FEM=ball . 
+%com:	en el dibujo del barco
+*RUB:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+%com:	coge la vela
+*INV:	<hay que ponerlo> [/] hay que ponerlo en el barco .
+%mor:	v|habe-3S&PRES&SPEC=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC prep|en=in 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*INV:	a_ver cómo se pone .
+%mor:	co|a_ver=see pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put . 
+*RUB:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*INV:	míralo en el barco a_ver cómo se pone .
+%mor:	v|mira-2S&IMP~pro:clit|OBJ&MASC prep|en=in det:art|el&MASC&SG=the n|barco-MASC=boat 
+	co|a_ver=see pro:int|cómo=how pro:per|se=itself v|pone-3S&PRES=put . 
+*RUB:	esto también se pone .
+%mor:	det:dem|este-MASC=this adv|también=also pro:per|se=itself v|pone-3S&PRES=put 
+	. 
+*RUB:	voy a juga(r) [*] .
+%mor:	v|i-1S&PRES=go prep|a=to v|juga-INF=play . 
+*RUB:	vamos a hase [: hace] [*] el barco .
+%mor:	co|vamos=go prep|a=to v|hace-3S&PRES=do det:art|el&MASC&SG=the n|barco-MASC=boat 
+	. 
+*RUB:	mira (.) está muy lejos .
+%mor:	co|mira=look v|esta-3S&PRES=be adv|muy=very adv|lejos=far . 
+%com:	la pelota
+*RUB:	llego .
+%mor:	v|llega-1S&PRES=arrive . 
+%com:	a la mesa
+*RUB:	oh (.) no me deja .
+%mor:	co|oh=oh adv|no=no pro:per|me=me v|deja-3S&PRES=leave . 
+%com:	intenta quitarle la otra pelota a ENE pero ENE no se deja
+*RUB:	venga (.) echa (.) aquí .
+%mor:	co|venga=come_on v|echa-3S&PRES=throw adv|aquí=here . 
+%com:	ENE le lanza la pelota
+*RUB:	oh (.) que miedo !
+%mor:	co|oh=oh prep|que=than n|miedo&masc=fear ! 
+%com:	se les escapa la pelota por el suelo
+*RUB:	adiós (.) dónde e(s)tá [*] ?
+%mor:	co|adiós=goodbye pro:int|dónde=where v|esta-3S&PRES=be ? 
+*RUB:	ah (.) allí .
+%mor:	co|ah adv|allí=there . 
+*RUB:	pon éste .
+%mor:	v|pone-2S&IMP=put pro:dem|éste=this_one . 
+*INV:	otra vez ?
+%mor:	det:indef|otro-FEM=other n|vez&fem=turn ? 
+%com:	se les vuelve a escapar la pelota y se la acerco
+*RUB:	que daño aquí .
+%mor:	prep|que=than n|daño&masc=damage adv|aquí=here . 
+*RUB:	mira (.) así .
+%mor:	co|mira=look adv|así=thus . 
+%com:	RUB y ENE ponen las redes colgando de los mástiles
+*ENE:	así .
+%mor:	adv|así=thus . 
+*INV:	<muy bien> [/] muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*INV:	<para abajo (.) Rubén> [/] para abajo .
+%mor:	prep|para=for adv|abajo=below . 
+*RUB:	así (.) mira [/] mira !
+%mor:	adv|así=thus co|mira=look ! 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*RUB:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*INV:	ahí también ?
+%mor:	adv|ahí=there adv|también=also ? 
+*RUB:	aquí ?
+%mor:	adv|aquí=here ? 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	ahí así .
+%mor:	adv|ahí=there adv|así=thus . 
+%com:	le ayudo a ponerlo
+*RUB:	mira aquí .
+%mor:	co|mira=look adv|aquí=here . 
+*RUB:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*RUB:	y esto también .
+%mor:	coord|y=and det:dem|este-MASC=this adv|también=also . 
+*INV:	más arriba .
+%mor:	adv|más=more adv|arriba=above . 
+*RUB:	no puedo .
+%mor:	adv|no=no v|pode-1S&PRES=can . 
+*INV:	sí (.) así (.) a_ver ?
+%mor:	co|sí=yes adv|así=thus co|a_ver=see ? 
+*INV:	sí (.) así .
+%mor:	co|sí=yes adv|así=thus . 
+*INV:	a_ver aprieta .
+%mor:	co|a_ver=see v|apreta-3S&PRES=tighten . 
+*INV:	a_ver Eneko ayúdale .
+%mor:	co|a_ver=see n:prop|Eneko v|ayuda-2S&IMP~pro:clit|3S . 
+*INV:	así <muy bien> [/] muy bien (.) qué bien !
+%mor:	adv|así=thus adv|muy=very adv|bien=well pro:int|qué=what adv|bien=well 
+	! 
+*RUB:	<y esto> [/] y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*RUB:	eh (.) mira esta casa es así .
+%mor:	co|eh co|mira=look det:dem|este-FEM=this n|casa&fem=house v|se-3S&PRES=be 
+	adv|así=thus . 
+%com:	pone la pelota en el puesto del vigía
+*RUB:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+%com:	la mesita
+*INV:	qué es ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*RUB:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*RUB:	una casita .
+%mor:	det:art|un-FEM=one n|casa-DIM-FEM=house . 
+*RUB:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+%com:	ENE le da el cofre
+*INV:	un cofre del tesoro +...
+%mor:	det:art|un&masc=one n|cofre&masc=coffer prep|de~det|el&MASC co:voc|tesoro=treasure 
+	+... 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*INV:	+, de los piratas .
+%mor:	prep|de=of det:art|el&MASC-PL=the n|pirata&masc-PL=pirate . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*INV:	que chulo .
+%mor:	prep|que=than adj|chulo-MASC=amusing_pretty . 
+*RUB:	mira (.) también y esto .
+%mor:	co|mira=look adv|también=also coord|y=and det:dem|este-MASC=this . 
+%com:	coge la barca
+*RUB:	mira [/] mira [/] mira .
+%mor:	co|mira=look . 
+*RUB:	un barco (.) éste .
+%mor:	det:art|un&masc=one n|barco-MASC=boat pro:dem|éste=this_one . 
+*RUB:	no bota éste .
+%mor:	adv|no=no n|bota&fem=wine_bag pro:dem|éste=this_one . 
+*RUB:	mira (.) mira esto .
+%mor:	co|mira=look co|mira=look det:dem|este-MASC=this . 
+%com:	el telescopio
+*RUB:	la pelotita vete (.) mira .
+%mor:	det:art|el&FEM&SG=the n|pelota-DIM-FEM=ball v|i-2S&IMP~pro:clit|2S co|mira=look 
+	. 
+*INV:	ánda .
+%mor:	v|anda-2S&IMP=walk . 
+*RUB:	ésta es una xxx .
+%mor:	pro:dem|éste-FEM=this_one v|se-3S&PRES=be det:art|un-FEM=one . 
+%com:	ENE descubre el cañón
+*INV:	qué hay ahí ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|ahí=there ? 
+*RUB:	mira .
+%mor:	co|mira=look . 
+*RUB:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	a_ver .
+%mor:	co|a_ver=see . 
+*RUB:	oh (.) qué hay ?
+%mor:	co|oh=oh pro:int|qué=what v|habe-3S&PRES&SPEC=have ? 
+*RUB:	oh (.) mira qué es esto .
+%mor:	co|oh=oh co|mira=look pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this 
+	. 
+*RUB:	mira qué es .
+%mor:	co|mira=look pro:int|qué=what v|se-3S&PRES=be . 
+*INV:	qué es ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	es el cañón del barco .
+%mor:	v|se-3S&PRES=be det:art|el&MASC&SG=the n|cañón&masc=cannon prep|de~det|el&MASC 
+	n|barco-MASC=boat . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	<no puede> [/] no puede apa(r)calo [*] .
+%mor:	adv|no=no v|pode-3S&PRES=can v|aparca-2S&IMP~pro:clit|OBJ&MASC . 
+*INV:	no puede aparcarlo ?
+%mor:	adv|no=no v|pode-3S&PRES=can v|aparca-INF~pro:clit|OBJ&MASC ? 
+*RUB:	no puede aparcarlo .
+%mor:	adv|no=no v|pode-3S&PRES=can v|aparca-INF~pro:clit|OBJ&MASC . 
+*RUB:	ahora a cerrar .
+%mor:	adv|ahora=now prep|a=to v|cerra-INF=close . 
+*RUB:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	el timón del barco es eso .
+%mor:	det:art|el&MASC&SG=the n|timón&masc=helm prep|de~det|el&MASC n|barco-MASC=boat 
+	v|se-3S&PRES=be pro:dem|eso=that_one . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	mira esto .
+%mor:	co|mira=look det:dem|este-MASC=this . 
+%com:	la habitación del barco
+*RUB:	mira [/] mira aquí se sube .
+%mor:	co|mira=look adv|aquí=here pro:per|se=itself v|subi-3S&PRES=go_up . 
+*RUB:	no ves esto ?
+%mor:	co|no=no co|ves=see det:dem|este-MASC=this ? 
+*RUB:	mira esto (.) mira .
+%mor:	co|mira=look det:dem|este-MASC=this co|mira=look . 
+*ENE:	<esto mira> [/] esto mira .
+%mor:	det:dem|este-MASC=this co|mira=look . 
+%com:	el cañón
+*ENE:	y esto ?
+%mor:	coord|y=and det:dem|este-MASC=this ? 
+*INV:	las escaleras para subir .
+%mor:	det:art|el&FEM-PL=the n|escalera&fem-PL=staircase prep|para=for v|subi-INF=go_up 
+	. 
+*RUB:	mira qué es esto .
+%mor:	co|mira=look pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this 
+	. 
+*RUB:	esto qué es ?
+%mor:	det:dem|este-MASC=this pro:int|qué=what v|se-3S&PRES=be ? 
+*INV:	eso es una habitación .
+%mor:	pro:dem|eso=that_one v|se-3S&PRES=be det:art|un-FEM=one n|habitación&fem=dwelling 
+	. 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	aquí pone barco y otro barco .
+%mor:	adv|aquí=here v|pone-3S&PRES=put n|barco-MASC=boat coord|y=and pro:indef|otro=other 
+	n|barco-MASC=boat . 
+%com:	mira el dibujo del barco
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	mira (.) <una (esco)peta [*]> [/] una (esco)peta [*] .
+%mor:	co|mira=look det:art|un-FEM=one n|escopeta&fem=gun . 
+%com:	señala la escopeta que lleva uno de los piratas
+*INV:	una escopeta .
+%mor:	det:art|un-FEM=one n|escopeta&fem=gun . 
+*RUB:	sí .
+%mor:	co|sí=yes . 
+*RUB:	esto .
+%mor:	det:dem|este-MASC=this . 
+@End

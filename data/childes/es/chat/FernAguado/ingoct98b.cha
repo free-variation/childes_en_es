@@ -1,0 +1,542 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	ING IñigoG Target_Child , SER Sergio Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|ING|3;6.22||||Target_Child|||
+@ID:	spa|fernaguado|SER|3;9.23||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	22-OCT-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	ING y SER juegan con el barco
+*ING:	de dónde se saca ?
+%mor:	prep|de=of pro:int|dónde=where pro:per|se=itself v|saca-3S&PRES=bring_out 
+	? 
+%com:	intentan sacar el cañón del barco
+*SER:	de dónde se saca ?
+%mor:	prep|de=of pro:int|dónde=where pro:per|se=itself v|saca-3S&PRES=bring_out 
+	? 
+*SER:	parece 0 [*] 0 [*] aquí .
+%mor:	v|parece-3S&PRES=seem adv|aquí=here . 
+*ING:	de dónde se saca ?
+%mor:	prep|de=of pro:int|dónde=where pro:per|se=itself v|saca-3S&PRES=bring_out 
+	? 
+*SER:	aquí !
+%mor:	adv|aquí=here ! 
+*SER:	ah (.) ya he sacado este botón .
+%mor:	co|ah adv|ya=already co|he part|saca-PPART&MASC=bring_out det:dem|este=this 
+	n|botón&masc=button . 
+%com:	dispara la bala
+*SER:	saco !
+%mor:	v|saca-1S&PRES=bring_out ! 
+*SER:	salto ahí .
+%mor:	n|salto&masc=jump adv|ahí=there . 
+*SER:	a_ver ahora la mía .
+%mor:	co|a_ver=see adv|ahora=now det:art|el&FEM&SG=the pro:pos|mío-FEM=mine 
+	. 
+*SER:	pulso yo .
+%mor:	n|pulso&masc=pulse pro:per|yo=I . 
+*SER:	mira (.) sube esto .
+%mor:	co|mira=look v|subi-3S&PRES=go_up det:dem|este-MASC=this . 
+*SER:	<y luego> [/-] a_ver (.) primero metido .
+%mor:	co|a_ver=see adv|primero=first adj|metido-MASC=lodged . 
+*SER:	luego se saca .
+%mor:	adv|luego=afterwards pro:per|se=itself v|saca-3S&PRES=bring_out . 
+*SER:	a_ver si está bien puesta y se pone de pie así .
+%mor:	co|a_ver=see conj|si=if v|esta-3S&PRES=be adv|bien=well part|pone-PPART-FEM=put 
+	coord|y=and pro:per|se=itself v|pone-3S&PRES=put prep|de=of n|pie&masc=foot 
+	adv|así=thus . 
+%com:	se balancea el barco
+*SER:	oh (.) la ha atrapado el [/] el barco !
+%mor:	co|oh=oh det:art|el&FEM&SG=the co|ha part|atrapa-PPART&MASC=grab det:art|el&MASC&SG=the 
+	n|barco-MASC=boat ! 
+*SER:	oh (.) que asco !
+%mor:	co|oh=oh prep|que=than n|asco&masc=nausea ! 
+*SER:	<oy (.) que lo tiras> [<] .
+%mor:	co|oy prep|que=than pro:per:1|lo&masc=him v|tira-2S&PRES=throw . 
+*ING:	<esto para qué es> [>] ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+%com:	el ancla
+*SER:	para enganchar .
+%mor:	prep|para=for v|engancha-INF=hook . 
+*ING:	para <dónde enganchar> [*] ?
+%mor:	prep|para=for pro:int|dónde=where v|engancha-INF=hook ? 
+*SER:	en el agua .
+%mor:	prep|en=in det:art|el&MASC&SG=the n|agua&fem=water . 
+*SER:	oy (.) no puedo !
+%mor:	co|oy co|no=no v|pode-1S&PRES=can ! 
+%com:	no consigue disparar el cañón
+*SER:	pulso y no sale !
+%mor:	n|pulso&masc=pulse coord|y=and adv|no=no v|sali-3S&PRES=leave ! 
+*INV:	tienes que meter más la pelota .
+%mor:	v|tene-2S&PRES=have prep|que=than v|mete-INF=put adv|más=more det:art|el&FEM&SG=the 
+	n|pelota&fem=ball . 
+*SER:	ya voy !
+%mor:	adv|ya=already v|i-1S&PRES=go ! 
+*SER:	<hacíamos que aquí se guardaba> [//] a_ver (.) hacíamos que aquí +...
+%mor:	co|a_ver=see v|hace-1P&PAS=do prep|que=than adv|aquí=here +... 
+*SER:	xxx .
+*ING:	esto para qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*SER:	una barca para pulsar <y sale esto (.) vale> [//] y sale esto .
+%mor:	det:art|un-FEM=one n|barco-FEM=boat prep|para=for v|pulsa-INF=pulsate 
+	coord|y=and v|sali-3S&PRES=leave det:dem|este-MASC=this . 
+%com:	el arpón
+*SER:	mira (.) lo metes aquí (.) mira .
+%mor:	co|mira=look pro:per:1|lo&masc=him v|mete-2S&PRES=put adv|aquí=here co|mira=look 
+	. 
+*ING:	me dejas un poco ?
+%mor:	pro:per|me=me v|deja-2S&PRES=leave det:art|un&masc=one adv|poco=few ? 
+*SER:	lo tienes que meter .
+%mor:	pro:per:1|lo&masc=him v|tene-2S&PRES=have prep|que=than v|mete-INF=put 
+	. 
+*SER:	es que se mete debajo esta pelota .
+%mor:	v|se-3S&PRES=be prep|que=than pro:per|se=itself v|mete-3S&PRES=put prep|debajo=under 
+	det:dem|este-FEM=this n|pelota&fem=ball . 
+%com:	se le escapa la bala
+*SER:	que me caigo !
+%mor:	prep|que=than pro:per|me=me v|cae-1S&PRES=fall ! 
+*SER:	hacíamos que esto se guardaba aquí (.) vale [/] vale ?
+%mor:	v|hace-1P&PAS=do prep|que=than det:dem|este-MASC=this pro:per|se=itself 
+	v|guarda-13S&PAS=guard adv|aquí=here co|vale=okay ? 
+%com:	mete la pelota en la habitación del cañón
+*SER:	y el barco cuando se movía tenía xxx aquí .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|barco-MASC=boat conj|cuando=when 
+	pro:per|se=itself v|move-13S&PAS=move v|tene-13S&PAS=have adv|aquí=here 
+	. 
+*ING:	Joe !
+%mor:	n:prop|Joe ! 
+%com:	dispara el arpón de la barquita
+*SER:	te la e(n)gancho [*] yo ?
+%mor:	pro:per|te=you det:art|el&FEM&SG=the v|engancha-1S&PRES=hook pro:per|yo=I 
+	? 
+*ING:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*ING:	a la barca ?
+%mor:	prep|a=to det:art|el&FEM&SG=the n|barco-FEM=boat ? 
+*ING:	sí (.) aquí .
+%mor:	co|sí=yes adv|aquí=here . 
+*ING:	dónde [/] dónde te la e(n)ganchas [*] ?
+%mor:	pro:int|dónde=where pro:per|te=you det:art|el&FEM&SG=the v|engancha-2S&PRES=hook 
+	? 
+*ING:	con esto ?
+%mor:	prep|con=with det:dem|este-MASC=this ? 
+*SER:	sí .
+%mor:	co|sí=yes . 
+*SER:	aquí .
+%mor:	adv|aquí=here . 
+*SER:	ahora yo (.) vale ?
+%mor:	adv|ahora=now pro:per|yo=I co|vale=okay ? 
+*ING:	dónde [/] dónde te la e(n)ganchas [*] ?
+%mor:	pro:int|dónde=where pro:per|te=you det:art|el&FEM&SG=the v|engancha-2S&PRES=hook 
+	? 
+*ING:	<con esto> [/] con esto ?
+%mor:	prep|con=with det:dem|este-MASC=this ? 
+%com:	coge la bandera
+*SER:	esto [/] esto sabes para qué es ?
+%mor:	det:dem|este-MASC=this co|sabes=you_know prep|para=for pro:int|qué=what 
+	v|se-3S&PRES=be ? 
+*SER:	esto no se e(n)gancha [*] .
+%mor:	det:dem|este-MASC=this adv|no=no pro:per|se=itself v|engancha-3S&PRES=hook 
+	. 
+*ING:	esto ?
+%mor:	det:dem|este-MASC=this ? 
+*SER:	aquí se pone una cosa .
+%mor:	adv|aquí=here pro:per|se=itself v|pone-3S&PRES=put det:art|un-FEM=one 
+	n|cosa&fem=thing . 
+*SER:	este tarrino [: tarrina] [*] se pone aquí y luego va este (.) señor (.) a martillar .
+%mor:	det:dem|este=this n|tarrina&fem=vase pro:per|se=itself v|pone-3S&PRES=put 
+	adv|aquí=here coord|y=and adv|luego=afterwards v|i-3S&PRES=go det:dem|este=this 
+	co:voc|señor=sir prep|a=to v|martilla-INF=hammer . 
+%com:	coloca el puesto de vigía en el mastil y dentro un pirata con un yunque pero él piensa que es martillo
+*SER:	sabes ?
+%mor:	co|sabes=you_know ? 
+*ING:	por_qué ?
+%mor:	pro:int|por_qué=why ? 
+*ING:	y éste [//] esto +/?
+%mor:	coord|y=and det:dem|este-MASC=this +/? 
+*SER:	él sabrá .
+%mor:	pro:per|él&masc=he v|sabe-3S&FUT=know . 
+*SER:	este sabrá .
+%mor:	det:dem|este=this v|sabe-3S&FUT=know . 
+%com:	señala el muñeco
+*SER:	él sabrá (.) el porque amartillará .
+%mor:	pro:per|él&masc=he v|sabe-3S&FUT=know det:art|el&MASC&SG=the conj|porque=because 
+	v|amartilla-3S&FUT=cock . 
+*ING:	esto .
+%mor:	det:dem|este-MASC=this . 
+%com:	coge la barca e intenta poner el arpón en su sitio
+*SER:	ahora lo voy a sacar .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|saca-INF=bring_out 
+	. 
+%com:	intenta abrir el cofre del tesoro
+*SER:	esto se baja y +/.
+%mor:	det:dem|este-MASC=this pro:per|se=itself adj|bajo-FEM=low coord|y=and 
+	+/. 
+%com:	dispara el arpón de la barca
+*ING:	esto pa(ra) qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*SER:	pa(ra) que vayan ahí también los señores .
+%mor:	prep|para=for prep|que=than v|i-3P&SUB&PRES=go adv|ahí=there adv|también=also 
+	det:art|el&MASC-PL=the n|señor&masc-PL=sir . 
+*SER:	pom^pom@o y sabes dónde guardaban +/?
+%mor:	on|pompom coord|y=and co|sabes=you_know pro:int|dónde=where v|guarda-3P&PAS=guard 
+	+/? 
+*SER:	mira .
+%mor:	co|mira=look . 
+%com:	le quita la barca
+*SER:	hacíamos que esto también se podía guardar .
+%mor:	v|hace-1P&PAS=do prep|que=than det:dem|este-MASC=this adv|también=also 
+	pro:per|se=itself v|pode-13S&PAS=can v|guarda-INF=guard . 
+%com:	el cofre
+*ING:	esto dónde se casa [*] (.) dónde ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself n|casa&fem=house 
+	pro:int|dónde=where ? 
+%com:	busca por el barco
+*SER:	mira guardamos eso ahí .
+%mor:	co|mira=look v|guarda-1P&PRES=guard pro:dem|eso=that_one adv|ahí=there 
+	. 
+*SER:	y las pelotas dónde están ?
+%mor:	coord|y=and det:art|el&FEM-PL=the n|pelota&fem-PL=ball pro:int|dónde=where 
+	v|esta-3P&PRES=be ? 
+*SER:	dónde [/] dónde están las pelotas ?
+%mor:	pro:int|dónde=where v|esta-3P&PRES=be det:art|el&FEM-PL=the n|pelota&fem-PL=ball 
+	? 
+%com:	busca las balas
+*SER:	estaban aquí las pelotas .
+%mor:	v|esta-3P&PAS=be adv|aquí=here det:art|el&FEM-PL=the n|pelota&fem-PL=ball 
+	. 
+*SER:	a_ver (.) xxx .
+%mor:	co|a_ver=see . 
+*SER:	las pelotas qué ?
+%mor:	det:art|el&FEM-PL=the n|pelota&fem-PL=ball pro:int|qué=what ? 
+*ING:	las pelotas dónde están ?
+%mor:	det:art|el&FEM-PL=the n|pelota&fem-PL=ball pro:int|dónde=where v|esta-3P&PRES=be 
+	? 
+*SER:	las he metido aquí (.) eh ?
+%mor:	det:art|el&FEM-PL=the co|he adj|metido-MASC=lodged adv|aquí=here co|eh 
+	? 
+%com:	se refiere a la bodega
+*ING:	<y esto> [//] <y esto> [//] y esto como se casa [*] ?
+%mor:	coord|y=and det:dem|este-MASC=this adv|como=like pro:per|se=itself n|casa&fem=house 
+	? 
+*SER:	oh (.) se mete debajo .
+%mor:	co|oh=oh pro:per|se=itself v|mete-3S&PRES=put adv|debajo=below . 
+%com:	se le escapa una bala que se mete debajo de una mesa
+*SER:	cógela .
+%mor:	v|coge-2S&IMP~pro:clit|OBJ&FEM . 
+*ING:	no [/] no y esto cómo se casa [*] ?
+%mor:	adv|no=no coord|y=and det:dem|este-MASC=this pro:int|cómo=how pro:per|se=itself 
+	n|casa&fem=house ? 
+%com:	coge la barquita
+*SER:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*SER:	mira cuando aparezca sabrás .
+%mor:	co|mira=look conj|cuando=when v|aparece-13S&SUB&PRES=appear v|sabe-2S&FUT=know 
+	. 
+%com:	buscando la pelota
+*ING:	esto dónde se casa [*] ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself n|casa&fem=house 
+	? 
+*SER:	esto dónde se pone ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where pro:per|se=itself v|pone-3S&PRES=put 
+	? 
+*ING:	<ahora no se escapa> [/] ahora no se escapa .
+%mor:	adv|ahora=now adv|no=no pro:per|se=itself v|escapa-3S&PRES=escape . 
+%com:	jugando con la barca
+*ING:	<ahora no> [/] ahora no se escapa .
+%mor:	adv|ahora=now adv|no=no pro:per|se=itself v|escapa-3S&PRES=escape . 
+*SER:	mira luego les tienes que desenganchar pa(ra) que se vayan ahí .
+%mor:	co|mira=look adv|luego=afterwards pro:per|le-PL=them v|tene-2S&PRES=have 
+	prep|que=than v|desengancha-INF=unhook prep|para=for prep|que=than pro:per|se=itself 
+	v|i-3P&SUB&PRES=go adv|ahí=there . 
+*SER:	no se qué dibujito .
+%mor:	adv|no=no pro:per|se=itself pro:int|qué=what n|dibujo-DIM-MASC=design 
+	. 
+*SER:	parece aquí .
+%mor:	v|parece-3S&PRES=seem adv|aquí=here . 
+*SER:	se montaba .
+%mor:	pro:per|se=itself v|monta-13S&PAS=climb_on . 
+*SER:	hoy (.) se ha caído !
+%mor:	adv|hoy=today pro:per|se=itself co|ha part|cae-PPART&MASC=fall ! 
+%com:	un muñeco
+*SER:	pero qué haces ?
+%mor:	conj|pero=but pro:int|qué=what v|hace-2S&PRES=do ? 
+*SER:	oye que tenemos que enganchar esto (.) eh !
+%mor:	co|oye=listen prep|que=than v|tene-1P&PRES=have prep|que=than v|engancha-INF=hook 
+	det:dem|este-MASC=this co|eh ! 
+%com:	las redes
+*SER:	oy (.) <no baja> [/] no baja esto .
+%mor:	co|oy adv|no=no adj|bajo-FEM=low det:dem|este-MASC=this . 
+%com:	las intenta colocar pero las pone mal
+*SER:	parece 0 [*] no baja .
+%mor:	v|parece-3S&PRES=seem adv|no=no adj|bajo-FEM=low . 
+*SER:	pero mira qué pequeños .
+%mor:	conj|pero=but co|mira=look pro:int|qué=what adj|pequeño-MASC-PL=small 
+	. 
+*ING:	ahora lo voy a (en)ganchar [*] aquí para que no se escape .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|i-1S&PRES=go prep|a=to v|engancha-INF=hook 
+	adv|aquí=here prep|para=for prep|que=than adv|no=no pro:per|se=itself 
+	v|escapa-13S&SUB&PRES=escape . 
+%com:	engancha el arpón en la barandilla del barco
+*SER:	no se +...
+%mor:	adv|no=no pro:per|se=itself +... 
+*ING:	en este gancho .
+%mor:	prep|en=in det:dem|este=this n|gancho&masc=hook . 
+*SER:	el xxx no puedo (.) eh ?
+%mor:	det:art|el&MASC&SG=the adv|no=no v|pode-1S&PRES=can co|eh ? 
+*ING:	ahora [/] ahora <se lleva> [//] al burrito a [//] aquí (.) se lleva .
+%mor:	adv|ahora=now prep|a~det|el&MASC n|burro-DIM-MASC=donkey adv|aquí=here 
+	pro:per|se=itself v|lleva-3S&PRES=carry . 
+*SER:	parece que <no puedo> [/] no puedo (.) eh ?
+%mor:	v|parece-3S&PRES=seem prep|que=than adv|no=no v|pode-1S&PRES=can co|eh 
+	? 
+*SER:	lo has doblado .
+%mor:	pro:per:1|lo&masc=him v|habe-2S&PRES=have part|dobla-PPART&MASC=double 
+	. 
+%com:	se refiere a una red que está torcida
+*ING:	te llevo aquí .
+%mor:	pro:per|te=you v|lleva-1S&PRES=carry adv|aquí=here . 
+%com:	pone la barca encima del barco
+*ING:	y cada vez que se suelta se mueve toro [*] [//] toro [*] [//] toro [*] [//] toro [*] .
+%mor:	coord|y=and det:indef|cada=each n|vez&fem=turn prep|que=than pro:per|se=itself 
+	adj|suelto-FEM=loose pro:per|se=itself v|move-3S&PRES=move n|toro&masc=bull 
+	. 
+*SER:	qué toro ?
+%mor:	pro:int|qué=what n|toro&masc=bull ? 
+*ING:	el barco .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*SER:	no se dónde encaja (.) no .
+%mor:	adv|no=no pro:per|se=itself pro:int|dónde=where v|encaja-3S&PRES=encase 
+	co|no=no . 
+*SER:	esto no encaja en el sitio .
+%mor:	det:dem|este-MASC=this adv|no=no v|encaja-3S&PRES=encase prep|en=in det:art|el&MASC&SG=the 
+	n|sitio&masc=place . 
+%com:	las otras redes
+*ING:	ahora arranco .
+%mor:	adv|ahora=now v|arranca-1S&PRES=snatch . 
+%com:	intenta quitar la única red que está puesta en el mástil
+*ING:	ahora .
+%mor:	adv|ahora=now . 
+*SER:	no encajan en ningún sitio .
+%mor:	adv|no=no v|encaja-3P&PRES=encase prep|en=in det:indef|ningún&masc=none 
+	n|sitio&masc=place . 
+*ING:	esto [*] la arranco ahora .
+%mor:	det:dem|este-MASC=this det:art|el&FEM&SG=the v|arranca-1S&PRES=snatch 
+	adv|ahora=now . 
+*ING:	ya verás como arranco ahora .
+%mor:	adv|ya=already v|ve-2S&FUT=see adv|como=like v|arranca-1S&PRES=snatch 
+	adv|ahora=now . 
+*SER:	que voy a sacarlos .
+%mor:	prep|que=than v|i-1S&PRES=go prep|a=to v|saca-INF~pro:clit|OBJ&MASC&PL 
+	. 
+*SER:	oy (.) que no puedo .
+%mor:	co|oy prep|que=than adv|no=no v|pode-1S&PRES=can . 
+*ING:	sácalo .
+%mor:	v|saca-2S&IMP~pro:clit|OBJ&MASC . 
+*SER:	esto habrá que ponerlo +...
+%mor:	det:dem|este-MASC=this v|habe-3S&FUT=have prep|que=than v|pone-INF~pro:clit|OBJ&MASC 
+	+... 
+*ING:	<el barco pirata> [/] el barco pirata .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate . 
+*ING:	ya verás como se arranca ahora (.) eh (.) ya verás .
+%mor:	adv|ya=already v|ve-2S&FUT=see adv|como=like pro:per|se=itself n|arranca&fem=snatch 
+	adv|ahora=now co|eh adv|ya=already v|ve-2S&FUT=see . 
+*SER:	y esto no se dónde se pondrá .
+%mor:	coord|y=and det:dem|este-MASC=this adv|no=no pro:per|se=itself pro:int|dónde=where 
+	pro:per|se=itself v|pone-3S&FUT=put . 
+%com:	el cofre
+*ING:	metemos ahora la pelota .
+%mor:	v|mete-1P&PRES=put adv|ahora=now det:art|el&FEM&SG=the n|pelota&fem=ball 
+	. 
+%com:	pone la bala en el cañón
+*SER:	dónde se guardará ?
+%mor:	pro:int|dónde=where pro:per|se=itself v|guarda-3S&FUT=guard ? 
+*INV:	dónde quieras .
+%mor:	pro:int|dónde=where v|quere-2S&SUB&PRES=want . 
+*ING:	a_ver éste se guarda aquí .
+%mor:	co|a_ver=see pro:dem|éste=this_one pro:per|se=itself v|guarda-3S&PRES=guard 
+	adv|aquí=here . 
+%com:	mete un muñeco en la bodega
+*ING:	todos estos para aquí .
+%mor:	det:indef|todo-MASC-PL=all det:dem|este-MASC-PL=this prep|para=for adv|aquí=here 
+	. 
+*ING:	no [/] no .
+%mor:	adv|no=no . 
+*ING:	déjalos .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC&PL . 
+*ING:	no por aquí .
+%mor:	adv|no=no prep|por=for adv|aquí=here . 
+%com:	cada uno coloca los muñecos donde quiere
+*ING:	no [/] no [/] no .
+%mor:	adv|no=no . 
+*ING:	por aquí !
+%mor:	prep|por=for adv|aquí=here ! 
+*SER:	no lo guardes (.) eh ?
+%mor:	adv|no=no pro:per:1|lo&masc=him n|guarde&fem-PL=nursery co|eh ? 
+*ING:	ahora a serrar [*] .
+%mor:	adv|ahora=now prep|a=to v|serra-INF=saw . 
+*SER:	mira .
+%mor:	co|mira=look . 
+%com:	coge la barca
+*ING:	no [/] no .
+%mor:	adv|no=no . 
+%com:	se la quita y la vuelve a poner donde estaba que era encima del barco
+*ING:	deja [/] deja .
+%mor:	v|deja-3S&PRES=leave . 
+*SER:	a_ver (.) ahora entraban aquí los piratas (.) vale ?
+%mor:	co|a_ver=see adv|ahora=now v|entra-3P&PAS=come_in adv|aquí=here det:art|el&MASC-PL=the 
+	n|pirata&masc-PL=pirate co|vale=okay ? 
+*ING:	a_ver (.) el barco pirata xxx .
+%mor:	co|a_ver=see det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate 
+	. 
+*SER:	ahora están durmiendo .
+%mor:	adv|ahora=now v|esta-3P&PRES=be v|dormi-PROG=sleep . 
+*SER:	ahora les voy a quitar esto de la mano .
+%mor:	adv|ahora=now pro:per|le-PL=them v|i-1S&PRES=go prep|a=to v|quita-INF=remove 
+	det:dem|este-MASC=this prep|de=of det:art|el&FEM&SG=the n|mano&fem=hand 
+	. 
+*SER:	a_ver (.) 0 [*] éste no puedo .
+%mor:	co|a_ver=see pro:dem|éste=this_one adv|no=no v|pode-1S&PRES=can . 
+*SER:	nada más quiero quitar esto .
+%mor:	pro:indef|nada=nothing adv|más=more v|quere-1S&PRES=want v|quita-INF=remove 
+	det:dem|este-MASC=this . 
+*SER:	éste estaba aquí (.) en la barca sentado y los otros <des pies> [*] .
+%mor:	pro:dem|éste=this_one v|esta-13S&PAS=be adv|aquí=here prep|en=in det:art|el&FEM&SG=the 
+	n|barco-FEM=boat part|senta-PPART&MASC=sit coord|y=and det:art|el&MASC-PL=the 
+	det:indef|otro-MASC-PL=other v|da-2S&SUB&PRES=give n|pie&masc-PL=foot . 
+*ING:	se van ahora .
+%mor:	pro:per|se=itself v|i-3P&PRES=go adv|ahora=now . 
+*SER:	y están durmiendo ahora .
+%mor:	coord|y=and v|esta-3P&PRES=be v|dormi-PROG=sleep adv|ahora=now . 
+*ING:	a_ver .
+%mor:	co|a_ver=see . 
+*SER:	éstos están durmiendo (.) eh (.) vale ?
+%mor:	pro:dem|éste-MASC-PL=this_one v|esta-3P&PRES=be v|dormi-PROG=sleep co|eh 
+	co|vale=okay ? 
+*SER:	ahora metemos el xxx aquí a dormir .
+%mor:	adv|ahora=now v|mete-1P&PRES=put det:art|el&MASC&SG=the adv|aquí=here 
+	prep|a=to v|dormi-INF=sleep . 
+*ING:	el barco pirata (.) lo miramos aquí .
+%mor:	det:art|el&MASC&SG=the n|barco-MASC=boat n|pirata&masc=pirate pro:per:1|lo&masc=him 
+	v|mira-1P&PRES=look adv|aquí=here . 
+%com:	coloca el dibujo para verlo
+*SER:	y no se dará +...
+%mor:	coord|y=and adv|no=no pro:per|se=itself v|da-3S&FUT=give +... 
+*SER:	la otra dónde va ?
+%mor:	det:art|el&FEM&SG=the det:indef|otro-FEM=other pro:int|dónde=where v|i-3S&PRES=go 
+	? 
+*SER:	ah (.) ya se !
+%mor:	co|ah adv|ya=already pro:per|se=itself ! 
+*SER:	es que va montada ahí .
+%mor:	v|se-3S&PRES=be prep|que=than v|i-3S&PRES=go part|monta-PPART&FEM=climb_on 
+	adv|ahí=there . 
+%com:	señala el dibujo y coloca las redes
+*SER:	mira (.) es que va montada eso [*] ahí .
+%mor:	co|mira=look v|se-3S&PRES=be prep|que=than v|i-3S&PRES=go part|monta-PPART&FEM=climb_on 
+	pro:dem|eso=that_one adv|ahí=there . 
+*ING:	y viene un tobogán !
+%mor:	coord|y=and v|veni-3S&PRES=come det:art|un&masc=one n|tobogán&masc=tobbagan 
+	! 
+*SER:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*ING:	mira (.) aquí .
+%mor:	co|mira=look adv|aquí=here . 
+*SER:	no .
+%mor:	adv|no=no . 
+*SER:	son unas escaleras .
+%mor:	v|se-3P&PRES=be det:art|un-FEM-PL=one n|escalera&fem-PL=staircase . 
+*ING:	mira (.) se quita !
+%mor:	co|mira=look pro:per|se=itself v|quita-3S&PRES=remove ! 
+%com:	no se sostiene el dibujo en la pared y se cae ING me habla a mí
+*INV:	se cae ?
+%mor:	pro:per|se=itself v|cae-3S&PRES=fall ? 
+*SER:	sí .
+%mor:	co|sí=yes . 
+*SER:	sí se cae .
+%mor:	co|sí=yes pro:per|se=itself v|cae-3S&PRES=fall . 
+*SER:	puedo dejar esto aquí (.) eh ?
+%mor:	v|pode-1S&PRES=can v|deja-INF=leave det:dem|este-MASC=this adv|aquí=here 
+	co|eh ? 
+%com:	las redes
+*ING:	no .
+%mor:	adv|no=no . 
+*ING:	quítalo [/] quítalo .
+%mor:	v|quita-2S&IMP~pro:clit|OBJ&MASC . 
+*SER:	estira bien .
+%mor:	v|estira-3S&PRES=stretch adv|bien=well . 
+*SER:	tienes que dejar puesto así .
+%mor:	v|tene-2S&PRES=have prep|que=than v|deja-INF=leave part|pone-PPART-MASC=put 
+	adv|así=thus . 
+*ING:	no .
+%mor:	adv|no=no . 
+*ING:	quítalo .
+%mor:	v|quita-2S&IMP~pro:clit|OBJ&MASC . 
+*ING:	adelante .
+%mor:	adv|adelante=forward . 
+*ING:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*SER:	no .
+%mor:	adv|no=no . 
+*SER:	espera (.) tienen que nadar también .
+%mor:	v|espera-3S&PRES=wait v|tene-3P&PRES=have prep|que=than v|nada-INF=swim 
+	adv|también=also . 
+*ING:	ahora nadan cuando lo pongas .
+%mor:	adv|ahora=now v|nada-3P&PRES=swim conj|cuando=when pro:per:1|lo&masc=him 
+	v|pone-2S&SUB&PRES=put . 
+*ING:	no .
+%mor:	adv|no=no . 
+*ING:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*ING:	en la puerta yo .
+%mor:	prep|en=in det:art|el&FEM&SG=the n|puerta&fem=door pro:per|yo=I . 
+*ING:	lo tengo que tener .
+%mor:	pro:per:1|lo&masc=him v|tene-1S&PRES=have prep|que=than v|tene-INF=have 
+	. 
+*SER:	engánchalo ahí y ahora no podía irse (.) vale ?
+%mor:	v|engancha-2S&IMP~pro:clit|OBJ&MASC adv|ahí=there coord|y=and adv|ahora=now 
+	adv|no=no v|pode-13S&PAS=can v|i-INF~pro:clit|3S&REFL co|vale=okay ? 
+%com:	quiere enganchar el arpón a las redes
+*ING:	vale .
+%mor:	co|vale=okay . 
+*SER:	aquí tenía el esto y pulsaba (.) no ?
+%mor:	adv|aquí=here v|tene-13S&PAS=have det:art|el&MASC&SG=the det:dem|este-MASC=this 
+	coord|y=and v|pulsa-13S&PAS=pulsate co|no=no ? 
+*SER:	no pulsaba .
+%mor:	adv|no=no v|pulsa-13S&PAS=pulsate . 
+*SER:	a_ver (.) déjame .
+%mor:	co|a_ver=see v|deja-2S&IMP~pro:clit|1S . 
+*ING:	espera .
+%mor:	v|espera-3S&PRES=wait . 
+*ING:	yo lo pulsaba .
+%mor:	pro:per|yo=I pro:per:1|lo&masc=him v|pulsa-13S&PAS=pulsate . 
+*SER:	y esta mesa (.) dónde se encaja ahora ?
+%mor:	coord|y=and det:dem|este-FEM=this n|mesa&fem=table pro:int|dónde=where 
+	pro:per|se=itself v|encaja-3S&PRES=encase adv|ahora=now ? 
+*ING:	esta mesa es para comer .
+%mor:	det:dem|este-FEM=this n|mesa&fem=table v|se-3S&PRES=be prep|para=for v|come-INF=eat 
+	. 
+*SER:	y dónde se encaja ahora ?
+%mor:	coord|y=and pro:int|dónde=where pro:per|se=itself v|encaja-3S&PRES=encase 
+	adv|ahora=now ? 
+*SER:	voy a mirar aquí a_ver <dónde se encaja> [/] dónde se encaja .
+%mor:	v|i-1S&PRES=go prep|a=to v|mira-INF=look adv|aquí=here co|a_ver=see pro:int|dónde=where 
+	pro:per|se=itself v|encaja-3S&PRES=encase . 
+%com:	coge el dibujo
+*ING:	no .
+%mor:	adv|no=no . 
+*ING:	aquí no .
+%mor:	adv|aquí=here adv|no=no . 
+%com:	mueve el dibujo que están mirando y lo pone en el suelo
+*ING:	se mira así .
+%mor:	pro:per|se=itself co|mira=look adv|así=thus . 
+*ING:	déjalo aquí .
+%mor:	v|deja-2S&IMP~pro:clit|OBJ&MASC adv|aquí=here . 
+*SER:	un momento (.) que voy a_ver !
+%mor:	det:art|un&masc=one n|momento&masc=moment prep|que=than v|i-1S&PRES=go 
+	co|a_ver=see ! 
+*ING:	ay (.) no puero [: puedo] [*] .
+%mor:	co|ay=ay co|no=no v|pode-1S&PRES=can . 
+@End

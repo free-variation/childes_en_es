@@ -1,0 +1,560 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Marta Target_Child , IZA Izaskunamores Target_Child , INV Marta Investigator
+@ID:	spa|fernaguado|CHI|3;1.11||||Target_Child|||
+@ID:	spa|fernaguado|IZA|2;11.21||||Target_Child|||
+@ID:	spa|fernaguado|INV|||||Investigator|||
+@Date:	17-MAR-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	MAT y IZA juegan con el barco pirata
+*IZA:	pero se cae .
+%mor:	conj|pero=but pro:per|se=itself v|cae-3S&PRES=fall . 
+%com:	un pirata
+*CHI:	lo pongo aquí senta(d)o .
+%mor:	pro:per:1|lo&masc=him v|pone-1S&PRES=put adv|aquí=here part|senta-PPART&MASC=sit 
+	. 
+*IZA:	<y se va> [/] y se va .
+%mor:	coord|y=and pro:per|se=itself v|i-3S&PRES=go . 
+*IZA:	y este papel se va .
+%mor:	coord|y=and det:dem|este=this n|papel&masc=paper pro:per|se=itself v|i-3S&PRES=go 
+	. 
+%com:	el dibujo del barco resbala
+*IZA:	éste se ha caído .
+%mor:	pro:dem|éste=this_one pro:per|se=itself co|ha part|cae-PPART&MASC=fall 
+	. 
+*CHI:	al agua .
+%mor:	prep|a~det|el&MASC n|agua&fem=water . 
+*IZA:	se ha caído al agua .
+%mor:	pro:per|se=itself co|ha part|cae-PPART&MASC=fall prep|a~det|el&MASC n|agua&fem=water 
+	. 
+*IZA:	pues de pie .
+%mor:	co|pues=well prep|de=of n|pie&masc=foot . 
+*IZA:	mira (.) de pie .
+%mor:	co|mira=look prep|de=of n|pie&masc=foot . 
+*INV:	muy bien .
+%mor:	adv|muy=very adv|bien=well . 
+*INV:	a_ver (.) os voy a ayudar un poquito ?
+%mor:	co|a_ver=see pro:per|os=you v|i-1S&PRES=go prep|a=to v|ayuda-INF=help 
+	det:art|un&masc=one pro:indef|poquito=little ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	tiras las cosas ?
+%mor:	v|tira-2S&PRES=throw det:art|el&FEM-PL=the n|cosa&fem-PL=thing ? 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*INV:	y por_qué ?
+%mor:	coord|y=and pro:int|por_qué=why ? 
+*IZA:	po(r)que [*] sí .
+%mor:	conj|porque=because co|sí=yes . 
+*IZA:	y se van en un barco pequeñito .
+%mor:	coord|y=and pro:per|se=itself v|i-3P&PRES=go prep|en=in det:art|un&masc=one 
+	n|barco-MASC=boat adj|pequeño-DIM-MASC=small . 
+*IZA:	po(r) [*] qué es éste más g(r)ande [*] ?
+%mor:	prep|por=for pro:int|qué=what v|se-3S&PRES=be pro:dem|éste=this_one 
+	adv|más=more adj|grande=big ? 
+*INV:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	dímelo tú .
+%mor:	v|deci-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC pro:per|tú=you . 
+*IZA:	po(r)que [*] es éste más g(r)ande [*] .
+%mor:	conj|porque=because v|se-3S&PRES=be pro:dem|éste=this_one adv|más=more 
+	adj|grande=big . 
+*INV:	prepárales algo de comer Marta .
+%mor:	v|prepara-2S&IMP~pro:clit|3P pro:dem|algo=something prep|de=of v|come-INF=eat 
+	n:prop|Marta . 
+*INV:	coge una mesita que hay ahí .
+%mor:	v|coge-3S&PRES=take det:art|un-FEM=one n|mesa-DIM-FEM=table prep|que=than 
+	v|habe-3S&PRES&SPEC=have adv|ahí=there . 
+*CHI:	dónde ?
+%mor:	pro:int|dónde=where ? 
+*INV:	ahí (.) una pequeñita (.) ahí .
+%mor:	adv|ahí=there det:art|un-FEM=one adj|pequeño-DIM-FEM=small adv|ahí=there 
+	. 
+*INV:	no .
+%mor:	adv|no=no . 
+*INV:	ahí .
+%mor:	adv|ahí=there . 
+*INV:	cuál es la mesita ?
+%mor:	pro:int|cuál=which v|se-3S&PRES=be det:art|el&FEM&SG=the n|mesa-DIM-FEM=table 
+	? 
+*IZA:	ésta .
+%mor:	pro:dem|éste-FEM=this_one . 
+*INV:	esa (.) la que tiene Marta en la mano .
+%mor:	det:dem|ese-FEM=that det:art|el&FEM&SG=the prep|que=than v|tene-3S&PRES=have 
+	n:prop|Marta prep|en=in det:art|el&FEM&SG=the n|mano&fem=hand . 
+*INV:	a_ver (.) y qué vamos a comer ?
+%mor:	co|a_ver=see coord|y=and pro:int|qué=what co|vamos=go prep|a=to v|come-INF=eat 
+	? 
+*INV:	<qué les vas a poner> [/] qué les vas a poner de comer ?
+%mor:	pro:int|qué=what pro:per|le-PL=them v|i-2S&PRES=go prep|a=to v|pone-INF=put 
+	prep|de=of v|come-INF=eat ? 
+*INV:	yo les pondría de primero lentejas .
+%mor:	pro:per|yo=I pro:per|le-PL=them v|pone-13S&COND=put prep|de=of adv|primero=first 
+	n|lenteja&fem-PL=lentil . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y después ?
+%mor:	coord|y=and adv|después=after ? 
+*CHI:	chichi@f .
+%mor:	fam|chichi . 
+*IZA:	chichi@f [/] chichi@f y ca(r)ne [*] .
+%mor:	fam|chichi coord|y=and n|carne&fem=meat . 
+*INV:	venga (.) le ponéis las dos y los ponéis todos al lado de la mesa a comer .
+%mor:	co|venga=come_on pro:per|le=him v|pone-2P&PRES=put det:art|el&FEM-PL=the 
+	det:num|dos=two coord|y=and det:art|el&MASC-PL=the v|pone-2P&PRES=put det:indef|todo-MASC-PL=all 
+	prep|a~det|el&MASC n|lado&masc=side prep|de=of det:art|el&FEM&SG=the n|mesa&fem=table 
+	prep|a=to v|come-INF=eat . 
+*IZA:	vale (.) yo a é(s)tos [*] .
+%mor:	co|vale=okay pro:per|yo=I prep|a=to pro:dem|éste-MASC-PL=this_one . 
+*CHI:	a la noche me ha dicho mi mamá que había como unos [/] unos [/] unos [/] unos [/] unos [/] unos [//] unas sillas de orinales .
+%mor:	prep|a=to det:art|el&FEM&SG=the n|noche&fem=night pro:per|me=me co|ha 
+	part|deci-PPART-MASC=say det:pos|mi=my n|mamá&fem=mommy prep|que=than 
+	v|habe-13S&PAS=have adv|como=like det:art|un-FEM-PL=one n|silla&fem-PL=chair 
+	prep|de=of n|orinal&masc-PL=urinal . 
+*INV:	ah (.) sí ?
+%mor:	co|ah co|sí=yes ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	sí había dos .
+%mor:	adv|sí=yes v|habe-13S&PAS=have det:num|dos=two . 
+*IZA:	yo tengo una cinta de chenitienta [: Cenicienta] [*] .
+%mor:	pro:per|yo=I v|tene-1S&PRES=have det:art|un-FEM=one n|cinta&fem=ribbon 
+	prep|de=of n:prop|Cenicienta . 
+*INV:	de Cenicienta (.) que chula (.) verdad ?
+%mor:	prep|de=of n:prop|Cenicienta prep|que=than adj|chulo-FEM=amusing_pretty 
+	co|verdad=right ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	toma .
+%mor:	v|toma-3S&PRES=take . 
+%com:	el cofre
+*INV:	dáselo a Marta .
+%mor:	v|da-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC prep|a=to n:prop|Marta 
+	. 
+*INV:	a_ver (.) qué haces con ese barquito (.) Marta .
+%mor:	co|a_ver=see pro:int|qué=what v|hace-2S&PRES=do prep|con=with det:dem|ese=that 
+	n|barco-DIM-MASC=boat n:prop|Marta . 
+*INV:	qué ha pasado ?
+%mor:	pro:int|qué=what co|ha part|pasa-PPART&MASC=pass ? 
+%com:	se abre la puerta de la habitación
+*IZA:	eh ?
+%mor:	co|eh ? 
+*INV:	qué ha pasado ?
+%mor:	pro:int|qué=what co|ha part|pasa-PPART&MASC=pass ? 
+*IZA:	que ha salido e(s)to [*] .
+%mor:	prep|que=than co|ha part|sali-PPART&MASC=leave det:dem|este-MASC=this 
+	. 
+*IZA:	qué le pasa a éste ?
+%mor:	pro:int|qué=what pro:per|le=him v|pasa-3S&PRES=pass prep|a=to pro:dem|éste=this_one 
+	? 
+*INV:	no se .
+%mor:	adv|no=no pro:per|se=itself . 
+*INV:	está triste ?
+%mor:	v|esta-3S&PRES=be adj|triste=sad ? 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*IZA:	po(r) [*] qué ?
+%mor:	prep|por=for pro:int|qué=what ? 
+*INV:	ahora se ha dado un golpe en la cabeza .
+%mor:	adv|ahora=now pro:per|se=itself co|ha part|da-PPART&MASC=give det:art|un&masc=one 
+	n|golpe&masc=blow prep|en=in det:art|el&FEM&SG=the n|cabeza&fem=head . 
+*IZA:	eh ?
+%mor:	co|eh ? 
+*INV:	se ha dado un golpe en la cabeza .
+%mor:	pro:per|se=itself co|ha part|da-PPART&MASC=give det:art|un&masc=one n|golpe&masc=blow 
+	prep|en=in det:art|el&FEM&SG=the n|cabeza&fem=head . 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	que se ha dado un golpe en la cabeza .
+%mor:	prep|que=than pro:per|se=itself co|ha part|da-PPART&MASC=give det:art|un&masc=one 
+	n|golpe&masc=blow prep|en=in det:art|el&FEM&SG=the n|cabeza&fem=head . 
+*IZA:	y po(r) [*] qué ?
+%mor:	coord|y=and prep|por=for pro:int|qué=what ? 
+*INV:	no lo has oído que ha hecho pum@o ?
+%mor:	adv|no=no pro:per:1|lo&masc=him v|habe-2S&PRES=have n|oído&masc=hearing 
+	prep|que=than co|ha n|hecho&masc=action on|pum ? 
+*IZA:	no .
+%mor:	adv|no=no . 
+*IZA:	mira .
+%mor:	co|mira=look . 
+*INV:	está bien .
+%mor:	v|esta-3S&PRES=be adv|bien=well . 
+*IZA:	está dormido .
+%mor:	v|esta-3S&PRES=be part|dormi-PPART&MASC=sleep . 
+*INV:	y con quién juegas ?
+%mor:	coord|y=and prep|con=with pro:int|quién=who v|juga-2S&PRES=play ? 
+*CHI:	con Guillermo .
+%mor:	prep|con=with n:prop|Guillermo . 
+*INV:	ah (.) con tu hermano ?
+%mor:	co|ah prep|con=with det:pos|tu=your n|hermano-MASC=sibling ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	y cómo juegas en casa ?
+%mor:	coord|y=and co|cómo v|juga-2S&PRES=play prep|en=in n|casa&fem=house ? 
+*CHI:	con esa barca .
+%mor:	prep|con=with det:dem|ese-FEM=that n|barco-FEM=boat . 
+*CHI:	y tengo .
+%mor:	coord|y=and v|tene-1S&PRES=have . 
+*CHI:	y con este barco .
+%mor:	coord|y=and prep|con=with det:dem|este=this n|barco-MASC=boat . 
+*INV:	entonces le puedes contar a Izaskun qué se hace con el barco .
+%mor:	adv|entonces=then pro:per|le=him v|pode-2S&PRES=can v|conta-INF=count_tell 
+	prep|a=to n:prop|Izaskun pro:int|qué=what pro:per|se=itself v|hace-3S&PRES=do 
+	prep|con=with det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	cuéntale .
+%mor:	v|conta-2S&IMP~pro:clit|3S . 
+*CHI:	pero yo ya tengo el barco .
+%mor:	conj|pero=but pro:per|yo=I adv|ya=already v|tene-1S&PRES=have det:art|el&MASC&SG=the 
+	n|barco-MASC=boat . 
+*CHI:	ahora <lo tengo en el cuarto de estar todo po(r)que [*] se ha rompido [*] la mesa> [<] .
+%mor:	adv|ahora=now pro:per:1|lo&masc=him v|tene-1S&PRES=have prep|en=in det:art|el&MASC&SG=the 
+	n|cuarto&masc=quarter prep|de=of v|esta-INF=be det:indef|todo-MASC=all 
+	conj|porque=because pro:per|se=itself co|ha part|rompe-PPART&MASC=break 
+	det:art|el&FEM&SG=the n|mesa&fem=table . 
+*IZA:	<pero yo tengo [/] yo tengo (.) mira por el pasillo> [>] me he pegado un huevo .
+%mor:	conj|pero=but pro:per|yo=I pro:per|yo=I v|tene-1S&PRES=have co|mira=look 
+	prep|por=for det:art|el&MASC&SG=the n|paso-DIM-MASC=step pro:per|me=me 
+	co|he part|pega-PPART&MASC=hit_adhere det:art|un&masc=one n|huevo&masc=egg 
+	. 
+*CHI:	po(r)que [*] se ha rompido [*] .
+%mor:	conj|porque=because pro:per|se=itself co|ha part|rompe-PPART&MASC=break 
+	. 
+*CHI:	y era de cristal y se ha rompido [*] .
+%mor:	coord|y=and v|se-13S&PAS=be prep|de=of n|cristal&masc=crystal coord|y=and 
+	pro:per|se=itself co|ha part|rompe-PPART&MASC=break . 
+*IZA:	pero yo (.) mira (.) en el pasillo me cayó [*] un golpe en la cabeza y me dió [*] un huevo .
+%mor:	conj|pero=but pro:per|yo=I co|mira=look prep|en=in det:art|el&MASC&SG=the 
+	n|paso-DIM-MASC=step pro:per|me=me v|cae-3S&PRET=fall det:art|un&masc=one 
+	n|golpe&masc=blow prep|en=in det:art|el&FEM&SG=the n|cabeza&fem=head coord|y=and 
+	pro:per|me=me v|da-3S&PRET=give det:art|un&masc=one n|huevo&masc=egg . 
+*INV:	te nació un huevo +...
+%mor:	pro:per|te=you v|nace-3S&PRET=be_born det:art|un&masc=one n|huevo&masc=egg 
+	+... 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*INV:	+, en la cabeza ?
+%mor:	prep|en=in det:art|el&FEM&SG=the n|cabeza&fem=head ? 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*INV:	y la rompiste (.) la cabeza ?
+%mor:	coord|y=and det:art|el&FEM&SG=the v|rompe-2S&PRET=break det:art|el&FEM&SG=the 
+	n|cabeza&fem=head ? 
+*IZA:	no .
+%mor:	adv|no=no . 
+*INV:	la pared .
+%mor:	det:art|el&FEM&SG=the n|pared&fem=wall . 
+*IZA:	no .
+%mor:	adv|no=no . 
+*INV:	tampoco ?
+%mor:	adv|tampoco=neither ? 
+*IZA:	no .
+%mor:	adv|no=no . 
+*IZA:	era en el pasillo .
+%mor:	v|se-13S&PAS=be prep|en=in det:art|el&MASC&SG=the n|paso-DIM-MASC=step 
+	. 
+*CHI:	y la mía era pequeñita y se rompió en la pares [*] .
+%mor:	coord|y=and det:art|el&FEM&SG=the pro:pos|mío-FEM=mine v|se-13S&PAS=be 
+	adj|pequeño-DIM-FEM=small coord|y=and pro:per|se=itself v|rompe-3S&PRET=break 
+	prep|en=in det:art|el&FEM&SG=the n|par&masc-PL=pair . 
+*CHI:	y se quedó todo rompido [*] en la pares [*] .
+%mor:	coord|y=and pro:per|se=itself v|queda-3S&PRET=stay det:indef|todo-MASC=all 
+	part|rompe-PPART&MASC=break prep|en=in det:art|el&FEM&SG=the n|par&masc-PL=pair 
+	. 
+*INV:	qué cosas .
+%mor:	pro:int|qué=what n|cosa&fem-PL=thing . 
+*INV:	lo estás pisando Izaskun .
+%mor:	pro:per:1|lo&masc=him v|esta-2S&PRES=be v|pisa-PROG=press n:prop|Izaskun 
+	. 
+%com:	la cuerda de la barquita
+*IZA:	el qué ?
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ? 
+*IZA:	que se ha engancha(d)o .
+%mor:	prep|que=than pro:per|se=itself co|ha part|engancha-PPART&MASC=hook . 
+*INV:	esa barca vuela ?
+%mor:	det:dem|ese-FEM=that n|barco-FEM=boat v|vola-3S&PRES=fly ? 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*INV:	no me digas .
+%mor:	adv|no=no pro:per|me=me v|deci-2S&SUB&PRES=say . 
+*IZA:	ésta vuela .
+%mor:	pro:dem|éste-FEM=this_one v|vola-3S&PRES=fly . 
+%com:	el barco grande .
+*INV:	y esa pequeña ?
+%mor:	coord|y=and det:dem|ese-FEM=that adj|pequeño-FEM=small ? 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	y esa vuela (.) la pequeña ?
+%mor:	coord|y=and det:dem|ese-FEM=that v|vola-3S&PRES=fly det:art|el&FEM&SG=the 
+	adj|pequeño-FEM=small ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	sí vuela ?
+%mor:	adv|sí=yes v|vola-3S&PRES=fly ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*INV:	sí Marta ?
+%mor:	co|sí=yes n:prop|Marta ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	no se puede abrir .
+%mor:	adv|no=no pro:per|se=itself v|pode-3S&PRES=can v|abri-INF=open . 
+%com:	la bodega
+*IZA:	pero mira [/] mira yo tengo una [/] una &co como una <pelo [*]> [/] pero no está .
+%mor:	conj|pero=but co|mira=look pro:per|yo=I v|tene-1S&PRES=have det:art|un-FEM=one 
+	adv|como=like det:art|un-FEM=one conj|pero=but adv|no=no v|esta-3S&PRES=be 
+	. 
+*INV:	no está ?
+%mor:	adv|no=no v|esta-3S&PRES=be ? 
+*IZA:	no .
+%mor:	adv|no=no . 
+*IZA:	está en la clase pero no la 0 [*] cuca(d)o [*] .
+%mor:	v|esta-3S&PRES=be prep|en=in det:art|el&FEM&SG=the n|clase&fem=rank conj|pero=but 
+	adv|no=no det:art|el&FEM&SG=the part|cuca-PPART&MASC=emerge_cocoon . 
+*CHI:	en mi casa hay un barco como éste .
+%mor:	prep|en=in det:pos|mi=my n|casa&fem=house v|habe-3S&PRES&SPEC=have det:art|un&masc=one 
+	n|barco-MASC=boat adv|como=like pro:dem|éste=this_one . 
+*INV:	sí y quién más tiene el barco en tu casa ?
+%mor:	adv|sí=yes coord|y=and pro:int|quién=who adv|más=more v|tene-3S&PRES=have 
+	det:art|el&MASC&SG=the n|barco-MASC=boat prep|en=in det:pos|tu=your n|casa&fem=house 
+	? 
+*CHI:	mi mamá .
+%mor:	det:pos|mi=my n|mamá&fem=mommy . 
+*INV:	ah (.) tu mamá .
+%mor:	co|ah det:pos|tu=your n|mamá&fem=mommy . 
+*CHI:	un barco pequeñito como éste tiene .
+%mor:	det:art|un&masc=one n|barco-MASC=boat adj|pequeño-DIM-MASC=small adv|como=like 
+	pro:dem|éste=this_one v|tene-3S&PRES=have . 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	éste es pequeñito (.) éste barco ?
+%mor:	pro:dem|éste=this_one v|se-3S&PRES=be adj|pequeño-DIM-MASC=small pro:dem|éste=this_one 
+	n|barco-MASC=boat ? 
+*CHI:	sí (.) pero un poco g(r)ande [*] es .
+%mor:	co|sí=yes conj|pero=but det:art|un&masc=one adv|poco=few adj|grande=big 
+	v|se-3S&PRES=be . 
+*INV:	es un poco grande ?
+%mor:	v|se-3S&PRES=be det:art|un&masc=one adv|poco=few adj|grande=big ? 
+*INV:	le ayudas tú ?
+%mor:	pro:per|le=him n|ayuda&fem-PL=help pro:per|tú=you ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	que te ayude Marta a poner la vela .
+%mor:	prep|que=than pro:per|te=you v|ayuda-13S&SUB&PRES=help n:prop|Marta prep|a=to 
+	v|pone-INF=put det:art|el&FEM&SG=the n|vela&fem=candle . 
+*CHI:	te ayudo yo ?
+%mor:	pro:per|te=you v|ayuda-1S&PRES=help pro:per|yo=I ? 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*CHI:	esto dónde va ?
+%mor:	det:dem|este-MASC=this pro:int|dónde=where v|i-3S&PRES=go ? 
+*INV:	ahí dónde lo estaba poniendo Izaskun .
+%mor:	adv|ahí=there pro:int|dónde=where pro:per:1|lo&masc=him v|esta-13S&PAS=be 
+	v|pone-PROG=put n:prop|Izaskun . 
+*CHI:	aquí ?
+%mor:	adv|aquí=here ? 
+*INV:	sí .
+%mor:	co|sí=yes . 
+*CHI:	yo no puedo .
+%mor:	pro:per|yo=I adv|no=no v|pode-1S&PRES=can . 
+*INV:	un poquito más fuerte .
+%mor:	det:art|un&masc=one pro:indef|poquito=little adv|más=more adj|fuerte=strong 
+	. 
+*INV:	a_ver (.) entre las dos .
+%mor:	co|a_ver=see prep|entre=between det:art|el&FEM-PL=the det:num|dos=two 
+	. 
+*IZA:	a_ver (.) espera .
+%mor:	co|a_ver=see v|espera-3S&PRES=wait . 
+*IZA:	cuando le tiras de aquí se puede .
+%mor:	conj|cuando=when pro:per|le=him v|tira-2S&PRES=throw prep|de=of adv|aquí=here 
+	pro:per|se=itself v|pode-3S&PRES=can . 
+*IZA:	ahora torcida .
+%mor:	adv|ahora=now part|torce-PPART&FEM=twist . 
+*CHI:	ahí no es .
+%mor:	adv|ahí=there adv|no=no v|se-3S&PRES=be . 
+*INV:	un poco <más arriba> [/] más arriba ahí .
+%mor:	det:art|un&masc=one adv|poco=few adv|más=more adv|arriba=above adv|ahí=there 
+	. 
+*CHI:	yo tenía catarro cuando era pequeñita .
+%mor:	pro:per|yo=I v|tene-13S&PAS=have n|catarro&masc=catarrh conj|cuando=when 
+	v|se-13S&PAS=be adj|pequeño-DIM-FEM=small . 
+*INV:	sí (.) pero te curaste (.) verdad ?
+%mor:	co|sí=yes conj|pero=but pro:per|te=you v|cura-2S&PRET=cure co|verdad=right 
+	? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	sí .
+%mor:	co|sí=yes . 
+*IZA:	yo también ?
+%mor:	pro:per|yo=I adv|también=also ? 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	tu también tuviste ?
+%mor:	det:pos|tu=your adv|también=also v|tene-2S&PRET=have ? 
+*IZA:	y me mordía las uñas .
+%mor:	coord|y=and pro:per|me=me v|morde-13S&PAS=bite det:art|el&FEM-PL=the n|uña&fem-PL=tallon 
+	. 
+*CHI:	mi hermano se muerde las uñas .
+%mor:	det:pos|mi=my n|hermano-MASC=sibling pro:per|se=itself v|morde-3S&PRES=bite 
+	det:art|el&FEM-PL=the n|uña&fem-PL=tallon . 
+*INV:	se muerde las uñas ?
+%mor:	pro:per|se=itself v|morde-3S&PRES=bite det:art|el&FEM-PL=the n|uña&fem-PL=tallon 
+	? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	esto para qué es ?
+%mor:	det:dem|este-MASC=this prep|para=for pro:int|qué=what v|se-3S&PRES=be 
+	? 
+*INV:	el qué ?
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ? 
+*IZA:	esto .
+%mor:	det:dem|este-MASC=this . 
+*INV:	qué es esto ?
+%mor:	pro:int|qué=what v|se-3S&PRES=be det:dem|este-MASC=this ? 
+*IZA:	esto .
+%mor:	det:dem|este-MASC=this . 
+*INV:	el dibujo para que veas como se coloca el barco .
+%mor:	det:art|el&MASC&SG=the n|dibujo&masc=design prep|para=for prep|que=than 
+	v|ve-2S&SUB&PRES=see adv|como=like pro:per|se=itself v|coloca-3S&PRES=place 
+	det:art|el&MASC&SG=the n|barco-MASC=boat . 
+*CHI:	Izaskun .
+%mor:	n:prop|Izaskun . 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*CHI:	es así .
+%mor:	v|se-3S&PRES=be adv|así=thus . 
+*IZA:	el agua .
+%mor:	det:art|el&MASC&SG=the n|agua&fem=water . 
+*CHI:	hoy me he t(r)aído [*] esta camiseta de manga larga [*] po(r)que [*] hoy es verano .
+%mor:	adv|hoy=today pro:per|me=me co|he part|trae-PPART&MASC=carry det:dem|este-FEM=this 
+	n|camisa-DIM-FEM=shirt prep|de=of n|manga&fem=sleeve adj|largo-FEM=long 
+	conj|porque=because adv|hoy=today v|se-3S&PRES=be n|verano&masc=summer 
+	. 
+*INV:	claro (.) de manga corta la has traído (.) verdad que sí ?
+%mor:	co|claro=obvious prep|de=of n|manga&fem=sleeve adj|corto-FEM=short pro:per|la&fem=she 
+	v|habe-2S&PRES=have part|trae-PPART&MASC=carry n|verdad&fem=truth prep|que=than 
+	co|sí=yes ? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*CHI:	hoy me ha puesto mamá ésta .
+%mor:	adv|hoy=today pro:per|me=me co|ha part|pone-PPART-MASC=put n|mamá&fem=mommy 
+	pro:dem|éste-FEM=this_one . 
+*IZA:	pero si esto no (.) sin esto .
+%mor:	conj|pero=but conj|si=if det:dem|este-MASC=this adv|no=no prep|sin=without 
+	det:dem|este-MASC=this . 
+*INV:	claro (.) si tú te quitas el jersey también te quedas en manga corta .
+%mor:	co|claro=obvious conj|si=if pro:per|tú=you pro:per|te=you v|quita-2S&PRES=remove 
+	det:art|el&MASC&SG=the n|jersey&masc=shirt adv|también=also pro:per|te=you 
+	v|queda-2S&PRES=stay prep|en=in n|manga&fem=sleeve adj|corto-FEM=short 
+	. 
+*IZA:	sí (.) <po(r)que [*] si no tengo manga co(r)ta [*]> [//] si no tengo manga co(r)ta [*] .
+%mor:	co|sí=yes conj|si=if adv|no=no v|tene-1S&PRES=have n|manga&fem=sleeve 
+	adj|corto-FEM=short . 
+*CHI:	es que cuando hase [: hace] [*] f(r)ío [*] me pone <ot(r)a [*]> [/] <ot(r)a [*]> [/] <ot(r)a [*]> [/] ot(r)a [*] camiseta .
+%mor:	v|se-3S&PRES=be prep|que=than conj|cuando=when v|hace-3S&PRES=do n|frío&masc=cold 
+	pro:per|me=me v|pone-3S&PRES=put det:indef|otro-FEM=other n|camisa-DIM-FEM=shirt 
+	. 
+*INV:	claro (.) pero hoy no hace frío .
+%mor:	co|claro=obvious conj|pero=but adv|hoy=today adv|no=no v|hace-3S&PRES=do 
+	n|frío&masc=cold . 
+*CHI:	no .
+%mor:	adv|no=no . 
+*CHI:	hoy no .
+%mor:	adv|hoy=today adv|no=no . 
+*CHI:	un poco frío pero hoy me ha puesto jersey y [/] y ab(r)igo [*] .
+%mor:	det:art|un&masc=one pro:indef|poco=little n|frío&masc=cold conj|pero=but 
+	adv|hoy=today pro:per|me=me co|ha part|pone-PPART-MASC=put n|jersey&masc=shirt 
+	coord|y=and n|abrigo&masc=overcoat . 
+*INV:	yo veo dos piratas que se están ahogando (.) en el agua .
+%mor:	pro:per|yo=I v|ve-1S&PRES=see det:num|dos=two n|pirata&masc-PL=pirate 
+	prep|que=than pro:per|se=itself v|esta-3P&PRES=be v|ahoga-PROG=drown prep|en=in 
+	det:art|el&MASC&SG=the n|agua&fem=water . 
+*CHI:	a_ver .
+%mor:	co|a_ver=see . 
+*INV:	que les salva Marta .
+%mor:	prep|que=than pro:per|le-PL=them v|salva-3S&PRES=save n:prop|Marta . 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	que les salva Marta .
+%mor:	prep|que=than pro:per|le-PL=them v|salva-3S&PRES=save n:prop|Marta . 
+*IZA:	qué ?
+%mor:	pro:int|qué=what ? 
+*INV:	que Marta les ha salvado del agua (.) a que sí ?
+%mor:	prep|que=than n:prop|Marta pro:per|le-PL=them co|ha part|salva-PPART&MASC=save 
+	prep|de~det|el&MASC n|agua&fem=water prep|a=to prep|que=than co|sí=yes 
+	? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	a_ver .
+%mor:	co|a_ver=see . 
+*INV:	qué ves a_ver ?
+%mor:	pro:int|qué=what co|ves=see co|a_ver=see ? 
+*IZA:	po(r) [*] qué se ahogaban ?
+%mor:	prep|por=for pro:int|qué=what pro:per|se=itself v|ahoga-3P&PAS=drown 
+	? 
+*IZA:	po(r) [*] qué has dicho que se ahogaban éstos ?
+%mor:	prep|por=for pro:int|qué=what v|habe-2S&PRES=have part|deci-PPART-MASC=say 
+	prep|que=than pro:per|se=itself v|ahoga-3P&PAS=drown pro:dem|éste-MASC-PL=this_one 
+	? 
+*INV:	porque si no están encima del barco están en el agua y si están en el agua y no saben nadar pues se ahogan .
+%mor:	conj|porque=because conj|si=if adv|no=no v|esta-3P&PRES=be adv|encima=on_top 
+	prep|de~det|el&MASC n|barco-MASC=boat v|esta-3P&PRES=be prep|en=in det:art|el&MASC&SG=the 
+	n|agua&fem=water coord|y=and conj|si=if v|esta-3P&PRES=be prep|en=in det:art|el&MASC&SG=the 
+	n|agua&fem=water coord|y=and adv|no=no v|sabe-3P&PRES=know v|nada-INF=swim 
+	co|pues=well pro:per|se=itself v|ahoga-3P&PRES=drown . 
+*IZA:	si no saben nadar .
+%mor:	conj|si=if adv|no=no v|sabe-3P&PRES=know v|nada-INF=swim . 
+*CHI:	pero si se cae éste al agua se ahoga .
+%mor:	conj|pero=but conj|si=if pro:per|se=itself v|cae-3S&PRES=fall pro:dem|éste=this_one 
+	prep|a~det|el&MASC n|agua&fem=water pro:per|se=itself v|ahoga-3S&PRES=drown 
+	. 
+*CHI:	yo [/] yo [/-] y me van a comp(r)ar [*] a mi una [//] unas gafas pa(ra) que no me entre agua a los ojos .
+%mor:	coord|y=and pro:per|me=me v|i-3P&PRES=go prep|a=to v|compra-INF=buy prep|a=to 
+	det:pos|mi=my det:art|un-FEM-PL=one n|gafas&fem=hooks prep|para=for prep|que=than 
+	adv|no=no pro:per|me=me prep|entre=between n|agua&fem=water prep|a=to det:art|el&MASC-PL=the 
+	n|ojo&masc-PL=eye . 
+*INV:	porque pica mucho (.) verdad ?
+%mor:	conj|porque=because v|pica-3S&PRES=prick adv|mucho=much co|verdad=right 
+	? 
+*CHI:	sí .
+%mor:	co|sí=yes . 
+*IZA:	y a ti ?
+%mor:	coord|y=and prep|a=to pro:per|ti=you ? 
+*INV:	a mi también y a ti ?
+%mor:	prep|a=to det:pos|mi=my adv|también=also coord|y=and prep|a=to pro:per|ti=you 
+	? 
+*IZA:	pero yo te voy a comp(r)ar [*] unas gafas .
+%mor:	conj|pero=but pro:per|yo=I pro:per|te=you v|i-1S&PRES=go prep|a=to v|compra-INF=buy 
+	det:art|un-FEM-PL=one n|gafas&fem=hooks . 
+*CHI:	y mi hermano Javi tiene un golo@n [*] pa(ra) la pistina [: piscina] [*] .
+%mor:	coord|y=and det:pos|mi=my n|hermano-MASC=sibling n:prop|Javi v|tene-3S&PRES=have 
+	det:art|un&masc=one neo|golo prep|para=for det:art|el&FEM&SG=the n|piscina&fem=swiming_pool 
+	. 
+*INV:	sí ?
+%mor:	co|sí=yes ? 
+*INV:	claro para no mojarse el pelo .
+%mor:	co|claro=obvious prep|para=for adv|no=no v|moja-INF~pro:clit|3S&REFL det:art|el&MASC&SG=the 
+	n|pelo&masc=hair . 
+*IZA:	<pero yo tengo un golo@n [*] pa(ra) la cabesa [: cabeza] [*]> [<] .
+%mor:	conj|pero=but pro:per|yo=I v|tene-1S&PRES=have det:art|un&masc=one neo|golo 
+	prep|para=for det:art|el&FEM&SG=the n|cabeza&fem=head . 
+*CHI:	<pero no pa(ra) que no se moje> [>] y me van a comp(r)ar [*] a mi un [/] un [/] un [/] un golo@n [*] de pequeñita .
+%mor:	conj|pero=but adv|no=no prep|para=for prep|que=than adv|no=no pro:per|se=itself 
+	v|moja-13S&SUB&PRES=moisten coord|y=and pro:per|me=me v|i-3P&PRES=go prep|a=to 
+	v|compra-INF=buy prep|a=to det:pos|mi=my det:art|un&masc=one neo|golo prep|de=of 
+	adj|pequeño-DIM-FEM=small . 
+*CHI:	me van a comp(r)ar [*] eso .
+%mor:	pro:per|me=me v|i-3P&PRES=go prep|a=to v|compra-INF=buy pro:dem|eso=that_one 
+	. 
+*INV:	también ?
+%mor:	adv|también=also ? 
+*INV:	que suerte (.) como tu hermano .
+%mor:	prep|que=than n|suerte&fem=luck adv|como=like det:pos|tu=your n|hermano-MASC=sibling 
+	. 
+*CHI:	igual no me cabe .
+%mor:	co|igual=equal adv|no=no pro:per|me=me v|cabe-3S&PRES=fit . 
+@End

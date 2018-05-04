@@ -1,0 +1,428 @@
+@UTF8
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , FAT Padre Father
+@ID:	spa , eng|OreaPine|CHI|2;2.04|male|||Target_Child|||
+@ID:	spa , eng|OreaPine|FAT|||||Father|||
+@Transcriber:	Javier , University of Nottingham
+@Date:	10-OCT-2001
+@Location:	Madrid
+@Situation:	1
+@Time Start:	19:00
+*FAT:	&=q a ver , Juan ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q qué vas a hacer ?
+*CHI:	< cocear [: cocinar] la to(r)tilla > [/] cocear [: cocinar] la to(r)tilla .
+%err:	$VALIDROOT
+*FAT:	&=q vas a cocinar tortilla ?
+*CHI:	sí .
+*FAT:	&=q pero para quién es esa tortilla , Juan ?
+*CHI:	< para el > [/] para el oso .
+*FAT:	&=q es para el oso ?
+*FAT:	&=q no era para el elefante ?
+*CHI:	sí es para el (ele)fante .
+*CHI:	toma , e(le)fante .
+*FAT:	&=q pero quién se la va a dar al elefante ?
+%sit:	hay un muñeco con forma de elefante sentado en la silla de comer de Juan , y un oso de peluche encima de la bandeja
+*CHI:	xxx .
+*FAT:	&=q quién se la va a dar ?
+*FAT:	&=q eh@i ?
+*FAT:	al elefante .
+*FAT:	Wilbur .
+*FAT:	el elefante es Wilbur .
+*FAT:	se la va a dar el Oso_Perezoso o se la va a dar Juan .
+*CHI:	0 [*] la da Juan .
+%err:	0 = se $MOR $LOS $PREFIX
+*FAT:	bueno .
+*FAT:	pues sienta a Juan Oso contigo .
+*FAT:	los dos juntos le dáis .
+*CHI:	0 .
+%act:	quita al oso de la bandeja
+*FAT:	&=q le hace falta un tenedor ?
+*CHI:	sí .
+*FAT:	&=q te hace falta un tenedor ?
+*FAT:	&=q sí ?
+*CHI:	para el (ele)fante .
+*FAT:	para el elefante .
+*FAT:	< a ver > [/] a ver .
+*CHI:	para el fefante [: elefante] .
+*CHI:	xxx .
+*FAT:	toma .
+*FAT:	&=q le vas a dar la tortilla con el tenedor (.) al elefante ?
+*FAT:	&=q eh@i ?
+*CHI:	&=q la to(r)tilla ?
+*FAT:	la tiene Wilbur .
+*FAT:	mira a ver .
+*FAT:	deberías sentar te en la silla .
+*FAT:	como hace Papá .
+*CHI:	co(mo) hace Papá . [+ IMI]
+%act:	se sube a una silla de la cocina
+*CHI:	toma .
+%act:	hace como si le diera de comer al elefante
+*FAT:	&=q quitamos esto y a lo mejor es más cómodo ?
+%act:	aparta la bandeja de la sillita
+*FAT:	&=q sí ?
+*FAT:	así .
+*FAT:	y ahora la tortilla está aquí .
+%act:	indica una especie de tapadera de plástico que había cogido antes Juan para hacer como si fuera la tortilla
+*CHI:	0 [*] tortilla está aquí . [+ IMI]
+*FAT:	&=q le gusta la tortilla a Wilbur ?
+*CHI:	sí .
+*FAT:	&=q sí le gusta ?
+*CHI:	sí le gusta . [+ IMI]
+*CHI:	primero Juan .
+*FAT:	te vas a caer .
+*CHI:	luego xxx . [+ NON]
+*CHI:	se va a caer .
+*CHI:	toma .
+%act:	hace como si le diera de comer al elefante
+*CHI:	a ti .
+*CHI:	toma .
+*CHI:	xxx .
+*CHI:	< quiero comer > [/] yo quiero comer .
+*FAT:	&=q Juan también quiere comer ?
+*FAT:	&=q o es Wilbur el que quiere comer ?
+*FAT:	&=q es Juan el que quiere comer ?
+*CHI:	yo también quiere [*] comer .
+%err:	quiere = quiero $MOR $SUB $NFL 3s/1s:YO
+%com:	GEM
+*FAT:	&=q tú también quieres comer ? [+ COR]
+*CHI:	sí .
+*FAT:	pero bueno .
+*FAT:	pues venga .
+*CHI:	0 [*] dos juntos .
+%err:	0 = los $SYN $LOS
+*FAT:	&=q los dos juntos ?
+*CHI:	echa (l)a pelota .
+*CHI:	echa .
+*CHI:	&=q la pelota < que parece que parece > [/] que parece de f(r)resa ?
+*FAT:	&=q qué parece ?
+*CHI:	u(n)a pelota .
+*FAT:	&=q una pelota ?
+*FAT:	pero si es una tortilla .
+*CHI:	no , pelota .
+*FAT:	&=q es una pelota ?
+*CHI:	sí .
+*FAT:	&=q y qué juegas ?
+*FAT:	&=q con el oso a la pelota ?
+*CHI:	con el oso a 0 [*] pelota . [+ IMI]
+%err:	0 = la $SYN $LOS
+*FAT:	&=q ah@i , sí ?
+*CHI:	te pincho yo .
+%act:	ahora está sentado en el suelo con el oso de peluche y un tenedor
+*FAT:	&=q le pinchas con el tenedor ?
+*FAT:	ten cuidado .
+*FAT:	oye .
+*FAT:	a ver si le vas a hacer una pupa como la que tienes tú .
+*CHI:	no .
+*FAT:	&=q a ver qué pupa tienes ?
+*CHI:	0 .
+%act:	se señala la mano
+*FAT:	&=q y dónde te la has hecho ?
+*CHI:	en (l)a hierba .
+*FAT:	&=q en la hierba ? [+ COR]
+*FAT:	&=q en la guardería ?
+*FAT:	&=q jugando hoy en la guardería ?
+*CHI:	0 [*] 0 [*] hecho pupa el oso .
+%err:	0 = se $MOR $LOS $PREFIX ; 0 = ha $SYN $LOS $AUXH
+*FAT:	&=q se ha hecho pupa el oso también ?
+*CHI:	sí .
+*FAT:	pobre oso .
+*FAT:	&=q y es muy grave o es pequeñita la pupa ?
+*CHI:	0 [*] pequeñita (l)a pupa . [+ IMI]
+%err:	0 = es $SYN $LOS
+*FAT:	ah@i .
+*FAT:	es pequeñita . [+ COR]
+*FAT:	bueno .
+*FAT:	porque si fuera muy grande habría que pinchar le .
+*CHI:	no hay que pinchar le .
+%err:	0 = hay $SYN $LOS
+*FAT:	no hay que pinchar le . [+ ADS]
+*FAT:	qué suerte tiene .
+*FAT:	&=q eh@i ?
+*CHI:	< yo tam@x > [/] yo también .
+*CHI:	ahí [*] mira .
+%err:	OVS = VOS $SYN $SUB
+%act:	muestra el pulgar levantado
+*FAT:	&=q te has hecho otra pupa ahora ?
+*CHI:	0 [*] 0 [*] 0 [*] daño .
+%err:	0 = me $MOR $LOS $PREFIX ; 0 = he $SYN $LOS $AUX ; 0 = hecho $SYN $LOS
+*FAT:	vaya , hombre .
+*CHI:	con el tenedor .
+*FAT:	oye .
+*FAT:	&=q y qué pasa ?
+*FAT:	&=q que te has hecho daño con el tenedor ?
+*FAT:	pero bueno .
+*FAT:	&=q qué se ha creído ese tenedor ?
+*FAT:	&=q qué hacemos con el tenedor ?
+*CHI:	guardar lo .
+%err:	$VALIDROOT
+*FAT:	&=q lo guardamos ?
+*FAT:	venga .
+*FAT:	déjalo en el lavadero .
+*CHI:	lavadero . [+ IMI]
+*FAT:	&=q dónde está el lavadero ?
+*CHI:	ahí .
+*FAT:	&=q dónde friega Papá los platos ?
+*FAT:	no [x 8] .
+*FAT:	&=q dónde friega Papá los platos ?
+*CHI:	ahí .
+%act:	lo deja en la pila
+*FAT:	pues eso es .
+*FAT:	muy bien .
+*CHI:	se acabó .
+*FAT:	&=q se acabó ? [+ ADS]
+*FAT:	&=q y ahora preprara Papá la cena para que cene Juan ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q prepara Papá la cena ?
+@Situation:	1
+@Time Start:	19:00
+*CHI:	no se toca xxx . [+ NON]
+*CHI:	el señor .
+*CHI:	el señor .
+*CHI:	ahí no 0 [*] toca .
+*CHI:	xxx .
+*CHI:	el oso cena ya .
+*CHI:	0 [*] cenar [*] ya el oso .
+%err:	0 = a $SYN $LOS ; cenar = cena $MOR $ADD $ROOT
+*FAT:	&=q el oso va a cenar ya ?
+*CHI:	el oso .
+*FAT:	&=q quién le va a dar de cenar ?
+*CHI:	defante [: elefante] .
+*FAT:	&=q el elefante le da ?
+*FAT:	qué bien .
+*FAT:	qué suerte tiene .
+*FAT:	&=q no ?
+*CHI:	tiene hamb(r)e el oso .
+*CHI:	tiene hamb(r)e .
+*FAT:	&=q tiene hambre ?
+*FAT:	&=q y Juan también tiene hambre ?
+*CHI:	y yo .
+*FAT:	&=q tú también ?
+*CHI:	yo tamb(i)én .
+*FAT:	vete allí .
+*FAT:	corre .
+*FAT:	ayúda le al elefante a dar de comer .
+*FAT:	que no sé si sabe .
+*FAT:	corre .
+*FAT:	Papá necesita una sartén para hacer < la comi@x > [//] la cena de Juan .
+%act:	separa las sillas en las que está ajugando Juan de la cocina (los fuegos)
+*CHI:	xxx .
+*FAT:	a ver esa sartén que necesito .
+*CHI:	mira .
+%act:	está sentado otra vez frente a los muñecos
+*CHI:	da de comer al elefante .
+*FAT:	así .
+%act:	después de acercar la cámara a Juan
+*FAT:	&=q esta sartén te parece bien (.) para hacer la cena ?
+*FAT:	&=q sí ?
+*FAT:	ya verás qué cena más rica va a hacer Papá .
+*FAT:	pescado y tortilla .
+*FAT:	qué bien , &=q eh@i ?
+*CHI:	pescado y tortilla 0 [*] gu(s)ta [*] .
+%err:	0 = me $MOR $LOS $PREFIX ; gusta = gustan $MOR $LOS $NFL 3s/3p:NPyNP
+*CHI:	que tiene espinas .
+*CHI:	cuidado .
+*FAT:	&=q tiene espinas el pescado ?
+*FAT:	&=q eh@i ?
+*FAT:	&=q tiene espinas ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	&=q y la tortilla ?
+*CHI:	< torti@x la tortilla > [/] la tortilla es que está buena .
+*FAT:	&=q la tortilla tiene espinas también ?
+*CHI:	no .
+*FAT:	&=q la tortilla no ?
+*FAT:	venga .
+*FAT:	anda .
+*FAT:	vete para allá .
+*FAT:	que voy a cocinar .
+*CHI:	xxx .
+*FAT:	hay que tener cuidado con el cable .
+*FAT:	sí .
+*CHI:	0 .
+%act:	se engancha con el cable de la cámara y esta está a punto de caerse
+*FAT:	&=e ah@i !
+*FAT:	que hay que tener cuidado con el cable ha dicho Papá .
+*FAT:	que se rompe .
+*FAT:	vale .
+*FAT:	&=q sí ?
+*FAT:	la culpa es de Papá porque no tiene que haber ningún cable colgando .
+*FAT:	mira .
+*FAT:	&=q quieres ver a Juan ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	siéntate en la silla .
+*FAT:	aquí .
+*FAT:	siéntate aquí .
+*FAT:	y ahora vemos a Juan .
+*FAT:	< a ver > [/] a ver .
+*CHI:	vamo(s) a ver a Juan .
+*FAT:	y al oso también &=q eh@i ?
+*CHI:	y al oso también . [+ IMI]
+*CHI:	&=e ay@i !
+%act:	se le cae un muñeco de la silla
+*CHI:	se ha caído .
+*FAT:	cógelo .
+*FAT:	&=q a ver quién sale ?
+*FAT:	cuidado .
+*FAT:	a ver si te vas a caer .
+*FAT:	mira a ver quién sale .
+*CHI:	Juan .
+*FAT:	&=q y quién más ?
+*CHI:	Papá .
+*FAT:	&=q y quién más ?
+*CHI:	la yaya .
+*FAT:	no .
+*FAT:	mira .
+*FAT:	sale el elefante .
+*FAT:	sale el oso .
+*FAT:	la yaya no sale .
+*CHI:	&=q la yaya no sale ? [+ IMI]
+*FAT:	no .
+*FAT:	no sale .
+*FAT:	no .
+*FAT:	la yaya no sale .
+*FAT:	no .
+*CHI:	&=e Juan !
+*FAT:	&=q sale Juan ?
+*FAT:	&=q sí ?
+*FAT:	&=q y qué tiene Juan ?
+*CHI:	(e)l oso .
+*FAT:	el oso . [+ ADS]
+*FAT:	&=q quién es ese oso ?
+*FAT:	a ver .
+*FAT:	&=q cómo se llama ?
+*CHI:	e(s)te e(s) Elme(r) .
+*FAT:	no es Elmer .
+*FAT:	Elmer es un elefante de colores .
+*FAT:	este es el Oso +...
+*CHI:	++ Perezoso .
+*FAT:	Perezoso .
+*FAT:	&=q y el elefante cómo se llama ?
+*CHI:	Wilbur .
+*FAT:	Wilbur . [+ ADS]
+*FAT:	porque es el primo de El@x +...
+*FAT:	el primo de E@x +...
+*FAT:	El@x +...
+*CHI:	0 .
+%act:	observa a FAT pestañeando
+*FAT:	++ mer@x .
+*FAT:	Wilbur es el primo de Elmer .
+*CHI:	sí .
+*FAT:	y tú eres un pestañitas .
+*FAT:	que me das mucho aire .
+*CHI:	0 .
+%act:	pestañea y luego se coloca el oso sobre la cabeza
+*FAT:	ay@i .
+*FAT:	cuánto aire me da Juan .
+*FAT:	&=q ha cenado ya el oso ?
+*FAT:	&=q sí ?
+*FAT:	&=q ha cenado ya Wilbur ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	&=q le toca cenar a Juan ya ?
+*CHI:	sí .
+*FAT:	&=q sí ?
+*FAT:	venga , pues .
+*FAT:	vamos a hacer un poquito de pescado .
+*CHI:	ahora le toca a e(s)to .
+%act:	aparta los muñecos de la sillita de comer
+@Situation:	1 Juan juega en la cocina con dos muñecos de peluche mientras FAT prepara la cena
+@Time Start:	19:00
+@Situation:	1
+*FAT:	ahora le toca .
+*FAT:	claro .
+*FAT:	ahora le toca cenar a Juan .
+*FAT:	&=q subes tú (.) a la silla ?
+*CHI:	subo yo .
+%act:	escala para subirse a la sillita de comer
+*CHI:	xxx .
+*CHI:	abierta [?] .
+*FAT:	muy bien .
+*FAT:	&=e muy bien !
+*FAT:	< a ver > [/] a ver .
+*FAT:	oye .
+*FAT:	un día tenemos que hacer un dibujo para los Avis .
+*FAT:	&=q sí ?
+*FAT:	&=q sí ?
+*CHI:	dibujo para (l)os Avis . [+ IMI]
+*FAT:	claro .
+*FAT:	voy a quitar ya esto .
+*FAT:	&=q vale ?
+%act:	está cogiendo la cámara
+*CHI:	sí .
+%act:	luego bosteza
+*FAT:	ay@i qué sueño tiene Juan .
+*FAT:	por+favor .
+*FAT:	bueno .
+*FAT:	ya estoy preparando la cena .
+*CHI:	mío [/] mío .
+%act:	mira por la ventana
+*CHI:	es 0 [*] noche .
+%err:	0 = de $SYN $LOS
+*FAT:	es muy de noche . [+ COR]
+*CHI:	e(s) muy de noche . [+ IMI]
+*CHI:	< e(s) muy de noche > [/] e(s) muy de noche .
+*FAT:	muy de noche .
+*CHI:	muy de noche .
+%act:	le da los muñecos de peluche
+*FAT:	&=q se van a ir a dormir contigo hoy ?
+*CHI:	sí .
+%act:	se abraza a los dos muñecos
+*FAT:	&=q sí ?
+*FAT:	&=q tienen sueño ya ?
+*CHI:	sí .
+*FAT:	pregúnta les a ver si tienen sueño .
+*CHI:	&=q tienen [*] sueño ?
+%err:	tienen = tenéis $MOR $SUB $NFL 3p/2p
+%com:	GEM
+%add:	a los muñecos
+%act:	les pregunta a los muñecos y se queda esperando a ver qué dicen
+*FAT:	&=q qué dicen ?
+*CHI:	xxx .
+*FAT:	&=q sí ?
+*CHI:	sí .
+*FAT:	&=q sí tienen sueño ?
+*CHI:	quiero [*] dormir .
+%err:	quiero = quieren $MOR $SUB $NFL 1s/3p
+%act:	los deja caer en el suelo
+*FAT:	&=q se van a dormir al suelo ?
+*FAT:	pobrecitos .
+*FAT:	&=q en el suelo duermen ?
+*CHI:	sí .
+*FAT:	pues cogerán frío .
+*FAT:	&=q dónde duerme Juan ?
+*CHI:	en (l)a cama .
+*FAT:	Juan duerme en la cama &=q verdad ?
+*FAT:	&=q sí ?
+*FAT:	entonces .
+*FAT:	si Juan duerme en la cama &=q por qué duermen ellos en el suelo ?
+*FAT:	cogerán frío .
+*FAT:	&=q los subimos ?
+*FAT:	&=q los tumbamos en la silla ?
+*FAT:	&=q sí ?
+*CHI:	no .
+*FAT:	&=q en esta silla los ponemos ?
+*FAT:	&=q o los ponemos contigo aquí arriba ?
+*CHI:	contigo [*] a dormir .
+%err:	contigo = conmigo $SYN $SUB
+%act:	abraza los muñecos
+*FAT:	uy@i .
+*FAT:	ya se está haciendo la cena .
+*FAT:	ya salta el pescado .
+*CHI:	uy@i qué bien .
+%act:	vuelve a tirar los muñecos al suelo
+*CHI:	no quiero el elefante 0 [*] el oso .
+%err:	0 = y $SYN $LOS
+*FAT:	&=q no quieres +..?
+*CHI:	el (ele)fante 0 [*] el oso .
+%err:	0 = y $SYN $LOS
+*FAT:	&=q no quieres +..?
+*CHI:	(ele)fante 0 [*] el oso no .
+%err:	0 = y $SYN $LOS
+*FAT:	ah@i .
+*FAT:	&=q no quieres el elefante y el oso ?
+*FAT:	pobrecitos .
+@End
